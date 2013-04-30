@@ -1,0 +1,46 @@
+﻿chat_system_676546957_actor_description	Captain Crunch. The communications officer of the Eastern Fort.
+chat_system_676546957_snap_0_answer_0	Final Push
+chat_system_676546957_snap_0_answer_1	Promising Conversation
+chat_system_676546957_snap_0_answer_10	Rage of the Necromancers
+chat_system_676546957_snap_0_answer_2	Report for the Fort Commander
+chat_system_676546957_snap_0_answer_3	Traces of Dark Magic
+chat_system_676546957_snap_0_answer_4	Traces of Dark Magic
+chat_system_676546957_snap_0_answer_5	The Necromancers' Rage
+chat_system_676546957_snap_0_answer_6	Ancient Poison
+chat_system_676546957_snap_0_answer_7	The Unsealing
+chat_system_676546957_snap_0_answer_8	New Evidence
+chat_system_676546957_snap_0_answer_9	Traces of Black Magic
+chat_system_676546957_snap_0_question	Distant Stones - the greatest discovery of the ancient alchemists. We’d be deaf and blind without them. Too bad a scout can’t carry them; they’re too bulky.
+chat_system_676546957_snap_1_answer_0	end quest dialog
+chat_system_676546957_snap_1_question	Hello man!
+chat_system_676546957_snap_10_answer_0	begin quest dialog
+chat_system_676546957_snap_10_question	Hello man!
+chat_system_676546957_snap_11_answer_0	end quest dialog
+chat_system_676546957_snap_11_question	Hello man!
+chat_system_676546957_snap_12_answer_0	begin quest dialog
+chat_system_676546957_snap_12_question	Hello man!
+chat_system_676546957_snap_13_answer_0	(away)
+chat_system_676546957_snap_13_question	Did you get the cult manifests? This could be a strong foothold for us.
+chat_system_676546957_snap_14_answer_0	end quest dialog
+chat_system_676546957_snap_14_question	end quest text
+chat_system_676546957_snap_15_answer_0	(away)
+chat_system_676546957_snap_15_question	Fight with these spawn until their vanguard is exterminated! They will need time to prepare for a new attack.
+chat_system_676546957_snap_16_answer_0	end quest dialog
+chat_system_676546957_snap_16_question	end quest text
+chat_system_676546957_snap_2_answer_0	begin quest dialog
+chat_system_676546957_snap_2_question	Hello man!
+chat_system_676546957_snap_3_answer_0	end quest dialog
+chat_system_676546957_snap_3_question	Hello man!
+chat_system_676546957_snap_4_answer_0	begin quest dialog
+chat_system_676546957_snap_4_question	Hello man!
+chat_system_676546957_snap_5_answer_0	(away)
+chat_system_676546957_snap_5_question	Have you managed to get any manifests? This could prove to be a crucial lead for us.
+chat_system_676546957_snap_6_answer_0	end quest dialog
+chat_system_676546957_snap_6_question	end quest text
+chat_system_676546957_snap_7_answer_0	begin quest dialog
+chat_system_676546957_snap_7_question	Hello man!
+chat_system_676546957_snap_8_answer_0	(away)
+chat_system_676546957_snap_8_question	Keep fighting these spawns of darkness, until you destroy their front line. They will need time to prepare the next round of attack.
+
+
+

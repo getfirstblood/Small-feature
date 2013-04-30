@@ -1,0 +1,17 @@
+﻿AcceptButton	Accept
+ApplyBytton	Apply
+CancelButton	Cancel
+CloseButton	Close
+DeclineButton	Reject
+DeleteButton	Delete
+ExperienceProgressBar	<color=FFFFFF><align=center><font=tahoma_regular_8_border_numbers_only>[?] / [?]
+LoadButton	Load
+OkButton	Ok
+SaveButton	Save
+StaminaAddButtonTooltip	Press the button to buy Stamina.
+StaminaOverloadedProgressBar	<color=00FF00><align=center><font=tahoma_regular_8_border_numbers_only>[?] <color=FFFFFF>/ [?]
+StaminaProgressBar	<color=FFFFFF><align=center><font=tahoma_regular_8_border_numbers_only>[?] / [?]
+StaminaTimeToNextIncrement	More in [?]:[?]
+
+
+

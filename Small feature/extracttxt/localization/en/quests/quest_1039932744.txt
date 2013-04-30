@@ -1,0 +1,8 @@
+﻿quest_system_1039932744_desc	You may be thinking, "Who would need a bunch of musty old manuscripts?" Well, obviously enough, they are a great treasure for a learned man. But what's in them for a beast, or for an illiterate blockhead? Would you need them? No, you wouldn't, just as I thought. Oops! I didn't mean to insult you. But this is irrelevant. The issue is that some thieving bastards keep on stealing the documents. They just grab them indiscriminately. And the spiders munch on whatever is left over. Indeed, they eat the books, just as I've said, can you imagine? A few more days and the precious works of the Order's ancient mages will be lost to the hands of the thieves or the jaws of the spiders. I can't imagine why they should steal the books – they cannot read, after all. Please chase them all away to stop this barbaric destruction of the books.
+quest_system_1039932744_done	Excellent! The thieves won’t return to the archives for a long time! And the spiders . . . Well, I’m not so sure about them. We’ll have to start a routine clean-up operation. But you, Sir, deserve my heartfelt thanks. You cannot imagine the scientific value of your effort!
+quest_system_1039932744_name	In Cloaks and Chitin
+quest_system_1039932744_stage_0	Hunt
+quest_system_1039932744_task	Destroy {counter_limit_0} Assasins and {counter_limit_1} Fiery Spiders
+
+
+

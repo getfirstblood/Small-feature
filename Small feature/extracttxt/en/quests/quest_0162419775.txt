@@ -1,0 +1,8 @@
+﻿quest_system_162419775_desc	A horrific epidemic has raged across the Northern Swamp for a while now. It's only a matter of time until it gets here. But we found a way to control the spread of this scary pestilence. We can delay the outbreak by destroying the Plague Zombies. Truth be told, these Zombies are often surrounded by packs of many other enemies. But remember – you have to focus on finding the infected zombies. You are our last hope.
+quest_system_162419775_done	I'm glad to hear that the numbers of zombies were greatly reduced. Who knows, maybe now the plague will fade away? But I don't think we can count on that. Hopefully, our medicine men will be able to come up with some kind of antidote.
+quest_system_162419775_name	Disease Carriers
+quest_system_162419775_stage_0	Hunt
+quest_system_162419775_task	Destroy {counter_limit_0} Zombies. 
+
+
+

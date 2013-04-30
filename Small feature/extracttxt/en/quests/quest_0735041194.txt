@@ -1,0 +1,8 @@
+﻿quest_system_735041194_desc	Honestly, this forest is just nice and dandy. Except for the Unicorns that stomp around all night long, keeping everybody from sleeping. And nothing is as important as a good night’s sleep; in sleep men undergo a transformation and cleanse that... what’s it called? Anyway, you don’t even have to wash – that’s what my neighborhood healer says. And cleanliness for me is the greatest of all virtues. So, there’s no doubt what we must do. Get those unicorns out of here!
+quest_system_735041194_done	Yes, yes, the Unicorns . . . What money?! Oh, yes, OK. Here, take this and scram. I need my shut-eye time.
+quest_system_735041194_name	Nocturnal Stampede
+quest_system_735041194_stage_0	Hunt
+quest_system_735041194_task	Destroy {counter_limit_0} Unicorns. 
+
+
+

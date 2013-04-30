@@ -1,0 +1,105 @@
+﻿LF_Abolo_02	[LF_L_ARENA]
+LF_Abolo_02_add1	[LF_L_ARENA]
+LF_Adarion_1_forest_4	[LF_L_ARENA]
+LF_Adarion_1_forest_4_add1	[LF_L_ARENA]
+LF_Adarion_1_forest_6	[LF_L_ARENA]
+LF_Adarion_1_forest_6_add1	[LF_L_ARENA]
+LF_Adarion1_forest2	[LF_L_ARENA]
+LF_Adarion1_forest2_add1	[LF_L_ARENA]
+LF_Aellinia_1_forest_1	[LF_L_ARENA]
+LF_Aellinia_1_forest_1_add1	[LF_L_ARENA]
+LF_Akordar_dungeon	[LF_L_ARENA]
+LF_Akordar_dungeon_add1	[LF_L_ARENA]
+LF_Beach	[LF_L_ARENA]
+LF_Beach_add1	[LF_L_ARENA]
+LF_City	[LF_L_ARENA]
+LF_City_add1	[LF_L_ARENA]
+LF_Combat	Auxiliary items
+LF_Comics_1_1	A young warrior was heading for a nearby town, when the din of battle caught his attention.
+LF_Comics_1_2	Is that all you can do, you greenheads?
+LF_Comics_1_3	Looks like you can only fight in those fetid packs!
+LF_Comics_1_4	Twelve goblins had encircled a female warrior. There was no time to waste.
+LF_Comics_2_1	Watch out! Behind you!
+LF_Comics_2_2	Take that!
+LF_Comics_2_3	A surprise, you pathetic slug?
+LF_Comics_3_1	That was the last one... But more are coming.
+LF_Comics_3_2	Take this sword as a gift. May it protect you in your travels.
+LF_Comics_3_3	This is how our hero's story began.
+LF_Comics_3_4	His path was taking him to the Knight Academy...
+LF_Creatures	Units
+LF_F_abolo_02	[LF_F_GO_TO_BATTLE]
+LF_F_abolo_02_add1	[LF_F_GO_TO_BATTLE]
+LF_F_acastle_01_siege_01	[LF_F_GO_TO_BATTLE]
+LF_F_adarion_1_forest_4	[LF_F_GO_TO_BATTLE]
+LF_F_adarion_1_forest_4_add1	[LF_F_GO_TO_BATTLE]
+LF_F_adarion_1_forest_6	[LF_F_GO_TO_BATTLE]
+LF_F_adarion_1_forest_6_add1	[LF_F_GO_TO_BATTLE]
+LF_F_adarion1_forest2	[LF_F_GO_TO_BATTLE]
+LF_F_adarion1_forest2_add1	[LF_F_GO_TO_BATTLE]
+LF_F_aellinia_1_forest_1	[LF_F_GO_TO_BATTLE]
+LF_F_aellinia_1_forest_1_add1	[LF_F_GO_TO_BATTLE]
+LF_F_akordar_dungeon	[LF_F_GO_TO_BATTLE]
+LF_F_akordar_dungeon_add1	[LF_F_GO_TO_BATTLE]
+LF_F_beach	[LF_F_GO_TO_BATTLE]
+LF_F_beach_add1	[LF_F_GO_TO_BATTLE]
+LF_F_castle	Enter the Castle
+LF_F_city	[LF_F_GO_TO_BATTLE]
+LF_F_city_add1	[LF_F_GO_TO_BATTLE]
+LF_F_GO_TO_BATTLE	Going into battle
+LF_F_island_1	Entering location
+LF_F_seaport	[LF_F_GO_TO_BATTLE]
+LF_F_seaport_add1	[LF_F_GO_TO_BATTLE]
+LF_F_startup	Connecting to server
+LF_Island_1	Location
+LF_L_ARENA	Arena
+LF_LoadingTextFirst	[$]<br><br><color=000000>[$]</color>
+LF_LoadingTextSecond	<color=000000>[$]</color>
+LF_MusicDuelOfTheWinds	battle music
+LF_MusicInTheHeartOfBattle	battle music
+LF_MusicJourney	background music
+LF_Phrase_0	Sergeants are training units. 
+LF_Phrase_1	Dryads are composing music. 
+LF_Phrase_2	Archmages are creating magical effects. 
+LF_Phrase_3	Chroniclers are writing greeting speeches for the game characters. 
+LF_Phrase_4	Dwarves are rebuilding the world's landscape. 
+LF_Phrase_5	The King's valet is making some final arrangements. 
+LF_PleaseWait	Initial loading may take some time.<br>Please wait.
+LF_PleaseWait_Android	Loading updates (about 200 MB).<br>Please wait.
+LF_Seaport	[LF_L_ARENA]
+LF_Seaport_add1	[LF_L_ARENA]
+LF_StartCreatures	Units
+LF_Textures	textures
+LF_Tip_0	Many units have Abilities that can be used in battle. Recently-used Abilities have to recharge before they become available again.
+LF_Tip_1	Warriors can deal critical hits. The probability of landing a critical hit depends on the level of the unit's ‘Critical hit’ indicator.
+LF_Tip_10	There are always people in the settlements who will be only too happy to send you on a quest, and reward you handsomely for its completion.
+LF_Tip_11	You can send out gifts to your friends daily. The contents of these gifts are always something of a surprise.
+LF_Tip_12	If one of your Licenses or Auras has run out, you can always renew it in the Royal Shop.
+LF_Tip_13	When your Stamina is exhausted, you can always restore it by buying a Vial, Vessel or Elixir of Life.
+LF_Tip_14	If you've run out of Gold, you can always stock up by buying one of the Chests from the Royal Shop.
+LF_Tip_15	A Booster Pack of random units can be purchased at the Royal Shop. The more expensive the pack, the stronger units it may contain.
+LF_Tip_16	By winning in battles against other players, you raise your rating, and can receive other valuable prizes.
+LF_Tip_17	In order to go from one Legion to another, you need to notch up a whole string of victories in Knight battles.
+LF_Tip_18	Friendly battles do not change your duel rating, but are ideal for training.
+LF_Tip_19	If you've run out of Gold, you can always stock up by buying one of the Chests from the Royal Shop.
+LF_Tip_2	In your squad's parameters, if some of the attributes are highlighted red or green, then that parameter has been reduced or increased.
+LF_Tip_20	Invite your friends to explore a dungeon together to win an especially valuable reward.
+LF_Tip_21	Whenever you receive a special reward, leave a message on your wall. By doing so, you share part of your prize with your friends.
+LF_Tip_22	All of the units you recruit are kept in the Global Reserve. You can call them into battle from any of the settlements.
+LF_Tip_23	The player's Leadership decides how many units of each class the player can bring under their command. The higher the player's Leadership, the mightier the army they can lead into battle.
+LF_Tip_24	Each unit belongs to one of the following classes: Archer, Defender, Warrior, Healer or Sorcerer. Depending on which class it belongs to, a unit can be more effective in battle against units of other classes.
+LF_Tip_25	Once you've sent your squad out on patrol, you can close the game and come back to it later.
+LF_Tip_26	When you finish patrolling, you won't be able to send your squad out on patrol again for a certain period of time.
+LF_Tip_27	By purchasing Licenses, you can increase the duration of the patrol as well as the reward you receive.
+LF_Tip_28	Complete story-line quests to gain access to new settlements.
+LF_Tip_29	Drop in on the game every day, and you shall be handsomely rewarded by the King.
+LF_Tip_3	Next to the status effect icon is a number showing the number of rounds that its effects will last for. The colour of the arrow indicates negative (red) and positive (effects).
+LF_Tip_30	When playing units of the same faction, the amount of gold and experience gained in combat is increased by 5%.
+LF_Tip_4	Some attacks can cause burn or poison damage on the target. The injured squad will take health damage with every move, until they remedy the status effect.
+LF_Tip_5	Purchase Scrolls in the settlements, or get them for completing tasks, then use them to gain the upper hand in battle.
+LF_Tip_6	You won't find some of the units on sale - they are received as rewards for completing tasks. As a rule, these units possess unique abilities.
+LF_Tip_7	Use units of the same race on the battlefield to increase your victory reward.
+LF_Tip_8	You can take up to three Special units and one Legendary unit into battle.
+LF_Tip_9	Moving between the settlements uses up a certain amount of Stamina, depending on how far apart the settlements are.
+
+
+

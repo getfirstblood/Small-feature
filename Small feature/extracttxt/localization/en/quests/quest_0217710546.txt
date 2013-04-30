@@ -1,0 +1,8 @@
+﻿quest_system_217710546_desc	A whole colony of Crossbellies has settled on the lower floors of the Library. They gobble up anyone who goes down there, so what hope does a modest bookworm like me have? My weapon is knowledge, not a sharp blade. But as long as these spiders live in the main archive cellars I can’t continue building my collection. Someone needs to deal with this colony and wipe it out.
+quest_system_217710546_done	Finally I can descend to the lower floors without risking those webs. Truth be told, they consumed a few of the heroes that tried to take care of them. But it looks like you can handle a lot.
+quest_system_217710546_name	Archive Dwellers
+quest_system_217710546_stage_0	Rout
+quest_system_217710546_task	Destroy {counter_limit_0} colonies of Crossbellies.
+
+
+

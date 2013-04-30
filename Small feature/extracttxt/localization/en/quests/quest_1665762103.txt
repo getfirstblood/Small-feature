@@ -1,0 +1,8 @@
+﻿quest_system_1665762103_desc	Alright. Your quest is simple. The Transformed Ones get their strength from working together. Break them up and my task will become easier. By myself I won’t be able to break the barrier. While I am preparing the spell, destroy some of Lazarus’ Necromancers.
+quest_system_1665762103_done	Done... Even for me, that was almost too difficult. But we did it. 
+quest_system_1665762103_name	Mopping Up the Perimeter
+quest_system_1665762103_stage_0	Hunt
+quest_system_1665762103_task	Destroy {counter_limit_0} of Lazarus’ Necromancers. 
+
+
+

@@ -1,0 +1,13 @@
+﻿chat_system_742388799_actor_description	Pithia the Oracle. A Oracle of the Order of Mages.
+chat_system_742388799_snap_0_answer_0	History is in Danger
+chat_system_742388799_snap_0_answer_1	History is in Danger
+chat_system_742388799_snap_0_question	I can feel that you are destined for greater things.
+chat_system_742388799_snap_1_answer_0	begin quest dialog
+chat_system_742388799_snap_1_question	Hello man!
+chat_system_742388799_snap_2_answer_0	(away)
+chat_system_742388799_snap_2_question	Were you able to get rid of the robbers?
+chat_system_742388799_snap_3_answer_0	end quest dialog
+chat_system_742388799_snap_3_question	end quest text
+
+
+

@@ -1,0 +1,8 @@
+﻿quest_system_452749408_desc	Please don’t think that I am paranoid. But sometimes I see... Hey, did you see that?! No, not there, there, behind that tree! I’m positive I caught a glimpse of a dark cape. I am sure that some strange persons, some suspicious vagabonds, have been roaming around the library lately. They’re not just some crooks. They are after the most valuable books. Please chase them all away as soon as possible.
+quest_system_452749408_done	Would you look at that..? You took care of them! Did they have any books on them? What a disaster... It must’ve been somebody else from the gang... Somebody else stole the books from us! At least you were able to punish some members of their gang.
+quest_system_452749408_name	Authorized Access Only!
+quest_system_452749408_stage_0	Rout
+quest_system_452749408_task	Destroy the Party of Suspicious Vagabonds.
+
+
+

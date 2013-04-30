@@ -1,0 +1,8 @@
+﻿quest_system_1540490797_desc	Our Order fought the necromancers for many years. The power of these disciples of darkness depends on their environment; they find it important to feel torrents of dark energy around them. That’s why they settled here, in the most infected part of the Island of the Order – the Lakeside Swamps. But the situation may become even worse. Necromancers created Infector Bands who contaminate these lands even further, thus helping the necromancers draw tremendous powers out of dark astral torrents. We don’t have enough strength to destroy all the infectors, and that’s why we’re offering a good reward to the one who destroys some of their bands.
+quest_system_1540490797_done	We drove the necromancers’ slaves away. But we shouldn’t stop at that. Now that we don’t have to catch the infectors we can attempt a raid deep into the swamp. Maybe we’ll catch ourselves a couple of apprentice necromancers or even a full-fledged disciple of the dark forces.
+quest_system_1540490797_name	Infected Swamp
+quest_system_1540490797_stage_0	Rout
+quest_system_1540490797_task	Destroy {counter_limit_0} squads of Infectors. 
+
+
+

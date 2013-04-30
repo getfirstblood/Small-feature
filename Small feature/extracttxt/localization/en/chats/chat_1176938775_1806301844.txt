@@ -1,0 +1,19 @@
+﻿chat_system_1806301844_actor_description	Captain Brant Notwithstanding his youth, he is an eminently experienced captain, and in charge of all the military operations on Signal Island. 
+chat_system_1806301844_snap_0_answer_0	To Signal Island!
+chat_system_1806301844_snap_0_answer_1	Infernal Traps
+chat_system_1806301844_snap_0_answer_2	Infernal Traps
+chat_system_1806301844_snap_0_answer_3	News from the Battlefields
+chat_system_1806301844_snap_0_question	Hello man!
+chat_system_1806301844_snap_1_answer_0	end quest dialog
+chat_system_1806301844_snap_1_question	Hello man!
+chat_system_1806301844_snap_2_answer_0	begin quest dialog
+chat_system_1806301844_snap_2_question	Hello man!
+chat_system_1806301844_snap_3_answer_0	(away)
+chat_system_1806301844_snap_3_question	Time is against us. We must be decisive and swift in our actions.
+chat_system_1806301844_snap_4_answer_0	end quest dialog
+chat_system_1806301844_snap_4_question	end quest text
+chat_system_1806301844_snap_5_answer_0	begin quest dialog
+chat_system_1806301844_snap_5_question	Hello man!
+
+
+

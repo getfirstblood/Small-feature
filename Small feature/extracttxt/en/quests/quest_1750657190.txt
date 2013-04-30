@@ -1,0 +1,8 @@
+﻿quest_system_1750657190_desc	Papers, papers. Where did I put the one with your assignment? It looks like it still hasn’t arrived from the Northern Bay. Alright then. For the time being, you’ll be working under Medar. Our Alchemist currently requires the assistance of a trustworthy troop of warriors. The fact that he has not filled his quota of potions and elixirs speaks for itself.
+quest_system_1750657190_done	Bah! I asked for an assistant, an as-sis-tant! I mean if not an alchemist, at least someone who would understand something about herbs! And who do I get? Another youngling. One of these days I’ll get back at that quartermaster. Mark my word.
+quest_system_1750657190_name	Waiting For an Assignment
+quest_system_1750657190_stage_0	Speak with the Alchemist
+quest_system_1750657190_task	Help Medar the Alchemist.
+
+
+

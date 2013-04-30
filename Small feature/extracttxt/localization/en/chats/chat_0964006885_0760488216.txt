@@ -1,0 +1,40 @@
+﻿chat_system_760488216_actor_description	Barns the Quartermaster Housing Services Manager
+chat_system_760488216_snap_0_answer_0	Assignment
+chat_system_760488216_snap_0_answer_1	Waiting for the Big Event
+chat_system_760488216_snap_0_answer_10	To garrison service
+chat_system_760488216_snap_0_answer_2	And it started so well...
+chat_system_760488216_snap_0_answer_3	Very Important Secret Assignment
+chat_system_760488216_snap_0_answer_4	To the Garrison of the Order
+chat_system_760488216_snap_0_answer_5	A Good Start
+chat_system_760488216_snap_0_answer_6	Special Assignment
+chat_system_760488216_snap_0_answer_7	Tactical Maneuvers
+chat_system_760488216_snap_0_answer_8	Tactical Maneuvers
+chat_system_760488216_snap_0_answer_9	Waiting For an Assignment
+chat_system_760488216_snap_0_question	Hmm.. The caravans of salted pork have arrived. Ropes and lumber are being delivered to the Port now... But there have been no supply carts from the Hunters’ Camp for quite a while... Are you here to see me?
+chat_system_760488216_snap_1_answer_0	end quest dialog
+chat_system_760488216_snap_1_question	Hello man!
+chat_system_760488216_snap_10_answer_0	(away)
+chat_system_760488216_snap_10_question	Archers cannot withstand attacks from swift warriors. I think you will be able to beat them quite easily, if you put your army together correctly.
+chat_system_760488216_snap_11_answer_0	end quest dialog
+chat_system_760488216_snap_11_question	end quest text
+chat_system_760488216_snap_12_answer_0	end quest dialog
+chat_system_760488216_snap_12_question	Hello man!
+chat_system_760488216_snap_2_answer_0	begin quest dialog
+chat_system_760488216_snap_2_question	Hello man!
+chat_system_760488216_snap_3_answer_0	end quest dialog
+chat_system_760488216_snap_3_question	Hello man!
+chat_system_760488216_snap_4_answer_0	begin quest dialog
+chat_system_760488216_snap_4_question	Hello man!
+chat_system_760488216_snap_5_answer_0	end quest dialog
+chat_system_760488216_snap_5_question	Hello man!
+chat_system_760488216_snap_6_answer_0	end quest dialog
+chat_system_760488216_snap_6_question	Hello man!
+chat_system_760488216_snap_7_answer_0	begin quest dialog
+chat_system_760488216_snap_7_question	Hello man!
+chat_system_760488216_snap_8_answer_0	begin quest dialog
+chat_system_760488216_snap_8_question	Hello man!
+chat_system_760488216_snap_9_answer_0	begin quest dialog
+chat_system_760488216_snap_9_question	Hello man!
+
+
+

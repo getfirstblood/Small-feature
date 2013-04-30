@@ -1,0 +1,71 @@
+﻿IF_BuyAuras	<font=tahoma_bold_10_border_smooth><align=center><color=FFFFFF>Buy Auras
+IF_FormCaptionFont	<align=center><valign=center><font=tahoma_bold_12_border_smooth>
+IF_NoAuras	<font=tahoma_bold_10><align=center><color=652300>No active auras
+IF_TabName_Equipment	<image=textures/interface/inventory/ic_equipment><br>Equipment
+IF_TabName_Items	<image=textures/interface/inventory/ic_items><br>Items
+IF_TabName_Resources	<image=textures/interface/inventory/ic_resources><br>Resources
+IF_TabToolTip_Equipment	[WS_TooltipDescriptionFont]Weapons and equipment for your legionary.
+IF_TabToolTip_Items	[WS_TooltipDescriptionFont]Elixirs, licenses, auras, and other usable items.
+IF_TabToolTip_Resources	[WS_TooltipDescriptionFont]All of the resources needed to create new items.
+InventoryEqAbs	[?]
+InventoryEqNegativeParam	<color=ff0000>-[$]</color>
+InventoryEqNegativeParamDesc	<color=541e00><color=ff0000>-[$]</color>
+InventoryEqPercent	[?]%
+InventoryEqPositiveParam	<color=05c200>+[$]</color>
+InventoryEqPositiveParamDesc	<color=541e00><color=014609>+[$]</color>
+InventoryForm_AchievmentCount	<font=tahoma_regular_8_border_numbers_only><align=center>[?] / [?]
+InventoryForm_Achievments	<font=tahoma_bold_10><align=center><color=652300>Achievements
+InventoryForm_AchievmentToolTip	Total achievement progress. <br>Complete quests, gain new units and battle other players in PvP mode to unlock new achievements. 
+InventoryForm_AuraDesc	<font=tahoma_bold_10><align=center><valign=center><color=652300>[?]
+InventoryForm_Auras	<font=tahoma_bold_10><align=center><color=652300>Auras
+InventoryForm_Caption	[IF_FormCaptionFont][FormTitleColor]Inventory
+InventoryForm_ConfirmSellItem	By selling <font=tahoma_bold_11><color=6B2E00>[?]</font>, you will get <font=tahoma_bold_11_numbers_only>[?]</font><image=[$]>.<br><br>Are you sure you want to sell this item?
+InventoryForm_ConfirmSellItemFormName	Equipment Sale
+InventoryForm_ConfirmUseContainer	Would you like to activate the set? <br>[$]
+InventoryForm_ConfirmUseItem	Do you really want to use this Inventory item?
+InventoryForm_Crystal	<font=tahoma_bold_10><align=center><color=652300>[?]
+InventoryForm_EquipmentDesc	<font=tahoma_bold_8><align=left><color=541e00>[$]</color>
+InventoryForm_EquipmentTooltip	<valign=top><color=f4ef72><font=tahoma_bold_10><align=center>[$]<br=2><image=textures/interface/common/breaker_260x1><br><color=fbefb0><font=tahoma_regular_8><align=left>[$]
+InventoryForm_ExpProgress	<font=tahoma_regular_8_border_numbers_only><align=center>[?] / [?]
+InventoryForm_GotNewLicense	Oh, it will certainly be of service to you! Would you like to use it right now?
+InventoryForm_ImpactItemAlreadyActivated	<br><font=tahoma_regular_10><align=left><color=FFCC00>You already have this effect.<br>
+InventoryForm_ImpactItemDuration	<br><font=tahoma_bold_10><align=center><color=00DD00>Duration: [?].
+InventoryForm_ItemNameDesc	<valign=center><align=center><color=632300><font=tahoma_bold_10>[$]
+InventoryForm_ItemsInSlotCount	<align=center><valign=center><font=tahoma_regular_7_border_numbers_only>[?]
+InventoryForm_ItemTooltip	<valign=center><color=DDDD00><font=tahoma_bold_10><align=center>[$]<br><color=FFFFFF><font=tahoma_regular_8><align=left>[$]
+InventoryForm_Leadership	<font=tahoma_bold_10><align=center><color=652300>[?]
+InventoryForm_Level	<font=tahoma_bold_12><align=center><valign=center><color=ffffff>Level [?]
+InventoryForm_Money	<font=tahoma_bold_10><align=center><color=652300>[?]
+InventoryForm_OpenBoosterText	Open this to receive a random number of units who will consider it an honor to join your army.
+InventoryForm_Rating	<image=legion_inline frame={hero.legion_index} offset=-1> <font=tahoma_bold_12><align=center><valign=center><color=ffffff>{hero.elo_rating}
+InventoryForm_Real	<font=tahoma_bold_10><align=center><color=652300>[?]
+InventoryForm_SellButtonText	[FormButtonText_9]Sell
+InventoryForm_SlotTooltip_0	Helmet slot
+InventoryForm_SlotTooltip_1	Weapon slot
+InventoryForm_SlotTooltip_2	Armour slot
+InventoryForm_SlotTooltip_3	Footwear slot
+InventoryForm_SlotTooltip_4	Artifact slot
+InventoryForm_SlotTooltip_5	Shield slot
+InventoryForm_SlotTooltip_6	Belt slot
+InventoryForm_SlotTooltip_7	Ring slot
+InventoryForm_SlotTooltipTmpl	<color=fbefb0><font=tahoma_regular_8><align=left>[$]
+InventoryForm_Stamina	<font=tahoma_bold_10><align=center><color=652300>[?]
+InventoryForm_Troops	<font=tahoma_bold_10><align=center><color=652300>Army
+InventoryForm_UseItemButtonText	[FormButtonText_9]Apply
+InventoryForm_WearItemButtonText	[FormButtonText_9]Equip
+InventoryFormAccentBegin	<font=tahoma_bold_8>
+InventoryFormAccentEnd		</font>
+InventoryFormEnoughLevel	<color=05c200>[?]</color>
+InventoryFormEnoughLevelDesc	<color=014609>[?]</color>
+InventoryFormItemLevel	<br><color=dec25e>Level:</color> [$]
+InventoryFormItemLevelDesc	<br><color=632300>Level:</color> [$]
+InventoryFormItemLevelNeed	<br>Required level: [$]
+InventoryFormNotEnoughLevel	<color=ff0000>[?]</color>
+InventoryFormNotEnoughLevelTmpl	<color=ff0000>[$]</color>
+InventoryFormSellPrice	<br><color=dec25e>Selling price:</color> [?]
+InventoryFormSellPriceDesc	<br><color=541e00><color=632300>Selling price:</color> [?]</color>
+NewLine	<br>
+UCF_TitleSell	<align=center><valign=center><font=tahoma_regular_8>[UCF_LabelColor][UCF_TitleSellText]
+UCF_TitleSellText	Specify the amount of resources to be sold
+
+

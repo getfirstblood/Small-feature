@@ -1,0 +1,11 @@
+﻿chat_system_1009298352_actor_description	Secretary Pills Secretary of the Mages’ Council
+chat_system_1009298352_snap_0_answer_0	Protective Dome
+chat_system_1009298352_snap_0_answer_1	What a witch tells
+chat_system_1009298352_snap_0_question	Office hours on Mondays, Wednesdays, and Fridays. Available by appointment only on Saturday, from morning till noon. If you would like to schedule a visit, please fill out the form. Do you know how to write?
+chat_system_1009298352_snap_1_answer_0	end quest dialog
+chat_system_1009298352_snap_1_question	Hello man!
+chat_system_1009298352_snap_2_answer_0	begin quest dialog
+chat_system_1009298352_snap_2_question	Hello man!
+
+
+

@@ -1,0 +1,8 @@
+﻿quest_system_685195167_desc	The dome appeared 4 days ago. Why didn’t I report on it? I couldn’t, I’ve been surrounded! How you were able to get through, I can’t imagine. The dome is impenetrable. I know. I’ve checked. You can’t get inside it. I tossed some pebbles, but they just bounce off. I didn’t try myself, but I saw a fox cub try to get through. It was incinerated... It’s an impassable shield. And they themselves walk back and forth with no trouble. Without mages here, there’s no way we can do anything. Go back to the Scouts’ Camp before they notice you.
+quest_system_685195167_done	A dome? Yes. Multilayered defence... I feel there’s some shield yet beyond it, too!
+quest_system_685195167_name	A Tight Seal
+quest_system_685195167_stage_0	Speak with Ospholdus
+quest_system_685195167_task	Return to the Scouts’ Camp and find out the nature of the dome the Cultists have put up over the temple.
+
+
+

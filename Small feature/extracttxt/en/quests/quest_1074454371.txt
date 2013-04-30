@@ -1,0 +1,8 @@
+﻿quest_system_1074454371_desc	I was able to remove the spell and read the inscription. You say that the inscription describing this ritual to awaken the ancients’ powers was stolen? Then a terrible danger hangs over our heads. It’s a shame that the Order still hasn’t gotten its artifacts in order... I’m going to go to the Archmage right now. It is crucial for us to coordinate our activities somehow. You need to speak with Captain Stroke of the Gray Wardens Garrison. He would really like to see you. It seems that he has a very important assignment for you. We must figure out what happened, and quickly.
+quest_system_1074454371_done	How wonderful that you’ve found time to visit us! When I learned that the Commander’s representative had come to the Temple of Light, I started to hope that he might be able to talk some sense into that obtuse upstart, our Master. Can you imagine - a mage commanding a fort of war... what with the kinds of things that have been going on around here. But, one thing at a time.
+quest_system_1074454371_name	The Captain’s Worries
+quest_system_1074454371_stage_0	Speak
+quest_system_1074454371_task	Figure out what’s worrying Captain Stroke of the Gray Warden Garrison.
+
+
+

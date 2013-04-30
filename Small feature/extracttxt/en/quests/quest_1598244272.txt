@@ -1,0 +1,8 @@
+﻿quest_system_1598244272_desc	Incidentally, I've just received some correspondence from Maximus the Exorcist. He seems to have a couple of tasks for you. Dangerous ones. 
+quest_system_1598244272_done	The fame of your victories has spread throughout the island. Few are those who can hold their own against an opponent this strong. Yet the enemy you face is every bit as dangerous. The denizens of the Academy Tiltyard are very dangerous, but the best warriors have always rallied to the leaders who could defeat them. With their aid, an experienced commander of men will be able to defeat even the most ingenuous and hardened foe.
+quest_system_1598244272_name	Golden Legion
+quest_system_1598244272_stage_0	Maximus
+quest_system_1598244272_task	Meet Maximus
+
+
+

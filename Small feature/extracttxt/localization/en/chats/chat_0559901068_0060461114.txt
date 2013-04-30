@@ -1,0 +1,21 @@
+﻿chat_system_60461114_actor_description	Rock Porter. A well-known industrialist and manufacturer.
+chat_system_60461114_snap_0_answer_0	Mutiny
+chat_system_60461114_snap_0_answer_1	Mutiny
+chat_system_60461114_snap_0_answer_2	Old Debts
+chat_system_60461114_snap_0_answer_3	Old Debts
+chat_system_60461114_snap_0_question	I swear on the decomposed remains of the Scarlet Corsairs that you have a mutually beneficial transaction to make with me! Yes, you do, I see it in your eyes! Come on, spill it...
+chat_system_60461114_snap_1_answer_0	begin quest dialog
+chat_system_60461114_snap_1_question	Hello man!
+chat_system_60461114_snap_2_answer_0	(away)
+chat_system_60461114_snap_2_question	I hope a handful of bandits don’t scare you? These dogs always hang about the city walls someplace.
+chat_system_60461114_snap_3_answer_0	end quest dialog
+chat_system_60461114_snap_3_question	end quest text
+chat_system_60461114_snap_4_answer_0	begin quest dialog
+chat_system_60461114_snap_4_question	Hello man!
+chat_system_60461114_snap_5_answer_0	(away)
+chat_system_60461114_snap_5_question	Pirates, pirates... I just want to hear that someone’s talked some sense into them.
+chat_system_60461114_snap_6_answer_0	end quest dialog
+chat_system_60461114_snap_6_question	end quest text
+
+
+

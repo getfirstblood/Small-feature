@@ -1,0 +1,8 @@
+﻿quest_system_691152685_desc	A new wave of enemy troops just landed. The scoundrels have decided to drive us off of Signal Island no matter what. The pirates are replete with Free Jarl mercenaries. Now I believe I know who drove them here... I need every one of my soldiers, so regretfully I cannot spare you any. Get in there with your party and find Greenhood in the temple. He’s my best scout. Get in there and get to work!
+quest_system_691152685_done	Looking for death? Whose death, you say? Well, certainly not mine... If you leave the forest now, those in the crypt will notice you. How’s the situation? Not much improvement. They surrounded the temple with some sort of glowing magical nonsense. I don’t understand much about magic. But I do know that any attempt to get through now would be pure foolishness.
+quest_system_691152685_name	Minimal Force
+quest_system_691152685_stage_0	Speak with Scout Greenhood
+quest_system_691152685_task	Get into the Ancient Temple with your squad and find Scout Greenhood there.
+
+
+

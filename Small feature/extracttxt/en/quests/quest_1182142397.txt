@@ -1,0 +1,8 @@
+﻿quest_system_1182142397_desc	Our scouts report that necromancers gather at their side various creatures by subduing them to their dark power. Speed is their greatest advantage and I’m concerned that our lines of defence won’t be able to stop them. You have to strike the Fiery Army and destroy the necromancers leading the troops. 
+quest_system_1182142397_done	Ah, that contains the necromancers’ forces and gives us the much-needed time. What else will they come up with? It’s probably better to strike first instead of waiting to find out . . .
+quest_system_1182142397_name	The Blazing Legion
+quest_system_1182142397_stage_0	Hunt
+quest_system_1182142397_task	Destroy {counter_limit_0} Necromancers. 
+
+
+

@@ -1,0 +1,8 @@
+﻿quest_system_441913038_desc	So he got away anyway... opened a portal and fled. What a crackpot! Only a crazy man could hope to awaken and control the ancient! The Guardians already tried that, and ended up with the Cataclysm. Although... maybe he didn’t intend to control them? Maybe he just wanted to repeat the Cataclysm, but this time, not in a remote area, but in the center of civilization! Would he himself die? Unlikely. He’d probably open a portal and teleport to the other end of the world. Leaving his soldiers here. After all, to him, they’re just tools.
+quest_system_441913038_done	So he got away anyway... opened a portal and fled. What a crackpot! Only a crazy man could hope to awaken and control the ancient! The Guardians already tried that, and ended up with the Cataclysm. Although... maybe he didn’t intend to control them? Maybe he just wanted to repeat the Cataclysm, but this time, not in a remote area, but in the center of civilization! Would he himself die? Unlikely. He’d probably open a portal and teleport to the other end of the world. Leaving his soldiers here. After all, to him, they’re just tools.
+quest_system_441913038_name	Escape
+quest_system_441913038_stage_0	Speak with Morania.
+quest_system_441913038_task	Speak with Morania and find out what happened
+
+
+

@@ -1,0 +1,14 @@
+﻿TEFT_ButtonAction	[TEFT_C]<font=tahoma_bold_12_border_smooth><color=EEFFE6>[$]
+TEFT_ButtonActionOk	Ok
+TEFT_ButtonActionOpenUrl	Open
+TEFT_ButtonActionRoyalShop	Royal Shop
+TEFT_ButtonActionSpecialOffer	Special Offer
+TEFT_C	<align=center><valign=center>
+TEFT_TimeLeft	[TEFT_C]<font=tahoma_bold_12_border_smooth><color=EEFFE6>[?]
+TEFT_TimeLeftActor	[TEFT_C]<font=tahoma_bold_8><color=EEFFE6>[?]
+TEFT_TimeLeftDay	[?]d [?]h
+TEFT_TimeLeftHours	[?]h [?]m
+TEFT_TimeLeftMinutes	[?]m [?]s
+
+
+

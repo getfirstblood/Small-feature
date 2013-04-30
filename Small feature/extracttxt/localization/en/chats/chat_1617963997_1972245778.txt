@@ -1,0 +1,6 @@
+﻿chat_system_1972245778_snap_0_answer_1	Very Important Secret Assignment
+chat_system_1972245778_snap_4_answer_0	begin quest dialog
+chat_system_1972245778_snap_4_question	Hello man!
+
+
+

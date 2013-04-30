@@ -1,0 +1,8 @@
+﻿quest_system_693684464_desc	You have urgent business? Perhaps I would have been able to help you before, but I have absolutely no time for it now. Can’t you see? My precious laboratory has been trashed! The zombie invasion, all my flasks, tubes and lamps smashed to pieces. I’m not even talking about all the ingredients that I have lost. My apprentices are currently out trying to gather the herbs needed for alchemy in the Barley Grove. But I have a feeling it will take them a while to get things done. Maybe you could help them?
+quest_system_693684464_done	Old Meshmer sent you? At least he didn’t decide to come here himself. We would have never heard the end of it if he did.
+quest_system_693684464_name	When Science Fails
+quest_system_693684464_stage_0	Lok Toyl
+quest_system_693684464_task	Talk to Lok Toyl in Barley Grove
+
+
+

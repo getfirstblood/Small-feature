@@ -1,0 +1,29 @@
+﻿chat_system_1697934713_actor_description	Moran Kruzius A gravedigger who makes a living by resurrecting the dead.
+chat_system_1697934713_snap_0_answer_0	Grave Plunderers
+chat_system_1697934713_snap_0_answer_1	Grave Plunderers
+chat_system_1697934713_snap_0_answer_2	Spiders in the Cemetery
+chat_system_1697934713_snap_0_answer_3	Spiders in the Cemetery
+chat_system_1697934713_snap_0_answer_4	Champions of Glory
+chat_system_1697934713_snap_0_answer_5	Champions of Glory
+chat_system_1697934713_snap_0_question	Be quiet. Don’t disturb the dead, and they won’t disturb you.
+chat_system_1697934713_snap_1_answer_0	begin quest dialog
+chat_system_1697934713_snap_1_question	Hello man!
+chat_system_1697934713_snap_2_answer_0	(away)
+chat_system_1697934713_snap_2_question	May God rest the souls of the deceased warriors. Their life was too unsettled.
+chat_system_1697934713_snap_3_answer_0	end quest dialog
+chat_system_1697934713_snap_3_question	end quest text
+chat_system_1697934713_snap_4_answer_0	begin quest dialog
+chat_system_1697934713_snap_4_question	Hello man!
+chat_system_1697934713_snap_5_answer_0	(away)
+chat_system_1697934713_snap_5_question	See that the gravediggers don’t end up burying you.
+chat_system_1697934713_snap_6_answer_0	end quest dialog
+chat_system_1697934713_snap_6_question	end quest text
+chat_system_1697934713_snap_7_answer_0	begin quest dialog
+chat_system_1697934713_snap_7_question	Hello man!
+chat_system_1697934713_snap_8_answer_0	(away)
+chat_system_1697934713_snap_8_question	Did you manage to get rid of the spiders?
+chat_system_1697934713_snap_9_answer_0	end quest dialog
+chat_system_1697934713_snap_9_question	end quest text
+
+
+

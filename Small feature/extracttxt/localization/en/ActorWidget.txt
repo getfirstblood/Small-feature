@@ -1,0 +1,8 @@
+﻿AW_CompletedQuest	<color=FFFFFF><font=tahoma_bold_10>Finish
+AW_CooldownHours	[?] h
+AW_CooldownMinutes	[?] m
+AW_NewQuest	<color=FFFFFF><font=tahoma_bold_10>New Quest
+AW_TravelToNodeText	The character is in the settlement of <color=6B2E00><font=tahoma_bold_11>[$]</color>. Moving to this settlement will spend <color=6B2E00><font=tahoma_bold_11>[?]</color> stamina.<br>Do you want to move to this settlement to speak with this character? 
+
+
+

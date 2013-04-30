@@ -1,0 +1,13 @@
+﻿chat_system_2146891094_actor_description	Colonel Bogard. The commander of the Eastern Fort. A very busy and serious fellow.
+chat_system_2146891094_snap_0_question	What’s with the appearance? Why aren’t you in uniform? Where are your insignia and badges?
+chat_system_2146891094_snap_0_answer_0	Close the Ranks
+chat_system_2146891094_snap_1_question	Hello man!
+chat_system_2146891094_snap_1_answer_0	begin quest dialog
+chat_system_2146891094_snap_0_answer_1	Close the Ranks
+chat_system_2146891094_snap_3_question	end quest text
+chat_system_2146891094_snap_3_answer_0	end quest dialog
+chat_system_2146891094_snap_2_question	Deserters are the worst fighters ever. So I hope you can deal with them without any trouble.
+chat_system_2146891094_snap_2_answer_0	(away)
+
+
+

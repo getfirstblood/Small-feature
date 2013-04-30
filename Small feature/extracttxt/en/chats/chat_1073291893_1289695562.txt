@@ -1,0 +1,14 @@
+﻿chat_system_1289695562_actor_description	Scout Giango Experienced Ranger
+chat_system_1289695562_snap_0_answer_0	Bear Land
+chat_system_1289695562_snap_0_answer_1	Free at Last
+chat_system_1289695562_snap_0_answer_2	Imprisoned by Dark Mages
+chat_system_1289695562_snap_0_question	Do you have some business you wish to see me about, or are you just passing by?
+chat_system_1289695562_snap_1_answer_0	begin quest dialog
+chat_system_1289695562_snap_1_question	Hello man!
+chat_system_1289695562_snap_2_answer_0	end quest dialog
+chat_system_1289695562_snap_2_question	Hello man!
+chat_system_1289695562_snap_3_answer_0	begin quest dialog
+chat_system_1289695562_snap_3_question	Hello man!
+
+
+

@@ -1,0 +1,8 @@
+﻿quest_system_692992689_desc	We're in one hell of a bind. Lazarus found the remains of an ancient avatar and decided to resurrect it. It's a silly enough plan, but if he's lucky, he might succeed. I won't even begin to predict the possible consequences. Can you see the dome that the Transformed Ones erected above themselves? We won't be able to approach Lazarus while it's active. If you destroy the groups of cultists that guard the defence obelisks of Lazarus, I'll be able to destroy the dome. 
+quest_system_692992689_done	Really! This was a little bit over the top even for me. But we've made it!
+quest_system_692992689_name	The Destruction of the Dome
+quest_system_692992689_stage_0	Rout
+quest_system_692992689_task	Destroy {counter_limit_0} Lazarus Adept parties 
+
+
+

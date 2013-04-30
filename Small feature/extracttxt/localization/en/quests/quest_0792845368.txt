@@ -1,0 +1,8 @@
+﻿quest_system_792845368_desc	Your boys killed some of the spiders, and the rest of them will run away on their own, since they are no longer controlled by the Spider Queen. It seems that your work here is done. Follow the road north to the Hunters’ Camp. The commander’s scouts have already set off in that direction to identify the saboteurs. Talk to the leader of the hunters' settlement, Baron Hussaro. He should know where the scouts have set up camp.
+quest_system_792845368_done	What? The commander’s scouts? Of course I know where they are. In the local prison! They are accused of poaching. In our lands, it is a serious offense.
+quest_system_792845368_name	The Commander’s Scouts
+quest_system_792845368_stage_0	Hussaro
+quest_system_792845368_task	Find the location of the scouts from Baron Hussaro
+
+
+

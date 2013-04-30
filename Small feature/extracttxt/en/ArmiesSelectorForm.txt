@@ -1,0 +1,160 @@
+﻿AP_High	<color=639502>high
+AP_Low	<color=b65100>low
+AP_Moderate	<color=d7b137>medium
+AP_VeryHigh	<color=245315>very high
+AP_VeryLow	<color=8e0a0a>very low
+AS_AdjustLeadership	[AS_AdjustLeadershipTmpl]Adjust my power down to match more opponents.
+AS_AdjustLeadershipTmpl	<valign=center><font=tahoma_regular_10><color=E9D18C>
+AS_Amount	<br><color=FFFFFF><align=center><valign=center><font=tahoma_regular_8>Quantity:
+AS_AmountTmpl1	[$] <br><color=d7b137><align=center><valign=center><font=tahoma_bold_10>[?]
+AS_AmountTmpl2	[$] <br><color=d7b137><align=center><valign=center><font=tahoma_bold_10>[?]-[?]
+AS_Army_Level	Level
+AS_ArmyInfoTmpl	<font=tahoma_regular_10><align=left><valign=center><color=E8C571>[$]</color><br=5><font=tahoma_regular_8>[AS_Army_Level]: [$]<br>[$]
+AS_ArmyInfoTmpl_friend	<font=tahoma_regular_10><align=left><valign=center><color=E8C571>[?]</color><br=5><font=tahoma_regular_8>[AS_Army_Level]: [$]<br>[$]
+AS_AvatarLoading	Loading
+AS_AvatarLoadingTmpl	<align=center><valign=center><font=tahoma_regular_8>[TextColor][AS_AvatarLoading]
+AS_ButtonTooltip	Select an opponent army to battle
+AS_CloseButton	[FormButtonText_9][FormButtonColor][CloseButton]
+AS_CountFew	several
+AS_CountGroup	party
+AS_CountHorde	horde
+AS_CountLittle	some
+AS_CountMany	many
+AS_DoubledExpBattles	<align=center><valign=center><font=tahoma_bold_10><color=8D0102>[AS_DoubledExpBattlesText]: [?]
+AS_DoubledExpBattlesText	Battles
+AS_DungeonFiendsCountTmpl	<align=center><valign=center><font=tahoma_bold_11>[?]/[?]
+AS_DungeonFiendsInviteCompleteText	Team of friends complete!
+AS_DungeonFiendsInviteCompleteTmpl	<align=center><valign=center><font=tahoma_bold_10><color=E9D18C>[AS_DungeonFiendsInviteCompleteText]
+AS_DungeonFiendsInviteText	Call your friends to your aid!
+AS_DungeonFiendsInviteTmpl	<align=center><valign=center><font=tahoma_bold_10><color=E9D18C>[AS_DungeonFiendsInviteText]
+AS_DungeonInviteBtnText	Invite
+AS_DungeonInviteBtnTmpl	[FormButtonText_9][AS_DungeonInviteBtnText]
+AS_Enemy_Mode_Dungeon	Dungeon
+AS_Enemy_Mode_Matchmaking	PvP
+AS_Enemy_Mode_Monsters	Monsters
+AS_Enemy_Tab_Tooltip_0	Here you can participate in fights with monsters to complete quests. 
+AS_Enemy_Tab_Tooltip_1	Here you can participate in fights with other players. 
+AS_Enemy_Tab_Tooltip_2	Here you can take part in battles against dungeon armies.
+AS_FillMyArmy	<color=FCFFC3>Army Management</color>
+AS_FindOpponent_PlayersInPvPPool	<color=FFFFFF><align=center><valign=center><font=tahoma_bold_10><color=D6B566>Looking for an opponent: <color=FFFFFF>[?] users
+AS_FindOpponent_PlayersInPvPPoolUnknown	less than 5
+AS_FindOpponent_StopSeeking	[FormButtonText_9][FormButtonColor]Cancel
+AS_FindOpponent_TimeConsumed	<color=FFFFFF><align=center><valign=center><font=tahoma_bold_10><color=D6B566>Elapsed <color=FFFFFF>[?]:[?]
+AS_FindOpponent_TimeToFind	<color=FFFFFF><align=center><valign=center><font=tahoma_bold_10><color=D6B566>Average search time: <color=FFFFFF>[?]:[?]
+AS_FindOpponent_TimeToFindChecking	<color=FFFFFF><align=center><valign=center><font=tahoma_bold_10><color=D6B566>Average search time: <color=FFFFFF>calculating...
+AS_FindOpponent_TimeToFindUnknown	<color=FFFFFF><align=center><valign=center><font=tahoma_bold_10><color=D6B566>Average search time: <color=FFFFFF>unknown
+AS_FriendNameTmpl	<color=d7b137><align=center><valign=center><font=tahoma_bold_10>[?]</font></color><br>
+AS_GradationToolTipTmpl	[AS_GradInfoTmpl1][?] <br>[AS_GradInfoTmpl2]Quantity: [AS_GradInfoTmpl1][$]
+AS_GradInfoTmpl1	<color=d7b137><align=center><valign=center><font=tahoma_bold_10>
+AS_GradInfoTmpl2	<color=FFFFFF><align=center><valign=center><font=tahoma_regular_8>
+AS_HelpedToolTip	Helping you with your hunt: <br>
+AS_InBattle	in battle
+AS_InBattleTmpl	<color=AAFFAA><font=tahoma_regular_8> ([AS_InBattle])</color>
+AS_InfoTextTmp20	<color=E8D000><align=center><valign=center><font=tahoma_regular_10>
+AS_InfoTextTmpl	<color=D6B566><align=center><valign=center><font=tahoma_bold_12>
+AS_InfoTextTmpl2	<color=FFE400><align=center><valign=center><font=tahoma_bold_12>
+AS_InfoTextTmpl3	<color=FFFFFF><align=center><valign=center><font=tahoma_regular_10>
+AS_InfoTextTmpl4	<color=D6B566><align=center><valign=center><font=tahoma_bold_10>
+AS_InfoTextTmpl5	<color=D6B566><align=center><valign=center><font=tahoma_regular_10>
+AS_InfoTextTmpl6	<color=D6B566><align=left><valign=top><font=tahoma_regular_10>
+AS_InfoTextTmpl7	<color=AAFFAA><align=left><valign=top><font=tahoma_regular_10>
+AS_InfoTextTmpl8	<color=FFFFFF><align=left><valign=top><font=tahoma_regular_10>
+AS_InfoTextTmpl9	<color=E8D000><align=left><valign=top><font=tahoma_regular_10>
+AS_InPatrol	on patrol
+AS_InPatrolTmpl	<color=AAFFFF><font=tahoma_regular_8> ([AS_InPatrol])</color>
+AS_IntelliText	Find <br>army.
+AS_IntelliTmpl	[FormButtonText_9][AS_IntelliText]
+AS_InviteTip	Invite new friends to the game and you'll receive more gold!
+AS_Legion	[AS_InfoTextTmpl6]Legion
+AS_LootByChance	[AS_LootInfoTmpl1]Post-battle reward: <br>[AS_LootInfoTmpl2][?] <br>[AS_LootInfoTmpl1]Drop chance:<br><image=textures/interface/loot/[?]> [AS_LootInfoTmpl2][$]
+AS_LootByWeight	[AS_LootInfoTmpl1]Post-battle reward: <br>[AS_LootInfoTmpl2][?] <br>[AS_LootInfoTmpl1]Drop chance:<br>[AS_LootInfoTmpl2][$] <br>[AS_LootInfoTmpl1]One of the loot items in the list is guaranteed to drop.
+AS_LootInfoTmpl1	<color=FFFFFF><align=center><valign=center><font=tahoma_regular_8>
+AS_LootInfoTmpl2	<color=d7b137><align=center><valign=center><font=tahoma_bold_10>
+AS_ModeName	[AS_ModeNameTmpl][$][$]
+AS_ModeNameTmpl	<align=center><valign=center><font=tahoma_bold_10_border_smooth><wordwrap=off>
+AS_MonsterArmy	[AS_InfoTextTmpl5]Army composition
+AS_MonsterName	[AS_InfoTextTmpl5]Army description
+AS_MonsterReward	[AS_InfoTextTmpl5]Trophies
+
+
+AS_MyArmyText	[AS_InfoTextTmpl5]Your army
+AS_MyLegionName	[AS_InfoTextTmpl2][$]
+AS_MyLegionText	[AS_InfoTextTmpl]Legion
+AS_MyLosesCount	[AS_InfoTextTmpl5]Losses:<br>[AS_InfoTextTmpl3][?]
+AS_MyRating	[AS_InfoTextTmpl5] Rating:<br=7><color=FFFFFF><align=center><valign=center><font=tahoma_bold_12><image=legion_inline frame={hero.legion_index} offset=-1> {hero.elo_rating}
+AS_MyTitleName	[AS_InfoTextTmpl2][$]
+AS_MyTitleText	[AS_InfoTextTmpl]Title
+AS_MyWinsCount	[AS_InfoTextTmpl5]Wins:<br>[AS_InfoTextTmpl3][?]
+AS_Name	[AS_InfoTextTmpl6]Name
+AS_Number	[AS_InfoTextTmpl6]Place
+AS_PvP_Legion_0	Copper
+AS_PvP_Legion_1	Iron
+AS_PvP_Legion_2	Brass
+AS_PvP_Legion_3	Silver
+AS_PvP_Legion_4	Golden
+AS_PvP_Legion_5	Platinum
+AS_PvP_Legion_6	Mythril
+AS_PvP_Legion_7	Diamond
+AS_PvP_Legion_8	Ethereral
+AS_PvP_Tip_0	[AS_PvPTipTmpl]Bring Special and Legendary units to battle to boost your army's strength.
+AS_PvP_Tip_10	[AS_PvPTipTmpl]Don't forget to upgrade your spells and army to gain an edge on other players in battle.
+AS_PvP_Tip_11	[AS_PvPTipTmpl]Don't forget that you have limited time for each of your unit's turns.
+AS_PvP_Tip_2	[AS_PvPTipTmpl]Use your Scrolls to turn the tide of the battle.
+AS_PvP_Tip_3	[AS_PvPTipTmpl]Your victories raise your chances to join a stronger Legion, whereas your defeats push you further away from that goal.
+AS_PvP_Tip_4	[AS_PvPTipTmpl]Defenders are better at attacking Warriors, and Warriors are better at attacking Archers.
+AS_PvP_Tip_5	[AS_PvPTipTmpl]Archers are better at attacking Healers, and Healers are more efficient against Mages.
+AS_PvP_Tip_6	[AS_PvPTipTmpl]Mages can easily pierce Defenders' armour. This is the best way to deal with them.
+AS_PvP_Tip_7	[AS_PvPTipTmpl]You should not underestimate healing and slowing down Scrolls. Used properly, they can come as a nasty shock to the enemy.
+AS_PvP_Tip_8	[AS_PvPTipTmpl]Archers' shots will hit you much weaker if you approach them closely.
+AS_PvP_Tip_9	[AS_PvPTipTmpl]Try to approach archers closely, so that their shots hit you much weaker.
+AS_PVP_Title	[FormTitleText][FormTitleColor]Duel
+AS_PvP_Title_0	Recruit
+AS_PvP_Title_1	Fighter
+AS_PvP_Title_2	Warrior
+AS_PvP_Title_3	Veteran
+AS_PvP_Title_4	Berserker
+AS_PvP_Title_5	Knight
+AS_PvP_Title_6	Champion
+AS_PvP_Title_7	Hero
+AS_PvP_Title_8	Legend
+AS_PvP_Title_9	Demigod
+AS_PvPTipTmpl	<align=center><valign=center><font=tahoma_regular_8><color=79B7DA>[?]
+AS_PvPTitleTooltip	Your Title: <color=00FF00>{my_title}</color><br>wins left until next title: {wins_left_until_next_title} of {wins_until_next_title}
+AS_PvPTitleTopTooltip	Your Title: <color=00FF00>{my_title}</color><br>You have more than {wins_until_max_title} wins and you get the highest Title in the game.
+AS_Quest	Quest
+AS_Quest_Tmpl	<font=tahoma_regular_8>[AS_Quest]: <color=AAFFAA>[?]</color>
+AS_Rating	[AS_InfoTextTmpl6]Rating
+AS_Rating_Table_Legion_0	[AS_InfoTextTmpl9][?]
+AS_Rating_Table_Legion_1	[AS_InfoTextTmpl8][?]
+AS_Rating_Table_Legion_2	[AS_InfoTextTmpl8][?]
+AS_Rating_Table_Name_0	[AS_InfoTextTmpl9][?]
+AS_Rating_Table_Name_1	[AS_InfoTextTmpl7][?]
+AS_Rating_Table_Name_2	[AS_InfoTextTmpl8][?]
+AS_Rating_Table_Position_0	[AS_InfoTextTmpl9][?]
+AS_Rating_Table_Position_1	[AS_InfoTextTmpl7][?]
+AS_Rating_Table_Position_2	[AS_InfoTextTmpl8][?]
+AS_Rating_Table_Ranked	- 
+AS_Rating_Table_Rating_0	[AS_InfoTextTmpl9]<image=legion_inline frame=[?]> [?]
+AS_Rating_Table_Rating_1	[AS_InfoTextTmpl7]<image=legion_inline frame=[?]> [?]
+AS_Rating_Table_Rating_2	[AS_InfoTextTmpl8]<image=legion_inline frame=[?]> [?]
+AS_Rating_Table_Top	Top [?]
+AS_RatingsText	[FormTitleText][FormTitleColor]Ratings
+AS_RefreshButton	[FormButtonText_9]Refresh
+AS_RefreshTip	Refresh the player list
+AS_StartBattleButton	[GAIF_FormatWhiteS]Start Battle <image=textures/interface/common/icons/stamina_22x22> [?]
+AS_StartBattleLittleLevel	[AS_StartBattlePVPDisabledTip]
+AS_StartBattleNoArmyTip	Select units for your army before battle.
+AS_StartBattlePVETip	Start a fight with monsters and spend [?] Stamina.
+AS_StartBattlePVPDisabledTip	PvP will be available once you reach level [?].
+AS_StartBattlePVPTip	Start a fight with a player and spend [?] Stamina.
+AS_StartBattlePVPTip_Locked	You have been fined for deserting from the rating battle. A new rating battle will be available in [?].
+AS_StartBattlePVPTip_NoStamina	Start battling the enemy without spending Stamina
+AS_Title	[FormTitleText][FormTitleColor]Battle screen
+AS_UserNameTmpl	<font=tahoma_regular_10><align=left><valign=center><color=E8C571>[?][$]</color><br=5><font=tahoma_regular_8>[AS_Army_Level]: [$]
+AS_ViewArmyWarning	To see the contents of an enemy army, you need to buy a license
+AS_ViewArmyWarningTmpl	<align=center><valign=center><font=tahoma_regular_8>[TextColor][AS_ViewArmyWarning]
+AS_WinsLeftUntilNextLegionPredictionTooltip	Your Legion: <color=00FF00>{my_legion}</color><br>The Legion determines how strong and skillful your opponents in the battle are. Your victories boost your rating, whereas your defeats decrease it. Having gained a certain number of rating points you move to the next Legion. <br><br>Rating points needed to move up to the next Legion: {eloRatingNextLegion}.
+AS_WinsLeftUntilTopLegionTooltip	Your Legion: <color=00FF00>{my_legion}</color><br>The Legion determines how strong and skillful your opponents in the battle are. Your victories boost your rating, whereas your defeats decrease it. <br><br>You have earned the right to part of a stronger Legion. Great job!
+
+
+

@@ -1,0 +1,4 @@
+﻿impact_prolongate	You are extending a long-term effect, [$].
+
+
+

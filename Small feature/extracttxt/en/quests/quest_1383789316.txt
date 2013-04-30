@@ -1,0 +1,8 @@
+﻿quest_system_1383789316_desc	The mind must be as supple as the willow – it may bend under the onslaught of an external power, but it must never break. Let's see how agile your mind is – this is a test of your ability to lead the troops. Defeat the army of the Ingenious Gorguans who have managed to tame a whole horde of Thorns. This shall be the second stage of our training program. 
+quest_system_1383789316_done	You appear to have met every challenge yet again. I wholeheartedly congratulate you. 
+quest_system_1383789316_name	Mental Facility Training
+quest_system_1383789316_stage_0	The Rout
+quest_system_1383789316_task	Knock out {counter_limit_0} Ingenious Gorguan squads 
+
+
+

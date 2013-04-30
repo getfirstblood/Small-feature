@@ -1,0 +1,8 @@
+﻿quest_system_1262231351_desc	Young Legionary, if you can get past all of the formalities, then the most exciting adventures, heroic deeds, and grand glory await you! So go to the Garrison of the Order without delay. The quartermaster will assign you a specific place of service to the Kingdom! Good luck and farewell.
+quest_system_1262231351_done	Well, what do you know, reinforcements. What should we do with you?
+quest_system_1262231351_name	To garrison service
+quest_system_1262231351_stage_0	speak
+quest_system_1262231351_task	Go to the Garrison of the Order and receive an assignment there
+
+
+

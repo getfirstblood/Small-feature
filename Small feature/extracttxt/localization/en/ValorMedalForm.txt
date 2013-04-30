@@ -1,0 +1,24 @@
+﻿VMF_MoneyIcon	textures/interface/common/icons/money_22x22
+VMF_MoneyIconTmpl	<image=[VMF_MoneyIcon]><indent=2><align=center><valign=center>
+VMF_MoneyReward	[VMF_TextTmpl][VMF_TextColor][VMF_RewardText]: [VMF_MoneyIconTmpl][?]
+VMF_NodeName	[VMF_TextBoldTmpl][VMF_TextColor][$]
+VMF_RewardInfo	[VMF_TextTmpl][VMF_TextColor][VMF_RewardInfoText]
+VMF_RewardInfoText	Earn a medal and you’ll get a reward
+VMF_RewardText	Reward
+VMF_RewardTitle	[VMF_TextBorderTmpl][VMF_TitleColor][VMF_RewardTitleText]
+VMF_RewardTitleText	Award for choice
+VMF_TextBoldTmpl	<align=center><valign=center><font=tahoma_bold_10>
+VMF_TextBorderTmpl	<align=center><valign=center><font=tahoma_bold_10_border_smooth>
+VMF_TextColor	<color=5B3302>
+VMF_TextSmallTmpl	<align=center><valign=center><font=tahoma_regular_8>
+VMF_TextTmpl	<align=center><valign=center><font=tahoma_regular_10>
+VMF_TitleColor	<color=F1DCA3>
+VMF_TitleInfo	[FormTitleText][FormTitleColor][VMF_TitleInfoText]
+VMF_TitleInfoText	Medal of Honour
+VMF_UnitCount	<align=right><valign=center><font=tahoma_bold_10_border_smooth_numbers_only><color=FFFFFF>[?]
+VMF_UnitName	[VMF_TextBoldTmpl]<valign=top>[VMF_TextColor][$]
+VMF_WinsInfo	[VMF_TextSmallTmpl][VMF_TextColor][VMF_WinsInfoText]: <color=355000><font=tahoma_bold_8_numbers_only>[?]/[?]</color>
+VMF_WinsInfoText	Victory in the settlement
+
+
+

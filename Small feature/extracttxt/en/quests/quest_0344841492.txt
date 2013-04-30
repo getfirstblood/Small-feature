@@ -1,0 +1,8 @@
+﻿quest_system_344841492_desc	Well, what are you standing around for? I’ve already sent the Astralite to Lok Toyl. So go see him.
+quest_system_344841492_done	Well, that’s done. Now at least things will be a bit more quiet. 
+quest_system_344841492_name	The Second Part of the Key
+quest_system_344841492_stage_0	Speak
+quest_system_344841492_task	Speak with Lok Toyl.
+
+
+

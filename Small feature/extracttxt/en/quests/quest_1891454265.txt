@@ -1,0 +1,8 @@
+﻿quest_system_1891454265_desc	Now let us consider our business. I have already sent two battle mages to the Gray Warden Garrison, but this still isn't enough to discover the cultist troops. It's a thankless task to chase necromancers through the bogs. The territory is far too large. However, an old acquaintance of mine might be able to help us out. I helped Morania the Witch once; it is now her turn to help our cause. Go to her; I shall send her word of your arrival so that our army might arrive there unhindered. 
+quest_system_1891454265_done	So you aren't afraid of turning up just like that? Ha ha ha. Most naive of you. 
+quest_system_1891454265_name	Visiting a Witch
+quest_system_1891454265_stage_0	Morania
+quest_system_1891454265_task	Meet Morania the Witch in Witch's Swamp.
+
+
+

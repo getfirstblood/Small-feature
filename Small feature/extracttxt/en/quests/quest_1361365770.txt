@@ -1,0 +1,8 @@
+﻿quest_system_1361365770_desc	We are getting ready for a long march to the Eastern Fort. Naturally, necromancers won’t simply sit on their hands – they will try to interfere with our trip. We need someone we can trust to go scout out the situation, and confirm that the road to the Fort is safe. Your first target is the Turtle Hill. Go there and talk to the local elder. Tell him to get ready for our arrival.
+quest_system_1361365770_done	Yes, I've heard rumors of your arrival from the Distant Stone. Please get some rest and then we'll get down to business!<br>
+quest_system_1361365770_name	Further Down the Path
+quest_system_1361365770_stage_0	Stutz
+quest_system_1361365770_task	Meet Elder Stutz at the Turtle Hill
+
+
+

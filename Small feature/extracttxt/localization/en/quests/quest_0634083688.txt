@@ -1,0 +1,8 @@
+﻿quest_system_634083688_desc	There were three mages on our island who studied forbidden magic. Monsters that they summoned with their sorcery held entire towns in terror. When a hunt for the three began, they managed to go into hiding. We pursued them and tracked them down by traces of their magical aura. Our search has taken us to this island. The mages have established three separate settlements and are apparently gaining strength. I will show where they can be found, and your job will be to defeat their armies until it's too late.
+quest_system_634083688_done	So you have been able to deal with them... Good for you! This will hold them up for some time. Yes, and I have ceased to feel their magical aura. I hope we shall never hear of them again!
+quest_system_634083688_name	Triumvirate
+quest_system_634083688_stage_0	Rout
+quest_system_634083688_task	Crush Liarus' Squad at the Ruined Temple, and defeat Sargateus' at the Free Village and Cromeus' Squads in the Bear Forest
+
+
+

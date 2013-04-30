@@ -1,0 +1,38 @@
+﻿chat_system_1461695092_actor_description	Instructor Paincraft Instructor at the Knight Academy
+chat_system_1461695092_snap_0_answer_0	Strength Test
+chat_system_1461695092_snap_0_answer_1	Strength Test
+chat_system_1461695092_snap_0_answer_2	Record of Arrival
+chat_system_1461695092_snap_0_answer_3	Baptism by Battle
+chat_system_1461695092_snap_0_answer_4	Baptism by Battle
+chat_system_1461695092_snap_0_answer_5	New Appointment
+chat_system_1461695092_snap_0_answer_6	Tactical Maneuvers
+chat_system_1461695092_snap_0_answer_7	Equipment
+chat_system_1461695092_snap_0_answer_8	To garrison service
+chat_system_1461695092_snap_0_question	Why are you not in the ranks? Ah, you must be one of the rookies.
+chat_system_1461695092_snap_1_answer_0	begin quest dialog
+chat_system_1461695092_snap_1_question	Hello man!
+chat_system_1461695092_snap_10_answer_0	end quest dialog
+chat_system_1461695092_snap_10_question	end quest text
+chat_system_1461695092_snap_11_answer_0	begin quest dialog
+chat_system_1461695092_snap_11_question	Hello man!
+chat_system_1461695092_snap_12_answer_0	begin quest dialog
+chat_system_1461695092_snap_12_question	Hello man!
+chat_system_1461695092_snap_13_answer_0	begin quest dialog
+chat_system_1461695092_snap_13_question	Hello man!
+chat_system_1461695092_snap_2_answer_0	begin quest dialog
+chat_system_1461695092_snap_2_question	Hello man!
+chat_system_1461695092_snap_3_answer_0	(away)
+chat_system_1461695092_snap_3_question	Yeah, nobody said the service is supposed to be fun, but what you gonna do? How’s the peasant-fighting business?
+chat_system_1461695092_snap_4_answer_0	end quest dialog
+chat_system_1461695092_snap_4_question	end quest text
+chat_system_1461695092_snap_5_answer_0	begin quest dialog
+chat_system_1461695092_snap_5_question	Hello man!
+chat_system_1461695092_snap_6_answer_0	(away)
+chat_system_1461695092_snap_6_question	Roadside Rabble can be found on the outskirts of town. There is nothing better than a friendly battle - you won’t hurt your friends while being able to show off your skills.
+chat_system_1461695092_snap_7_answer_0	end quest dialog
+chat_system_1461695092_snap_7_question	end quest text
+chat_system_1461695092_snap_9_answer_0	(away)
+chat_system_1461695092_snap_9_question	Archers cannot withstand attacks from swift warriors. I think you will be able to beat them quite easily, if you put your army together correctly.
+
+
+

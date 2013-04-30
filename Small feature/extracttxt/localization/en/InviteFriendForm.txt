@@ -1,0 +1,33 @@
+﻿FLI_Name	<valign=center>[?]
+IF_ButtonSend	<valign=center><align=center><font=tahoma_bold_11>[IF_ButtonSendText]
+IF_ButtonSendText	Send Invite
+IF_DungeonsFilled	<valign=center><align=center><color=FFFFFF><font=tahoma_bold_10>[IF_DungeonsFilledText]
+IF_DungeonsFilledText	You have reached the maximum limit for help requests.
+IF_FB_InviteText	Let's play King's Bounty Legions together! That was the last one...
+IF_FB_InviteTitle	Invite friends to King's Bounty Legions.
+IF_FriendsFilled	<valign=center><align=center><color=FFFFFF><font=tahoma_bold_10>[IF_FriendsFilledText]
+IF_FriendsFilledText	You selected the maximum<br>number of friends!<br><br><font=tahoma_bold_11>Click [IF_ButtonSendText]<br>below!
+IF_SelectAll	<valign=center><font=tahoma_bold_10>[TextColor][IF_SelectAllText]
+IF_SelectAll50	<valign=center><font=tahoma_bold_10>[TextColor][IF_SelectAll50Text]
+IF_SelectAll50Text	[?] friends!
+IF_SelectAllText	All friends
+IF_TitleDungeonText	Call some friends
+IF_TitleDungeonTmpl	<align=center><valign=center>[FormTitleText][FormTitleColor][IF_TitleDungeonText]
+IF_TitleInfoDungeonText	If you cannot see your friend on the list, it means you have sent them a request before.
+IF_TitleInfoDungeonTmpl	<align=center><valign=center><color=FFFFFF>[IF_TitleInfoDungeonText]
+IF_TitleInfoText	Inviting a friend doubles the gold you receive for a battle.
+IF_TitleInfoTmpl	<align=center><valign=center><color=FFFFFF>[IF_TitleInfoText]
+IF_TitleText	Select friends to send invites
+IF_TitleTmpl	<align=center><valign=center>[FormTitleText][FormTitleColor][IF_TitleText]
+IFF_ButtonTmpl	<align=center><valign=center><font=tahoma_bold_11>Invite friends!
+IFF_DescriptionNoX2Text	Invite friends to the game.<br>Allies in the game can both exchange gifts and support each other in battle.
+IFF_DescriptionText	Play together with your friends.<br>You will receive one battle with double gold for each friend you invite. The more friends you invite, the more gold you'll get!
+IFF_TextNoX2Tmpl	<align=center><valign=center><font=tahoma_bold_10>[TextColor][IFF_DescriptionNoX2Text]
+IFF_TextTmpl	<align=center><valign=center><font=tahoma_bold_10>[TextColor][IFF_DescriptionText]
+IFF_TitleNoX2Text	Invite your friends!
+IFF_TitleNoX2Tmpl	[FormTitleText][FormTitleColor][IFF_TitleNoX2Text]
+IFF_TitleText	Double gold in battle!
+IFF_TitleTmpl	[FormTitleText][FormTitleColor][IFF_TitleText]
+
+
+

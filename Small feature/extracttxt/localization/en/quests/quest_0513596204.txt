@@ -1,0 +1,8 @@
+﻿quest_system_513596204_desc	Ahem... Are you one of the rookies, too? Well, well... Let’s see what you’re made of... Sometimes the locals don’t fully appreciate the benefits of serving the Order. Some of them even grabbed their pitchforks, rioting, plundering the barns. It’s time to rein them in! Your first mission is to destroy about a dozen of these bumpkins.
+quest_system_513596204_done	Yeah, it’s not the best job. But someone has to establish law and order around here. I saw you in action. You’ll do fine... 
+quest_system_513596204_name	Strength Test
+quest_system_513596204_stage_0	Hunt
+quest_system_513596204_task	Kill a few Peasants
+
+
+

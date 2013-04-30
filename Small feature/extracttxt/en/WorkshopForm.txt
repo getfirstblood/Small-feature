@@ -1,0 +1,84 @@
+﻿WS_AskButtonCaption	Request
+WS_AskButtonDisabledTooltipByCooldown	You already sent a request for help to your friends. You will be able to send another request in [?]
+WS_AskButtonDisabledTooltipByLimit	You may not request any more help, having reached your help request limit. You will be able to send your request in [?]
+WS_AskButtonEnabledTooltip	Ask friends to send you this resource.<br>[?] requests of [?] left
+WS_AskButtonHours	[?] {#digits_format (digit_simple_format) (hour, hours, hours)}
+WS_AskButtonMinutes	[?] {#digits_format (digit_simple_format) (minute, minutes, minutes)}
+WS_AskWallpostAction	Send item
+WS_AskWallpostDescription	Not enough resources to create the item!<br>I require resources to make the special item: [$]. Help me and get your reward.
+WS_AskWallpostText	[AD_KB_Wall_Text]
+WS_AskWallpostTitle	Help me!
+WS_BuyButtonCaption	Buy
+WS_BuyButtonEnabledTooltip	[WS_TooltipNormalFont]Buy 1 [WS_TooltipDescriptionFont]{item_name} [WS_TooltipNormalFont]for Gems.
+WS_CollectionHeader	<font=tahoma_bold_11><color=652401>[WS_CollectionName] [WS_CollectionLevel]
+WS_CollectionLevel	(Level [?])
+WS_CollectionName	[?]
+WS_CollectionUnavailable	<font=tahoma_bold_10><color=652401>[WS_MakeButtonUnavailableTooltip].
+WS_ComponentBuyButton	<font=tahoma_bold_10_border_smooth_numbers_only><align=center><valign=center><indent=10>[?]
+WS_ComponentTooltip	[WS_ComponentTooltipHeaderText][WS_ComponentTooltipDescriptionText][$]
+WS_ComponentTooltipDescriptionScrollText	<align=left>[WS_TooltipDescriptionFont]{ability_text_description}
+WS_ComponentTooltipDescriptionText	<align=left>[WS_TooltipDescriptionFont]{item_desc}
+WS_ComponentTooltipHeaderText	[WS_TooltipHeaderFont]<align=center>{item_name}<br=2><image=textures/interface/common/breaker_260x1 width=200><br>
+WS_ComponentTooltipScroll	[WS_ComponentTooltipHeaderText][WS_ComponentTooltipDescriptionScrollText]
+WS_ComponentTooltipTypeText	<br><br><align=left>[WS_TooltopPriceFont]Type: [WS_TooltipNormalFont]{item_type}
+WS_CountInProgressTextFormat	<align=center><valign=center><font=tahoma_bold_8_numbers_only><color=FFFFFF>[?]/[?]</color></font>
+WS_CountResultTextFormat	<align=center><valign=center><font=tahoma_bold_8_numbers_only><color=FFFFFF>[?]</color></font>
+WS_CountTextFormat	<align=center><font=tahoma_bold_8>[$][?]</color><color=393939>/[?]</font>
+WS_CraftNotifyButtonCaption	Inventory
+WS_CraftNotifyButtonRuneBook	Runes
+WS_CraftNotifyButtonSpellBook	Spell Book
+WS_FormCaption	[FormTitleText][FormTitleColor]Workshop
+WS_LockedTabTooltip	<align=left>[WS_TooltipDescriptionFont]You can access these drafts only when you reach level [WS_TooltipNormalFont][?]
+WS_MakeButtonCaption	Create
+WS_MakeButtonDisabledTooltip	Not enough resources to create the item.
+WS_MakeButtonEnabledTooltip	Create an item by spending the necessary resources.
+WS_MakeButtonUnavailableTooltip	You must reach level [?]
+WS_MakeManyMessageNormal	You used the Workshop to create the following items: <color=652401>[?]</color> Number: <color=652401>[?]</color> piece(s).
+WS_MakeMessageError	Error! The item hasn't been created.
+WS_MakeMessageNormal	You used the Workshop to create the new item: <color=652401>[?].
+WS_MakeMessageSpecial	Congratulations, you have managed to create an artful item <color=652401>[?].
+WS_NotifierCollectionHeader	<font=tahoma_bold_10><color=652401><align=center><valign=center>[WS_CollectionName]
+WS_ResultTooltip	[WS_ResultTooltipHeaderText][WS_ResultTooltipDescriptionText]
+WS_ResultTooltipChanceText	<br>[WS_SpecialIconTooltip]
+WS_ResultTooltipDescriptionScrollText	[WS_TooltipDescriptionFont]<align=left>{ability_text_description}
+WS_ResultTooltipDescriptionText	[WS_TooltipDescriptionFont]<align=left>{item_desc}
+WS_ResultTooltipHeaderText	[WS_TooltipHeaderFont]<align=center>[?]<br=2><image=textures/interface/common/breaker_260x1 width=200><br>
+WS_ResultTooltipScroll	[WS_ResultTooltipHeaderText][WS_ResultTooltipDescriptionScrollText]
+WS_SpecialIconTooltip	[WS_TooltipDescriptionFont]Chance of creating an artful item with the unique property: [WS_TooltipNormalFont][?]%
+WS_TabName_armor	Armor
+WS_TabName_belts	Belts
+WS_TabName_boots	Footwear
+WS_TabName_goods	Goods
+WS_TabName_helmets	Headgear
+WS_TabName_materials	Alchemical Laboratory
+WS_TabName_rune	Runes
+WS_TabName_scrolls	Magic Constructor
+WS_TabName_shields	Shields
+WS_TabName_weapons	Weapons
+WS_TabTooltip_armor	<align=center>[WS_TooltipHeaderFont]Armor<br><align=left>[WS_TooltipDescriptionFont]Workshop for making armor for Legionaries, from regular to elite. 
+WS_TabTooltip_belts	<align=center>[WS_TooltipHeaderFont]Belts <br><align=left>[WS_TooltipDescriptionFont]Create belts, sashes and girdles of any size, shape or quality.
+WS_TabTooltip_boots	<align=center>[WS_TooltipHeaderFont]Footwear<br><align=left>[WS_TooltipDescriptionFont]Making footwear for Knights of the Academy. 
+WS_TabTooltip_goods	<align=center>[WS_TooltipHeaderFont]Goods <br><align=left>[WS_TooltipDescriptionFont]In this workshop you can create auras, licenses, and stamina potions. 
+WS_TabTooltip_helmets	<align=center>[WS_TooltipHeaderFont]Headgear<br><align=left>[WS_TooltipDescriptionFont]Create new headgear for your Legionary. 
+WS_TabTooltip_materials	<align=center>[WS_TooltipHeaderFont]Alchemical Laboratory<br><align=left>[WS_TooltipDescriptionFont]Use the Laboratory to obtain new resources.
+WS_TabTooltip_rune	<align=center>[WS_TooltipHeaderFont]Runes<br><align=left>[WS_TooltipDescriptionFont]Produce Runes and use them in battle. 
+WS_TabTooltip_scrolls	<align=center>[WS_TooltipHeaderFont]Magical Constructor<br><align=left>[WS_TooltipDescriptionFont] Use various resources to create magical Scrolls.
+WS_TabTooltip_shields	<align=center>[WS_TooltipHeaderFont]Shields<br><align=left>[WS_TooltipDescriptionFont]Forge shields of different kinds to defend against enemy attacks. 
+WS_TabTooltip_weapons	<align=center>[WS_TooltipHeaderFont]Weapons <br><align=left>[WS_TooltipDescriptionFont]A smithy that makes the best weapons for the Knights of the Academy. 
+WS_TooltipDescriptionFont	<color=fbefb0><font=tahoma_regular_8>
+WS_TooltipHeaderFont	<color=f4ef72><font=tahoma_bold_10>
+WS_TooltipNormalFont	<color=FFFFFF><font=tahoma_regular_8>
+WS_TooltopPriceFont	<color=dec25e><font=tahoma_regular_8>
+WS_TypeCommon	Common
+WS_TypeEpic	Epic
+WS_TypeExceptional	Singular
+WS_TypeLegendary	Legendary
+WS_TypeNone	Unknown
+WS_TypeRare	Rare
+WS_TypeRife	Frequent
+WS_TypeUncommon	Unusual
+WS_WokshopButtonTooltip	<valign=top><color=DDDD00><font=tahoma_bold_10>Workshop<color=36FF00> (W)<br><color=FFFFFF><font=tahoma_regular_8><align=left>Workshop for making magical items out of various resources. 
+WS_WokshopButtonTooltip_Tablets	<valign=top><color=DDDD00><font=tahoma_bold_10>Workshop<br><color=FFFFFF><font=tahoma_regular_8><align=left>Workshop for making magical items out of various resources.
+
+
+

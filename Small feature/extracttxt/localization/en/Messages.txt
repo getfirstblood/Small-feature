@@ -1,0 +1,178 @@
+﻿AMSG_SHOP_BADJSON	<align=center><valign=center><font=tahoma_bold_10><color=000000>Invalid JSON answer from the game server.
+AMSG_SHOP_EMPTYANSWER	<align=center><valign=center><font=tahoma_bold_10><color=000000>Empty response from the game server.
+AMSG_SHOP_WRONGANSWER	<align=center><valign=center><font=tahoma_bold_10><color=000000>Invalid response from the game server.
+AMSG_UNKNOWN_ERROR	<align=center><valign=center><font=tahoma_bold_10><color=000000>Unknown game server error
+AR_APPSTORE_UNAVIABLE	<align=center><valign=center><font=tahoma_bold_10><color=000000>The Shop is currently unavailable.<br><br>Try to make the purchase later.
+AR_ERROR_TITLE	<align=center><valign=center><font=tahoma_bold_12><color=FBFFC5>Purchase error
+AR_INVALID_ITEMID	<align=center><valign=center><font=tahoma_bold_10><color=000000>The item was not found.<br><br>Our master will soon fix this issue and return it where it belongs.
+AR_INVALID_PRODUCT_RESPONCE	<align=center><valign=center><font=tahoma_bold_10><color=000000>There was a problem with item request.<br><br>Please try again.
+AR_RECEIPTVERIFY_STATUSERROR	<align=center><valign=center><font=tahoma_bold_10><color=000000>Receipt validation error (client-side).
+AR_RECEIPTVERIFY_WRONGRESULT	<align=center><valign=center><font=tahoma_bold_10><color=000000>Receipt validation error in AppStore (client-side).
+AR_SUCCESS	<align=center><valign=center><font=tahoma_bold_10><color=000000>Congratulations on your purchase.<br><br>Don’t forget to check out our other products.
+AR_SUCCESS_TITLE	<align=center><valign=center><font=tahoma_bold_12><color=FBFFC5>Congratulations
+AR_TRANSACTION_CANCEL	<align=center><valign=center><font=tahoma_bold_10><color=000000>Purchase cancelled.
+IRF_LevelTmpl	<color=44FF44>[?]</color>
+IRF_PlayerNameTmpl	<color=E8C571>[?]</color>
+IRF_TextTmpl	<align=left><valign=center><line_spacing=2><font=tahoma_regular_10>[TextColor][$][?]
+MT_ActiveArmyCooldown	You can not enter a battle now; your army is still in cooldown.
+MT_AdjustLeadership	Would you like to adjust Leadership and spell power when searching for opponents?
+MT_ArenaNameUndefined	Arena Name Undefined
+MT_ArenaPanelExitBattle	Exiting battle...
+MT_ArenaPanelLoading	Loading...
+MT_ArenaPanelWaiting	Please wait...
+MT_ArmyTooSmallForPvP_Text	Your army is too small to fight with other players. You need a minimum of <color=6B2E00><font=tahoma_bold_11>[?]</color> units. Would you like to add more soldiers now?
+MT_BattleCanNotBeRestored	Unable to restore PvP battle.
+MT_BattleInitTimeoutOnServerSide	Battle Initiation Timeout On Server Side 
+MT_BuyCrystal_Text	Would you like to buy some Gems?
+MT_BuyMoney_Text	Would you like to buy some Gold?
+MT_BuyStamina_Text	Would you like to refill your Stamina?
+MT_CancelMyPvPBattleRequest	Pause
+MT_CancelWaitForLoadBtlConnection	Cancel
+MT_CannotSendToHimself	You can’t give yourself a gift
+MT_CantAddBattleOnBattleServer	Can’t Add Battle On Battle Server
+MT_CantBuyPremiumItem	You cannot buy a premium item
+MT_CantConnectPolicyNotAccessible	Unable to connect, since no<br>matching cross-domain policy was found.<br><br>Please, refresh the page.
+MT_CantConnectPolicyNotAccessible_Tablet	[MT_CantConnectPolicyNotAccessible][MT_DisconnectedDialogClose]
+MT_CantConnectToServer	Unable to establish a connection with the server.<br>Reason unknown
+MT_CantConnectToServer_Tablet	[MT_CantConnectToServer][MT_DisconnectedDialogClose]
+MT_CantConnectUnknownReason	Unable to establish a connection. Reason unknown
+MT_CantConnectUnknownReason_Tablet	[MT_CantConnectUnknownReason][MT_DisconnectedDialogClose]
+MT_CantCreateBattleInstance	Unable to create PvP battle.
+MT_CantFindArmyById	Internal server error. Specified army not found.
+MT_CantInitBattleArenaOnServerSide	Can’t Init Battle Arena On Server Side
+MT_CantLoadBundle	Unable to download the data file [?]
+MT_CantStartBattleWithEmptyEnemyArmy	You cannot begin a battle with an opponent who has no units in his army.
+MT_CantStartBattleWithEmptyPlayerArmy	You cannot begin a battle. You have no units in your army.
+MT_CantStartBattleWithMyself	Players cannot attack themselves
+MT_CaptchaNotDownloadedCaption	Error
+MT_CaptchaNotDownloadedText	There was an error communicating with the server. Please try again.
+MT_CaptchaNotEnoughParamCaption	Error
+MT_CaptchaNotEnoughParamText	User authorization failed.
+MT_CaptchaWrongCaption	Error
+MT_CaptchaWrongText	You entered an invalid code. Please try again.
+MT_ClientsTimeoutOnBattleCreation	Client’s Timeout On Battle Creation
+MT_CollectionRequestAccepted	<font=tahoma_bold_10><color=652401>[?]</font> has sent you some valuable resources, check your mail! 
+MT_ConnectionAuthNoInternet	You need an Internet connection to play the game.
+MT_ConnectionNoNetwork	No available networks
+MT_ConnectionWaitForNetwork	Waiting for a connection
+MT_CostNotSetRes	Healing cost for unit not set
+MT_DisconnectDescription	<br>Description: [?]
+MT_DisconnectedBtnOk	<align=center><valign=center><font=tahoma_bold_12>[TextColor]Reconnect
+MT_DisconnectedDialogClose	<br>Close the message to re-enter the game.
+MT_DisconnectedFromServer	You were disconnected from the server.
+MT_DisconnectedFromServer_Tablet	[MT_DisconnectedFromServer][MT_DisconnectedDialogClose]
+MT_DisconnectedFromServerMsg	[MT_DisconnectedFromServer][?][?]
+MT_DisconnectedFromServerMsg_Tablet	[MT_DisconnectedFromServer][MT_DisconnectedDialogClose]
+MT_DisconnectedWrongVersion	Old client version.<br>Connection with server lost
+MT_DisconnectedWrongVersion_Tablet	[MT_DisconnectedWrongVersion][MT_WrongVersionDialogClose]
+MT_DisconnectReason	<br>Reason: [$]
+MT_DR_SERVER_CONNECTED_FROM_OTHER_PLACE	You have connected to the game from a different client
+MT_DR_SERVER_NO_FREE_LOCATION_SRV	Server full
+MT_DR_SERVER_PLAYER_BANNED	Player banned
+MT_DR_SERVER_UNKNOWN_REASON	Unknown
+MT_DungeonArmyInfoNotFound	Army details not found
+MT_DungeonArmyNotEnoughFriends	Not enough friends to fight with an army
+MT_DungeonRequestAccepted	You have received a letter from <font=tahoma_bold_10><color=652401>[?]</font> confirming help with hunting for villains. Check your mailbox.
+MT_DungeonRequestReceived	You have received a letter from <font=tahoma_bold_10><color=652401>[?]</font> asking you for help in a hunt for villains. Check your mailbox.
+MT_Error	Error
+MT_EulaForm_Accept	<align=center><valign=center><font=tahoma_bold_12>[TextColor]Accept
+MT_EulaForm_Close	<align=center><valign=center><font=tahoma_bold_12>[TextColor]Close
+MT_EulaForm_ImAccept	<font=tahoma_bold_12>[TextColor]I agree
+MT_EulaText	<font=tahoma_regular_10>[TextColor][?]
+MT_FoundRatedOpponent	<align=center><valign=center><font=tahoma_bold_12><color=FFCC00>Matching opponent found!
+MT_GiftInternalServerError	Internal server error
+MT_GiftNotFoundForPlayerLevel	No suitable reward was found for the player’s level
+MT_GiftReceived	You've received a gift from <font=tahoma_bold_10><color=652401>[?]</font>. Check your mailbox.
+MT_GiftToPlayerAlreadySended	You’ve already sent this friend a gift today
+MT_GraveyardFirstVisitMsgBox	You can resurrect your slain units here.
+MT_GraveyardMsgTooltip	Infirmary
+MT_InactivityWarning	You haven’t issued any orders in battle for a long time, and you army has deserted the battlefield.
+MT_Info	Information
+MT_InternalServerError	Internal server error
+MT_JoinToBattle	Player [$] wants to fight you
+MT_Level	Level: [$]
+MT_MaxGiftsPerDayExceeded	You’ve sent all of the gifts available today
+MT_Message_ErrorRequest	<align=center><valign=center><font=tahoma_bold_10>[LF_BtnHelpTextColor]Sorry! Request error:<br><color=FF4040>[?]<br>[LF_BtnHelpTextColor]Try again.
+MT_MoveFromLockedNode	You have found yourself in locked settlement. Royal Scouts have led your squad to <color=6B2E00><font=tahoma_bold_11>[$]</color> along secret paths.
+MT_NeighbourRequest	Player [$] wants to add you to their neighbors
+MT_NeighbourRequestConfirmed	Player [$] has confirmed you as their neighbor
+MT_NeighbourRequestRejected	Player [$] has declined to be your neighbor
+MT_NewPvPLegionCaption	New Legion!
+MT_NewPvPLegionText	The fame of your victories has spread throughout the land. You are transferring to a different Legion - [$] 
+MT_NewPvPTitleCaption	New title!
+MT_NewPvPTitleText	News of your victories has spread throughout the Kingdom. The delighted citizens will now call you [$]
+MT_NoError	No errors
+MT_NoNetworkConnections_Tablet	Network not available.
+MT_NotEnoughCrystal_Text	Not enough Gems Would you like to buy some?
+MT_NotEnoughCrystalForBuy_Text	Not enough Gems to purchase
+MT_NotEnoughCrystalForResurrection_Text	Not enough Gems to heal
+MT_NotEnoughMoney_Text	Not enough Gold. Would you like to buy some?
+MT_NotEnoughMoneyForBuy_Text	Not enough Gold for this purchase
+MT_NotEnoughMoneyForResurrection_Text	Not enough Gold to heal
+MT_NotEnoughStaminaForBattle	Not enough Stamina for battle.
+MT_NotEnoughStaminaForPVEBattle	Insufficient Stamina for a battle. Would you like to refill it?
+MT_NotEnoughStaminaForResurrection	Not enough Stamina to heal
+MT_NotEnoughStaminaForResurrection_Text	Not enough Stamina to heal
+MT_OneOrMorePlayerHasDisconnected	Player disconnected
+MT_OpponentCanceledHisBattleRequest	The opponent has canceled his challenge.
+MT_OpponentCantJoinBattle	The opponent cannot join the PvP battle
+MT_OpponentDeclinedBattle	The opponent has rejected your challenge
+MT_OpponentIsInBattle	The opponent is already in battle
+MT_OpponentIsOffline	The player is offline
+MT_OpponentIsWalking	The opponent has left the current location
+MT_PaymentOperationFalse	The purchase was unsuccessful.
+MT_PlayerIsInBattle	Out of sync. You are already fighting someone!
+MT_PlayerIsOffline	Out of sync. You have left the game!
+MT_PlayerIsWalking	Out of sync. You have left this location to travel somewhere!
+MT_PriceInvalid	You can’t buy goods at this price.
+MT_PurchaseLevelError	Your level is not high enough to buy this item!
+MT_PurchaseOk	Your purchase was successful!
+MT_PurchaseUnsifficientFunds	Not enough money for purchase!
+MT_PurchaseUnsifficientQuantity	Not enough items for this purchase!
+MT_PurchaseUnspecifiedError	Unknown error. Nothing was purchased!
+MT_RateButtonNever	[FormButtonText_9][FormButtonColor]Never<br>estimate
+MT_RateButtonNo	[FormButtonText_9][FormButtonColor]No
+MT_RateButtonYes	[FormButtonText_9][FormButtonColor]Ok
+MT_RateText	<align=center><valign=center><font=tahoma_bold_11><color=FFCC00>Support us! <br>Give us five stars!
+MT_RateTitle	[FormTitleText][FormTitleColor]Leave feedback
+MT_ReceiveAuthError	Auth receive error: [?]
+MT_ReceiveAuthError_Tablet	[MT_ReceiveAuthError][MT_DisconnectedDialogClose]
+MT_ReceiveAuthForbidden	Sorry, but the server is down for maintenance.<br>Please try again later.
+MT_ReceiveAuthFull	Server full
+MT_ReceiveAuthFull_Tablet	[MT_ReceiveAuthFull][MT_DisconnectedDialogClose]
+MT_ReceiveAuthNull	The server sent an empty reply to the authorization request.
+MT_ReceiveAuthNull_Tablet	[MT_ReceiveAuthNull][MT_DisconnectedDialogClose]
+MT_ReceiveAuthUnknownHost	You need an Internet connection to play the game.
+MT_Reinforcement	<align=center><valign=center>The King has sent you some reinforcements:
+MT_SpeedUp	Search acceleration
+MT_Strenth	Strength: [?]
+MT_Template	[?]
+MT_TextTmpl	<align=center><valign=center><line_spacing=2><font=tahoma_regular_10><color=FFFFFF>[?]
+MT_TimeLeftFormatUntilRatedBattle	<align=center><valign=center><font=tahoma_regular_24_border_smooth><color=FCFFc3>[?]...
+MT_TimeLeftUntilRatedBattle	<align=center><valign=center><color=FCFFc3>Time remaining until combat begins
+MT_Title_ErrorRequest	<align=center><valign=center><font=tahoma_bold_12>[LF_BtnTextColor]Request error
+MT_TradeSessionNotExist	The purchase is unavailable due to a server error. Please try again later.
+MT_TryBuyStaff_Tmpl	<color=6B2E00><align=center><font=tahoma_bold_11>[$]<br=10></color><align=left>[$]. [$]
+MT_UnknownError	Unknown error
+MT_UnsufMoneyRes	Not enough money to heal
+MT_UnsufStaminaRes	Not enough Stamina to heal
+MT_VersionCheckFailed	Unable to connect: unsupported client version<br>Try refreshing your browser in a few minutes.
+MT_WaitForBattle	Prepare for the battle
+MT_WaitForLoadBtlConnection	<font=tahoma_bold_12_border_smooth>Waiting for connection with opponent...
+MT_WaitForLoadBtlLoading	<font=tahoma_bold_12_border_smooth>Waiting to load opponent’s resources...
+MT_WaitForPvPBattle	PVP battle is starting
+MT_WalkFastToNodeQuestion	Moving to location <color=6B2E00><font=tahoma_bold_11>[$]</color> will use [?] Stamina points . Do you want to begin the journey?
+MT_WalkSlowToNodeQuestion	You don’t have enough Stamina to move to <color=6B2E00><font=tahoma_bold_11>[$]</color>. Transit cost to this location is [?] Stamina. Would you like to refill your Stamina?
+MT_WalkToNodTitle	Move to Location
+MT_Warning	Warning
+MT_WrongVersionBtnOk	<align=center><valign=center><font=tahoma_bold_12>[TextColor]Update
+MT_WrongVersionDialogClose	<br>The game will now be refreshed.
+PopUp_CreatureBought	[PopUp_Style]Hired unit [?] х [?]. Hired for <image=[?]>[?].
+PopUp_ItemBought	[PopUp_Style]Purchased item [?] х[?]. Purchased for <image=[?]>[?].
+PopUp_NewCreature	[PopUp_Style]Discovered new unit [$].
+PopUp_ResourceBought	[PopUp_Style]Purchased resource [?] х[?]. Purchased for <image=[?]>[?].
+PopUp_ScollBought	[PopUp_Style]Purchased scroll [?] х[?]. Purchased for <image=[?]>[?].
+PopUp_Style	<font=tahoma_bold_10_border_smooth><align=center><valign=center><color=FFFF00>
+
+
+

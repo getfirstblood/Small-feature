@@ -1,0 +1,58 @@
+﻿MS_AllCrystal	<align=right><color=48E9FF><font=tahoma_bold_10_border_smooth>Total Gems</color>
+MS_AllCrystalNumber	<align=right><color=48E9FF><font=tahoma_bold_10_border_smooth_numbers_only>[?]</color>
+MS_AskFriendStaminaRequestShown	You have requested assistance from your friends; all you need to do is wait for it. 
+MS_ButtonAskFriend	Ask a friend
+MS_ButtonAskFriend_tooltip_disable	You will be able to send another request for help in [?]
+MS_ButtonAskFriend_tooltip_disable_fewSeconds	a few seconds
+MS_ButtonAskFriend_tooltip_enable	You can ask your friends to replenish your Stamina by sending a message.
+MS_BuyButton	<font=tahoma_bold_10_border_smooth>[MS_BuyButtonText]
+MS_BuyButtonText	Buy
+MS_BuyText	<font=tahoma_bold_10_border_smooth_numbers_only><align=center><valign=center>[?]
+MS_CloseButton	[FormButtonText_9][FormButtonColor][CloseButton]
+MS_ConfirmAskFriendStamina	You can ask your friends to replenish your Stamina by sending this message. Request
+MS_CristalName	<font=tahoma_bold_11>[$]
+MS_CristalPrice	<align=right><color=FFC101><font=tahoma_bold_11>[?]</color>
+MS_CurrentPlayerCrystal	[MS_InfoTmpl][MS_InfoTextColor][MS_CurrentPlayerCrystalText]
+MS_CurrentPlayerCrystalText	You have [MS_ImageTextFormat] Gold and [MS_ImageTextFormat] Gems.
+MS_CurrentPlayerGold	[MS_InfoTmpl][MS_InfoTextColor][MS_CurrentPlayerGoldText]
+MS_CurrentPlayerGoldText	You have [MS_ImageTextFormat] Gold and [MS_ImageTextFormat] credits
+MS_CurrentPlayerTacticBooks	[MS_InfoTmpl][MS_InfoTextColor][MS_CurrentPlayerTacticBooksText]
+MS_CurrentPlayerTacticBooksText	You have [MS_ImageTextFormat] Strategy Books and Gems [MS_ImageTextFormat]
+MS_GoldName	Gold
+MS_ImageTextFormat	<image=[$]><indent=2>[?]
+MS_InfoGameMoney	[MS_InfoTmpl][MS_InfoTextColor][MS_InfoGameMoneyText]
+MS_InfoGameMoneyText	Buy a treasure chest to refill your Gold.
+MS_InfoLicense	[MS_InfoTmpl][MS_InfoTextColor][MS_InfoLicenseText]
+MS_InfoLicenseText	Buy licenses to get additional abilities
+MS_InfoStamina	[MS_InfoTmpl][MS_InfoTextColor][$][?][MS_InfoStaminaText]
+MS_InfoStaminaText	Buy Stamina refilling potions
+MS_InfoTacticBook	[MS_InfoTmpl][MS_InfoTextColor][MS_InfoTacticBookText]
+MS_InfoTacticBookText	Buy Strategy Books
+MS_InfoTextColor	<color=EECC6B>
+MS_InfoTmpl	<align=center><valign=center><font=tahoma_bold_10>
+MS_ItemEffectDesc	[MS_TextMiniTmpl]<valign=top>[MS_ItemEffectDescColor]({item_value} [$])
+MS_ItemEffectDescColor	<color=D0B25C>
+MS_ItemNameText	[MS_TextMiniTmpl][MS_ItemTextColor][?]
+MS_ItemsCount	[MS_TextTmpl][MS_ItemTextColor][MS_ItemsCountText] [?]
+MS_ItemsCountText	Quantity:
+MS_ItemTextColor	<color=EBE2AB>
+MS_KoreaText	
+MS_StaminaName	Stamina
+MS_TacticBookName	Books
+MS_TextMiniTmpl	<align=center><valign=center><font=tahoma_regular_7_border>
+MS_TextTmpl	<align=center><valign=center><font=tahoma_regular_8><wordwrap=off>
+MS_TitleCrystal	[FormTitleText][FormTitleColor][MS_TitleCrystalText]
+MS_TitleCrystalText	Purchase Gems
+MS_TitleGameMoney	[FormTitleText][FormTitleColor][MS_TitleGameMoneyText]
+MS_TitleGameMoneyText	Gold
+MS_TitleLicense	[FormTitleText][FormTitleColor][MS_TitleLicenseText]
+MS_TitleLicenseText	License Purchase
+MS_TitleStamina	[FormTitleText][FormTitleColor][MS_TitleStaminaText]
+MS_TitleStaminaText	Stamina Refill
+MS_TitleTacticBook	[FormTitleText][FormTitleColor][MS_TitleTacticBookText]
+MS_TitleTacticBookText	Buying Strategy Books
+MS_TooltipText	<color=FFFFFF><font=tahoma_regular_8><align=left>{item_desc} {item_impact_duration}
+MS_UseText	<align=center><valign=center><font=tahoma_regular_9_border>[MS_UseTextText]
+MS_UseTextText	Use
+
+

@@ -1,0 +1,8 @@
+﻿quest_system_2110497605_desc	A repelling spell has been cast on the port and the town has gone mad for a couple of days. Good thing my boys are always alert. They told me that a small boat has arrived to one of the wharfs that is hidden from sight because it is located a bit farther away from town. In the boat there were several tall masked men equipped with strange devices apparently made of tubes and vials. They used potions of some sort to put the guards to sleep and stole the keys to the royal arsenal, which is where all the explosive reagents are kept. If these tinkerers lay their hands on them, they’ll be able to blow up half the town. They need to be stopped as quickly as possible.
+quest_system_2110497605_done	Thank Rusith! The soldiers are alive! Meanwhile, I found out more about those people. They were a troop of well-trained alchemists and inventors, Chaos-worshippers all. They have the knowledge to produce potions that neutralize the effects of other spells. It was a pre-planned attack, just as I feared. No one but them could have gotten into the Port through the magic barrier. Thank you for your help and for saving all of our lives.
+quest_system_2110497605_name	Thieves with Poisons
+quest_system_2110497605_stage_0	Rout
+quest_system_2110497605_task	Destroy {counter_limit_0} Inventors 
+
+
+

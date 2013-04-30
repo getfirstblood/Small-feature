@@ -1,0 +1,25 @@
+﻿chat_system_1289695663_actor_description	Tender the Forest Ranger A Ranger who keeps an eye on the forests
+chat_system_1289695663_snap_0_answer_0	Bear Land
+chat_system_1289695663_snap_0_answer_1	Green Ultimatum
+chat_system_1289695663_snap_0_answer_2	Shuttle Diplomacy
+chat_system_1289695663_snap_0_answer_3	All you in disagreement, go home!
+chat_system_1289695663_snap_0_answer_4	All you in disagreement, go home!
+chat_system_1289695663_snap_0_answer_5	Final Push
+chat_system_1289695663_snap_0_question	It feels more peaceful in the forest, right? The most important thing in life is not to be bothered.
+chat_system_1289695663_snap_1_answer_0	end quest dialog
+chat_system_1289695663_snap_1_question	Hello man!
+chat_system_1289695663_snap_2_answer_0	begin quest dialog
+chat_system_1289695663_snap_2_question	Hello man!
+chat_system_1289695663_snap_3_answer_0	end quest dialog
+chat_system_1289695663_snap_3_question	Hello man!
+chat_system_1289695663_snap_4_answer_0	begin quest dialog
+chat_system_1289695663_snap_4_question	Hello man!
+chat_system_1289695663_snap_5_answer_0	(away)
+chat_system_1289695663_snap_5_question	Make them go away. Let them go back and restore whatever they want back there! That is, as far from here as possible.
+chat_system_1289695663_snap_6_answer_0	end quest dialog
+chat_system_1289695663_snap_6_question	end quest text
+chat_system_1289695663_snap_7_answer_0	begin quest dialog
+chat_system_1289695663_snap_7_question	Hello man!
+
+
+

@@ -1,0 +1,32 @@
+﻿chat_system_96949706_actor_description	Maximus the Exorcist. A famous exorcist who'd found glory in many battles of the past
+chat_system_96949706_snap_0_answer_0	A Mystery Encounter
+chat_system_96949706_snap_0_answer_1	Guardians of the Chambers
+chat_system_96949706_snap_0_answer_2	Guardians of the Chambers
+chat_system_96949706_snap_0_answer_3	The Animate Inanimate
+chat_system_96949706_snap_0_answer_4	What the Gate Doesn't Say
+chat_system_96949706_snap_0_answer_5	A Report to Albus
+chat_system_96949706_snap_0_answer_6	Golden Legion
+chat_system_96949706_snap_0_question	I often recollect the battles of old against monsters and hellspawn. May those times never return.
+chat_system_96949706_snap_1_answer_0	end quest dialog
+chat_system_96949706_snap_1_question	Hello man!
+chat_system_96949706_snap_10_answer_0	end quest dialog
+chat_system_96949706_snap_10_question	Hello man!
+chat_system_96949706_snap_2_answer_0	begin quest dialog
+chat_system_96949706_snap_2_question	Hello man!
+chat_system_96949706_snap_3_answer_0	(away)
+chat_system_96949706_snap_3_question	The chamber entrance is at the end of the main tunnel. All you have to do is sort out the fell things that lurk in the mazes of caverns all the time.
+chat_system_96949706_snap_4_answer_0	end quest dialog
+chat_system_96949706_snap_4_question	end quest text
+chat_system_96949706_snap_5_answer_0	begin quest dialog
+chat_system_96949706_snap_5_question	Hello man!
+chat_system_96949706_snap_6_answer_0	(away)
+chat_system_96949706_snap_6_question	You're either very brave or very foolish indeed.
+chat_system_96949706_snap_7_answer_0	end quest dialog
+chat_system_96949706_snap_7_question	end quest text
+chat_system_96949706_snap_8_answer_0	end quest dialog
+chat_system_96949706_snap_8_question	Hello man!
+chat_system_96949706_snap_9_answer_0	begin quest dialog
+chat_system_96949706_snap_9_question	Hello man!
+
+
+

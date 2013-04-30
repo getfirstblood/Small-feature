@@ -1,0 +1,8 @@
+﻿quest_system_469171827_desc	The stolen manuscripts describe a ritual of the Speakers with the Dead. The secret of this ritual was protected by the Guardians with utmost care because these spells may be used to awaken ancient and extremely dangerous powers. There is a reason to believe that some irresponsible individuals accessed these powers and caused the Cataclysm which turned our world into ruins. The history of the War and of the Cataclysm is hidden here in the Tiltyard, in its most protected archive. Now we'll have to extract and study it in order to know what the ritual itself may cause. But... Even though I am in charge of the Tiltyard, I'm unaware of the Archive's secrets. The previous Exorcist died before sharing this knowledge. It could be that the old quartermaster of the Order knows something about it. His name is Lok Toyl; he recently retired and bought himself a cottage in the Barley Grove. Please visit him and ask him where the archive's key is. 
+quest_system_469171827_done	The Senior Exorcist sent you? You say he sent you to me? The key to the Tiltyards archive? Well... let’s see what I can do to help.
+quest_system_469171827_name	Keys to the Archive
+quest_system_469171827_stage_0	Speak
+quest_system_469171827_task	Find out from Lok Toyl how to open the ancient Archive of the Tiltyard.
+
+
+

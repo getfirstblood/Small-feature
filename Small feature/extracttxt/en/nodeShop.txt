@@ -1,0 +1,32 @@
+﻿NSH_ButtonBuyTmpl	<color=FBFFC5><font=tahoma_bold_10_border_smooth>Buy
+NSH_CountEmpty	<align=center><valign=center><font=tahoma_regular_7_border_numbers_only><wordwrap=off><color=9B9B9B>[?]<color=9B9B9B>/[?]
+NSH_CountStackFullNoStore	<align=center><valign=center><font=tahoma_regular_7_border_numbers_only><wordwrap=off><color=FFFFFF>[?]<color=9B9B9B>/[?]
+NSH_CountStackFullStore	<align=center><valign=center><font=tahoma_regular_7_border_numbers_only><wordwrap=off><color=00FF00>[?]<color=9B9B9B>/[?]
+NSH_CountStackPartNoSklep	<align=center><valign=center><font=tahoma_regular_7_border_numbers_only><wordwrap=off><color=FFFF00>[?]<color=9B9B9B>/[?]
+NSH_CountStackPartSklep	<align=center><valign=center><font=tahoma_regular_7_border_numbers_only><wordwrap=off><color=FF0000>[?]<color=9B9B9B>/[?]
+NSH_CountStoreFull	<align=center><valign=center><font=tahoma_regular_7_border_numbers_only><wordwrap=off><color=00A8FF>[?]<color=9B9B9B>/[?]
+NSH_CountStorePartNoSklep	<align=center><valign=center><font=tahoma_regular_7_border_numbers_only><wordwrap=off><color=FFFF00>[?]<color=9B9B9B>/[?]
+NSH_CountStorePartSklep	<align=center><valign=center><font=tahoma_regular_7_border_numbers_only><wordwrap=off><color=FF0000>[?]<color=9B9B9B>/[?]
+NSH_FormTitle	[FormTitleText][FormTitleColor][$]
+NSH_InfoMedalOfValorTooltip	Click to see details about this settlement's Medal of Valour.
+NSH_InfoMedalOfValorTooltip_lock	You have already received a Medal of Valour in this settlement.
+NSH_MedalOfValorReceived	Medal of Valour received.
+NSH_MedalOfValorReceivedText	<color=FFF5C9><align=center><valign=center><font=tahoma_bold_12>[NSH_MedalOfValorReceived]
+NSH_MedalOfValorText	<color=FFF5C9><align=center><valign=center><font=tahoma_bold_12>[VMF_TitleInfoText]<br><font=tahoma_bold_10>[VMF_WinsInfoText]: <color=FFFFFF><font=tahoma_bold_12>[?]/[?]
+NSH_MoveButton	<color=FFF5C9><font=tahoma_regular_9_border>You are in a different settlement and cannot buy these goods<br><color=FFFFFF><font=tahoma_bold_11_border_smooth>Move to this settlement? <image=textures/interface/common/icons/stamina_22x22>[?]
+NSH_MoveButton_Tooltip	Click to move to this settlement
+NSH_Price.Discount	<strike=2 color=840D0D>{shop_item.full_price}</strike> {shop_item.actual_price}
+NSH_Price.Normal	{shop_item.actual_price}
+NSH_PriceBtnTmpl	<color=FBFFC5><font=tahoma_bold_10_border_smooth_numbers_only>[?]
+NSH_PriceSmall	<align=center><valign=center><font=tahoma_bold_10_border_smooth_numbers_only><image={shop_item.price_icon:default}> <color=FBFFC5>{shop_item.actual_price}
+NSH_Scroll_Item_Tooltip_Left	Previous Item
+NSH_Scroll_Item_Tooltip_Rigth	Next Item
+NSH_Scroll_ItemText	<align=center><valign=center><color=FBFFC5><font=tahoma_bold_12_border_smooth>Goods
+NSH_Scroll_Unit_Tooltip_Left	Previous Unit
+NSH_Scroll_Unit_Tooltip_Rigth	Next Unit
+NSH_Scroll_UnitText	<align=center><valign=center><color=FBFFC5><font=tahoma_bold_12_border_smooth>Units
+NSH_ScrollText	<align=center><valign=center><color=FFFFFF><font=tahoma_bold_12>[$]
+PSH_PriceBtnTmpl	<color=FBFFC5><font=tahoma_bold_10_border_smooth_numbers_only>{price_text}
+
+
+

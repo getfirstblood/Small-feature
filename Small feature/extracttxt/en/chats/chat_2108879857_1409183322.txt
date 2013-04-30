@@ -1,0 +1,45 @@
+﻿chat_system_1409183322_actor_description	Captain Rando. The brave captain of the Northern Bay Garrison
+chat_system_1409183322_snap_0_answer_0	In the Twilight they Roam
+chat_system_1409183322_snap_0_answer_1	In the Twilight they Roam
+chat_system_1409183322_snap_0_answer_2	The Hooded Conspirators
+chat_system_1409183322_snap_0_answer_3	The Hooded Conspirators
+chat_system_1409183322_snap_0_answer_4	The Missing Pearl
+chat_system_1409183322_snap_0_answer_5	The Missing Pearl
+chat_system_1409183322_snap_0_answer_6	An Attempt on the Archmage's Life
+chat_system_1409183322_snap_0_answer_7	An Attempt on the Archmage's Life
+chat_system_1409183322_snap_0_answer_8	The Soft Hiss of Deceit
+chat_system_1409183322_snap_0_answer_9	The Soft Hiss of Deceit
+chat_system_1409183322_snap_0_question	It's hard service out here. Never a dull moment.
+chat_system_1409183322_snap_1_answer_0	begin quest dialog
+chat_system_1409183322_snap_1_question	Hello man!
+chat_system_1409183322_snap_10_answer_0	begin quest dialog
+chat_system_1409183322_snap_10_question	Hello man!
+chat_system_1409183322_snap_11_answer_0	(away)
+chat_system_1409183322_snap_11_question	I look to you to find a swift resolution to this problem. This is a matter of state security: the Archmage is the governor of the Order of Mages in our town. There's no time to waste, so I suggest you hurry. In the meantime, I'll deal with the attack on the Royal Library.
+chat_system_1409183322_snap_12_answer_0	end quest dialog
+chat_system_1409183322_snap_12_question	end quest text
+chat_system_1409183322_snap_13_answer_0	begin quest dialog
+chat_system_1409183322_snap_13_question	Hello man!
+chat_system_1409183322_snap_14_answer_0	(away)
+chat_system_1409183322_snap_14_question	We need to act quickly and quietly, before word gets out about us routing the bandits. Otherwise we'll lose these priceless Scrolls forever.
+chat_system_1409183322_snap_15_answer_0	end quest dialog
+chat_system_1409183322_snap_15_question	end quest text
+chat_system_1409183322_snap_2_answer_0	(away)
+chat_system_1409183322_snap_2_question	Well, have you sent all those cadavers back to their graves yet, or are there still some left? The reason there are so many corpses is that a long time ago a war was fought not far from the town. During the war, several enormous Royal frigates were sunk along with their crew. Poor souls.
+chat_system_1409183322_snap_3_answer_0	end quest dialog
+chat_system_1409183322_snap_3_question	end quest text
+chat_system_1409183322_snap_4_answer_0	begin quest dialog
+chat_system_1409183322_snap_4_question	Hello man!
+chat_system_1409183322_snap_5_answer_0	(away)
+chat_system_1409183322_snap_5_question	How are things going? Have you worked out who's behind all this yet? Please hurry, I beg you. The safety of the townsfolk could be at stake.
+chat_system_1409183322_snap_6_answer_0	end quest dialog
+chat_system_1409183322_snap_6_question	end quest text
+chat_system_1409183322_snap_7_answer_0	begin quest dialog
+chat_system_1409183322_snap_7_question	Hello man!
+chat_system_1409183322_snap_8_answer_0	(away)
+chat_system_1409183322_snap_8_question	Why are you still on shore? I can see them through my spyglass. They're already rolling out their heavy weaponry and preparing it for battle. Fight off the Pearl without delay, or we're done for.
+chat_system_1409183322_snap_9_answer_0	end quest dialog
+chat_system_1409183322_snap_9_question	end quest text
+
+
+

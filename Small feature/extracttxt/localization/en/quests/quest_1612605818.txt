@@ -1,0 +1,8 @@
+﻿quest_system_1612605818_desc	Hordes of the undead have been terrorizing the town for over a month now. They roam around at dusk. Every evening they come out of the water near the taverns and wander through the city in search of someone taking a careless stroll. I've sent out several task forces to hunt them down, but to no effect. The moment we go out on the hunt, the corpses disappear into thin air, just like magic. All in all, it's an unpleasant state of affairs. To be honest, I'd prefer it if the local drunkards were causing trouble, or even getting in the odd brawl – at least you can catch them. But this – the moment you set foot outside your door, they're all gone. You couldn't help us keep a watch out for these cadavers, could you?
+quest_system_1612605818_done	I see fate has smiled upon you this time around. My people tell me that you managed to catch the corpses off guard, and that you gave them a good hiding. I'd say the townsfolk can sleep soundly now. Or not – the taverns are free to enter now, hee hee. There's just one thing I don't understand: why did the undead start roaming about like that, always at one particular time? There's clearly more to this than meets the eye. Doesn't it all seem a bit odd to you?
+quest_system_1612605818_name	In the Twilight they Roam
+quest_system_1612605818_stage_0	Rout
+quest_system_1612605818_task	Destroy {counter_limit_0} Roaming Corpse armies 
+
+
+

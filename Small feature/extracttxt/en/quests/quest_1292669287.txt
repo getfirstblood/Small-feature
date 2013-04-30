@@ -1,0 +1,8 @@
+﻿quest_system_1292669287_desc	Please don’t think that I am paranoid. But sometimes I see . . . There! Did you see that? No, not there. There, behind that tree! I’m positive I caught a glimpse of a dark cape. I am sure that some strange folk, suspicious vagabonds by any account, have been roaming around the library lately. They’re not just some simple crooks. These are interested in nothing but the most valuable books. Please chase them all away as soon as possible.
+quest_system_1292669287_done	Would you look at that! You've dispatched them all! Did they have any books on them? What a disaster. It must’ve been somebody else from the gang. And this “somebody else” must have been the ones who stole the books from us! Well, at least you were able to punish some of them.
+quest_system_1292669287_name	Manuscript Hunters
+quest_system_1292669287_stage_0	band
+quest_system_1292669287_task	Smash the Gang of Vagabonds
+
+
+

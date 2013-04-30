@@ -1,0 +1,151 @@
+﻿AM_Army_Tab	Army
+AM_ArmyManagerTitle	Army Management
+AM_ArmyManagerTitleText	[FormTitleText][FormTitleColor][AM_ArmyManagerTitle]
+AM_ArmyTab_ToolTip	With this army you'll go into battle.
+AM_ArmyWeight	Army weight
+AM_ArmyWeightToolTip	Total strength of your army
+AM_AutoReinforceArmyDisabledTip	Automatic army reinforcement <color=FFAAAA><font=tahoma_bold_8>deactivated</color>
+AM_AutoReinforceArmyEnabledTip	Automatic army reinforcement <color=AAFFAA><font=tahoma_bold_8>activated</color>
+AM_BalanceDescriptionDefender	[AM_BalanceDescriptionTemplate]Hardy warriors with large Health reserves, great for defeating [AM_LabelColor]Warriors</color>.
+AM_BalanceDescriptionGunner	[AM_BalanceDescriptionTemplate]These units, armed with throwing weapons, are effective against [AM_LabelColor]Healers</color>. 
+AM_BalanceDescriptionMage	[AM_BalanceDescriptionTemplate]Casts a variety of spells, hitting the enemy from a distance and easily defeating [AM_LabelColor]Defenders</color>. 
+AM_BalanceDescriptionSupport	[AM_BalanceDescriptionTemplate]Not only do they provide magical support; they are effective against [AM_LabelColor]Mages</color>. 
+AM_BalanceDescriptionTemplate	[AM_LabelValueColor]<valign=top><align=left><font=tahoma_regular_8>
+AM_BalanceDescriptionWarrior	[AM_BalanceDescriptionTemplate]Mobile melee warriors, effective against [AM_LabelColor]Archers</color>. 
+AM_BalanceNameDefender	[AM_BalanceNameTemplate]Defenders
+AM_BalanceNameGunner	[AM_BalanceNameTemplate]Archers
+AM_BalanceNameMage	[AM_BalanceNameTemplate]Mages
+AM_BalanceNameSupport	[AM_BalanceNameTemplate]Healers
+AM_BalanceNameTemplate	[AM_LabelColor]<valign=center><align=left><font=tahoma_bold_10>
+AM_BalanceNameWarrior	[AM_BalanceNameTemplate]Warriors
+AM_BalanceStar	[AM_TitlesTextTmpl][TabColorActive][AM_BalanceStarText]
+AM_BalanceStarText	Star of Balance
+AM_ButtonBuyDisableColor	<color=7D7F62>
+AM_ButtonBuyEnableColor	<color=FBFFC5>
+AM_ButtonResurrectBuy	[AM_ButtonRulerTemplate][$]Heal
+AM_ButtonResurrectCostInfo	[AM_ButtonRulerTemplate]Heal<br=3><font=tahoma_regular_8>[$]
+AM_ButtonRulerTemplate	<align=center><valign=center><font=tahoma_bold_10_border_smooth>
+AM_ButtonText	<align=center><valign=center><font=tahoma_regular_8><wordwrap=off>
+AM_ButtonUnitBuy	[AM_ButtonRulerTemplate][$]Buy ([?])
+AM_ButtonUnitBuyCost	<align=left><valign=center><font=tahoma_bold_12_border_smooth_numbers_only>[$][?]
+AM_ButtonUnitUnlock	[AM_ButtonRulerTemplate][$]Purchase
+AM_ButtonUnitUpgrade	[AM_ButtonRulerTemplate]Upgrade
+AM_CloseBtn	[FormButtonText_9][FormButtonColor][CloseButton]
+AM_Delete	[FormButtonText_9][FormButtonColor][DeleteButton]
+AM_DragMessage1	You must have at least 1 Squad in your Garrison!
+AM_DragMessageTitle	Attention
+AM_Garrison_Tab	Garrison
+AM_GarrisonTab_ToolTip	This army will remain in the Garrison for your protection.
+AM_LabelColor	<color=FFF373>
+AM_LabelsTmpl	<font=tahoma_regular_9><align=center><wordwrap=off>[AM_LabelColor]
+AM_LabelValueColor	<color=FFFFFF>
+AM_Load	[FormButtonText_9][FormButtonColor][LoadButton]
+AM_NotEnoughLeadership	You need more Leadership to lead this creature into battle.
+AM_NotEnoughUnitsToReinforce	You don't have enough reserve units to reinforce your army.
+AM_PentaClassTooltTip_Defender	[AM_Unit_Class_Name_Defender]
+AM_PentaClassTooltTip_Gunner	[AM_Unit_Class_Name_Gunner]
+AM_PentaClassTooltTip_Mage	[AM_Unit_Class_Name_Mage]
+AM_PentaClassTooltTip_Support	[AM_Unit_Class_Name_Support]
+AM_PentaClassTooltTip_Warrior	[AM_Unit_Class_Name_Warrior]
+AM_PlayerLeadership	Leadership
+AM_PlayerLeadershipToolTip	Leadership determines the number of units of one type you can have in any one of your cells.
+AM_PlayerLeadershipValue	[AM_LabelsTmpl][AM_PlayerLeadership]: [AM_LabelValueColor][?]
+AM_PlayerLevel	Level
+AM_PlayerLevelValue	[AM_LabelsTmpl][AM_PlayerLevel]: [AM_LabelValueColor][?]
+AM_PlayerTitle	Title
+AM_PlayerTitleValue	[AM_LabelsTmpl][AM_PlayerTitle]: [AM_LabelValueColor][?]
+AM_PVPBatleResultItem	[AM_UnitValueTmpl]<color=FF0000>[?]<color=FFF3CD>/[?]
+AM_Race_Name_0	Kingdom
+AM_Race_Name_1	Chaos
+AM_Race_Name_2	Ancients
+AM_Race_Name_3	Beasts
+AM_ReinforceArmy	Get more
+AM_ReinforceArmyBtn	[AM_ButtonText][AM_ReinforceArmy]
+AM_ReinforceArmyInfo	You have no units in your army. Would you like to replenish it?
+AM_ResurrectGoldToolTip	<valign=top><align=center><color=DDDD00><font=tahoma_bold_10><align=center>[AM_ResurrectText]<br><color=FFFFFF><font=tahoma_regular_8><align=left>[AM_ResurrectGoldToolTipText]
+AM_ResurrectGoldToolTipText	Healing cost - [?] <image=textures/interface/common/icons/money_22x22> for each unit.
+AM_ResurrectMoney	[AM_ResurrectPriceMoney] [AM_ButtonRulerTemplate] each
+AM_ResurrectPriceMoney	<image=textures/interface/common/icons/money_22x22><font=tahoma_bold_12_border_smooth_numbers_only>[?]</font>
+AM_ResurrectPriceStamina	<image=textures/interface/common/icons/stamina_22x22><font=tahoma_bold_12_border_smooth_numbers_only>[?]</font>
+AM_ResurrectStamina	[AM_ResurrectPriceStamina]
+AM_ResurrectStaminaMoney	[AM_ResurrectPriceStamina] and [AM_ResurrectPriceMoney]
+AM_ResurrectText	Heal
+AM_ResurrectToolTip	<valign=top><align=center><color=DDDD00><font=tahoma_bold_10><align=center>[AM_ResurrectText]<br><color=FFFFFF><font=tahoma_regular_8><align=left>[AM_ResurrectToolTipText]
+AM_ResurrectToolTipText	Healing cost - [?] <image=textures/interface/common/icons/money_22x22> for each unit.
+AM_Save	[FormButtonText_9][FormButtonColor][SaveButton]
+AM_Store_Tab_0	[AM_Race_Name_0]
+AM_Store_Tab_1	[AM_Race_Name_1]
+AM_Store_Tab_100	Infirmary
+AM_Store_Tab_2	[AM_Race_Name_2]
+AM_Store_Tab_3	[AM_Race_Name_3]
+AM_StoreTab_ToolTip_0	The Kingdom is a confederacy of several states, populated primarily by humans. They were forced to band together to fight the endless stream of horrific units that have appeared following the Great Cataclysm.
+AM_StoreTab_ToolTip_1	Bursts of Dark Magic, consequences of the Great Cataclysm, have turned many animals into terrible monsters, and raised the dead from their graves. Armies of transformed units, led by Demonologists, are ferocious opponents on the battlefield.
+AM_StoreTab_ToolTip_100	The Infirmary is the place where fallen units go.
+AM_StoreTab_ToolTip_2	The Ancient units are Beasts and other units who inhabited the archipelago before the Great Cataclysm. The majority of them didn't suffer from black magic, and they have remained the same in appearance and mind. The Ancients are neutral in the war against The Changed.
+AM_StoreTab_ToolTip_3	Some forest Beasts were able to escape the Dark Magic. They are manageable and easy to tame.
+AM_TabName	[AM_TabNameTmpl][$][$]
+AM_TabNameTmpl	<align=center><valign=center><font=tahoma_regular_8><wordwrap=off>
+AM_Tier_Name_1	Common
+AM_Tier_Name_2	Special
+AM_Tier_Name_3	Legendary
+AM_TitlesTextTmpl	<align=center><valign=center><font=tahoma_regular_8><wordwrap=off>
+AM_Unit_Class_Name_Defender	Defenders have an inexhaustible health which can withstand nearly any blow for a long time. Their heavy weapons allow Defenders to fight Warriors and Archers successfully.
+AM_Unit_Class_Name_Gunner	Archers are not the most speedy units but they shot very precisely. Their special knowledge helps Archers defeat Healers and Sorcerers ignoring their resistance.
+AM_Unit_Class_Name_Mage	Mages have mastered the art of battle magic. Their spells can easily get over the heaviest Defenders' armour and inflict enormous damage.
+AM_Unit_Class_Name_Support	Healers believe healing and support to be their main vocations. Moreover, the Healer's unique weapon can overcome Mage's enchanted armour and pierce a plate of the Defender, which gives them an advantage in battle.
+AM_Unit_Class_Name_Warrior	Warriors are able to move through the battlefield quickly and to break into the enemy's rear where they easily crush nimble Archers and Sorcerers by dealing them extra damage.
+AM_Unit_LockForArmy_Text	<align=center><valign=center>[AM_LabelColor][AM_Unit_LockForArmy_Tooltip]
+AM_Unit_LockForArmy_Tooltip	This creature is in the Garrison. Remove it from the Garrison tab if you want to move it to the Army.
+AM_Unit_LockForGarrison_Text	<align=center><valign=center>[AM_LabelColor][AM_Unit_LockForGarrison_Tooltip]
+AM_Unit_LockForGarrison_Tooltip	This creature is in the Army. Remove it from the Army tab if you want to move it to the Garrison.
+AM_UnitInfoToolTip	<valign=top><align=left><font=tahoma_regular_8>[AM_UnitInfoToolTipText]
+AM_UnitInfoToolTipText	View detailed unit information
+AM_UnitStackCount	[AM_UnitValueTmpl]<color=00FF2A>[?]<color=9B9B9B>/[?]
+AM_UnitStoreCount	[AM_UnitValueTmpl]<color=FFF3CD>[?]
+AM_UnitStoreCountRed	[AM_UnitValueTmpl]<color=FF0000>[?]<color=9B9B9B>[?]
+AM_UnitStoreCountWhite	[AM_UnitValueTmpl]<color=FFFFFF>[?]<color=9B9B9B>[?]
+AM_UnitStoreCountYellow	[AM_UnitValueTmpl]<color=FFF300>[?]<color=9B9B9B>[?]
+AM_UnitValueTmpl	<align=center><valign=center><font=tahoma_regular_7_border_numbers_only><wordwrap=off>
+AM_Unknown_UnitToolTip	You must continue completing quests, winning battles, and traveling. Sooner or later you may find this unit again, but for now it is out of play.
+UCF_AllButtonTooltipText	Set maximum quantity
+UCF_CancelButtonTooltipText	Cancel
+UCF_Cost	Total
+UCF_CostTmpl	[UCF_IconTextTmpl][UCF_LabelTmpl][UCF_Cost]
+UCF_Count	Quantity
+UCF_CountText	[UCF_LabelTmpl][UCF_Count]
+UCF_CrystalImageName	textures/interface/common/icons/crystal_22x22
+UCF_IconTextTmpl	<font=tahoma_regular_8><image=[$]></font><indent=2>
+UCF_LabelColor	[TextColor]
+UCF_LabelTmpl	<align=center><valign=center><font=tahoma_regular_8><wordwrap=off>[UCF_LabelColor]
+UCF_Max	Maximum
+UCF_MaxText	[UCF_LabelTmpl][UCF_Max]
+UCF_Min	Minimum
+UCF_MinText	[UCF_LabelTmpl][UCF_Min]
+UCF_MoneyImageName	textures/interface/common/icons/money_22x22
+UCF_NumberTmpl	<align=center><valign=center><font=tahoma_regular_8_numbers_only><wordwrap=off>[?]
+UCF_OkButtonTooltipText	Apply
+UCF_PriceText	Price
+UCF_PriceTmpl	[UCF_IconTextTmpl][UCF_LabelTmpl][UCF_PriceText]
+UCF_RealImageName	textures/interface/common/icons/real_22x22
+UCF_ResurrectCostText	This will use your Stamina:
+UCF_Squad	Party
+UCF_Squad1	Party 1
+UCF_Squad1Text	[UCF_LabelTmpl][UCF_Squad1]
+UCF_Squad2	Party 2
+UCF_Squad2Text	[UCF_LabelTmpl][UCF_Squad2]
+UCF_SquadText	[UCF_LabelTmpl][UCF_Squad]
+UCF_StaminaImageName	textures/interface/common/icons/stamina_22x22
+UCF_TacticBookImageName	textures/interface/common/icons/tactic_book_22x22
+UCF_TitleBuy	<align=center><valign=center><font=tahoma_regular_10>[UCF_LabelColor][UCF_TitleBuyText]: <font=tahoma_bold_10><color=DDDD00>[$]
+UCF_TitleBuyText	Purchase
+UCF_TitleMove	<align=center><valign=center><font=tahoma_regular_8>[UCF_LabelColor][UCF_TitleMoveText]
+UCF_TitleMoveText	Specify the number of units to move
+UCF_TitleResurrect	<align=center><valign=center><font=tahoma_regular_8>[UCF_LabelColor][UCF_TitleResurrectText]<br=5>[UCF_TotalCostQuantTmpl]
+UCF_TitleResurrectSimple	<align=center><valign=center><font=tahoma_regular_8>[UCF_LabelColor][UCF_TitleResurrectText]
+UCF_TitleResurrectText	Specify number of units
+UCF_TitleRevive	<align=center><valign=center><font=tahoma_regular_10>[UCF_LabelColor][UCF_TitleReviveText]: <font=tahoma_bold_10><color=DDDD00>[$]
+UCF_TitleReviveText	Resurrect
+UCF_TotalCostQuantTmpl	[$] [UCF_IconTextTmpl]<font=tahoma_regular_8_numbers_only>[?]
+
+
+

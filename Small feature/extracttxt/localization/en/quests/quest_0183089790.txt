@@ -1,0 +1,8 @@
+﻿quest_system_183089790_desc	Judging by this report, you’ve managed to establish quite a reputation for yourself. I’m in the middle of a terrible shortage of officers; therefore any able commander is worth his weight in gold to me. Your promotion order is already signed. You’ll have to prove yourself worthy of the promotion, though. Head immediately for the Karakol Port, find the Quartermaster and find out what’s delaying the reinforcements that were supposed to be here two days ago. I can invest in you significant authority, even... Well, actually, that can wait. Here’s my dispatch to the Quartermaster. Off you go!
+quest_system_183089790_done	So where am I supposed to get those reinforcements? Say what you will, I don’t have any soldiers! Do you see the ships in the harbor, waiting to be unloaded? Can you yourself do anything? Well, then why don’t you deal with the reinforcements, and with the ships in the harbor, and with our city mage, blast him!
+quest_system_183089790_name	Find and Deliver
+quest_system_183089790_stage_0	Speak
+quest_system_183089790_task	Find out from the Port Quartermaster where the expected reinforcements are.
+
+
+

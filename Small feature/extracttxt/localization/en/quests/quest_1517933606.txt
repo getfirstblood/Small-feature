@@ -1,0 +1,8 @@
+﻿quest_system_1517933606_desc	Travel to De Bursac. Your party and I can make it through, but we need to increase our force to improve our chances. Ask for troops from De Bursac, as many as he can spare!
+quest_system_1517933606_done	Lazarus is trying to summon the ancient powers? Such nonsense... Oh, sorry. No, of course I believe you. But aren’t the stories of the Guardians, of the gods departed into the oblivion, the ancient powers... aren’t those just legends? Yes, yes, I believe you and Saphaor! But... well, it’s just that everything is happening at the wrong time! 
+quest_system_1517933606_name	The Road is Open
+quest_system_1517933606_stage_0	Speak
+quest_system_1517933606_task	Ask De Bursac for soldiers to assist in an assault.
+
+
+

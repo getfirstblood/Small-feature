@@ -1,0 +1,10 @@
+﻿quest_system_1447033091_cntdesc_0	Increases the Scroll of Healing’s effectiveness
+quest_system_1447033091_cntdesc_1	Increases the effectiveness of Peasant unit
+quest_system_1447033091_desc	Even a strong army and a pile of scrolls cannot always guarantee victory. When these aren’t enough, it’s time to upgrade your scrolls and your units. The level of your units’ training can be increased in the Army Management window, and the effectiveness of your scrolls can be upgraded in the Spell Book.
+quest_system_1447033091_done	Excellent! Each scroll or unit upgrade increases the overall combat effectiveness of your magic and your army.
+quest_system_1447033091_name	Combat Effectiveness
+quest_system_1447033091_stage_0	Improve the Scroll of Healing and the Peasant unit
+quest_system_1447033091_task	Improve the Scroll of Healing and the Peasant unit
+
+
+

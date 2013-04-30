@@ -1,0 +1,8 @@
+﻿quest_system_692352185_desc	This is my friend. He is a tree. I mean, a real tree. We have a friendly chat in the evening, and in the morning I weed the grass around him. But lately our lands were invaded by griffins. They like to tear off tree bark and break tree branches. I won’t let my friend be treated like that. Maybe you could deal with these beasts nicely . . . Or not so nicely.
+quest_system_692352185_done	So, you got rid of the feathery wingbeakers? Nicely done. You’ve completed your task. Thank you.
+quest_system_692352185_name	It's Good to Befriend a Tree
+quest_system_692352185_stage_0	Hunt
+quest_system_692352185_task	Destroy {counter_limit_0} Dark Griffins. 
+
+
+

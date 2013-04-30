@@ -1,0 +1,8 @@
+﻿quest_system_184335937_desc	Anyway, according to the description, these mages sound like the Necromancers of Transformation. If so, that means they set out from Elven Ridge on pirate ships, and have already arrived. But they don’t seem to march on Kronberg, and pretend to be bandits. Why then? Of course. To create a diversion. But still, a diversion from what? I hope you have enough proof? Please, try to convince Master Taron that trouble is brewing! Otherwise, I’m afraid that all these people will lose their heads...
+quest_system_184335937_done	Transformation Necromancers? They’ve come and, under the guise of bandits, are trying to make us recall our troops to the fort? Ha! Stroke is a good captain, but his strategic abilities aren’t even close to mine. I’m sorry that he was able to lead you, the Commander’s representative, astray as well. Believe me, the Western Fort is what keeps the pirates and barbarians away from the island. If not for us, they would have long ago laid siege to Kronberg! Instead of hiding in the woods, striking fear in Stroke’s heart as they burn swamp villages and pretend to be bandits. Their goals are of a different scale, I assure you! They would never come up with some distractions, not even as a diversionary tactic.
+quest_system_184335937_name	A Warning
+quest_system_184335937_stage_0	Taron
+quest_system_184335937_task	Inform Master Taron of the Western Fort of the organized groups attacking the Gray Warden Garrison.
+
+
+

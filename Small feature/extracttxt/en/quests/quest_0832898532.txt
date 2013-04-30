@@ -1,0 +1,8 @@
+﻿quest_system_832898532_desc	Medar has ordered a few germinated Royal Thorn seeds from me for his alchemical potions. All fine and dandy, but I'm a tiny bit too old for hunting those flesh-eating plants – my eye is not as good as it used to be, and I'm not that quick any more. Would you mind helping me? I will give you a just reward: you will easily cover your costs, and there will be some left to keep. So, is it a deal?
+quest_system_832898532_done	You did a neat job on that easy task. Good! You know, these plants are considered semi-intelligent, they are. In the times of the Great Cataclysm, there was a powerful outburst of magical energy, and unseen-before creature were born in our world – some of them very dangerous, and others, not. Pity we have almost no scientific or any other interest in those that are "not very dangerous".
+quest_system_832898532_name	Hazardous Ingredients
+quest_system_832898532_stage_0	Items to collect:
+quest_system_832898532_task	Fight an army of Magical Plants and collect {counter_limit_0} Magical Seeds
+
+
+

@@ -1,0 +1,51 @@
+﻿UI_AbilityDamage	{ability_damage}
+UI_AbilityDamageLabel	Damage
+UI_AbilityDamageTooltip	This attribute determines the amount of damage you deal.
+UI_AbilityRange	{ability_range}
+UI_AbilityRangeLabel	Range
+UI_AbilityRangeTooltip	This attribute determines the range of your unit's attacks.
+UI_UnitAbilitiesLabel	Abilities
+UI_UnitAttack	{unit_attack}
+UI_UnitAttackLabel	Attack
+UI_UnitAttackTooltip	The parameter defines the unit’s ability to employ attacks of any type.
+UI_UnitCritical	{unit_critical}
+UI_UnitCriticalLabel	Critical hit
+UI_UnitCriticalTooltip	The parameter defines the unit's ability to inflict additional damage on the enemy.
+UI_UnitDefence	{unit_defence}
+UI_UnitDefenceLabel	Defence
+UI_UnitDefenceTooltip	The parameter defines the units ability to defend itself from attacks of any type. 
+UI_UnitDescription	{unit_desc}
+UI_UnitEffectsLabel	Effects
+UI_UnitFeaturesLabel	Features
+UI_UnitGreenColor	<color=00FF00>
+UI_UnitGreyColor	<color=606060>
+UI_UnitHealth	{unit_health}
+UI_UnitHealthLabel	Health
+UI_UnitHealthTooltip	The parameter defines the amount of damage from enemy attacks that can be sustained by the unit.
+UI_UnitInitiative	{unit_initiative}
+UI_UnitInitiativeLabel	Initiative
+UI_UnitInitiativeTooltip	The parameter defines the order of turns taken by fighting parties.
+UI_UnitLeadership	{unit_leadership}
+UI_UnitLeadershipLabel	Leadership
+UI_UnitLeadershipTooltip	The parameter defines the number of units of one type you can use in battle. 
+UI_UnitName	<align=center><valign=center><font=tahoma_bold_10_border_smooth>[FormTitleColor]{unit_name}
+UI_UnitNameTitle	[FormTitleText][FormTitleColor]{unit_name}
+UI_UnitParamFormat	[$][?]
+UI_UnitRedColor	<color=FF0000>
+UI_UnitResAlchemical	{unit_res_alchemical}
+UI_UnitResistAlchemicalTooltip	Alchemical resistance
+UI_UnitResistMagicalTooltip	Magical resistance
+UI_UnitResistPhysicalTooltip	Physical resistance
+UI_UnitResistsLabel	Resistance
+UI_UnitResMagical	{unit_res_magical}
+UI_UnitResPhysical	{unit_res_physical}
+UI_UnitSpeed	{unit_speed}
+UI_UnitSpeedLabel	Speed
+UI_UnitSpeedTooltip	The parameter defines the distance the unit can cover in one move.
+UI_UnitUpgradeAbilityParamTooltip	<align=right><valign=center><color=FBFFC5>{ability}
+UI_UnitUpgradeLabel	Upgrades
+UI_UnitUpgradeLabelDisable	<font=tahoma_bold_10_border_smooth><align=center><valign=center><color=FBFFC5>[$]
+UI_UnitUpgradeText	<align=right><valign=center><font=tahoma_bold_10_numbers_only><image=textures/interface/upgrade_creatures/up_act_17x11> [?]<color=F4C402>/[?]
+
+
+

@@ -1,0 +1,8 @@
+﻿quest_system_1443826021_desc	Sorry, but I had to get in touch with Survus. You have to understand, the key to the archive. To be honest with you, I would not trust it to the Senior Exorcist. But the Archmage has asked me to provide you any and all possible assistance. Now, the key. It does not exist. That’s the truth. Long ago, some wise man realized that no matter how well you hide a key, it still may be stolen. So, when the archive was created, access to it was decided to be granted using three objects, totally unlike one another, when they are gathered together. One of them is a Black Horn. I happen to have one. I’ve had it for a very long time. But I won’t part with it for anything. It’s very valuable to me. But if you find in our lands the Ancient Unicorn’s pack and destroy it, I can get myself a new horn. Then I’ll give you this one.
+quest_system_1443826021_done	I see, I see. You’ve destroyed the Ancient Unicorn’s pack. Well, don’t worry. I’ll send the Horn to the Exorcist immediately.
+quest_system_1443826021_name	Black Horn
+quest_system_1443826021_stage_0	Rout
+quest_system_1443826021_task	Get the Black Horn by destroying the army of the Ancient Unicorn.
+
+
+

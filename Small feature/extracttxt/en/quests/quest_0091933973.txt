@@ -1,0 +1,8 @@
+﻿quest_system_91933973_desc	Necromancers . . . my ancient enemies. They’ve become more cunning lately. They turn into Fiery Spiders and travel in packs to spy after me. But I’m onto their secret. Let’s get rid of some of them. Maybe one of those nasty Lazarus necromancers will be among them. Wouldn’t that be fun?
+quest_system_91933973_done	These necromancers probably didn’t expect that anyone would hunt the fiery spiders, so now they’ll have to figure out a new kind of camouflage.
+quest_system_91933973_name	Arachnomask
+quest_system_91933973_stage_0	Hunt
+quest_system_91933973_task	Destroy {counter_limit_0} Fiery Spiders. 
+
+
+

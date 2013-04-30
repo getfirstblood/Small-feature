@@ -1,0 +1,8 @@
+﻿quest_system_969209972_desc	I gave them the benefit of the doubt and assumed they were in some kind of trouble. Maybe a mushroom shortage or something. But it looks like they are quite prosperous. Captain, please kick their butts out of here. We have to end this circus.
+quest_system_969209972_done	How nice and quiet it is... Do you hear that woodpecker? Yes, nature is marvelous.
+quest_system_969209972_name	All you in disagreement, go home!
+quest_system_969209972_stage_0	Rout
+quest_system_969209972_task	Destroy the Green Army.
+
+
+

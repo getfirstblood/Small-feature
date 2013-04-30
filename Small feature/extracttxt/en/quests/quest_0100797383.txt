@@ -1,0 +1,8 @@
+﻿quest_system_100797383_desc	Psst! Come here, quietly . . . I’m here with orders from De Bursac. Do you see those lizards in black capes? They’re surely trying to do some witchcraft here. It’s an ancient heathen temple; any old nastiness can crawl out at the drop of a hat. And don't even ask about reinforcements. So it’s just the two of us, buddy. Ready? You dispatch the Demonologists and Gargoyle Shamans, and I’ll take care of the rest.
+quest_system_100797383_done	Excellent. We did well enough; now they won’t have enough men for their ritual. They may have some new arrivals, for sure . . . But let’s deal with the problems as they come, OK?
+quest_system_100797383_name	Interrupt the Ritual
+quest_system_100797383_stage_0	Hunt
+quest_system_100797383_task	Destroy {counter_limit_0} Demonologists and {counter_limit_1} Gargoyle Shamans.
+
+
+

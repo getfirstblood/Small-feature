@@ -1,0 +1,8 @@
+﻿quest_system_1671787950_desc	As I’ve said before, your services to the Order and the Kingdom are worthy of the greatest of rewards! I can only assure you that from now on I will watch your destiny closely. I think that, with time, you will understand how valuable this is. Commander Tarcus, meanwhile, will provide you more tangible reward. He loves to do that. He’s waiting for you now!
+quest_system_1671787950_done	Ah, the Archmage has finally released you! I tremble to think what might have happened had you not arrived at our island in the nick of time! Therefore... in the name of the King, I pronounce you Knight of the Kingdom of the Three Islands, and bestow upon you all of the associated rights and responsibilities! Please accept this modest reward... It is genuinely modest in comparison with that which awaits you. The King has expressed his wish to meet you personally! Perhaps you will be granted the honor of membership in the Royal Legion. An elite league of generals, protecting our land from all of its dangerous enemies. But the storm season is upon us, and you cannot yet make the journey to Karakol. However, I think you’ll have enough to do here. After Lazarus’ defeat, his remaining gangs and mobs of barbarians have settled all over the island. We must finish what we have started, and uproot our enemies! As soon as the possibility arises, I will arrange you an audience with the king... Our meeting is now finished. I hope that we shall meet again soon!
+quest_system_1671787950_name	Golden Legion
+quest_system_1671787950_stage_0	Speak with Commander Tarcus
+quest_system_1671787950_task	Receive your reward from Commander Tarcus.
+
+
+

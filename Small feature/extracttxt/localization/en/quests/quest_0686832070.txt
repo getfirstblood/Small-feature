@@ -1,0 +1,8 @@
+﻿quest_system_686832070_desc	I don’t understand where all these thieves are coming from! They are not from afar, either – they’re neighbors of ours turned highway robbers. Our own kind, peasants, too! They’re robbing us like there’s no tomorrow. Could you lower the boom on these ruffians, please? Really, this is intolerable!
+quest_system_686832070_done	Well... it’s a pity about the poor bastards, but it’s not like they were noble or anything... Ouch, please forgive me, your grace, please forgive me and my stupid mouth! We all thank you, your grace, thank you from the heart!
+quest_system_686832070_name	Plunderers of Common Property
+quest_system_686832070_stage_0	Hunt
+quest_system_686832070_task	Destroy {counter_limit_0} Peasants. 
+
+
+

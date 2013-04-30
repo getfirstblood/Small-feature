@@ -1,0 +1,53 @@
+﻿chat_system_751615539_actor_description	Morania the Witch. A witch from the swamp.
+chat_system_751615539_snap_0_answer_0	Escape
+chat_system_751615539_snap_0_answer_1	Escape
+chat_system_751615539_snap_0_answer_10	Battle against Lazarus
+chat_system_751615539_snap_0_answer_11	A Personal Encounter
+chat_system_751615539_snap_0_answer_12	Save the World
+chat_system_751615539_snap_0_answer_13	The Foreboding
+chat_system_751615539_snap_0_answer_2	With a shield, not on the shield!
+chat_system_751615539_snap_0_answer_3	Mopping Up the Perimeter
+chat_system_751615539_snap_0_answer_4	Mopping Up the Perimeter
+chat_system_751615539_snap_0_answer_5	The Elusive Lazarus
+chat_system_751615539_snap_0_answer_6	News from the Battlefields
+chat_system_751615539_snap_0_answer_7	The Destruction of the Dome
+chat_system_751615539_snap_0_answer_8	The Destruction of the Dome
+chat_system_751615539_snap_0_answer_9	Battle against Lazarus
+chat_system_751615539_snap_0_question	This Lazarus of yours has invented so many oddities that I haven't got the foggiest as to how your Academy managed to miss so much of what's been going on under your very noses! But you're always the first in line to give us witches a hard time, aren't you? 
+chat_system_751615539_snap_1_answer_0	begin quest dialog
+chat_system_751615539_snap_1_question	Hello man!
+chat_system_751615539_snap_10_answer_0	(away)
+chat_system_751615539_snap_10_question	You're getting sidetracked! Remember – I destroy the dome, you kill the Adepts of Lazarus!
+chat_system_751615539_snap_11_answer_0	end quest dialog
+chat_system_751615539_snap_11_question	end quest text
+chat_system_751615539_snap_12_answer_0	begin quest dialog
+chat_system_751615539_snap_12_question	Hello man!
+chat_system_751615539_snap_13_answer_0	(away)
+chat_system_751615539_snap_13_question	Quick! Don't let him get away!
+chat_system_751615539_snap_14_answer_0	end quest dialog
+chat_system_751615539_snap_14_question	end quest text
+chat_system_751615539_snap_15_answer_0	begin quest dialog
+chat_system_751615539_snap_15_question	Hello man!
+chat_system_751615539_snap_16_answer_0	begin quest dialog
+chat_system_751615539_snap_16_question	Hello man!
+chat_system_751615539_snap_17_answer_0	end quest dialog
+chat_system_751615539_snap_17_question	Hello man!
+chat_system_751615539_snap_2_answer_0	(away)
+chat_system_751615539_snap_2_question	You're getting sidetracked! I’ll deal with the dome while you kill Lazarus’ Necromancers!
+chat_system_751615539_snap_3_answer_0	end quest dialog
+chat_system_751615539_snap_3_question	end quest text
+chat_system_751615539_snap_4_answer_0	begin quest dialog
+chat_system_751615539_snap_4_question	Hello man!
+chat_system_751615539_snap_5_answer_0	end quest dialog
+chat_system_751615539_snap_5_question	Hello man!
+chat_system_751615539_snap_6_answer_0	begin quest dialog
+chat_system_751615539_snap_6_question	Hello man!
+chat_system_751615539_snap_7_answer_0	end quest dialog
+chat_system_751615539_snap_7_question	Hello man!
+chat_system_751615539_snap_8_answer_0	end quest dialog
+chat_system_751615539_snap_8_question	Hello man!
+chat_system_751615539_snap_9_answer_0	begin quest dialog
+chat_system_751615539_snap_9_question	Hello man!
+
+
+

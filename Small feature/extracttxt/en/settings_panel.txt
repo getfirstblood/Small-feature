@@ -1,0 +1,22 @@
+﻿SP_Tool_CameraCinematicOff	[SP_Tool_Head]Camera Flyover[SP_Tool_Middle]Disable the camera flyover before each battle.
+SP_Tool_CameraCinematicOn	[SP_Tool_Head]Camera Flyover[SP_Tool_Middle]Enable the camera flyover before each battle.
+SP_Tool_FullscreenOff	[SP_Tool_Head]Windowed Mode<color=36FF00>(F)[SP_Tool_Middle]Disable fullscreen mode
+SP_Tool_FullscreenOn	[SP_Tool_Head]Fullscreen Mode<color=36FF00>(F)[SP_Tool_Middle]Enable fullscreen mode
+SP_Tool_FullscreenOff_Tablets	[SP_Tool_Head]Windowed Mode<color=36FF00>[SP_Tool_Middle]Disable fullscreen mode
+SP_Tool_FullscreenOn_Tablets	[SP_Tool_Head]Fullscreen Mode<color=36FF00>[SP_Tool_Middle]Enable fullscreen mode
+SP_Tool_HDOff	[SP_Tool_Head]Graphics quality[SP_Tool_Middle]Lower graphics quality.
+SP_Tool_HDOn	[SP_Tool_Head]Graphics quality[SP_Tool_Middle]Raise graphics quality.
+SP_Tool_Head	<valign=top><color=DDDD00><font=tahoma_bold_10><align=center>
+SP_Tool_Middle	<br><color=FFFFFF><font=tahoma_regular_8><align=left>
+SP_Tool_MusicOff	[SP_Tool_Head]Music <color=36FF00>(G)[SP_Tool_Middle]Disable music.
+SP_Tool_MusicOff_Tablets	[SP_Tool_Head]Music[SP_Tool_Middle]Disable music.
+SP_Tool_MusicOn	[SP_Tool_Head]Music <color=36FF00>(G)[SP_Tool_Middle]Enable music.
+SP_Tool_MusicOn_Tablets	[SP_Tool_Head]Music[SP_Tool_Middle]Enable music.
+SP_Tool_SettingsButton	[SP_Tool_Head]Settings[SP_Tool_Middle]Show/hide the Settings panel.
+SP_Tool_SoundOff	[SP_Tool_Head]Sounds <color=36FF00>(H)[SP_Tool_Middle]Disable sound effects.
+SP_Tool_SoundOff_Tablets	[SP_Tool_Head]Sounds[SP_Tool_Middle]Disable sound effects.
+SP_Tool_SoundOn	[SP_Tool_Head]Sounds <color=36FF00>(H)[SP_Tool_Middle]Enable sound effects.
+SP_Tool_SoundOn_Tablets	[SP_Tool_Head]Sounds[SP_Tool_Middle]Enable sound effects.
+
+
+

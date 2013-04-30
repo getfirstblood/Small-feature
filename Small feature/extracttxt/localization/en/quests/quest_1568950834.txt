@@ -1,0 +1,8 @@
+﻿quest_system_1568950834_desc	Still, okay. We haven't quite reached the magnetic stones. The alchemists, a whole brigade of them, have lost their minds. It looks like they inhaled some fumes and suddenly want to burn everything down. No one can work in this kind of troublesome environment. Well, okay. Here's the deal. You take care of the alchemists, and I'll return the astralite. I'll even pay for the delivery.
+quest_system_1568950834_done	Well, that's done. Now at least things will be a bit more quiet. 
+quest_system_1568950834_name	Madness
+quest_system_1568950834_stage_0	Hunt
+quest_system_1568950834_task	Destroy {counter_limit_0} Alchemists.
+
+
+

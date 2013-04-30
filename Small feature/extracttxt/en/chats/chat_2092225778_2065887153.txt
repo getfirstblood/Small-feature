@@ -1,0 +1,29 @@
+﻿chat_system_2065887153_actor_description	Sergeant Trollo A sergeant, partial to booze
+chat_system_2065887153_snap_0_answer_0	Waste Not, Want Not
+chat_system_2065887153_snap_0_answer_1	Waste Not, Want Not
+chat_system_2065887153_snap_0_answer_2	Off with Their Heads
+chat_system_2065887153_snap_0_answer_3	Off with Their Heads
+chat_system_2065887153_snap_0_answer_4	Spirit Attack
+chat_system_2065887153_snap_0_answer_5	Spirit Attack
+chat_system_2065887153_snap_0_question	Do you see those sails? About a dozen ships. Reinforcements are arriving daily.
+chat_system_2065887153_snap_1_answer_0	begin quest dialog
+chat_system_2065887153_snap_1_question	Hello man!
+chat_system_2065887153_snap_2_answer_0	(away)
+chat_system_2065887153_snap_2_question	They just stole two more women doing their laundry at the pier. Only a skirt remained from one of them... Scary!
+chat_system_2065887153_snap_3_answer_0	end quest dialog
+chat_system_2065887153_snap_3_question	end quest text
+chat_system_2065887153_snap_4_answer_0	begin quest dialog
+chat_system_2065887153_snap_4_question	Hello man!
+chat_system_2065887153_snap_5_answer_0	(away)
+chat_system_2065887153_snap_5_question	Things are going well, by the look of them, but the pirate raids are still draining our forces . . .
+chat_system_2065887153_snap_6_answer_0	end quest dialog
+chat_system_2065887153_snap_6_question	end quest text
+chat_system_2065887153_snap_7_answer_0	begin quest dialog
+chat_system_2065887153_snap_7_question	Hello man!
+chat_system_2065887153_snap_8_answer_0	(away)
+chat_system_2065887153_snap_8_question	We always track the movements of these cocky pirate riders but still can’t predict where they’ll attack next. So you’d better trust your hunch.
+chat_system_2065887153_snap_9_answer_0	end quest dialog
+chat_system_2065887153_snap_9_question	end quest text
+
+
+

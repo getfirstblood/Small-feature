@@ -1,0 +1,8 @@
+﻿quest_system_1261523617_desc	I don’t understand... who is Lazarus? I’ve never heard the name before. But why has our intelligence turned up nothing? Yes, maybe you’re right. Perhaps we have a traitor among us. Anything could happen now... I was unable to communicate with Signal Island. Someone is blocking magical communication. And they can’t hear us through the Distant Stones. You must head there at once and warn Commander De Bursac. I’ll get ready to send him reinforcements!
+quest_system_1261523617_done	And I thought they’d forgotten us already! I haven’t heard anything for days, and Master Taron hasn’t even lifted a finger. What? The attacks on the fort are a diversion? I’ve been saying that for months! But no one will listen to me or Stroke!
+quest_system_1261523617_name	Establishing Connection
+quest_system_1261523617_stage_0	De Bursac
+quest_system_1261523617_task	Find out what’s happening in the Scouts’ Camp and warn Commander De Bursac of the impending danger.
+
+
+

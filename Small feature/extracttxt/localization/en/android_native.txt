@@ -1,0 +1,17 @@
+﻿info_header	information
+no_internet	Connected network does not have access to the Internet!
+no_network	There are no networks available
+positive_button	Ok
+PUSH_MESSAGE_TYPE_GIFT_RECEIVED	You've received a gift from %s
+PUSH_MESSAGE_TYPE_GM_MESSAGE	Text message from GM: %s
+PUSH_MESSAGE_TYPE_HELP_IN_DUNGEONS	%s is asking for your help in a dungeon
+PUSH_MESSAGE_TYPE_NEW_VERSION_AVALIABLE	New version available: %s
+PUSH_MESSAGE_TYPE_NOT_ENTERED_TOGAME	You haven't played the game for a while
+PUSH_MESSAGE_TYPE_PATROL_COMPLETED	Your patrol is finished!
+PUSH_MESSAGE_TYPE_PVP_BATTLE_REQUEST	Your friend %s is calling you
+PUSH_MESSAGE_TYPE_STAMINA_RESTORED	Stamina fully recharged!
+unpacking_resources	Waiting to load resources...
+waiting_for_network	Waiting for the network
+
+
+

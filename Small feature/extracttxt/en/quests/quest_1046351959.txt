@@ -1,0 +1,8 @@
+﻿quest_system_1046351959_desc	I am capable of protecting the Northern Bay on my own, but my magical staff is a bit... Uhm... Low on power, so to speak. You know, entertaining young royalties with fireworks and showing other magical tricks is a costly business, so my staff has been drained of most of its power. Now I need to recharge it, but you know, my staff is very stubborn, it always has an opinion about everything, it will not just submit to anyone and always uses powerful Magical Guardians. Don't be surprised – these staffs are invariably a sort of living artifacts, there's no other way they they could be. Under different circumstances, I would manage on my own by waiting a while, but now we have to act quick. I am going to activate the staff now, and it will summon its Magical Guardians, which you will have to subdue to complete the charging process, so the staff submits to me again.<br>
+quest_system_1046351959_done	Excellent! This staff looks brand new! Just look at those lovely lightning discharges! Well, what was I saying? Oh, yes, many thanks for your help. And now a new mission awaits you.
+quest_system_1046351959_name	The Obstinate Staff
+quest_system_1046351959_stage_0	Magical Guardians
+quest_system_1046351959_task	Crush {counter_limit_0} troops of Magical Guards 
+
+
+

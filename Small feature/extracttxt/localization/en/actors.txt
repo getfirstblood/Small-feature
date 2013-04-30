@@ -1,0 +1,155 @@
+﻿actor_system_1015686589_name	Lazarus
+actor_system_1015686589_sdesc_	Fanatical leader of the Lazarus Cult
+actor_system_1021358190_name	Captain Crunch
+actor_system_1021358190_sdesc_	Communications Officer of the Eastern Fort
+actor_system_1067690028_name	Detective Barton
+actor_system_1067690028_sdesc_	A renowned detective in the Royal secret service. He's shrewd and cautious.
+actor_system_1073291893_name	Scout Giango
+actor_system_1073291893_sdesc_	Experienced Ranger
+actor_system_1118673339_name	Speaking Gate
+actor_system_1118673339_sdesc_	A real live gate – and one, capable of speech to boot.
+actor_system_114182559_name	Inquisitor Embarus
+actor_system_114182559_sdesc_	An ambitious and power-hungry inquisitor who has devoted himself to the extermination of vermin.
+actor_system_1145863088_name	Saphaor the Priest
+actor_system_1145863088_sdesc_	A famous scientist and devoted servant of the gods
+actor_system_11596940_name	Elder Sedwich
+actor_system_11596940_sdesc_	An elder of the Free Village
+actor_system_1176938775_name	Captain Brant
+actor_system_1176938775_sdesc_	Notwithstanding his youth, he is an eminently experienced captain, and in charge of all the military operations on Signal Island. 
+actor_system_1213185697_name	Druid Grundel
+actor_system_1213185697_sdesc_	A Druid, defending his radical beliefs
+actor_system_1236795314_name	Lok Toyl
+actor_system_1236795314_sdesc_	Retired Superintendent of the Academy Tiltyard
+actor_system_1266023584_name	Master Gram
+actor_system_1266023584_sdesc_	Experienced instructor of young officers
+actor_system_1270076905_name	Ospholdus the Battle Mage
+actor_system_1270076905_sdesc_	A Mage of the Order who never completed the full training program. Successfully substituted theory for practice, becoming De Bursac’s second-in-command.
+actor_system_1295991083_name	Fatto the Ranger
+actor_system_1295991083_sdesc_	An old Ranger who knows every single blade of grass in the forest
+actor_system_1308780749_name	Chief Ranger
+actor_system_1308780749_sdesc_	The person in charge of the Order’s hunting expedition.
+actor_system_1312997245_name	Maximus the Exorcist
+actor_system_1312997245_sdesc_	A famous exorcist who'd found glory in many battles of the past
+actor_system_1391610618_name	Leader of the King’s Guard.
+actor_system_1391610618_sdesc_	The leader of the guard. He trusts the security of the city to no one else.
+actor_system_1394179994_name	Bernar Lazo
+actor_system_1394179994_sdesc_	A respected resident of this village, worried about the events of late...
+actor_system_1395696845_name	Kaidan the Archivist
+actor_system_1395696845_sdesc_	Archivist for the Order of Mages’ Library
+actor_system_1426377587_name	Digory the Hermit
+actor_system_1426377587_sdesc_	Eccentric Hermit
+actor_system_1507214851_name	Commander De Bursac
+actor_system_1507214851_sdesc_	Commander of the Brave Guards’ squad
+actor_system_1507671916_name	Refugee
+actor_system_1507671916_sdesc_	Eyewitness of horrible events
+actor_system_1530635568_name	Abbot Lawrence
+actor_system_1530635568_sdesc_	Pastor and abbot of the future Temple of Light
+actor_system_1565328653_name	Tender the Forest Ranger
+actor_system_1565328653_sdesc_	A Ranger who lives in the local woods
+actor_system_1596619675_name	Secretary Pills
+actor_system_1596619675_sdesc_	Secretary of the Mages’ Council
+actor_system_1617963997_name	Medar the Alchemist
+actor_system_1617963997_sdesc_	A grumpy military Alchemist
+actor_system_1624681979_name	Instructor Paincraft
+actor_system_1624681979_sdesc_	Instructor at the Knight Academy
+actor_system_1651457483_name	Old Witch
+actor_system_1651457483_sdesc_	An old, half-blind witch
+actor_system_1662908761_name	Master Taron
+actor_system_1662908761_sdesc_	A professional Mage with training in commerce who’s also been to a dozen effective management lectures.
+actor_system_1710579492_name	Captain Stroke
+actor_system_1710579492_sdesc_	A Commander, able to see two steps ahead of the enemy due to his unique battle experience
+actor_system_1720051670_name	Haras the Bookworm
+actor_system_1720051670_sdesc_	A collector of ancient books
+actor_system_1721023796_name	Engineer Meshmer
+actor_system_1721023796_sdesc_	Give him a screw and he’ll transform it into a nail, making a profit for himself!
+actor_system_1736174187_name	Tong the Conceited
+actor_system_1736174187_sdesc_	A merchant and landlord who has seen better days
+actor_system_1742682606_name	Torvald Hammerhorn
+actor_system_1742682606_sdesc_	An old blacksmith of enormous experience, whose fame and skill are surpassed by none in this whole region.
+actor_system_1751806386_name	Elder Stutz
+actor_system_1751806386_sdesc_	Village Elder
+actor_system_1778373926_name	Lina Frizzle
+actor_system_1778373926_sdesc_	A sorceress from the faraway northern island of Ruttespiel.
+actor_system_1819299168_name	Keeper Paleopthos
+actor_system_1819299168_sdesc_	An elderly librarian who is truly worried about the old manuscripts
+actor_system_1838077040_name	Master Strummer
+actor_system_1838077040_sdesc_	Give him a screw and he’ll transform it into a nail, making a profit for himself!
+actor_system_183822068_name	Academy Secretary
+actor_system_183822068_sdesc_	The registrar for all those entering the King's service
+actor_system_1865656354_name	Captain Retak
+actor_system_1865656354_sdesc_	Order’s Garrison Commander
+actor_system_1880264216_name	Survus the Archmage
+actor_system_1880264216_sdesc_	Head of the Order of Mages of the Three Islands Kingdom
+actor_system_1908284778_name	Captain Alistar.
+actor_system_1908284778_sdesc_	Grey Warden Veteran Remembers a time when Griffins were used as winged steeds to assault enemy fortresses
+actor_system_1911064327_name	Lady Beatrice
+actor_system_1911064327_sdesc_	An experienced mentor, retinue of the royal family, and the personal bodyguard of the Princess.
+actor_system_1931045683_name	Pithia the Oracle
+actor_system_1931045683_sdesc_	An Oracle of the Order of Mages
+actor_system_1958145272_name	Vitcher the Exorcist
+actor_system_1958145272_sdesc_	The bane of witches, zombies, and the undead, with flaming eyes and icy-cold hearts.
+actor_system_1981629225_name	Rob Torbin
+actor_system_1981629225_sdesc_	Director of the Order’s hunting expedition
+actor_system_1986052397_name	Lieutenant Santos
+actor_system_1986052397_sdesc_	A brave lieutenant, commander of a small group of skilled guards.
+actor_system_2006610025_name	Commander Tarcus
+actor_system_2006610025_sdesc_	Commander of the Order’s Expeditionary Force
+actor_system_2083388629_name	Morania the Witch
+actor_system_2083388629_sdesc_	A witch from the swamp
+actor_system_2092225778_name	Sergeant Trollo
+actor_system_2092225778_sdesc_	A sergeant, partial to booze
+actor_system_2103902676_name	Morania the Witch
+actor_system_2103902676_sdesc_	A witch from the swamp
+actor_system_2108879857_name	Captain Rando
+actor_system_2108879857_sdesc_	Brave Captain of the North Bay Garrison
+actor_system_220688841_name	Torbins the Quartermaster
+actor_system_220688841_sdesc_	The port administrator who handles all allocation of cargo
+actor_system_225859474_name	Locrim the Mage
+actor_system_225859474_sdesc_	A forgetful and discombobulated Mage
+actor_system_244470728_name	Helvasink the Keeper
+actor_system_244470728_sdesc_	A stranger with a murky past.
+actor_system_249343289_name	Priest of Rusith
+actor_system_249343289_sdesc_	An elder who casts prophecies of the future
+actor_system_259834010_name	Moran Kruzius
+actor_system_259834010_sdesc_	A gravedigger who makes a living by resurrecting the dead
+actor_system_288767700_name	Zach Kisson
+actor_system_288767700_sdesc_	Manager of Kisson & Co. Mechanical Shop
+actor_system_298834331_name	Phil Dougherty
+actor_system_298834331_sdesc_	A perfect representative of the people's militia.
+actor_system_325426904_name	Druid Amforius
+actor_system_325426904_sdesc_	An old druid who ran deep into the woods after his mind slipped a bit.
+actor_system_334681145_name	Apprentice Witch
+actor_system_334681145_sdesc_	A cutie who became an apprentice of Morania the Witch out of sheer boredom
+actor_system_370097316_name	Albus the Archmage
+actor_system_370097316_sdesc_	A key figure maintaining relative peace and order in the Archipelago.
+actor_system_457992720_name	Charon the Archive Keeper
+actor_system_457992720_sdesc_	A highly knowledgeable connoisseur of ancient manuscripts, books of the First Epoch, and translations from the Old Elvish language.
+actor_system_506375187_name	Colonel Bogard
+actor_system_506375187_sdesc_	The Commander of the Eastern Fort. A very busy and serious fellow.
+actor_system_51288576_name	Martha Corvin
+actor_system_51288576_sdesc_	Owner of the farm in Turtle Hills
+actor_system_539428160_name	Dagor Stormfolk
+actor_system_539428160_sdesc_	Gray Warden Veteran Remembers a time when Griffins were used as winged steeds to assault enemy fortresses
+actor_system_559901068_name	Rock Porter
+actor_system_559901068_sdesc_	A well-known industrialist and manufacturer
+actor_system_665326984_name	Captain Alistar.
+actor_system_665326984_sdesc_	A gifted captain of the Gray Wardens in charge of bringing the reinforcements to Kronberg
+actor_system_701896498_name	Eric Hammerhorn
+actor_system_701896498_sdesc_	A melancholy youth who has fallen victim to the magical sword, forged by his own father.
+actor_system_836808198_name	Scout Greenhood
+actor_system_836808198_sdesc_	An experienced scout from De Bursac’s troop
+actor_system_855058747_name	Bogusz the Eccentric
+actor_system_855058747_sdesc_	An odd fellow; the laughingstock of the neighborhood
+actor_system_955059318_name	Senior Exorcist
+actor_system_955059318_sdesc_	A famous exorcist who'd found glory in many battles of the past
+actor_system_957516736_name	Baron Hussaro
+actor_system_957516736_sdesc_	A baron with an idiosyncratic sense of humor and a passion for duels.
+actor_system_964006885_name	Barns the Quartermaster
+actor_system_964006885_sdesc_	Housing Services Manager
+actor_system_992985000_name	Manager Jobs
+actor_system_992985000_sdesc_	Your assistant and Town Mayor.
+actor_system_998175226_name	Scout Knool
+actor_system_998175226_sdesc_	A simple country bumpkin
+
+
+

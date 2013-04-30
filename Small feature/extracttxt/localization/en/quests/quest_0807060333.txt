@@ -1,0 +1,8 @@
+﻿quest_system_807060333_desc	Here's a tougher job for you. I have tracked down a gang of highly dangerous criminals. The Corsair Flotilla are real desperadoes who have been disturbing peace around the city. Now they are hiding inside of a grotto near a rock that is close to Karakol Port. The problem is neither you nor me can deal with them on our own – we have to call some Knights from the academy. If you cannot gather your faithful friends, you can always use the services of mercenaries who will do any feat for some cash.
+quest_system_807060333_done	That was a good battle! Remember you can gather loyal companions any time to go hunting for villains. You may require different numbers of comrades, depending on what kind of enemy armies you intend to battle. But then one or two of the enemies you defeated will be happy to swear allegiance to you. So just go ahead!
+quest_system_807060333_name	Shoulder to Shoulder against Evil
+quest_system_807060333_stage_0	The Rout of the Dungeon Army
+quest_system_807060333_task	Click on Wanted while in Karakol Port, gather allies to battle the Corsair Flotilla and crush them.
+
+
+

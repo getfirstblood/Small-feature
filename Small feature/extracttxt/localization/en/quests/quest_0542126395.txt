@@ -1,0 +1,8 @@
+﻿quest_system_542126395_desc	This fort is like a burr in the saddle for the Lazarus Cultists. They won’t stop at anything to push us away from this land. That is why I am here – to help the garrison with my magic powers. But I have to admit that our side is not winning. The necromancers keep creating their zombie armies and we can’t even step outside the fort walls. You need to deal a lightning-fast strike to the enemy and disperse the Zombie Army that has gathered around the fortress walls. Our Order will compensate you handsomely for your help.
+quest_system_542126395_done	I knew I could count on you. Now we can take a little reprieve and gather our forces. Hopefully the Gray Wardens will finally take care of the necromancer cult's leader. Otherwise we'll have to fight off the attacks of these nasty zombies forever. 
+quest_system_542126395_name	Clutch of Death
+quest_system_542126395_stage_0	Rout
+quest_system_542126395_task	Destroy {counter_limit_0} Zombie Armies. 
+
+
+

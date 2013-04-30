@@ -1,0 +1,8 @@
+﻿quest_system_1715833448_desc	I don't mean to keep on reminding you, but how long can you tolerate spiders in your village? I won't claim that I own everything here, but I've certainly spent a lot of time here and consider this place my home. So naturally, if somebody desecrates these lands, it offends me greatly. Just like the Necrophages that migrated to this village from the caves east of here. I'm completely unable to tolerate their presence here. Spider webs and dirt are the origin of all this muck. Not to mention that they devour my precious cadavers.
+quest_system_1715833448_done	Very good. The fewer living creatures we have around here, the quieter it is for the dead ones.
+quest_system_1715833448_name	Spiders in the Cemetery
+quest_system_1715833448_stage_0	Defeat
+quest_system_1715833448_task	Destroy {counter_limit_0} broods of Necrophages.
+
+
+

@@ -1,0 +1,8 @@
+﻿quest_system_133646233_desc	I have upgraded your key – it will be useful now for rendering some of the traps harmless, but it won't work on them all. So remember what I taught you. Maximus the Exorcist already awaits you at the Academy Tiltyard – this is where the ancient sanctuary is concealed. Very few know of its existence, so please keep this secret from everyone. 
+quest_system_133646233_done	A messenger from Archmage Albus himself? I have already received the full set of orders concerning you. 
+quest_system_133646233_name	A Mystery Encounter
+quest_system_133646233_stage_0	The Witcher
+quest_system_133646233_task	Meet the Exorcist
+
+
+

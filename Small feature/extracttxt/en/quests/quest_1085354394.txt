@@ -1,0 +1,8 @@
+﻿quest_system_1085354394_desc	While you were looking for the key, we unearthed something that concerns this mysterious Lazarus. He's turned out to be one Lazarro Crucius, a former student of mine. As far as I remember, he got expelled from the academy because of his proclivity for the Sinister Arts; to be quite honest with you, I expected him to retire from the magical profession. Yet it appears that he has been vying for power all these years. There is no doubt that he aims for the ancient relics in the sanctuary. It is my fear that his cult seeks greater power by dint of these magic artifacts. We have a chance of beating them to the sanctuary, but this key lacks fine tuning and will prove useless against magic traps. Digory the Hermit has spent many years as a Professor at the Academy; he was the one who did the final work on the astral seals on the vault. I hope he might come up with a way of bypassing the magic traps. Go to his abode, and may the spirit of the great Rusith help us all. 
+quest_system_1085354394_done	No need to hurry events. All things happen in due time. 
+quest_system_1085354394_name	A Visit to the Hermit
+quest_system_1085354394_stage_0	The Hermit
+quest_system_1085354394_task	Visit the Hermit in Shady Grove and ask him for assistance.
+
+
+

@@ -1,0 +1,8 @@
+﻿quest_system_991870811_desc	It seems you’re pretty confident for having once defeated my army of necromancers. But don’t you know that an army of the living dead is so much more powerful? Go ahead. Defeat my personal guard, a hand-picked band of my best servants.
+quest_system_991870811_done	No, that can’t be... You defeated my guard...
+quest_system_991870811_name	Lazarus’ Army
+quest_system_991870811_stage_0	Rout
+quest_system_991870811_task	Defeat Lazarus’ Guard.
+
+
+

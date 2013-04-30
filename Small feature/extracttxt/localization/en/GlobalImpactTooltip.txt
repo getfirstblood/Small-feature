@@ -1,0 +1,10 @@
+﻿ImpactDaysHours	{days_left} days {hours_left} hours
+ImpactDesc	<color=FFFFFF><align=left><font=tahoma_regular_8>
+ImpactHoursMinutes	{hours_left} h. {minutes_left} m.
+ImpactIcon_Tooltip	[ImpactName]{impact_name}<br>[ImpactDesc]{impact_desc2}<br=2>[ImpactTimeLeftFormat] {impact_time_left}
+ImpactName	<color=FFFF00><align=center><font=tahoma_regular_10>
+ImpactTimeLeft	Time left: [?]
+ImpactTimeLeftFormat	<font=tahoma_regular_8><image=textures/interface/common/icons/hourglass_16x16><indent=5><color=FFFFFF><align=left>
+
+
+

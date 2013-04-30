@@ -1,0 +1,11 @@
+﻿chat_system_1571726236_actor_description	Refugee. Eyewitness of horrible events.
+chat_system_1571726236_snap_0_answer_0	Witnessing the Slaughter
+chat_system_1571726236_snap_0_answer_1	The Magicians' Mystery
+chat_system_1571726236_snap_0_question	I beg you, your Grace, do not question me further.
+chat_system_1571726236_snap_1_answer_0	end quest dialog
+chat_system_1571726236_snap_1_question	Hello man!
+chat_system_1571726236_snap_2_answer_0	begin quest dialog
+chat_system_1571726236_snap_2_question	Hello man!
+
+
+

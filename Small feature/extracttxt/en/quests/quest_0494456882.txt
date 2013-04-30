@@ -1,0 +1,8 @@
+﻿quest_system_494456882_desc	Captain, you’ve seen things for yourself. We’ve got only beasts in the forest, plus the crazies that you just sent packing. So now you can go to the Eastern Fort with a clear conscience. Get in touch with Captain Crunch there, because Colonel Bogart... how should I put this..? Is often quite busy.
+quest_system_494456882_done	You wanted to see me? Ah, you were sent to scout out the road. Tarcus has inquired about you already. Too bad the Distant Stones are so bulky; it’s very important to be able to communicate with the scouts. Please give me your report and I’ll send it to Kronberg. Wait here, please.
+quest_system_494456882_name	Final Push
+quest_system_494456882_stage_0	Speak
+quest_system_494456882_task	Check the rest of the road to the Eastern Fort and report to Captain Crunch.
+
+
+

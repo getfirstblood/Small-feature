@@ -1,0 +1,33 @@
+﻿chat_system_1456369345_actor_description	Master Taron A professional Mage with training in commerce who’s also been to a dozen effective management lectures.
+chat_system_1456369345_snap_0_answer_0	Warning!
+chat_system_1456369345_snap_0_answer_1	Enlightenment
+chat_system_1456369345_snap_0_answer_2	Enlightenment
+chat_system_1456369345_snap_0_answer_3	Repairing Connections
+chat_system_1456369345_snap_0_answer_4	Help from the West
+chat_system_1456369345_snap_0_answer_5	Ancient Magic
+chat_system_1456369345_snap_0_answer_6	Ancient Magic
+chat_system_1456369345_snap_0_answer_7	Visiting the Witch
+chat_system_1456369345_snap_0_question	Without this fort, nothing would prevent a Jarl landing party from taking over this coast. That would be a disaster!
+chat_system_1456369345_snap_12_answer_0	end quest dialog
+chat_system_1456369345_snap_12_question	Hello man!
+chat_system_1456369345_snap_13_answer_0	begin quest dialog
+chat_system_1456369345_snap_13_question	Hello man!
+chat_system_1456369345_snap_14_answer_0	(away)
+chat_system_1456369345_snap_14_question	I believe you've encountered ancient magic before.
+chat_system_1456369345_snap_15_answer_0	end quest dialog
+chat_system_1456369345_snap_15_question	end quest text
+chat_system_1456369345_snap_16_answer_0	begin quest dialog
+chat_system_1456369345_snap_16_question	Hello man!
+chat_system_1456369345_snap_4_answer_0	end quest dialog
+chat_system_1456369345_snap_4_question	Hello man!
+chat_system_1456369345_snap_5_answer_0	begin quest dialog
+chat_system_1456369345_snap_5_question	Hello man!
+chat_system_1456369345_snap_6_answer_0	(away)
+chat_system_1456369345_snap_6_question	Truly, I don’t want to keep you. But I need you to understand how effective my strategy is and convey that to the Commander and the Archmage. 
+chat_system_1456369345_snap_7_answer_0	end quest dialog
+chat_system_1456369345_snap_7_question	end quest text
+chat_system_1456369345_snap_8_answer_0	begin quest dialog
+chat_system_1456369345_snap_8_question	Hello man!
+
+
+

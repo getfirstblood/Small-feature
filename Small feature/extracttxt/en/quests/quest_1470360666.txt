@@ -1,0 +1,8 @@
+﻿quest_system_1470360666_desc	So one of the enemy squads lurk right here, in the Northern Bay. However, tracking them down will be no easy task. Therefore, you will require the support of your comrades or mercenaries. This is a large town, and we need to cordon off several districts at once and immediately envelop the enemy. Mind you, they are true masters of camouflage, capable of disappearing when least expected. You will need to act quickly and in a well-coordinated manner. That's why you cannot make it aon your own.
+quest_system_1470360666_done	Excellent! You have done a good job dealing with that difficult task! It's a shame their leader managed to escape, vanishing in the shadows. I believe he will surface again in a while, and I will need your help once more. And for now, please accept this humble reward for your service.
+quest_system_1470360666_name	A War against Shadows
+quest_system_1470360666_stage_0	Rout
+quest_system_1470360666_task	Click on Wanted while in Northern Bay, gather allies to battle the Lords of the Shadows and defeat them.
+
+
+

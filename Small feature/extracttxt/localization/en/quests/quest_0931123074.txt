@@ -1,0 +1,8 @@
+﻿quest_system_931123074_desc	Ugh, I babbled it out, after all. Please, Your Grace, don’t be angry. We’re still frightened. After all, if we tell what we saw, then those mages will destroy us, no matter where we are. How do I know they’re mages? Well, it was obvious! They had this clothing... magical clothing... red, and a prominent belt, with skull-shaped buckles... and a drawing on their faces, as if etched by fingernails... No, Your Grace, I won’t say anything more, even if you threaten my life! I fear for my family!
+quest_system_931123074_done	Yes, I heard. I was nearby. The people are quite frightened. Though all this about the mages killing them over a distance just for talking... It’s not a superstition, it’s just too difficult. 
+quest_system_931123074_name	Mage's Mystery
+quest_system_931123074_stage_0	Speak
+quest_system_931123074_task	Talk to Captain and get some information about these Mages.
+
+
+

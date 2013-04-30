@@ -1,0 +1,27 @@
+﻿chat_system_939584613_actor_description	Elder Sedwich. An elder of the Free Village
+chat_system_939584613_snap_0_answer_0	Firefighting Measures
+chat_system_939584613_snap_0_answer_1	Firefighting Measures
+chat_system_939584613_snap_0_answer_2	A Family Instrument
+chat_system_939584613_snap_0_answer_3	The Dangers of Freedom
+chat_system_939584613_snap_0_answer_4	The Dangers of Freedom
+chat_system_939584613_snap_0_answer_5	Return of the Hammer
+chat_system_939584613_snap_0_question	We do our best to survive, but we have to deal with the buggers on our own. 
+chat_system_939584613_snap_13_answer_0	end quest dialog
+chat_system_939584613_snap_13_question	Hello man!
+chat_system_939584613_snap_14_answer_0	begin quest dialog
+chat_system_939584613_snap_14_question	Hello man!
+chat_system_939584613_snap_15_answer_0	(away)
+chat_system_939584613_snap_15_question	May St. Rusith protect our village.
+chat_system_939584613_snap_16_answer_0	end quest dialog
+chat_system_939584613_snap_16_question	end quest text
+chat_system_939584613_snap_17_answer_0	begin quest dialog
+chat_system_939584613_snap_17_question	Hello man!
+chat_system_939584613_snap_7_answer_0	begin quest dialog
+chat_system_939584613_snap_7_question	Hello man!
+chat_system_939584613_snap_8_answer_0	(away)
+chat_system_939584613_snap_8_question	We are fighting the disease but just holding it in check takes more strength than we’ve got. Quarantine is an efficient measure, but the risk is still there.
+chat_system_939584613_snap_9_answer_0	end quest dialog
+chat_system_939584613_snap_9_question	end quest text
+
+
+

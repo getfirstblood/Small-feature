@@ -1,0 +1,39 @@
+﻿RMF_AcceptBtn	<align=center><valign=center><font=tahoma_bold_10><wordwrap=on>Accept
+RMF_Anonymous	Anonymous
+RMF_Caption	[FormTitleText][FormTitleColor]Royal Mail
+RMF_CastleLogAcceptBtnText	Remove all
+RMF_CastleLogCounterAttacktBtnText	<align=center><valign=center><font=tahoma_bold_10><wordwrap=on>Avenge
+RMF_CastleLogItem_TooltipText	<valign=center><color=DDDD00><font=tahoma_bold_10><align=center>{item_name}<br><color=FFFFFF><font=tahoma_regular_8><align=left>{item_desc}
+RMF_CastleLogMessageText_Fail	<align=left><valign=center><font=tahoma_bold_11><wordwrap=on><color=FFEA5B>[?]<br><font=tahoma_regular_10>[FormTitleColor]Your Garrison <color=FF0000><font=tahoma_bold_10>destroyed</color>. You lose <image=textures/interface/common/icons/money_22x22><color=FF0000><font=tahoma_bold_10>[?]</color>.<br>Compensation: <image=[?] width=16 height=16> [?]<br>Rating: <color=FF0000><font=tahoma_bold_10>-[?]</color>
+RMF_CastleLogMessageText_Win	<align=left><valign=center><font=tahoma_bold_11><wordwrap=on><color=FFEA5B>[?]<br><font=tahoma_regular_10>[FormTitleColor]Your Garrison <color=00FF00><font=tahoma_bold_10>repelled</color> an attack. You receive <image=textures/interface/common/icons/money_22x22><color=00FF00><font=tahoma_bold_10>[?]</color>.<br>Reward: <image=[?] width=16 height=16> [?]<br>Rating: <color=00FF00><font=tahoma_bold_10>+[?]</color>
+RMF_CloseBtn	[FormButtonText_9][FormButtonColor][CloseButton]
+RMF_CollectionAcceptMessageText	<align=left><valign=center><font=tahoma_bold_11><wordwrap=on><color=FFEA5B>[?]<br=5><font=tahoma_regular_10>[FormTitleColor]You receive a valuable resource from your friend: <font=tahoma_bold_10><color=FFEA5B>[$]</color></font>.
+RMF_CountOverloadedText	<align=center><valign=center><font=tahoma_regular_9_border_numbers_only><color=E9DFB3><color=00FF00>[?] </color>/ [?]
+RMF_CountText	<align=center><valign=center><font=tahoma_regular_9_border_numbers_only><color=E9DFB3>[?] / [?]
+RMF_DungeonAcceptBtnText	Help everyone
+RMF_DungeonAcceptCanBattleTooltip	<font=tahoma_regular_8>The team has been gathered. You can now go battling bandits.
+RMF_DungeonAcceptMessageText	<align=left><valign=center><font=tahoma_bold_11><wordwrap=on><color=FFEA5B>[?]<br=5><font=tahoma_regular_10>[FormTitleColor]A friend has joined your team to hunt for <font=tahoma_bold_10><color=FFEA5B>[$]</color></font> in <font=tahoma_bold_10><color=FFEA5B>[$]</color></font>.
+RMF_DungeonAcceptProgressTooltip	<font=tahoma_regular_8>You cannot start a battle with bandits. You have <color=FFEA5B><font=tahoma_bold_10>[?]</font></color> of <color=FFEA5B><font=tahoma_bold_10>[?]</font></color> friends in your team.
+RMF_DungeonRequestMessageText	<align=left><valign=center><font=tahoma_bold_11><wordwrap=on><color=FFEA5B>[?]<br=5><font=tahoma_regular_10>[FormTitleColor]A friend is looking for villains – <font=tahoma_bold_10><color=FFEA5B>[$]</color></font>. Help your friend find them.
+RMF_GiftCountTooltip	Number of gifts sent to friends today.
+RMF_GiftItem_TooltipText	<color=FFFFFF><font=tahoma_regular_8><align=left>{item_desc} {item_impact_duration}
+RMF_GiftMessageText	<align=left><valign=center><font=tahoma_bold_11><wordwrap=on><color=FFEA5B>[?]<br=5><font=tahoma_regular_10>[FormTitleColor]Your friend has sent you a <font=tahoma_bold_10><color=FFEA5B>[$]</color></font>. Accept it and send a gift in return.
+RMF_GiftsAcceptBtnText	Accept all gifts
+RMF_HelpBtn	<align=center><valign=center><font=tahoma_bold_10><wordwrap=on>Help
+RMF_MessageTitleAcceptBtnTmpl	<align=center><valign=center><font=tahoma_bold_10>[?]
+RMF_MessageTitleTmpl	<align=left><valign=center><font=tahoma_bold_11>[?]
+RMF_SendBtn	<align=center><valign=center><font=tahoma_bold_10><wordwrap=on>Send
+RMF_SendGiftBtn	<align=center><valign=center><font=tahoma_bold_10><wordwrap=on>Send
+RMF_TitleCastleAttackLog	<color=FFCC00>Attacks on Garrison</color>
+RMF_TitleNoCastleAttackLogItems	<color=FFCC00>There were no attacks on your Garrison</color>
+RMF_TitleNoCollectionAccepts	<color=FFCC00>You haven't received any resources</color>
+RMF_TitleNoDungAccepts	<color=FFCC00>No one helped you</color>
+RMF_TitleNoDungRequests	<color=FFCC00>No new requests for help.</color>
+RMF_TitleNoNewGifts	<color=FFCC00>No new gifts</color>
+RMF_TitleTotalCollectionAccepts	<color=FFCC00>You have received some resources as help</color> ([?])
+RMF_TitleTotalDungAccepts	<color=FFCC00>Helped you with your hunt: </color>([?])
+RMF_TitleTotalDungRequests	<color=FFCC00>Help requests:</color> ([?])
+RMF_TitleTotalGifts	<color=FFCC00>Gifts from friends:</color> ([?])
+
+
+

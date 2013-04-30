@@ -1,0 +1,8 @@
+﻿quest_system_1964232494_desc	These damned gravedigger gangs are truly out of control. In the past they were satisfied with the trinkets they'd dig up from the graves. Now they've gotten into stealing the cadavers. It looks like they have some customer living in the city. Some mad scientist attempting a grand discovery, no doubt. But how can I produce zombies if these graveyard rats steal all the cadavers? There's no doubt about it – these gangs have to be dealt with.
+quest_system_1964232494_done	Good. Let them rest in peace. The grave-diggers have always been drawn to the dead, so now you might say they have completely reunited. I think their leader will add to my collection of select zombies. 
+quest_system_1964232494_name	Grave Plunderers
+quest_system_1964232494_stage_0	Defeat
+quest_system_1964232494_task	Destroy {counter_limit_0} Gravedigger gangs. 
+
+
+

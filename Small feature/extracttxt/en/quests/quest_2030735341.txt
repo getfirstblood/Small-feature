@@ -1,0 +1,8 @@
+﻿quest_system_2030735341_desc	We’re always finding traps and poisoned bait in the forest. Looks like the work of the Band of Poachers. We’ve already explained to them that it’s not in their best interests to hang around here, but it looks like they won’t listen to reason. The time has come for a more physical explanation; otherwise there won’t be even a single rabbit left in the forest by next year.
+quest_system_2030735341_done	With the poachers gone, our forests will be a quiet place for free hunters’ trade. Thank you.
+quest_system_2030735341_name	Without Measure
+quest_system_2030735341_stage_0	Rout
+quest_system_2030735341_task	Destroy {counter_limit_0} squads of Poachers. 
+
+
+

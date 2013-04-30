@@ -1,0 +1,8 @@
+﻿quest_system_85847362_desc	Acting under the authority of this unit commander, as entrusted to me by the Order, I hereby recall you and your team to active military service! It’s temporary, of course. And the pay is good. We need to cut down the numbers of Wild Horde scum that the pirates brought here. Otherwise, they may soon invade the continent, too. Are you ready for active duty?
+quest_system_85847362_done	Not much, but it will keep them quiet for today. Thank you for your service to the King and the Order! At ease, dismissed, disperse!
+quest_system_85847362_name	Repel an Onslaught
+quest_system_85847362_stage_0	Rout
+quest_system_85847362_task	Destroy {counter_limit_0} Wild Horde squads. 
+
+
+

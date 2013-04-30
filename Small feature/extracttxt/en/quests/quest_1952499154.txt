@@ -1,0 +1,8 @@
+﻿quest_system_1952499154_desc	Lazarus got hold of the Crystal of Arymbus. We have found several references to the crystal in old books. According to one of the legends, it contains a soul shard of one of the avatar demigods of the ancient times. Lazarus appears to be trying to bring the Avatar back to life somehow. Yet in his ignorance he shall only unleash a terrible power that may destroy the entire island. We shall only aggravate matters if we attack right now. We have to proceed with caution and drive Lazarus into utter confusion with a single blow. Go to Captain Brant in the Patrol Encampment – his garrison is on a Signal Isle reconnaissance mission. 
+quest_system_1952499154_done	The situation is very grave indeed. We need all the help you can provide. 
+quest_system_1952499154_name	To Signal Island!
+quest_system_1952499154_stage_0	Brant
+quest_system_1952499154_task	Go to Captain Brant for your briefing
+
+
+

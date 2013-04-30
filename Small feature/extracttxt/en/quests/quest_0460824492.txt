@@ -1,0 +1,8 @@
+﻿quest_system_460824492_desc	Strategy is the key to victory. We strengthen our defences and anticipate the Brotherhood’s plans a couple of steps ahead. But it’s impossible to predict the actions of pirate raids. They don’t obey the Brotherhood and attack without any system. This means they are badly organized, so it should be easy for you to handle them. Just find some raids and destroy all of the pirates there. May this be a lesson to these rookies.
+quest_system_460824492_done	Excellent lesson you taught those free corsairs. Surely the rumors shall spread of these rats’ speedy demise. The others’ enthusiasm will be extinguished soon enough.
+quest_system_460824492_name	Off with Their Heads
+quest_system_460824492_stage_0	Hunt
+quest_system_460824492_task	Destroy {counter_limit_0} Sea Wolves.
+
+
+

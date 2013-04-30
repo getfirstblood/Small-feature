@@ -1,0 +1,8 @@
+﻿quest_system_812975022_desc	Sigh. It looks like they are taking you away. And we were off to such a great start. You've got talent, you just need to train a bit. Anyway, the quartermaster was looking for you. He said he had a real mission for you. What kind of mission? By Rusith, who knows? You'll figure it out once you get there.
+quest_system_812975022_done	The Alchemist spoke very well of you. He said one can count on you. Pretty soon, working for him will seem like a vacation. Trust me!
+quest_system_812975022_name	A Good Start
+quest_system_812975022_stage_0	Speak with the Garrison Quartermaster
+quest_system_812975022_task	Accept a new mission from the Quartermaster.
+
+
+

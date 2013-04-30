@@ -1,0 +1,143 @@
+﻿AP_ActorName	<align=center><valign=center><font=tahoma_bold_10><color=DDDD00>[$]<br><font=tahoma_regular_8><color=FF4444>[?]
+AP_ActorTooltip	<valign=center><color=DDDD00><font=tahoma_bold_10><align=center>[$]<br><color=FFFFFF><font=tahoma_regular_8><align=left>[$]
+AP_ArmyManagerTooltip	<valign=top><color=DDDD00><font=tahoma_bold_10><align=center>Your Army <color=36FF00>(A)<br><color=FFFFFF><font=tahoma_regular_8><align=left>Here you can manage your army.
+AP_ArmyManagerTooltip_Tablets	<valign=top><color=DDDD00><font=tahoma_bold_10><align=center>Your Army <br><color=FFFFFF><font=tahoma_regular_8><align=left>Here you can manage your army.
+AP_BagTooltip	<valign=top><color=DDDD00><font=tahoma_bold_10><align=center>Inventory <color=36FF00>(I)<br><color=FFFFFF><font=tahoma_regular_8><align=left>Here you can view all your items.
+AP_BagTooltip_Tablets	<valign=top><color=DDDD00><font=tahoma_bold_10><align=center>Inventory <br><color=FFFFFF><font=tahoma_regular_8><align=left>Here you can view all your items.
+AP_Castle_Tooltip	<valign=top><color=DDDD00><font=tahoma_bold_10><align=center>Castle <color=36FF00>(C)<color=FFFFFF><br><font=tahoma_regular_8><align=left>Your personal castle. Duels and Sieges can be launched only from the Castle
+AP_CastleDescr	[AP_Service_Template]Castle
+AP_CastleTooltip_Tablets	<valign=top><color=DDDD00><font=tahoma_bold_10><align=center>Castle<br><font=tahoma_regular_8><align=left>Your personal castle. Duels and Sieges can be launched only from the Castle
+AP_DuelDescr	[AP_Service_Template][AP_DuelText]
+AP_DuelHeader_PC	[AP_DuelHeader_Tablet] <color=36FF00>(Space)
+AP_DuelHeader_Tablet	<valign=top><color=DDDD00><font=tahoma_bold_10><align=center>[AP_DuelText]
+AP_DuelText	Duel
+AP_DuelTooltipDisable_PC	[AP_DuelHeader_PC]<br><color=FFFFFF><font=tahoma_regular_8><align=left>[AS_StartBattlePVPDisabledTip]
+AP_DuelTooltipDisable_Tablet	[AP_DuelHeader_Tablet]<br><color=FFFFFF><font=tahoma_regular_8><align=left>[AS_StartBattlePVPDisabledTip]
+AP_DuelTooltipEnable_PC	[AP_DuelHeader_PC]<br><color=FFFFFF><font=tahoma_regular_8><align=left>[AS_Enemy_Tab_Tooltip_1]
+AP_DuelTooltipEnable_Tablet	[AP_DuelHeader_Tablet]<br><color=FFFFFF><font=tahoma_regular_8><align=left>[AS_Enemy_Tab_Tooltip_1]
+AP_FriendsBtn	<font=tahoma_bold_10><align=center><color=CBA659>Friends
+AP_FriendsBtnCount	<font=tahoma_bold_10_numbers_only><align=center><color=000000>[?]
+AP_GlobalMapTooltip	<font=tahoma_bold_10><align=center>World Map<br><color=FFFFFF><font=tahoma_regular_8><align=left>Open the world map.
+AP_HelpTooltip	<valign=top><color=DDDD00><font=tahoma_bold_10><align=center>Help<br><color=FFFFFF><font=tahoma_regular_8><align=left>Help
+AP_HeroTooltip	<valign=top><color=DDDD00><font=tahoma_bold_10><align=center>Name: [$]<br><color=FFFFFF><font=tahoma_regular_8><align=left>Level: [$]<br>Exp. to next level: [$]<br>Total exp.: [$]<br>Leadership: [$]<br>Stamina: [$]<br>Gold: [$]<br>
+AP_ImportantQuestShare	<font=tahoma_bold_12_border_smooth><image=textures/interface/gift>You have completed an important quest.<br><indent=50>Would you like to tell your friends?
+AP_Mail_Text	Mail
+AP_MailDescr	[AP_Service_Template][AP_Mail_Text]
+AP_MedalInfoText	To earn recognition in the settlement, defeat some enemies.
+AP_MedalOfValorCompleteText	Medal Received
+AP_MedalOfValorCompleteTooltip	<valign=top><color=DDDD00><font=tahoma_bold_10><align=center>[AP_MedalOfValorText]<br=5><color=FFFFFF><font=tahoma_regular_8>[AP_MedalOfValorCompleteText]
+AP_MedalOfValorProgressText	Quests completed: [?] of [?].
+AP_MedalOfValorProgressTooltip	<valign=top><color=DDDD00><font=tahoma_bold_10><align=center>[AP_MedalOfValorText]<br=5><color=FFFFFF><font=tahoma_regular_8>[AP_MedalOfValorProgressText]<br=5><align=left><color=00DDDD>[AP_MedalInfoText]
+AP_MedalOfValorText	Medal of Honor
+AP_MessagesCount	<align=right><valign=center><color=FFFFFF><font=tahoma_bold_10_border_smooth_numbers_only>[?]
+AP_MetaMapTooltip	<valign=top><color=DDDD00><font=tahoma_bold_10><align=center>Map <color=36FF00>(N)<br><color=FFFFFF><font=tahoma_regular_8><align=left>Open the map.
+AP_MetaMapTooltip_Tablets	<valign=top><color=DDDD00><font=tahoma_bold_10><align=center>Map <br><color=FFFFFF><font=tahoma_regular_8><align=left>Open the map.
+AP_Node_LockByFriends_Desc	<font=tahoma_bold_10><color=DDDD00>[?]</font> friends are playing with you.<br>Gather <font=tahoma_bold_10><color=DDDD00>[?]</font> game friends to unlock this settlement.<br><br><font=tahoma_bold_10><color=AAAAFF>Alternatively, click and pay to unlock.</font>
+AP_Node_Moving_Time	<br=5><color=FFFFFF><font=tahoma_bold_8>[AP_Node_Moving_Time_Text] [?]</color>
+AP_Node_Moving_Time_Text	Stamina needed:
+AP_Node_Not_Active	<br=5><color=FFAAAA><font=tahoma_bold_8>[$]</color>
+AP_Node_Not_Active_Desc	<br=5><color=FFFFFF><font=tahoma_regular_8>[?]</color>
+AP_Node_Not_Active_Text	Not available
+AP_Node_Not_Enough_Friends_Text	Not enough friends
+AP_Node_Path_Blocked	<br=5><color=AAAAFF><font=tahoma_bold_8>[AP_Node_Path_Blocked_Text]</color>
+AP_Node_Path_Blocked_Text	Path is blocked
+AP_NodeFriendTooltip	<font=tahoma_bold_10><align=center><valign=center><color=DDDD00>[?]
+AP_NodeLabel	<align=center><valign=center><color=CCDDDD00><font=tahoma_bold_12_border_smooth>[$]
+AP_NodeTooltip	<align=center><valign=center><color=DDDD00><font=tahoma_bold_10>[$][$][$]
+AP_Patrol_Text	Patrol
+AP_Patrol_Tooltip	[$]
+AP_Patrol_Tooltip_ArmyEmpty	<valign=top><color=DDDD00><font=tahoma_bold_10><align=center>Patrol <color=36FF00>(P)<br><color=FFFFFF><font=tahoma_regular_8><align=left>You cannot patrol without an army.
+AP_Patrol_Tooltip_ArmyEmpty_Tablets	<valign=top><color=DDDD00><font=tahoma_bold_10><align=center>Patrol <br><color=FFFFFF><font=tahoma_regular_8><align=left>You cannot patrol without an army.
+AP_Patrol_Tooltip_Disabled	<valign=top><color=DDDD00><font=tahoma_bold_10><align=center>Patrol <color=36FF00>(P)<br><color=FFFFFF><font=tahoma_regular_8><align=left>Patrol mode is currently unavailable. It will become available in [?].
+AP_Patrol_Tooltip_Disabled_Tablets	<valign=top><color=DDDD00><font=tahoma_bold_10><align=center>Patrol <br><color=FFFFFF><font=tahoma_regular_8><align=left>Patrol mode is currently unavailable. It will become available in [?].
+AP_Patrol_Tooltip_Enabled	<valign=top><color=DDDD00><font=tahoma_bold_10><align=center>Patrol <color=36FF00>(P)<br><color=FFFFFF><font=tahoma_regular_8><align=left>Show Patrol Window
+AP_Patrol_Tooltip_Enabled_Tablets	<valign=top><color=DDDD00><font=tahoma_bold_10><align=center>Patrol <br><color=FFFFFF><font=tahoma_regular_8><align=left>Show Patrol Window
+AP_PatrolDescr	[AP_Service_Template][AP_Patrol_Text]
+AP_PremiumShopDescr	[AP_Service_Template][AP_PremiumShopText]
+AP_PremiumShopText	Royal Shop
+AP_PremiumShopTooltip	<valign=top><color=DDDD00><font=tahoma_bold_10><align=center>Royal Shop <color=36FF00>(R)<br><color=FFFFFF><font=tahoma_regular_8><align=left>This is where you can buy new units for your army, as well as licenses, auras, boosters and other valuable goods.
+AP_PremiumShopTooltip_Tablets	<valign=top><color=DDDD00><font=tahoma_bold_10><align=center>Royal Shop <br><color=FFFFFF><font=tahoma_regular_8><align=left>This is where you can buy new units for your army, as well as licenses, auras, boosters and other valuable goods.
+AP_QuestJournalTooltip	<valign=top><color=DDDD00><font=tahoma_bold_10><align=center>Quest Journal <color=36FF00>(J)<br><color=FFFFFF><font=tahoma_regular_8><align=left>Here you can find information about all the quests you have yet to accomplish and those you have completed in the past. 
+AP_QuestJournalTooltip_Tablets	<valign=top><color=DDDD00><font=tahoma_bold_10><align=center>Quest Journal <br><color=FFFFFF><font=tahoma_regular_8><align=left>Here you can find information about all the quests you have yet to accomplish and those you have completed in the past. 
+AP_Raid_Tooltip_Disable_PC	<valign=top><color=DDDD00><font=tahoma_bold_10><align=center>Raid <color=36FF00>(T)<color=FFFFFF><br><font=tahoma_regular_8><align=left> Raids will become available when you reach level [?].
+AP_Raid_Tooltip_Disable_Tablet	<valign=top><color=DDDD00><font=tahoma_bold_10><align=center>Raid<color=FFFFFF><br><font=tahoma_regular_8><align=left> Raids will become available when you reach level [?].
+AP_Raid_Tooltip_PC	<valign=top><color=DDDD00><font=tahoma_bold_10><align=center>Raid <color=36FF00>(T)<color=FFFFFF><br><font=tahoma_regular_8><align=left>Attack enemy Garrisons and receive Spheres of Elements. 
+AP_Raid_Tooltip_Tablet	<valign=top><color=DDDD00><font=tahoma_bold_10><align=center>Raid <color=36FF00>(T)<color=FFFFFF><br><font=tahoma_regular_8><align=left>Attack enemy Garrisons and receive Spheres of Elements. 
+AP_RaidDescr	[AP_Service_Template]Raid
+AP_RoyalMailButtonDisabledTooltip	<valign=top><color=DDDD00><font=tahoma_bold_10><align=center>Royal Mail <color=36FF00>(M)<br><color=FFFFFF><font=tahoma_regular_8><align=left>Inbox empty
+AP_RoyalMailButtonDisabledTooltip_Tablets	<valign=top><color=DDDD00><font=tahoma_bold_10><align=center>Royal Mail <br><color=FFFFFF><font=tahoma_regular_8><align=left>You haven't received any gifts yet.
+AP_RoyalMailButtonEnabledTooltip	<valign=top><color=DDDD00><font=tahoma_bold_10><align=center>Royal Mail <color=36FF00>(M)<br><color=FFFFFF><font=tahoma_regular_8><align=left>Open your mailbox.
+AP_RoyalMailButtonEnabledTooltip_Tablets	<valign=top><color=DDDD00><font=tahoma_bold_10><align=center>Royal Mail <br><color=FFFFFF><font=tahoma_regular_8><align=left>Open your mailbox.
+AP_SelectArmTooltip	<valign=top><color=DDDD00><font=tahoma_bold_10><align=center>Battle <color=36FF00>(Space)<br><color=FFFFFF><font=tahoma_regular_8><align=left>Battle monster armies or other players, complete quests and win experience and rewards.
+AP_SelectArmTooltip_Tablets	<valign=top><color=DDDD00><font=tahoma_bold_10><align=center>Battle <br><color=FFFFFF><font=tahoma_regular_8><align=left>Battle monster armies or other players, complete quests and win experience and rewards.
+AP_Service_Template	<font=tahoma_bold_8><align=center><color=333333>
+AP_ServiceTextTmpl	<font=tahoma_bold_10><align=center><color=333333>[$]
+AP_SpellbookTooltip	<valign=top><color=DDDD00><font=tahoma_bold_10><align=center>Spell Book <color=36FF00>(B)<br><color=FFFFFF><font=tahoma_regular_8><align=left>With this book of spells, you can use magic in combat.
+AP_SpellbookTooltip_Tablets	<valign=top><color=DDDD00><font=tahoma_bold_10><align=center>Spell Book <br><color=FFFFFF><font=tahoma_regular_8><align=left>With this book of spells, you can use magic in combat.
+AP_ToMapTooltip	<valign=top><color=DDDD00><font=tahoma_bold_10><align=center>World <color=36FF00>(W)<br><color=FFFFFF><font=tahoma_regular_8><align=left>Leave the Castle and continue your adventure on the world map.
+AP_ToMapTooltip_Tablet	<valign=top><color=DDDD00><font=tahoma_bold_10><align=center>World <br><color=FFFFFF><font=tahoma_regular_8><align=left>Leave the Castle and continue your adventure on the world map.
+AP_TutorialShare	<font=tahoma_bold_12_border_smooth><image=textures/interface/gift>Tutorial is completed.<br><indent=50>Would you like to tell your friends?
+SB_Arena_Text	SB_Arena_Text
+SB_Arena_Tooltip	SB_Arena_Tooltip
+SB_Buff_Text	SB_Buff_Text
+SB_Buff_Tooltip	SB_Buff_Tooltip
+SB_ChangeUnits_Text	Exchange
+SB_ChangeUnits_Tooltip	SB_ChangeUnits_Tooltip
+SB_Dungeon_Text	Wanted
+SB_Dungeon_Tooltip	<valign=top><color=DDDD00><font=tahoma_bold_10><align=center>Hunt for Villains <color=36FF00>(D)<br><color=FFFFFF><font=tahoma_regular_8><align=left>Invite friends to prepare for battle against particularly formidable opponents and receive prizes of great value.
+SB_Dungeon_Tooltip_Tablets	<valign=top><color=DDDD00><font=tahoma_bold_10><align=center>Wanted <br><color=FFFFFF><font=tahoma_regular_8><align=left>Invite friends to prepare for battle against particularly formidable opponents and receive prizes of great value.
+SB_OtherNodeShop_Tooltip	<valign=top><color=FFFFFF><font=tahoma_regular_8><align=left>Detailed information about this settlement.
+SB_Patrol_Tooltip_Tablets	[$]
+SB_Port_Text	Port
+SB_Port_Tooltip	SB_Port_Tooltip
+SB_Shop_Text	Shop
+SB_Shop_Tooltip	<valign=top><color=DDDD00><font=tahoma_bold_10><align=center>Shop <color=36FF00>(S)<br><color=FFFFFF><font=tahoma_regular_8><align=left>Here you can purchase units, spell scrolls and various items.
+SB_Shop_Tooltip_Tablets	<valign=top><color=DDDD00><font=tahoma_bold_10><align=center>Shop <br><color=FFFFFF><font=tahoma_regular_8><align=left>Here you can purchase units, spell scrolls and various items.
+UIPD_ClassImage_Defender	<image=textures/interface/pre_damage_tooltip/defender>
+UIPD_ClassImage_Defender_effect	<image=textures/interface/pre_damage_tooltip/defender_effect>
+UIPD_ClassImage_Gunner	<image=textures/interface/pre_damage_tooltip/gunner>
+UIPD_ClassImage_Gunner_effect	<image=textures/interface/pre_damage_tooltip/gunner_effect>
+UIPD_ClassImage_Mage	<image=textures/interface/pre_damage_tooltip/mage>
+UIPD_ClassImage_Mage_effect	<image=textures/interface/pre_damage_tooltip/mage_effect>
+UIPD_ClassImage_Support	<image=textures/interface/pre_damage_tooltip/support>
+UIPD_ClassImage_Support_effect	<image=textures/interface/pre_damage_tooltip/support_effect>
+UIPD_ClassImage_Warrior	<image=textures/interface/pre_damage_tooltip/warrior>
+UIPD_ClassImage_Warrior_effect	<image=textures/interface/pre_damage_tooltip/warrior_effect>
+UIPD_CreatureNameAllyColor	<color=B0CED6>
+UIPD_CreatureNameAllyEfficiency	[UIPD_FontBold][UIPD_CreatureNameAllyColor][$]
+UIPD_CreatureNameAllyNormal	[UIPD_FontNormal][UIPD_CreatureNameAllyColor][$]
+UIPD_CreatureNameEnemyColor	<color=CFA1A1>
+UIPD_CreatureNameEnemyEfficiency	[UIPD_FontBold][UIPD_CreatureNameEnemyColor][$]
+UIPD_CreatureNameEnemyNormal	[UIPD_FontNormal][UIPD_CreatureNameEnemyColor][$]
+UIPD_CreatureNameNormal	<align=center>[UIPD_FontNormal][UIPD_TextColorNormal][$]
+UIPD_DmgHeader	[UIPD_FontNormal][UIPD_TextColorNormal]Damage:
+UIPD_FontBold	<font=tahoma_bold_8>
+UIPD_FontNormal	<font=tahoma_regular_8>
+UIPD_Str_AoeDamageAllyEfficiency	<align=left>[UIPD_CreatureNameAllyEfficiency]. [UIPD_Str_DamageEfficiency]
+UIPD_Str_AoeDamageAllyNormal	<align=left>[UIPD_CreatureNameAllyNormal]. [UIPD_Str_DamageNormal]
+UIPD_Str_AoeDamageEnemyEfficiency	<align=left>[UIPD_CreatureNameEnemyEfficiency]. [UIPD_Str_DamageEfficiency]
+UIPD_Str_AoeDamageEnemyNormal	<align=left>[UIPD_CreatureNameEnemyNormal]. [UIPD_Str_DamageNormal]
+UIPD_Str_AttackEfficiency_down	<align=center>[$][UIPD_Text_VS_Efficiency][$]
+UIPD_Str_AttackEfficiency_up	<align=center>[UIPD_FontBold]<color=F5B929>Effective Attack
+UIPD_Str_AttackNormal_down	<align=center>[$][UIPD_Text_VS_Normal][$]
+UIPD_Str_AttackNormal_up	<align=center>[UIPD_FontNormal][UIPD_TextColorNormal]Common Attack
+UIPD_Str_DamageEfficiency	<align=left>[UIPD_DmgHeader][UIPD_FontBold][UIPD_TextColorHight] [?]
+UIPD_Str_DamageNormal	<align=left>[UIPD_DmgHeader][UIPD_FontBold][UIPD_TextColorNormal] [?]
+UIPD_Str_Hint	<align=center><valign=center>[UIPD_FontNormal]<color=FFED00>Click<image=textures/interface/pre_damage_tooltip/mouse_pic>
+UIPD_Str_Locked_Damage	<align=center>[UIPD_FontBold]<color=FF6507>Damage down by <color=FB0302>[?]%
+UIPD_Str_Locked_DistAttackNotAvailable	<align=center>[UIPD_FontBold]<color=FF6507>Ranged attack<br>impossible
+UIPD_Str_Locked_Range	<align=center>[UIPD_FontNormal]<color=C77038>Your creature has been<br>blocked by the enemy
+UIPD_Str_LossesEfficiency	<align=left>[UIPD_FontNormal][UIPD_TextColorNormal]Losses: [UIPD_FontBold][UIPD_TextColorHight][?]
+UIPD_Str_LossesNormal	<align=left>[UIPD_FontNormal][UIPD_TextColorNormal]Losses: [UIPD_FontBold][?]
+UIPD_Text_VS_Efficiency	<image=textures/interface/pre_damage_tooltip/vs_effect>
+UIPD_Text_VS_Normal	<image=textures/interface/pre_damage_tooltip/vs_regular>
+UIPD_TextColorHight	<color=FFED01>
+UIPD_TextColorNormal	<color=FFFFFF>
+UNF_CaptionText	Invite your friends
+UNF_InfoText	[?] friend(s) are playing King's Bounty Legions together with you.<br><br>Only heroes with [?] companions may enter these perilous lands
+UnitInfoSmallAffectsNegative	<align=left><font=tahoma_regular_8><color=7f0000>[$]
+UnitInfoSmallAffectsPositive	<align=left><font=tahoma_regular_8><color=007f00>[$]
+UnitInfoSmallTooltipFooter	<align=center><font=tahoma_regular_8>[SmallTooltipTextFooter]
+UnitInfoSmallTooltipHeader	<align=center><font=tahoma_regular_8>[SmallTooltipTextHeader]
+
+

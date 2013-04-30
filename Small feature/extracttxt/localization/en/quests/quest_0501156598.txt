@@ -1,0 +1,8 @@
+﻿quest_system_501156598_desc	This key may seem to be wrought less finely than the previous one, but rest assured that it will be just as functional. To tell you the truth, I thought I'd forgotten how to marry the hammer and the anvil, but the hands remember it all. How did I manage to live without my craft for so long? Let me thank you once again for everything that you've done for me. I hope my help will be of use to you as well. Give my regards to Albus the Archmage. Perhaps the Order of the Mages will commission me for something someday.
+quest_system_501156598_done	What's been taking you so long? You say you had to forge a new key? Oh dear, it isn't charmed properly! Rune keys made of mythril require very fine tuning indeed. However, right now it isn't the greatest of our worries. 
+quest_system_501156598_name	The Key Is Ready
+quest_system_501156598_stage_0	Albus
+quest_system_501156598_task	Deliver the key to the Archmage
+
+
+

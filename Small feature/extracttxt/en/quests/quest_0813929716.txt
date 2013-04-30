@@ -1,0 +1,8 @@
+﻿quest_system_813929716_desc	I understand what you need. But everything takes time. What, did you think I’d simply huff, puff, and blow the dome away? Heehee... Now go away and quit bothering me. Instead make yourself useful and help my disciple!
+quest_system_813929716_done	Morania sent you to me? Oh, we’ve got plenty of work to do!
+quest_system_813929716_name	Running Errands
+quest_system_813929716_stage_0	Speak with Apprentice Witch
+quest_system_813929716_task	Provide some help to Morania the Witch
+
+
+

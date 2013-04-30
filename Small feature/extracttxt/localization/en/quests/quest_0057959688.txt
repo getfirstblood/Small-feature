@@ -1,0 +1,8 @@
+﻿quest_system_57959688_desc	Hmm... No, we’ll have to collect roots later. It’s time for you to go. Morania send word that she’s waiting for you in the Ancient Temple. And... Good luck to you!
+quest_system_57959688_done	I thought death would arrive before you did. Alright, enough with the jokes. Let’s get to work. Yes, together! What, did you think that mages are all-powerful? We have access to the Power, but you have swords to cover us! What? You thought I was crazy. Well... around your Archmage I’d go crazy pretty quickly, but so far I’ve still got a straight head. Are you ready?
+quest_system_57959688_name	Morania Is in the Temple Already!
+quest_system_57959688_stage_0	Speak with Morania.
+quest_system_57959688_task	Find Morania the Witch in the Ancient Temple and speak with her.
+
+
+

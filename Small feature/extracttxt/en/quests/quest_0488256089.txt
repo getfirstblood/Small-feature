@@ -1,0 +1,8 @@
+﻿quest_system_488256089_desc	I hate the small gentry! Nothing to claim for substance, but putting out enough hot air for a score of crown princes. Now, a whole mass of them just landed on the shore. They are so brazen that dare visit our camp-followers for drinks and all that follows... They must be told their place! Destroy several dozen Champions; teach them a lesson!
+quest_system_488256089_done	Good job! Now they’ll cool down a bit. Don’t know for how long, though...
+quest_system_488256089_name	Golden Spurs
+quest_system_488256089_stage_0	Hunt
+quest_system_488256089_task	Destroy {counter_limit_0} Champions. 
+
+
+

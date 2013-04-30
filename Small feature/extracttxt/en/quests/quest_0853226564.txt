@@ -1,0 +1,8 @@
+﻿quest_system_853226564_desc	The runes foretold your arrival. The signs are around us. Occurring more often lately than we would like. My visions of your arrival are full of pain and suffering, but at the same time they carry the joy of victory. Yes, I can see the future. But I can’t reveal it to you, because then it will change. I can only guide you. The events of late are not accidental, but they are all links of a chain that you are destined to break. Otherwise, the time of the War of Guardians will come anew. You are at the crossroads now, but I have already revealed your destiny to Survus. You have to go to the Academy Tiltyard and meet the Senior Exorcist. From him you shall learn the true value of the manuscripts recently stolen from the Library. Now you must go...
+quest_system_853226564_done	I’ve been waiting for you. We were supposed to meet much earlier, actually, but for some reason the Archmage did not pay due attention to the theft of the manuscripts. And he was wrong... If not for Exarch – the Priest you just met – Survus would not have even contacted me. We would have been blind to our own great peril.
+quest_system_853226564_name	Deciphering the Manuscripts
+quest_system_853226564_stage_0	Speak
+quest_system_853226564_task	Find out from the Senior Exorcist what exactly was contained in the manuscripts stolen from the Library.
+
+
+

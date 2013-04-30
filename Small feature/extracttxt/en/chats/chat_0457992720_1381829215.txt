@@ -1,0 +1,12 @@
+﻿chat_system_1381829215_actor_description	Charon the Archive Keeper. A highly knowledgeable connoisseur of ancient manuscripts, books of the First Epoch, and translations from the Old Elven language.
+chat_system_1381829215_snap_0_answer_0	Grabby Paws, Covetous Eyes
+chat_system_1381829215_snap_1_question	Imagine all the rare books buried under this pile of rubble! When shall we be able to dig them all out?
+chat_system_1381829215_snap_1_answer_0	begin quest dialog
+chat_system_1381829215_snap_0_answer_1	Grabby Paws, Covetous Eyes
+chat_system_1381829215_snap_3_question	end quest text
+chat_system_1381829215_snap_3_answer_0	end quest dialog
+chat_system_1381829215_snap_2_question	I had a dream last night that a gang of thieves used the manuscripts to serve fried fish and meat. Imagine the horror! I hope you’ll hurry up and chase them all away. And may they never come back!
+chat_system_1381829215_snap_2_answer_0	(away)
+
+
+

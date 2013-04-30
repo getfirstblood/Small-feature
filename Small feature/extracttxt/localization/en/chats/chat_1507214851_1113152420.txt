@@ -1,0 +1,33 @@
+﻿chat_system_1113152420_actor_description	Commander De Bursac. Commander of the Brave Guards’ squad
+chat_system_1113152420_snap_0_answer_0	Golden Spurs
+chat_system_1113152420_snap_0_answer_1	Golden Spurs
+chat_system_1113152420_snap_0_answer_2	Repel an Onslaught
+chat_system_1113152420_snap_0_answer_3	Repel an Onslaught
+chat_system_1113152420_snap_0_answer_4	Establishing Connection
+chat_system_1113152420_snap_0_answer_5	The Secret of Lazarus
+chat_system_1113152420_snap_0_answer_6	The Road is Open
+chat_system_1113152420_snap_0_answer_7	Minimal Force
+chat_system_1113152420_snap_0_question	It looks like the Island of the Order is not the pirates' target.
+chat_system_1113152420_snap_1_answer_0	begin quest dialog
+chat_system_1113152420_snap_1_question	Hello man!
+chat_system_1113152420_snap_10_answer_0	begin quest dialog
+chat_system_1113152420_snap_10_question	Hello man!
+chat_system_1113152420_snap_2_answer_0	(away)
+chat_system_1113152420_snap_2_question	Can you believe it! An enemy! In our camp! Getting drunk on our own booze! It’s a shame.
+chat_system_1113152420_snap_3_answer_0	end quest dialog
+chat_system_1113152420_snap_3_question	end quest text
+chat_system_1113152420_snap_4_answer_0	begin quest dialog
+chat_system_1113152420_snap_4_question	Hello man!
+chat_system_1113152420_snap_5_answer_0	(away)
+chat_system_1113152420_snap_5_question	We’re at the front line, son, and this places upon us, so to speak, that which we must bear. Responsibility! So don't just sit there. Forward march, defend the borders! You don’t expect to live forever, do you?
+chat_system_1113152420_snap_6_answer_0	end quest dialog
+chat_system_1113152420_snap_6_question	end quest text
+chat_system_1113152420_snap_7_answer_0	end quest dialog
+chat_system_1113152420_snap_7_question	Hello man!
+chat_system_1113152420_snap_8_answer_0	begin quest dialog
+chat_system_1113152420_snap_8_question	Hello man!
+chat_system_1113152420_snap_9_answer_0	end quest dialog
+chat_system_1113152420_snap_9_question	Hello man!
+
+
+

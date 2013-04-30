@@ -1,0 +1,45 @@
+﻿chat_system_579929687_actor_description	Torbins the Quartermaster. The port administrator who handles all allocation of cargo.
+chat_system_579929687_snap_0_answer_0	Find and Deliver
+chat_system_579929687_snap_0_answer_1	Enchanted Pier
+chat_system_579929687_snap_0_answer_10	Tactical Maneuvers
+chat_system_579929687_snap_0_answer_11	Tactical Maneuvers
+chat_system_579929687_snap_0_answer_2	Everyone to the pier!
+chat_system_579929687_snap_0_answer_3	Reinforcements are arriving!
+chat_system_579929687_snap_0_answer_4	Delayed Reinforcements
+chat_system_579929687_snap_0_answer_5	A Theft in Broad Daylight
+chat_system_579929687_snap_0_answer_6	A Theft in Broad Daylight
+chat_system_579929687_snap_0_answer_7	Enchanted Pier
+chat_system_579929687_snap_0_answer_8	To the Pier!
+chat_system_579929687_snap_0_answer_9	The Arrival of the Gray Wardens
+chat_system_579929687_snap_0_question	A dozen ships are being unloaded, and another two dozen are waiting in the harbor! When will it all end? Good thing the Storm Season is coming; we’ll get some rest for a couple of months.
+chat_system_579929687_snap_1_answer_0	end quest dialog
+chat_system_579929687_snap_1_question	Hello man!
+chat_system_579929687_snap_10_answer_0	end quest dialog
+chat_system_579929687_snap_10_question	Hello man!
+chat_system_579929687_snap_11_answer_0	begin quest dialog
+chat_system_579929687_snap_11_question	Hello man!
+chat_system_579929687_snap_12_answer_0	begin quest dialog
+chat_system_579929687_snap_12_question	Hello man!
+chat_system_579929687_snap_13_answer_0	(away)
+chat_system_579929687_snap_13_question	Archers cannot withstand attacks from swift warriors. I think you will be able to beat them quite easily, if you put your army together correctly.
+chat_system_579929687_snap_14_answer_0	end quest dialog
+chat_system_579929687_snap_14_question	end quest text
+chat_system_579929687_snap_2_answer_0	begin quest dialog
+chat_system_579929687_snap_2_question	Hello man!
+chat_system_579929687_snap_3_answer_0	end quest dialog
+chat_system_579929687_snap_3_question	Hello man!
+chat_system_579929687_snap_4_answer_0	begin quest dialog
+chat_system_579929687_snap_4_question	Hello man!
+chat_system_579929687_snap_5_answer_0	end quest dialog
+chat_system_579929687_snap_5_question	Hello man!
+chat_system_579929687_snap_6_answer_0	begin quest dialog
+chat_system_579929687_snap_6_question	Hello man!
+chat_system_579929687_snap_7_answer_0	(away)
+chat_system_579929687_snap_7_question	I am counting on you! If I am not able to resolve the food problem, Tarcus will have my head on a platter.
+chat_system_579929687_snap_8_answer_0	end quest dialog
+chat_system_579929687_snap_8_question	end quest text
+chat_system_579929687_snap_9_answer_0	begin quest dialog
+chat_system_579929687_snap_9_question	Hello man!
+
+
+

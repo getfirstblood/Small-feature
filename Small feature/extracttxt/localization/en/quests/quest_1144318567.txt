@@ -1,0 +1,8 @@
+﻿quest_system_1144318567_desc	I made a couple of estimates, but even an archdemon himself could get lost in this mess. I need some help. That’s right. I need help. Naturally, I can’t ask someone from this uneducated lot. You, on the other hand, have the trust of the Commander, and can be relied upon. Please deliver these calculations to the Medar the Alchemist. He used to dabble in magic, and I’m sure he would be able to figure out what is wrong.
+quest_system_1144318567_done	Hmm . . . It looks like Locrim has slept through a good portion of his practical alchemy lectures. The young these days . . . What can you do with them. The spell can be broken either with other spells, or with alchemical compounds. 
+quest_system_1144318567_name	Scientific Consultation
+quest_system_1144318567_stage_0	Alchemist
+quest_system_1144318567_task	Give Locrim's calculations to Medar
+
+
+

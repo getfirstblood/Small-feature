@@ -1,0 +1,60 @@
+﻿BattleLog_AbilityName	<color=FF00FF>
+BattleLog_AbilityUsed_MM_0	[BattleLog_MyUnit]{caster} [BattleLog_NormColour]uses [BattleLog_AbilityName]{ability} [BattleLog_NormColour]on [BattleLog_OpponentUnit]{target}.
+BattleLog_AbilityUsed_MM_1	[BattleLog_AbilityUsed_MM_0]
+BattleLog_AbilityUsed_MM_2	[BattleLog_AbilityUsed_MM_0]
+BattleLog_AbilityUsed_MM_3	[BattleLog_AbilityUsed_MM_0]
+BattleLog_AbilityUsed_MO_0	[BattleLog_MyUnit]{caster} [BattleLog_NormColour]uses [BattleLog_AbilityName]{ability} [BattleLog_NormColour]on [BattleLog_OpponentUnit]{target}.
+BattleLog_AbilityUsed_MO_1	[BattleLog_AbilityUsed_MO_0]
+BattleLog_AbilityUsed_MO_2	[BattleLog_AbilityUsed_MO_0]
+BattleLog_AbilityUsed_MO_3	[BattleLog_AbilityUsed_MO_0]
+BattleLog_AbilityUsed_OM_0	[BattleLog_OpponentUnit]{caster} [BattleLog_NormColour]has applied [BattleLog_AbilityName]{ability} [BattleLog_NormColour] to target [BattleLog_MyUnit]{target}.
+BattleLog_AbilityUsed_OM_1	[BattleLog_AbilityUsed_OM_0]
+BattleLog_AbilityUsed_OM_2	[BattleLog_AbilityUsed_OM_0]
+BattleLog_AbilityUsed_OM_3	[BattleLog_AbilityUsed_OM_0]
+BattleLog_AbilityUsed_OO_0	[BattleLog_OpponentUnit]{caster} [BattleLog_NormColour]applies [BattleLog_AbilityName]{ability} [BattleLog_NormColour]to target [BattleLog_OpponentUnit]{target}.
+BattleLog_AbilityUsed_OO_1	[BattleLog_AbilityUsed_OO_0]
+BattleLog_AbilityUsed_OO_2	[BattleLog_AbilityUsed_OO_0]
+BattleLog_AbilityUsed_OO_3	[BattleLog_AbilityUsed_OO_0]
+BattleLog_Block	<color=808080>Block!
+BattleLog_CriticalHit	<color=808080>Critical hit!
+BattleLog_DamageDone	[BattleLog_NormColour]Damage [?],
+BattleLog_DamageDot	[BattleLog_NormColour]long-term damage [?] for [?] turns,
+BattleLog_Evasion	<color=808080>Dodge!
+BattleLog_FriendSpellUsed_MM	[BattleLog_MyUnit]You [BattleLog_NormColour]have used your friend's [BattleLog_AbilityName]{ability} [BattleLog_NormColour]spell on [BattleLog_MyUnit]{target}.
+BattleLog_FriendSpellUsed_MO	[BattleLog_MyUnit]You [BattleLog_NormColour]have used your friend's [BattleLog_AbilityName]{ability} [BattleLog_NormColour]spell on [BattleLog_OpponentUnit]{target}.
+BattleLog_FriendSpellUsed_OM	[BattleLog_OpponentUnit]{caster} [BattleLog_NormColour]has used friend's [BattleLog_AbilityName]{ability} [BattleLog_NormColour]spell on [BattleLog_MyUnit]{target}
+BattleLog_FriendSpellUsed_OO	[BattleLog_OpponentUnit]{caster} [BattleLog_NormColour]has used friend's [BattleLog_AbilityName]{ability} [BattleLog_NormColour]spell on [BattleLog_OpponentUnit]{target}
+BattleLog_HealingDone	[BattleLog_NormColour]Healing [?]
+BattleLog_HealingHot	[BattleLog_NormColour]long-term healing [?] for [?] turns
+BattleLog_Killed	[BattleLog_NormColour]slain [?].
+BattleLog_Loot	[BattleLog_MyUnit]You [BattleLog_NormColour]get: [BattleLog_AbilityName][$] [BattleLog_NormColour]from the defeated unit: [BattleLog_OpponentUnit][$].
+BattleLog_Loot_count	[BattleLog_MyUnit]You [BattleLog_NormColour]will receive [BattleLog_AbilityName][$] [BattleLog_NormColour]x [?] from the defeated squad[BattleLog_OpponentUnit][$].
+BattleLog_Miss	<color=808080>Miss!
+BattleLog_MyUnit	<color=2897FF>
+BattleLog_NormColour	<color=808080>
+BattleLog_OpponentUnit	<color=FF7700>
+BattleLog_Phoenix_Ressurrect_1	[BattleLog_AbilityName]Phoenix[BattleLog_NormColour] resurrects units [BattleLog_MyUnit][$][BattleLog_NormColour]. Number of resurrected units: <color=00FF00>[?]</color>.
+BattleLog_Phoenix_Ressurrect_2	<font=tahoma_regular_24_border_smooth>[BattleLog_AbilityName]Phoenix[BattleLog_NormColour] resurrects fallen units.
+BattleLog_Ressurected	[BattleLog_NormColour]restored [?]
+BattleLog_SpellUsed_MM	[BattleLog_MyUnit]You [BattleLog_NormColour]have used the [BattleLog_AbilityName]{ability} [BattleLog_NormColour]spell on [BattleLog_MyUnit]{target}.
+BattleLog_SpellUsed_MO	[BattleLog_MyUnit]You [BattleLog_NormColour]have used the [BattleLog_AbilityName]{ability} [BattleLog_NormColour]spell on [BattleLog_OpponentUnit]{target}.
+BattleLog_SpellUsed_OM	[BattleLog_OpponentUnit]{caster} [BattleLog_NormColour]has used the [BattleLog_AbilityName]{ability} [BattleLog_NormColour]spell on [BattleLog_MyUnit]{target}
+BattleLog_SpellUsed_OO	[BattleLog_OpponentUnit]{caster} [BattleLog_NormColour]has used the [BattleLog_AbilityName]{ability} [BattleLog_NormColour]spell on [BattleLog_OpponentUnit]{target}
+ChangedParam_DamageNoKills	<font=tahoma_bold_11_border_smooth_numbers_only><color=FBF52F>[?]
+ChangedParam_DamageNoKills_Bonus	<font=tahoma_bold_12_border_smooth_glow_numbers_only><color=FBF52F>[?]
+ChangedParam_Healed	<font=tahoma_bold_11_border_smooth_numbers_only><color=00FF00>[?] ([?])
+ChangedParam_HealedNoRessurection	<font=tahoma_bold_11_border_smooth_numbers_only><color=00FF00>[?]
+ChangedParam_Kills	<font=tahoma_bold_11_border_smooth_numbers_only><image=textures/effects/scull><indent=1><color=FF0000>[?]
+ChangedParam_Kills_Bonus	<font=tahoma_bold_12_border_smooth_glow_numbers_only><image=textures/effects/scull><indent=1><color=FF0000>[?]
+ChangedParam_Loot	<image=[?] width=30 height=30><br><font=tahoma_bold_11_border_smooth><color=FFFFFF>[$]
+ChangedParam_Root	<font=tahoma_bold_11_border_smooth><color=00FF00>Immobility ([?])
+ChangedParam_Shock	<font=tahoma_bold_11_border_smooth><color=00FF00>Shock ([?])
+ChangedParam_Sleep	<font=tahoma_bold_11_border_smooth><color=00FF00>Sleep ([?])
+ChangedParam_Stun	<font=tahoma_bold_11_border_smooth><color=00FF00>Stun ([?])
+ChatMsg_Defence_M	[BattleLog_MyUnit]{caster}[BattleLog_NormColour] is in a defencive stance. Defence increased by <color=00FF00>[?]
+ChatMsg_Defence_O	[BattleLog_OpponentUnit]{target}[BattleLog_NormColour] is in a defencive stance. Defence increased by <color=00FF00>[?]
+ChatMsg_PostponementStep_M	[BattleLog_MyUnit][$][BattleLog_NormColour] delays his turn until the end of the turn.
+ChatMsg_PostponementStep_O	[BattleLog_OpponentUnit][$] [BattleLog_NormColour]delays his move until the end of the turn.
+
+
+

@@ -1,0 +1,49 @@
+﻿chat_system_1345067632_actor_description	Albus the Archmage A key figure maintaining relative peace and order in the Archipelago.
+chat_system_1345067632_snap_0_answer_0	Fresh Clues
+chat_system_1345067632_snap_0_answer_1	The Obstinate Staff
+chat_system_1345067632_snap_0_answer_10	To Signal Island!
+chat_system_1345067632_snap_0_answer_11	Save the World
+chat_system_1345067632_snap_0_answer_12	Hero of the Kingdom
+chat_system_1345067632_snap_0_answer_13	The Golden Legion
+chat_system_1345067632_snap_0_answer_2	The Obstinate Staff
+chat_system_1345067632_snap_0_answer_3	The Keys to the Academy Tiltyard
+chat_system_1345067632_snap_0_answer_4	Key to the Relics
+chat_system_1345067632_snap_0_answer_5	The Key Is Ready
+chat_system_1345067632_snap_0_answer_6	A Visit to the Hermit
+chat_system_1345067632_snap_0_answer_7	A Report to Albus
+chat_system_1345067632_snap_0_answer_8	An Old Acquaintance
+chat_system_1345067632_snap_0_answer_9	The Storm Clouds Are Gathering
+chat_system_1345067632_snap_0_question	You are putting me off an important magical scientific work, officer. And now the dead have taken it on themselves to to crawl out of their graves!
+chat_system_1345067632_snap_1_answer_0	end quest dialog
+chat_system_1345067632_snap_1_question	Hello man!
+chat_system_1345067632_snap_10_answer_0	begin quest dialog
+chat_system_1345067632_snap_10_question	Hello man!
+chat_system_1345067632_snap_11_answer_0	end quest dialog
+chat_system_1345067632_snap_11_question	Hello man!
+chat_system_1345067632_snap_12_answer_0	begin quest dialog
+chat_system_1345067632_snap_12_question	Hello man!
+chat_system_1345067632_snap_13_answer_0	end quest dialog
+chat_system_1345067632_snap_13_question	Hello man!
+chat_system_1345067632_snap_14_answer_0	begin quest dialog
+chat_system_1345067632_snap_14_question	Hello man!
+chat_system_1345067632_snap_15_answer_0	begin quest dialog
+chat_system_1345067632_snap_15_question	Hello man!
+chat_system_1345067632_snap_2_answer_0	begin quest dialog
+chat_system_1345067632_snap_2_question	Hello man!
+chat_system_1345067632_snap_3_answer_0	(away)
+chat_system_1345067632_snap_3_question	Do not delay, officer! I cannot sustain the defencive spell for too long! Make haste to destroy these Magical Guardians, and let's get this over with!
+chat_system_1345067632_snap_4_answer_0	end quest dialog
+chat_system_1345067632_snap_4_question	end quest text
+chat_system_1345067632_snap_5_answer_0	begin quest dialog
+chat_system_1345067632_snap_5_question	Hello man!
+chat_system_1345067632_snap_6_answer_0	begin quest dialog
+chat_system_1345067632_snap_6_question	Hello man!
+chat_system_1345067632_snap_7_answer_0	end quest dialog
+chat_system_1345067632_snap_7_question	Hello man!
+chat_system_1345067632_snap_8_answer_0	begin quest dialog
+chat_system_1345067632_snap_8_question	Hello man!
+chat_system_1345067632_snap_9_answer_0	end quest dialog
+chat_system_1345067632_snap_9_question	Hello man!
+
+
+

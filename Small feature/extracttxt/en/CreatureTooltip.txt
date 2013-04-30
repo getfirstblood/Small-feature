@@ -1,0 +1,7 @@
+﻿BuffRoundLeftCount	<color=FFFFFF><align=right><font=tahoma_regular_7_border_numbers_only>[?]
+CreatureBody	<color=FFFFFF><align=left><font=tahoma_regular_8>
+CreatureName	<color=FFFF00><align=left><font=tahoma_bold_12>
+RemainingCount	<color=FFFFFF><align=center><font=tahoma_regular_7_border_numbers_only>[?]
+
+
+

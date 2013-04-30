@@ -1,0 +1,110 @@
+﻿castle.action.garrison	Garrison
+castle.action.produce	Production
+castle.action.raid	Raid
+castle.action.rune	Runes
+castle.action.speedup	Speed up
+castle.action.upgrade	Upgrading
+castle.caption_label	<font=tahoma_bold_12><color=774113>{castle_name}
+castle.default_name	[?] Castle
+castle.log.player_name	<color=5A3D15>{hero.rank}<br><color=AD6800>{hero.name}
+castle.log.raid_button	<font=tahoma_regular_14_smooth><color=253b46>Raid!
+castle.map_button	<font=tahoma_bold_8><color=343434>Map
+castle.resource.gold	Gold
+castle.resource.sphere	Elements
+castle.resource.stamina	Stamina
+castle.structure.factory.build_desc	Produces Spheres of Elements
+castle.structure.factory.name	Factory
+castle.structure.factory.upgrade_desc	+{structure_upgrade.production_bonus}% Elements
+castle.structure.keep.build_desc	Player’s defence Garrison
+castle.structure.keep.name	Garrison
+castle.structure.keep.upgrade_desc	More Building upgrades
+castle.structure.mine.build_desc	Produces Gold
+castle.structure.mine.name	Mine
+castle.structure.mine.upgrade_desc	+{structure_upgrade.production_bonus}% Gold
+castle.structure.sanctuary.build_desc	Produces additional Stamina
+castle.structure.sanctuary.name	Sanctum
+castle.structure.sanctuary.upgrade_desc	{structure_upgrade.production_cost_factor}% cost of production in Battle Points
+castle.structure.tower_left.build_desc	Battle Tower, attacks your enemies when you are being attacked
+castle.structure.tower_left.name	Tower
+castle.structure.tower_left.upgrade_desc	{structure_upgrade.hit_points} Health<br>{structure_upgrade.damage_min}-{structure_upgrade.damage_max} Damage
+castle.structure.tower_right.build_desc	[castle.structure.tower_left.build_desc]
+castle.structure.tower_right.name	[castle.structure.tower_left.name]
+castle.structure.tower_right.upgrade_desc	[castle.structure.tower_left.upgrade_desc]
+castle.structure.wall.build_desc	Walls that hold back attackers
+castle.structure.wall.name	Wall
+castle.structure.wall.upgrade_desc	{structure_upgrade.hit_points} Health<br>{structure_upgrade.defence} Defence to the Garrison
+castle_attacked.caption_label	<font=tahoma_bold_12_border_smooth><color=eae1b6>Alarm!
+castle_attacked.counterattack_button	<font=tahoma_bold_11><color=fffdfe>Counterattack
+castle_attacked.info_label	<font=tahoma_bold_11><color=eae1b6>Player{hero.name} has attacked your Castle. {structure.name} has stopped working
+castle_info.button_format	<align=center><valign=center><font=tahoma_bold_12_border_smooth><color=FFFFFF>
+castle_info.close_button	[castle_info.button_format]Close
+castle_info.subtitle	<align=center><valign=center><font=tahoma_regular_10><color=FFFFFF>Here you can construct new Buildings and upgrade existing Buildings.
+castle_info.text_castle	[castle_info.text_format]A Defence Garrison is stationed at the Castle. The Garrison is needed for protecting the Castle from enemy seiges. Also, raids on other players' Castles originate from your Castle.
+castle_info.text_factory	[castle_info.text_format]Factory produces Resources, necessary for production of Runes. Main produced Resource - [$]. To obtain other Elements, you will need to lay seige to enemy Castles.
+castle_info.text_factory.sphere_0	<color=FF0000><font=tahoma_bold_10>[$]</color>
+castle_info.text_factory.sphere_1	<color=0000FF><font=tahoma_bold_10>[$]</color>
+castle_info.text_factory.sphere_2	<color=00FF00><font=tahoma_bold_10>[$]</color>
+castle_info.text_format	<align=left><valign=center><font=tahoma_regular_10><color=FFFFFF>
+castle_info.text_mine	[castle_info.text_format]This is your Mine. It produces a Common income, with increases with the level of the Mine.
+castle_info.text_temple	[castle_info.text_format]Sanctum increases Stamina
+castle_info.text_tower	[castle_info.text_format]Defence Towers
+castle_info.title	[FormTitleText][FormTitleColor]Welcome to the Castle
+castle_rename.bad_name.caption	Incorrect name
+castle_rename.bad_name.description	Obscene language was used. Please enter another name.
+castle_rename.caption_label	<font=tahoma_bold_12_border_smooth><color=eae1b6>Castle
+castle_rename.description_label	<font=tahoma_bold_11><color=523201>Enter Castle name.
+castle_rename.ok_button	<font=tahoma_bold_10><color=ece1b4>Okay
+castle_rename.too_short_name.caption	The name is too short
+castle_rename.too_short_name.description	Minimum number of symbols: [?]. Please enter a longer name.
+castle_rename.warning_label	<font=tahoma_regular_10><color=523201>The name can’t be changed later.
+raid.caption_label	<font=tahoma_bold_12_border_smooth><color=eae1b6>Raid
+raid.enemy_castle.action_hint_label	<font=tahoma_bold_10><color=eddeb3>Click to Attack
+raid.enemy_castle.caslte_exp_label	<font=tahoma_bold_10><color=ece1b4>{raid.winner_exp_gain}
+raid.enemy_castle.castle_gold_label	<font=tahoma_bold_10><color=ece1b4>{raid.winner_gold_gain}
+raid.enemy_castle.castle_leadership_label	<font=tahoma_bold_10><color=ece1b4>Garrison: <image=leadership_inline_small> {hero.garrison.leadership}
+raid.enemy_castle.castle_level_label	<font=tahoma_bold_10><color=ece1b4>Level: {hero.castle.level}
+raid.enemy_castle.castle_name_label	 <font=tahoma_bold_11><color=d2c014>{hero.castle.name}
+raid.enemy_castle.castle_resources_label	<font=tahoma_bold_10><color=ece1b4>{raid.winner_res_gain}
+raid.enemy_castle.hero_level_label	<font=tahoma_bold_10_border_smooth><color=f7f7f7>{hero.level}
+raid.enemy_castle.hero_name_label	<font=tahoma_bold_10><color=613a11>{hero.name}
+raid.enemy_castle.player_level_label	<font=tahoma_bold_10><color=ece1b4>Level: {hero.level}
+raid.enemy_castle.reward_hint_label	<font=tahoma_bold_10><color=fce861>Reward
+raid.pages_label	{current_page}
+raid.pages_label.accent_style	<font=tahoma_bold_12><color=ffc50d>
+raid.pages_label.normal_style	<font=tahoma_bold_10><color=f4dfb2>
+raid.updating_label	<font=tahoma_bold_12>Searching for opponent
+structure_popup.button_label	<font=tahoma_bold_10_border_smooth><color=fff8b7>{action}
+structure_popup.level_label	<font=tahoma_bold_11_border_smooth><color=fff8b7>Level: {structure.level}
+structure_popup.name_label	<font=tahoma_bold_12_border_smooth><color=fff8b7>{structure.name}
+structure_production.caption_label	<font=tahoma_bold_11_border_smooth><color=e7e0b2>{structure.name}
+structure_production.hint_label	<font=tahoma_bold_10><color=ffdf4c>Click on the goods to begin production
+structure_production.level_label	<font=tahoma_bold_11_border_smooth><color=fed01a>Level {structure.level}
+structure_production.slot.production_info_label	<font=tahoma_bold_11><color=fefefe><image=clock_inline_big> {production_slot.time} м <image=wp_inline_big><color=fdd015>{production_slot.cost}
+structure_production.slot.resource_desc_label	<font=tahoma_regular_24_border_smooth><image={resource.icon}><color=fdd015>{production_slot.value}
+structure_production.slot.resource_name_label	<font=tahoma_bold_11><color=fffdfe>{resource.name}
+structure_production_process.production_timer	<font=tahoma_bold_11><color=fffdfe>The goods are being produced. Remaining {structure.production_time_left}
+structure_production_process.resource_desc_label	<font=tahoma_regular_24_border_smooth><image={resource.icon}><color=fdd015>{production_slot.value}
+structure_production_process.resource_name_label	<font=tahoma_bold_12_border_smooth><color=eae1b6>{resource.name}
+structure_production_process.speedup_button	<font=tahoma_bold_11><color=fffdfe>Accelerate <image=crystal_inline_small>{structure.production_booster_cost}
+structure_unlock.caption_label	<font=tahoma_bold_12_border_smooth><color=eae1b6>{structure.name}
+structure_unlock.info_label	<font=tahoma_bold_10><color=fffdfe>Repair Building for<br><image=gold_inline_big>{structure.unlock_cost} Gold.<br>Repair time: <image=clock_inline_big> {structure.unlock_time} 
+structure_unlock.speedup_button	<font=tahoma_bold_10><color=fffdfe>Quick <br>Repair<image=crystal_inline_small>{structure.unlock_booster_cost}
+structure_unlock.unlock_button	<font=tahoma_bold_10><color=fffdfe>Begin repair
+structure_unlock_process.info_label	<font=tahoma_bold_10><color=fffdfe>Time left until the Building is repaired <image=clock_inline_big> {structure.unlock_time_left} 
+structure_unlock_process.speedup_button	<font=tahoma_bold_10><color=fffdfe>Accelerate repair <image=crystal_inline_small>{structure.unlock_booster_cost}
+structure_upgrade.caption_label	<font=tahoma_bold_12_border_smooth><color=eae1b6>{structure.name}
+structure_upgrade.step_desc	<font=tahoma_bold_11><color=fffdfe>{upgrade_desc}
+structure_upgrade.step_level	<font=tahoma_bold_12_border_smooth><color={upgrade_level_color}>Level {upgrade_level}
+structure_upgrade.upgrade_button	{upgrade_button_text}
+structure_upgrade.upgrade_button.build.can_build	<font=tahoma_bold_11><color=fff8db>Construct a building<br><br><color=fdd900>Price:</color> <image=wp_inline_big> {structure_upgrade.upgrade_cost}<br=5><color=fdd900>Time:</color> <image=clock_inline_big> {structure_upgrade.duration}
+structure_upgrade.upgrade_button.build.need_castle_lvl	<font=tahoma_bold_12><color=fff8db>Building construction<br><br>Requires <br>Castle Level {structure_upgrade.castle_lvl}
+structure_upgrade.upgrade_button.upgrade.can_ugrade	<font=tahoma_bold_11><color=fff8db>Upgrade building<br><br><color=fdd900>Price:</color> <image=wp_inline_big> {structure_upgrade.upgrade_cost}<br=5><color=fdd900><color=fdd900>Time:</color> <image=clock_inline_big> {structure_upgrade.duration}
+structure_upgrade.upgrade_button.upgrade.max_lvl	<font=tahoma_bold_11><color=fff8db>The Building is fully upgraded
+structure_upgrade.upgrade_button.upgrade.need_castle_lvl	<font=tahoma_bold_11><color=fff8db>Building upgrade<br><br>Requires <br>Castle Level {structure_upgrade.castle_lvl}
+structure_upgrade_process.speedup_upgrade	<font=tahoma_bold_11><color=fffdfe>Accelerate <image=crystal_inline_small>{structure.upgrade_booster_cost}
+structure_upgrade_process.structure_level	<font=tahoma_bold_11_border_smooth><color=fffdfe>Next Level: {structure.next_level}
+structure_upgrade_process.structure_name	<font=tahoma_bold_12_border_smooth><color=eae1b6>{structure.name}
+structure_upgrade_process.upgrade_progress	<font=tahoma_bold_11><color=fffdfe>The Building is being upgraded. Remaining: {structure.upgrade_time_left}
+
+
+

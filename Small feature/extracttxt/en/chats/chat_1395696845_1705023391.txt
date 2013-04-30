@@ -1,0 +1,21 @@
+﻿chat_system_1705023391_actor_description	Kaidan the Archivist Archivist for the Order of Mages’ Library
+chat_system_1705023391_snap_0_answer_0	Hunting for Poachers
+chat_system_1705023391_snap_0_answer_1	Hunting for Poachers
+chat_system_1705023391_snap_0_answer_2	Zombies of the West
+chat_system_1705023391_snap_0_answer_3	Zombies of the West
+chat_system_1705023391_snap_0_question	This is terrible! The Order has been absent from this island for only one hundred and fifty years, but the records are in a deplorable state. 
+chat_system_1705023391_snap_1_answer_0	begin quest dialog
+chat_system_1705023391_snap_1_question	Hello man!
+chat_system_1705023391_snap_2_answer_0	(away)
+chat_system_1705023391_snap_2_question	The poachers must be punished; otherwise, nothing will be left of the rare animals that lived here prior to the Cataclysm.
+chat_system_1705023391_snap_3_answer_0	end quest dialog
+chat_system_1705023391_snap_3_question	end quest text
+chat_system_1705023391_snap_4_answer_0	begin quest dialog
+chat_system_1705023391_snap_4_question	Hello man!
+chat_system_1705023391_snap_5_answer_0	(away)
+chat_system_1705023391_snap_5_question	Our alchemists can definitely develop an antidote for many diseases. But it is safer to destroy the source of contamination.
+chat_system_1705023391_snap_6_answer_0	end quest dialog
+chat_system_1705023391_snap_6_question	end quest text
+
+
+

@@ -1,0 +1,8 @@
+﻿quest_system_587792902_desc	The news you brought is undoubtedly disturbing. It was not an accident that the documents stored on the lower level were sealed and protected from strangers. Now the Ruins require a reenforced guard. Please report this to the Commander, will you?
+quest_system_587792902_done	The Archmage has asked for a reenforced Library guard?! The place is a bunch of bare stones, and all of my warriors are busy! So what happened? I see. Damn that Haron, I swear... How could that learned idiot..? Well, we’ll figure something out about the guard, and in the meantime I have a mission for you.
+quest_system_587792902_name	Report to the Commander
+quest_system_587792902_stage_0	Speak
+quest_system_587792902_task	Tell Commander Tarcus what happened in the Library.
+
+
+

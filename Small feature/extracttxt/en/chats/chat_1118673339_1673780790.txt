@@ -1,0 +1,19 @@
+﻿chat_system_1673780790_actor_description	Speaking Gate A real live gate – and one, capable of speech to boot.
+chat_system_1673780790_snap_0_answer_0	The Animate Inanimate
+chat_system_1673780790_snap_0_answer_1	What the Gate Doesn't Say
+chat_system_1673780790_snap_0_answer_2	A Hidden Threat
+chat_system_1673780790_snap_0_answer_3	A Hidden Threat
+chat_system_1673780790_snap_0_question	Stop staring at me like that. I am just a regular talking gate. Never seen a speaking gate before?
+chat_system_1673780790_snap_1_answer_0	end quest dialog
+chat_system_1673780790_snap_1_question	Hello man!
+chat_system_1673780790_snap_2_answer_0	begin quest dialog
+chat_system_1673780790_snap_2_question	Hello man!
+chat_system_1673780790_snap_3_answer_0	begin quest dialog
+chat_system_1673780790_snap_3_question	Hello man!
+chat_system_1673780790_snap_4_answer_0	(away)
+chat_system_1673780790_snap_4_question	You're either very brave or very foolish indeed.
+chat_system_1673780790_snap_5_answer_0	end quest dialog
+chat_system_1673780790_snap_5_question	end quest text
+
+
+

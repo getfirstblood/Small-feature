@@ -1,0 +1,41 @@
+﻿chat_system_1507429737_actor_description	Charon the Archive Keeper A highly knowledgeable connoisseur of ancient manuscripts, books of the First Epoch, and translations from the Old Elvish language.
+chat_system_1507429737_snap_0_answer_0	Patrol Guard Duty
+chat_system_1507429737_snap_0_answer_1	Grabby Paws, Covetous Eyes
+chat_system_1507429737_snap_0_answer_2	Grabby Paws, Covetous Eyes
+chat_system_1507429737_snap_0_answer_3	Authorized Access Only!
+chat_system_1507429737_snap_0_answer_4	Authorized Access Only!
+chat_system_1507429737_snap_0_answer_5	Disturbing News
+chat_system_1507429737_snap_0_answer_6	A Threat to the Manuscripts
+chat_system_1507429737_snap_0_answer_7	Manuscript Hunters
+chat_system_1507429737_snap_0_answer_8	Manuscript Hunters
+chat_system_1507429737_snap_0_answer_9	Daring Theft
+chat_system_1507429737_snap_0_question	Imagine all the rare books buried under this pile of rubble! When shall we be able to dig them all out?
+chat_system_1507429737_snap_1_answer_0	begin quest dialog
+chat_system_1507429737_snap_1_question	Hello man!
+chat_system_1507429737_snap_10_answer_0	begin quest dialog
+chat_system_1507429737_snap_10_question	Hello man!
+chat_system_1507429737_snap_11_answer_0	(away)
+chat_system_1507429737_snap_11_question	Did I ask you to be a guard? Well then, please, go do your duty! The last thing I need here is these suspicious vagabonds.
+chat_system_1507429737_snap_12_answer_0	end quest dialog
+chat_system_1507429737_snap_12_question	end quest text
+chat_system_1507429737_snap_13_answer_0	begin quest dialog
+chat_system_1507429737_snap_13_question	Hello man!
+chat_system_1507429737_snap_2_answer_0	(away)
+chat_system_1507429737_snap_2_question	Did I ask you to be a guard? Well then, please, go do your duty! The last thing I need here is these suspicious vagabonds.
+chat_system_1507429737_snap_3_answer_0	end quest dialog
+chat_system_1507429737_snap_3_question	end quest text
+chat_system_1507429737_snap_4_answer_0	begin quest dialog
+chat_system_1507429737_snap_4_question	Hello man!
+chat_system_1507429737_snap_5_answer_0	end quest dialog
+chat_system_1507429737_snap_5_question	Hello man!
+chat_system_1507429737_snap_6_answer_0	begin quest dialog
+chat_system_1507429737_snap_6_question	Hello man!
+chat_system_1507429737_snap_7_answer_0	(away)
+chat_system_1507429737_snap_7_question	I had a dream last night that a band of thieves used the manuscripts to serve fried fish and meat. Imagine the horror! I hope you’ll hurry up and chase them all away. And may they never come back!
+chat_system_1507429737_snap_8_answer_0	end quest dialog
+chat_system_1507429737_snap_8_question	end quest text
+chat_system_1507429737_snap_9_answer_0	end quest dialog
+chat_system_1507429737_snap_9_question	Hello man!
+
+
+

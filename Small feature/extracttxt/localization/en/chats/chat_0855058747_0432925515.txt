@@ -1,0 +1,29 @@
+﻿chat_system_432925515_actor_description	Bogusz the Eccentric. An odd fellow; the laughingstock of the neighborhood.
+chat_system_432925515_snap_0_answer_0	Plunderers of Common Property
+chat_system_432925515_snap_0_answer_1	Plunderers of Common Property
+chat_system_432925515_snap_0_answer_2	Voracious Guests
+chat_system_432925515_snap_0_answer_3	Voracious Guests
+chat_system_432925515_snap_0_answer_4	Greens in a Village
+chat_system_432925515_snap_0_answer_5	Greens in a Village
+chat_system_432925515_snap_0_question	Oh, your Grace, I’m so glad to see you here! My heart trembles before your Grace and begs to know what you wish!
+chat_system_432925515_snap_1_answer_0	begin quest dialog
+chat_system_432925515_snap_1_question	Hello man!
+chat_system_432925515_snap_2_answer_0	(away)
+chat_system_432925515_snap_2_question	Nasty business it is, I say, nasty business! Rumor has it that the neighboring village doesn’t have a single field left intact! So you’d better hurry up getting those unicorns, your Grace! Otherwise there’ll be nothing to eat come wintertime.
+chat_system_432925515_snap_3_answer_0	begin quest dialog
+chat_system_432925515_snap_3_question	Hello man!
+chat_system_432925515_snap_4_answer_0	(away)
+chat_system_432925515_snap_4_question	See..? They robbed a wagon train again. Soon they’ll drive our storekeeper out of business!
+chat_system_432925515_snap_5_answer_0	end quest dialog
+chat_system_432925515_snap_5_question	end quest text
+chat_system_432925515_snap_6_answer_0	end quest dialog
+chat_system_432925515_snap_6_question	end quest text
+chat_system_432925515_snap_7_answer_0	begin quest dialog
+chat_system_432925515_snap_7_question	Hello man!
+chat_system_432925515_snap_8_answer_0	(away)
+chat_system_432925515_snap_8_question	Oh, what I’d give now for a good pork stew... These green bastards just don’t get it. What good is grass? It just gives you stomach ulcers, is all. Or the other way around, whatever. But meat is always meat...
+chat_system_432925515_snap_9_answer_0	end quest dialog
+chat_system_432925515_snap_9_question	end quest text
+
+
+

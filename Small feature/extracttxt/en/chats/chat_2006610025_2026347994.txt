@@ -1,0 +1,14 @@
+﻿chat_system_2026347994_actor_description	Commander Tarcus. Commander of the Order’s Expeditionary Force
+chat_system_2026347994_snap_0_question	We came here to take back what was ours by right for those hundreds of years. And nobody, you hear me, nobody will stop us from getting back our lands
+chat_system_2026347994_snap_0_answer_0	The Secret Order of special importance
+chat_system_2026347994_snap_1_question	Hello man!
+chat_system_2026347994_snap_1_answer_0	end quest dialog
+chat_system_2026347994_snap_0_answer_1	The patrol service
+chat_system_2026347994_snap_2_question	Hello man!
+chat_system_2026347994_snap_2_answer_0	begin quest dialog
+chat_system_2026347994_snap_0_answer_2	The patrol service
+chat_system_2026347994_snap_3_question	Hello man!
+chat_system_2026347994_snap_3_answer_0	end quest dialog
+
+
+

@@ -1,0 +1,8 @@
+﻿quest_system_860738174_desc	It looks like we are getting not just reinforcements, but the help of several legendary Gray Warden Garrisons. This is a troublesome sign. The renowned order for the fight against the mages of chaos intervenes only in extreme situations. Captain Alistair, commander of the Gray Wardens, would like to speak to you. I have a bad feeling about this.
+quest_system_860738174_done	You are the trusted subject of Commander Tarcus? Correct? I am glad to meet you. We have watched from our boats how skillfully you have taken care of the ghosts. That was a great fight! Tarcus was correct to rely on you. The Commander and I have fought shoulder-to-shoulder for a good ten years. I trust him with my life.
+quest_system_860738174_name	The Arrival of the Gray Wardens
+quest_system_860738174_stage_0	Alistair
+quest_system_860738174_task	Have an audience with Captain Alistair
+
+
+

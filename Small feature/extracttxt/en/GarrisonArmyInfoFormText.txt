@@ -1,0 +1,25 @@
+﻿GAIF_BuyBattle	[GAIF_FormatWhiteS]Open now [$] [?]
+GAIF_EnemyLevelValue	[GAIF_FormatWhiteM]Level [?]
+GAIF_EnemyName	[GAIF_FormatWhiteL][?]
+GAIF_EnemyRating	[GAIF_FormatWhiteM]<image=legion_inline frame=[?]> [?]
+GAIF_FormatWhiteL	<align=center><valign=center><font=tahoma_bold_12_border_smooth><color=FFFFFF>
+GAIF_FormatWhiteM	<align=center><valign=center><font=tahoma_bold_12_border_smooth><color=FFFFFF>
+GAIF_FormatWhiteS	<align=center><valign=center><font=tahoma_bold_10><color=FFFFFF>
+GAIF_FormatYellowS	<align=center><valign=center><font=tahoma_bold_10><color=FFFF00>
+GAIF_MyRating	[GAIF_FormatWhiteS]<valign=center>Your army - <image=legion_inline frame=[?]> [?]
+GAIF_RecoveryPrice	[GAIF_FormatWhiteS]Restoration cost:<image=textures/interface/common/icons/money_22x22>[?]<image=textures/interface/common/icons/stamina_22x22>[?]
+GAIF_ResurrectText	Resurrection 
+GAIF_ResurrectToolTip	<valign=top><align=center><color=DDDD00><font=tahoma_bold_10><align=center>[GAIF_ResurrectText]<br><color=FFFFFF><font=tahoma_regular_8><align=left>[$]
+GAIF_Runes	[GAIF_FormatWhiteL]Runes
+GAIF_StartBattle	[GAIF_FormatWhiteS]Attack <image=textures/interface/common/icons/stamina_22x22> [?]
+GAIF_TextTitle	[FormTitleText][FormTitleColor]Battle starts
+GAIF_WaitTime	[GAIF_FormatWhiteS]Waiting: <image=textures/interface/common/icons/mini_clock_22x22>[GAIF_FormatYellowS]
+Raid.ExpGain	<font=tahoma_bold_10><color=ece1b4>[?]
+Raid.FailedToFindOpponentMessage.Text	Cannot find an opponent to raid. Please try again later.
+Raid.FailedToFindOpponentMessage.Title	Cannot find an opponent
+Raid.MoneyGain	<font=tahoma_bold_10><color=ece1b4>[?]
+Raid.RepickButton.Text	[GAIF_FormatWhiteS]Next <image={shop_item.price_icon}> {shop_item.actual_price}
+Raid.ResGain	<font=tahoma_bold_10><color=ece1b4>[?]
+
+
+

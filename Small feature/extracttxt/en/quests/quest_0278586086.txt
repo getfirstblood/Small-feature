@@ -1,0 +1,8 @@
+﻿quest_system_278586086_desc	We chased the cultists for some thirty miles, and lost track of them in these swamps. My boys have blocked all escape routes, so they won't get away from us. However, someone has to strike a decisive blow and crush their main party. If we scatter them, it won't take my boys long to catch them one by one. But we need experienced warriors and a capable leader. Can you be of any assistance to us?
+quest_system_278586086_done	Great! We have managed to destroy a substantial group of the cultists of Lazarus. However, it appears to have been the rear guard – a party sent to draw our attention elsewhere.
+quest_system_278586086_name	Swamp Cultists
+quest_system_278586086_stage_0	Rout
+quest_system_278586086_task	Destroy {counter_limit_0} squads of Lazarus Cultists 
+
+
+

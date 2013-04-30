@@ -1,0 +1,8 @@
+﻿quest_system_2019863595_desc	Don't get me wrong, your grace. I'm not asking for money. I am going to pay myself. We have a heck of a problem here. Look around you and behold – all the fields come to ear, grain ripens aplenty. But there is not going to be a harvest, no siree! Why? Because of the Unicorns, that's why! My neighbor's field got stomped through, and the village elder's corn got half-munched. Could you, maybe, quiet them down a bit? I'll be glad to compensate you for your efforts. Otherwise, they'll get to my fields soon enough.
+quest_system_2019863595_done	Oh, thank you, your grace, thank you so much! Don’t forget your reward. It’s whatever we could gather, so please don’t take offense.
+quest_system_2019863595_name	Voracious Guests
+quest_system_2019863595_stage_0	Hunt
+quest_system_2019863595_task	Destroy {counter_limit_0} Unicorns. 
+
+
+

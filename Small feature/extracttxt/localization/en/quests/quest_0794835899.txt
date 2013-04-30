@@ -1,0 +1,8 @@
+﻿quest_system_794835899_desc	I have already sent out all the relevant paperwork, so the scouts should have been released by now. The name of their commander is Giango. I think he has some information for you.
+quest_system_794835899_done	Ah, Commander Tarcus sent you? Thank you for helping my boys get out of that mess. I’m not very good at legal matters myself.
+quest_system_794835899_name	Free at Last
+quest_system_794835899_stage_0	Giango
+quest_system_794835899_task	Speak with the Scout
+
+
+

@@ -1,0 +1,8 @@
+﻿quest_system_1982299792_desc	Triumphing over a few vagabonds is not yet a good enough reason to be bragging about your talents as a commander. Try using some tactical skills this time around. We have been trying to catch a troop of Archer Deserters. Their arrows are capable of reaching opponents across an impressive distance, so getting to them is not as simple. Warriors inflict additional damage to Archers. When putting your army together, make sure to include a large number of fast, close-range warriors.
+quest_system_1982299792_done	By cleverly picking out whom to include in your army, you will gain a significant advantage. Remember what you learned in the Knight’s Academy. Protect your warriors in battle, and you will not need to spend more gold to replenish your ranks.
+quest_system_1982299792_name	Tactical Maneuvers
+quest_system_1982299792_stage_0	Defeat of the Archer Deserters
+quest_system_1982299792_task	Defeat a troop of Archer Deserters
+
+
+

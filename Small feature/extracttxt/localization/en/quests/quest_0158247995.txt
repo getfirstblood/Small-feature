@@ -1,0 +1,9 @@
+﻿quest_system_158247995_cntdesc_0	Send a gift to a friend
+quest_system_158247995_desc	The time has come to use the royal post to send some gifts to your friends. This value of this simple help cannot be overestimated! The royal post allows you to send daily gifts to many, many friends, within reasonable limits. So support your friends with free gifts!
+quest_system_158247995_done	This is a very easy quest, as you can see. Your friend will be grateful and may send back all kinds of valuable, useful items!
+quest_system_158247995_name	A Royal Gift
+quest_system_158247995_stage_0	Sending a Gift
+quest_system_158247995_task	Send a gift to at least one friend
+
+
+

@@ -1,0 +1,8 @@
+﻿quest_system_485063598_desc	A raven has just arrived with a message from Morania the Witch. She says we must set forth immediately. The situation is of the utmost gravity – Lazarus and his minions have already commenced the rite. My men need time to regroup, so you are our only hope. Head towards the Ancient Heathen Fane, and we shall keep you covered from the back. 
+quest_system_485063598_done	Stay for Long John the carrier, indeed!
+quest_system_485063598_name	News from the Battlefields
+quest_system_485063598_stage_0	Morania at the heathen fane
+quest_system_485063598_task	Meet Morania in the Ancient Temple
+
+
+

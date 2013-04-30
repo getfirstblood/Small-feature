@@ -1,0 +1,21 @@
+﻿chat_system_2077933957_actor_description	Lieutenant Santos. A brave lieutenant, commander of a small group of skilled guards.
+chat_system_2077933957_snap_0_answer_0	The Burning Legion
+chat_system_2077933957_snap_0_answer_1	The Burning Legion
+chat_system_2077933957_snap_0_answer_2	Stranglehold
+chat_system_2077933957_snap_0_answer_3	Stranglehold
+chat_system_2077933957_snap_0_question	Always be on the lookout - you never know what sorts of shadows will try to slip right under your nose and end up behind you!
+chat_system_2077933957_snap_1_answer_0	begin quest dialog
+chat_system_2077933957_snap_1_question	Hello man!
+chat_system_2077933957_snap_2_answer_0	(away)
+chat_system_2077933957_snap_2_question	We are faithfully guarding the perimeter but we will not be able to withstand a string of rapid, powerful attacks. So we must place our hope in your help.
+chat_system_2077933957_snap_3_answer_0	end quest dialog
+chat_system_2077933957_snap_3_question	end quest text
+chat_system_2077933957_snap_4_answer_0	begin quest dialog
+chat_system_2077933957_snap_4_question	Hello man!
+chat_system_2077933957_snap_5_answer_0	(away)
+chat_system_2077933957_snap_5_question	We’re counting on you. I doubt any competent squad can get here in time to deal with the zombies.
+chat_system_2077933957_snap_6_answer_0	end quest dialog
+chat_system_2077933957_snap_6_question	end quest text
+
+
+

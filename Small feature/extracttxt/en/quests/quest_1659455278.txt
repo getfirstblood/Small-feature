@@ -1,0 +1,8 @@
+﻿quest_system_1659455278_desc	These manifests speak of someone called Lazarus, and the rebirth of the cult of the ancient mages. To be honest with you, I have never heard of Lazarus, but perhaps there is something about him in the library of the Order of the Mages. You need to go to the Northern Bay immediately, and warn the archmages about what is going on here.
+quest_system_1659455278_done	Where did you get those suspicious documents? Hmm...
+quest_system_1659455278_name	Fresh Clues
+quest_system_1659455278_stage_0	Albus
+quest_system_1659455278_task	Notify the Archmage of the Northern Bay of the impending danger
+
+
+

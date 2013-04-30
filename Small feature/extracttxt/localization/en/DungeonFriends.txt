@@ -1,0 +1,21 @@
+﻿BFW_Anonymous	Anonymous
+BFW_Mercenary	Mercenary
+BFW_Name	<align=center><valign=center><font=tahoma_regular_8>[TextColor] [?]
+DF_BuyBtn	<align=center><valign=center><font=tahoma_bold_10>[DF_BuyButtonText] [?]
+DF_BuyButtonText	Buy all
+DF_CaptionText	[FormTitleText][FormTitleColor][$]
+DF_CloseBtn	[FormButtonText_9][FormButtonColor][CloseButton]
+DF_CreditsCountText	<font=tahoma_bold_10_border_smooth_numbers_only><align=center><valign=center><color=FBFFC5>[?]
+DF_CreditsText	<align=center><valign=center><font=tahoma_bold_10>[FormTitleColor]Total Gems
+DF_CrewCaptionText	<font=tahoma_bold_10><align=center><color=EBE1B4>Your crew ([?]/[?])
+DF_EnemyArmy	<font=tahoma_bold_12><color=652300><valign=center><align=center>[$]
+DF_Gather	<font=tahoma_bold_10><color=652300><valign=center><align=center>Invite your friends to find the villain and receive a royal reward.
+DF_InviteBtn	<align=center><valign=center><font=tahoma_bold_10>[DF_InviteButtonText]
+DF_InviteButtonText	Invite friends
+DF_RequestMessage	Help me track down a dangerous enemy. Click here to collect your reward!
+DF_RequestTitle	Urgent: Villain Wanted!
+DF_Title	[FormTitleText][FormTitleColor]Wanted criminals
+DF_Wanted	<font=tahoma_bold_10><color=652300><valign=center><align=center>Wanted!
+
+
+

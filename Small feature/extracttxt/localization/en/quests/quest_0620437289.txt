@@ -1,0 +1,8 @@
+﻿quest_system_620437289_desc	Too bad De Bursac is unaware of it, but there’s no time left to notify him. The foe has just received fresh reinforcements; there they are, disembarking from their ships. If they reach the shore, the Commander’s troops won’t be able to hold them at bay. There’s even a path penetrating behind our lines. So don’t waste any time; kill as many as you can, and I’ll try to deliver a warning to our troops! Ready?
+quest_system_620437289_done	All right, we both did our jobs well. You cut them down, I warned my commander. Even if some of them break through, they’ll be met by a nice welcoming committee. But judging by the arriving vessels, this was not the last of the reinforcements...
+quest_system_620437289_name	Stop the Reinforcements
+quest_system_620437289_stage_0	Rout
+quest_system_620437289_task	Destroy {counter_limit_0} squads of Horde Reinforcements. 
+
+
+

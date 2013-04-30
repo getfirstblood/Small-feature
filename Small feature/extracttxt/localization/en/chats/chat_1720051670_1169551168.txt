@@ -1,0 +1,21 @@
+﻿chat_system_1169551168_actor_description	Haras the Bookworm. A collector of antique books.
+chat_system_1169551168_snap_0_answer_0	Bookmunchers
+chat_system_1169551168_snap_0_answer_1	Bookmunchers
+chat_system_1169551168_snap_0_answer_2	Archive Dwellers
+chat_system_1169551168_snap_0_answer_3	Archive Dwellers
+chat_system_1169551168_snap_0_question	Can you believe that this used to be the greatest Library in the Kingdom?
+chat_system_1169551168_snap_1_answer_0	begin quest dialog
+chat_system_1169551168_snap_1_question	Hello man!
+chat_system_1169551168_snap_2_answer_0	(away)
+chat_system_1169551168_snap_2_question	Were you able to deal with the nasty bookmunchers?
+chat_system_1169551168_snap_3_answer_0	end quest dialog
+chat_system_1169551168_snap_3_question	end quest text
+chat_system_1169551168_snap_4_answer_0	begin quest dialog
+chat_system_1169551168_snap_4_question	Hello man!
+chat_system_1169551168_snap_5_answer_0	(away)
+chat_system_1169551168_snap_5_question	Spiders are truly the scourge of this land.
+chat_system_1169551168_snap_6_answer_0	end quest dialog
+chat_system_1169551168_snap_6_question	end quest text
+
+
+

@@ -1,0 +1,8 @@
+﻿quest_system_949220394_desc	The rules in our garrison are quite simple. Deserters shall be punished relentlessly. It’s just that we have problems apprehending them sometimes. But if you can locate their gang, we should be able to compensate you for all your trouble. Usually the mangy dogs travel in gangs, so if you find a gang of Fugitive Deserters, they can all be destroyed at once.
+quest_system_949220394_done	Waste all the deserters. This is our motto, and it makes me happy that you follow it, too. Without any exceptions. Damn, it’s refreshing to deal with a man of his word!
+quest_system_949220394_name	Close the Ranks
+quest_system_949220394_stage_0	Rout
+quest_system_949220394_task	Destroy {counter_limit_0} squads of Fugitive Deserters. 
+
+
+

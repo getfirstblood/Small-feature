@@ -1,0 +1,8 @@
+﻿quest_system_991476433_desc	And now for the final mission. Only those strong in spirit can withstand the effects of powerful spells. In order to strengthen your spirit you must battle against druids and forest mages. It is harder than it might seem – bear in mind that magic is treacherous and lethal. 
+quest_system_991476433_done	Now I can see that you are quite ready to meet the powerful magic concealed in the sanctuary. 
+quest_system_991476433_name	Spirit Training
+quest_system_991476433_stage_0	Rout
+quest_system_991476433_task	Defeat {counter_limit_0} Forest Mage squads 
+
+
+

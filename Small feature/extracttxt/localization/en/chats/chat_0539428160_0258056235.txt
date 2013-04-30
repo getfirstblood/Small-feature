@@ -1,0 +1,21 @@
+﻿chat_system_258056235_actor_description	Dagor Stormfolk. Gray Warden Veteran Remembers a time when Griffins were used as winged steeds to assault enemy fortresses
+chat_system_258056235_snap_0_answer_0	Hunting for Vorden
+chat_system_258056235_snap_0_answer_1	Hunting for Vorden
+chat_system_258056235_snap_0_answer_2	Infected Swamp
+chat_system_258056235_snap_0_answer_3	Infected Swamp
+chat_system_258056235_snap_0_question	The Gray Wardens are here to protect the North from the filth crawling in from the swamps.
+chat_system_258056235_snap_1_answer_0	begin quest dialog
+chat_system_258056235_snap_1_question	Hello man!
+chat_system_258056235_snap_2_answer_0	(away)
+chat_system_258056235_snap_2_question	Witch’s Swamp is a dangerous place. But it seems you are not afraid of such hardships.
+chat_system_258056235_snap_3_answer_0	end quest dialog
+chat_system_258056235_snap_3_question	end quest text
+chat_system_258056235_snap_4_answer_0	begin quest dialog
+chat_system_258056235_snap_4_question	Hello man!
+chat_system_258056235_snap_5_answer_0	(away)
+chat_system_258056235_snap_5_question	The infectors are most often encountered at the swamp’s edges. But sometimes they can be found not far from here, too.
+chat_system_258056235_snap_6_answer_0	end quest dialog
+chat_system_258056235_snap_6_question	end quest text
+
+
+

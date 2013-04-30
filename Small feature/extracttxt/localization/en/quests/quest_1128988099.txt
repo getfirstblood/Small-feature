@@ -1,0 +1,8 @@
+﻿quest_system_1128988099_desc	It would seem that our necromancer friends are not very happy that we have taken some of their manifests. There is a whole army of the undead outside the fort walls. My boys are getting ready to defend the city, but we need time. Hold off the necromancers for as long as you can.
+quest_system_1128988099_done	You managed to hold back a whole herd of these walking corpses. Many of the guards could only wish to be as brave as you are. I also have some good news for you. We were able to build the necessary protective barriers. Now they won’t be able to get inside.
+quest_system_1128988099_name	The Necromancers' Rage
+quest_system_1128988099_stage_0	Raging Necromancers
+quest_system_1128988099_task	Fight off {counter_limit_0} armies of Raging Necromancers 
+
+
+

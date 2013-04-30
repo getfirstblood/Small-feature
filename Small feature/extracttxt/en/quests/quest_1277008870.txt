@@ -1,0 +1,8 @@
+﻿quest_system_1277008870_desc	I don’t know whether to laugh or cry, damn it! The pirates on their griffins are into girl-snatching raids now. Don’t know what they need them for – feeding their steeds, maybe. Yeah, we all thought about that, too. But they wouldn’t choose our women for that purpose, our women are way too... Oh, well. Still, I feel sorry for the broads. They may be ugly, but they are our own. So, if you have some time, could you twist the tails of these snatchers, to scare them away?
+quest_system_1277008870_done	Yes, I saw it, OK. Here’s your money. So you're asking me why I’m so cagey? Well, you were the one to dispose of them lady-snatching pirates, and my wife happened to be in their catch. She’s back now, and making my life miserable again like you wouldn't believe . . . Any chance they might kidnap her again?
+quest_system_1277008870_name	Waste Not, Want Not
+quest_system_1277008870_stage_0	Rout
+quest_system_1277008870_task	Destroy {counter_limit_0} gangs of Winged Snatchers. 
+
+
+

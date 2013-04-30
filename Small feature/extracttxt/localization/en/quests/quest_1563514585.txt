@@ -1,0 +1,9 @@
+﻿quest_system_1563514585_cntdesc_0	Duel another player (Duel ->Begin battle)
+quest_system_1563514585_desc	Well, you've proven your worth in battle. But will you be a match for a true knight of the Academy? Find a knight of your strength in the City Cathedral, and duel with him. Return here to report after the fight.
+quest_system_1563514585_done	Well, how did it go? You won? Good. I believe you. I'm glad you weren't scared of an honest battle with a worthy opponent.
+quest_system_1563514585_name	A Battle of Knights
+quest_system_1563514585_stage_0	Duel another player (Duel ->Begin battle)
+quest_system_1563514585_task	Find yourself an equal opponent in a Duel (fight with another player)
+
+
+

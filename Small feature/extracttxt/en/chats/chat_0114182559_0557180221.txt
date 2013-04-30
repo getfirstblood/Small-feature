@@ -1,0 +1,29 @@
+﻿chat_system_557180221_actor_description	Inquisitor Embarus. An ambitious and power-hungry inquisitor who has devoted himself to the extermination of vermin.
+chat_system_557180221_snap_0_answer_0	Soul Purification
+chat_system_557180221_snap_0_answer_1	Soul Purification
+chat_system_557180221_snap_0_answer_2	Cleansing
+chat_system_557180221_snap_0_answer_3	Cleansing
+chat_system_557180221_snap_0_answer_4	Fallen Pilgrims
+chat_system_557180221_snap_0_answer_5	Fallen Pilgrims
+chat_system_557180221_snap_0_question	What would Legionaries want with the ruins of a once-beautiful temple? This estate belongs completely to the monastic orders.
+chat_system_557180221_snap_1_answer_0	begin quest dialog
+chat_system_557180221_snap_1_question	Hello man!
+chat_system_557180221_snap_2_answer_0	(away)
+chat_system_557180221_snap_2_question	We need more strength! Go work for the good of the Temple of Light. To doubt is heresy!
+chat_system_557180221_snap_3_answer_0	end quest dialog
+chat_system_557180221_snap_3_question	end quest text
+chat_system_557180221_snap_4_answer_0	begin quest dialog
+chat_system_557180221_snap_4_question	Hello man!
+chat_system_557180221_snap_5_answer_0	(away)
+chat_system_557180221_snap_5_question	Well, how did it go? Did you manage to defeat the dissidents?
+chat_system_557180221_snap_6_answer_0	end quest dialog
+chat_system_557180221_snap_6_question	end quest text
+chat_system_557180221_snap_7_answer_0	begin quest dialog
+chat_system_557180221_snap_7_question	Hello man!
+chat_system_557180221_snap_8_answer_0	(away)
+chat_system_557180221_snap_8_question	If nothing is done, these zombies will soon destroy our temple!
+chat_system_557180221_snap_9_answer_0	end quest dialog
+chat_system_557180221_snap_9_question	end quest text
+
+
+

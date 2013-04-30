@@ -1,0 +1,27 @@
+﻿chat_system_1204064355_actor_description	Scout Greenhood. An experienced scout from De Bursac’s troop.
+chat_system_1204064355_snap_0_answer_0	Interrupt the Ritual
+chat_system_1204064355_snap_0_answer_1	Interrupt the Ritual
+chat_system_1204064355_snap_0_answer_2	Stop the Reinforcements
+chat_system_1204064355_snap_0_answer_3	Stop the Reinforcements
+chat_system_1204064355_snap_0_answer_4	Minimal Force
+chat_system_1204064355_snap_0_answer_5	A Tight Seal
+chat_system_1204064355_snap_0_question	Just be very quiet. If they notice us, we don't stand a chance. What?
+chat_system_1204064355_snap_1_answer_0	begin quest dialog
+chat_system_1204064355_snap_1_question	Hello man!
+chat_system_1204064355_snap_2_answer_0	(away)
+chat_system_1204064355_snap_2_question	We’d better hurry up before they use some sort of spell against us. They may conjure up demons, too.
+chat_system_1204064355_snap_3_answer_0	end quest dialog
+chat_system_1204064355_snap_3_question	end quest text
+chat_system_1204064355_snap_4_answer_0	begin quest dialog
+chat_system_1204064355_snap_4_question	Hello man!
+chat_system_1204064355_snap_5_answer_0	(away)
+chat_system_1204064355_snap_5_question	Quick! The reinforcements must not reach De Bursac’s camp!
+chat_system_1204064355_snap_6_answer_0	end quest dialog
+chat_system_1204064355_snap_6_question	end quest text
+chat_system_1204064355_snap_7_answer_0	end quest dialog
+chat_system_1204064355_snap_7_question	Hello man!
+chat_system_1204064355_snap_8_answer_0	begin quest dialog
+chat_system_1204064355_snap_8_question	Hello man!
+
+
+

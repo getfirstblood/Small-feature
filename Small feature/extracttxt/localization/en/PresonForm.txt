@@ -1,0 +1,5 @@
+﻿PersonFormMainButton	<image=textures/interface/common/icons/coin_14x13 offset=2>Superbutton!!!
+PersonFormText	<font=font8>Default <br><color=00FF00></base>Green <color=FF0000>red</color> green <font=tahoma_bold_12_border_smooth>New font</font></color> Default
+
+
+

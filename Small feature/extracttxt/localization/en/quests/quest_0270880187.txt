@@ -1,0 +1,8 @@
+﻿quest_system_270880187_desc	I won't forge a magic key for you, don't even ask! It's an old story. When my son became a brigand, tempted by the power of the magic sword that I had forged, I forswore the forging of dangerous magical artifacts. I simply won't be able to forgive myself if my folly results in someone else getting in harm's way. All I want is to atone for my sins. To stop my son. But what can a simple blacksmith like me do? His gang won't let me anywhere near him. How I wish somebody could sort those varlets out. In that case I might talk to my son and dissuade him.
+quest_system_270880187_done	Ye gods! You've managed to wrest Eric away from that vicious cycle? I must say I had abandoned the very hope. Praised be Mjollnir Graymane and all his ten sons. 
+quest_system_270880187_name	The Father's Sins
+quest_system_270880187_stage_0	Rout
+quest_system_270880187_task	Defeat Eric's band
+
+
+

@@ -1,0 +1,8 @@
+﻿quest_system_1158555043_desc	The Crystal of Arymbus conceals something vital. Captain Alistair is already in hot pursuit of these cultists. Get in touch with him at once – he's at the Gray Warden Garrison to the West. We might be able to apprehend the cultists and retrieve the ancient artifact before they find a use for it. Hmmm... What could possibly be hidden inside this ancient crystal? I shall call for a session of the Magister Council post haste.
+quest_system_1158555043_done	Reinforcements? We could sure use some right now!
+quest_system_1158555043_name	An Old Acquaintance
+quest_system_1158555043_stage_0	Alistair
+quest_system_1158555043_task	Get in touch with Captain Alistair
+
+
+

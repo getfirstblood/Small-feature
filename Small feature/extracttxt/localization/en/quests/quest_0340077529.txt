@@ -1,0 +1,8 @@
+﻿quest_system_340077529_desc	You may be thinking, "Why do we need a bunch of old manuscripts?" Well, naturally, they are a great treasure for a learned man. But what's in them for a beast, or for an illiterate blockhead? Would you need them? No, you wouldn't, just as I thought. Oops! I didn't mean to insult you. But this is irrelevant. The issue is that some thieving bastards keep on stealing the documents. They just grab them, indiscriminately. And the spiders munch on whatever is left over. Yes, I said they eat the books, can you imagine? A few more days and the precious works of the Order's ancient mages will be lost either to the hands of thieves or the jaws of spiders. I can't imagine what they need the books for, since they can't read. Please chase them all away to stop this barbaric destruction of the books. 
+quest_system_340077529_done	Excellent! The thieves won’t return to the archives for a long time! And the spiders... Well, I’m not so sure about them. We’ll have to start a routine clean-up operation. But you, Sir, deserve my heartfelt thanks. You cannot imagine the scientific value of your effort!
+quest_system_340077529_name	Grabby Paws, Covetous Eyes
+quest_system_340077529_stage_0	Hunt
+quest_system_340077529_task	Destroy {counter_limit_1} Cave Spiders and {counter_limit_0} Vagabonds.
+
+
+

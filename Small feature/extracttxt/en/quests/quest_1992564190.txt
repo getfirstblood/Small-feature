@@ -1,0 +1,8 @@
+﻿quest_system_1992564190_desc	The inhabitants of the local villages are complaining more and more about the walking dead in the swamps west of here. I’m concerned for the future of our settlement - if a couple of these Zombies reach the city, a real epidemic may start. But if you destroy some of them, it will substantially reduce the risk of infection. I think that’s a great idea! I’ll reward you well for your help.
+quest_system_1992564190_done	You have completed a job of great importance. As long as the zombies are not too many, the fort guards will be able to push them back into the swamp. And nothing will threaten the health of our citizens.
+quest_system_1992564190_name	Zombies of the West
+quest_system_1992564190_stage_0	Hunt
+quest_system_1992564190_task	Destroy {counter_limit_0} Zombies. 
+
+
+

@@ -1,0 +1,8 @@
+﻿quest_system_496284333_desc	There are many snakes in the vicinity of our village. So many you can get bitten any moment. Their venom is so potent that only a decoction of magical Lanelia flowers from the nearby forest can help. But I cannot collect them on my own anymore. Locals keep talking about giant trees walking in the forest like humans and attacking passers-by on sight. Please save us from disaster and help me gather the antidote.
+quest_system_496284333_done	Thank you for not leaving us in trouble. We feared this hell would never end. The properties of this flower are truly amazing, and decoctions made from it can heal almost anything. I think this stock will last us for some time. Meanwhile, please accept these humble gifts in reward.
+quest_system_496284333_name	Nature's Magic
+quest_system_496284333_stage_0	Flowers to collect
+quest_system_496284333_task	Collect {counter_limit_0} Lanelia Flowers 
+
+
+

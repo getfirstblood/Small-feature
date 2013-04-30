@@ -1,0 +1,37 @@
+﻿chat_system_212161375_actor_description	Colonel Bogard The Commander of the Eastern Fort. A very busy and serious fellow.
+chat_system_212161375_snap_0_answer_0	Close the Ranks
+chat_system_212161375_snap_0_answer_1	Close the Ranks
+chat_system_212161375_snap_0_answer_2	Divine Judgment
+chat_system_212161375_snap_0_answer_3	Divine Judgment
+chat_system_212161375_snap_0_answer_4	Reconnaissance in Force 
+chat_system_212161375_snap_0_answer_5	Reconnaissance in Force 
+chat_system_212161375_snap_0_answer_6	Special Reinforcements
+chat_system_212161375_snap_0_answer_7	Special reinforcements
+chat_system_212161375_snap_0_question	Why aren’t you in uniform? Where are your insignia and badges?!
+chat_system_212161375_snap_1_answer_0	begin quest dialog
+chat_system_212161375_snap_1_question	Hello man!
+chat_system_212161375_snap_10_answer_0	begin quest dialog
+chat_system_212161375_snap_10_question	Hello man!
+chat_system_212161375_snap_11_answer_0	(away)
+chat_system_212161375_snap_11_question	From where I'm standing, you haven't fulfilled your end of the bargain, and those guys are real nitpickers.
+chat_system_212161375_snap_12_answer_0	end quest dialog
+chat_system_212161375_snap_12_question	end quest text
+chat_system_212161375_snap_2_answer_0	(away)
+chat_system_212161375_snap_2_question	Deserters are the worst warriors ever. So I hope you can deal with them without any trouble.
+chat_system_212161375_snap_3_answer_0	end quest dialog
+chat_system_212161375_snap_3_question	end quest text
+chat_system_212161375_snap_4_answer_0	begin quest dialog
+chat_system_212161375_snap_4_question	Hello man!
+chat_system_212161375_snap_5_answer_0	(away)
+chat_system_212161375_snap_5_question	So, did you find those cultists? They’re probably hiding, mumbling their chants in some ruins somewhere...
+chat_system_212161375_snap_6_answer_0	end quest dialog
+chat_system_212161375_snap_6_question	end quest text
+chat_system_212161375_snap_7_answer_0	begin quest dialog
+chat_system_212161375_snap_7_question	Hello man!
+chat_system_212161375_snap_8_answer_0	(away)
+chat_system_212161375_snap_8_question	There's no time to delay. At times of such peril, waiting around means waiting to die.
+chat_system_212161375_snap_9_answer_0	end quest dialog
+chat_system_212161375_snap_9_question	end quest text
+
+
+

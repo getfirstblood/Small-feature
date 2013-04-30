@@ -1,0 +1,6 @@
+﻿RoyalSupportForm_Caption	[FormTitleText][FormTitleColor]Royal support
+RoyalSupportForm_ItemName	<align=center><valign=center><font=tahoma_bold_8><color=f6cd3d>[$]
+RoyalSupportForm_Text	<align=center><valign=center><font=tahoma_regular_8><color=fee5c1>[MT_Reinforcement]
+
+
+

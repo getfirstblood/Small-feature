@@ -1,0 +1,8 @@
+﻿quest_system_1659315723_desc	This is as far as me and my brothers can go. The magic that protects the Sorcerous Gate is too dangerous. Yet you come prepared by none other than Professor Digory, who had trained yours truly in Defence Against Forbidden Spells. Not a single student of his ever fell pray to a magic trap – well, except maybe one or two of the dunderheads who made a habit of cutting his lectures. At any rate, try to keep to the right and head straight for the Speaking Gate. Your charmed key can open it. 
+quest_system_1659315723_done	Who troubles my repose? What needst thou, o Human?
+quest_system_1659315723_name	The Animate Inanimate
+quest_system_1659315723_stage_0	The Speaking Gate
+quest_system_1659315723_task	Talk with the Speaking Gate
+
+
+

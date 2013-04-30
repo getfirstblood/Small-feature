@@ -1,0 +1,48 @@
+﻿AIF_BattleLockedByCooldown	[AIF_FormatWhiteS]Army Battle Locked
+AIF_BuyBattle	[AIF_FormatWhiteS]Open now [$][?]
+AIF_BuyBattleImage	<image=[?]>
+AIF_EnemyLevelName	[AIF_FormatWhiteS][?]
+AIF_EnemyLevelValue	[AIF_FormatWhiteM]Level [?]
+AIF_EnemyName	[AIF_FormatWhiteL][$]
+AIF_ExpandArmy	[AIF_FormatWhiteL]<align=center><valign=center>Open Army
+AIF_FormatWhiteL	<align=center><valign=center><font=tahoma_bold_12_border_smooth><color=FFFFFF>
+AIF_FormatWhiteM	<align=center><valign=center><font=tahoma_bold_12_border_smooth><color=FFFFFF>
+AIF_FormatWhiteS	<align=center><valign=center><font=tahoma_bold_10_border_smooth><color=FFFFFF>
+AIF_FormatYellowS	<align=center><valign=center><font=tahoma_bold_10><color=FFFF00>
+AIF_LevelColor_BitMoreStrong	<color=FFC800>
+AIF_LevelColor_BitMoreWeak	<color=D2FF28>
+AIF_LevelColor_Equal	<color=FFFF00>
+AIF_LevelColor_Invincible	<color=FF0000>
+AIF_LevelColor_Killing	<color=D42800>
+AIF_LevelColor_Strong	<color=FF6400>
+AIF_LevelColor_Unknown	<color=808080>
+AIF_LevelColor_Weak	<color=6EDC32>
+AIF_LevelColor_Weakest	<color=9B9B9B>
+AIF_LevelText_BitMoreStrong	Slightly Stronger
+AIF_LevelText_BitMoreWeak	Slightly Weaker
+AIF_LevelText_Equal	Equal Strength
+AIF_LevelText_Invincible	Invincible
+AIF_LevelText_Killing	Deadly
+AIF_LevelText_Strong	Strong
+AIF_LevelText_Unknown	Unknown
+AIF_LevelText_Weak	Weak
+AIF_LevelText_Weakest	Very Weak
+AIF_PowerLevel	[$][?]</color>
+AIF_PowerText	[$][$]</color>
+AIF_RecoveryPrice	[AIF_FormatWhiteS]Price of Restoration:<image=textures/interface/common/icons/money_22x22>[?]<image=textures/interface/common/icons/stamina_22x22>[?]
+AIF_ResurrectEmptyToolTipText	You don't have any units in the Infirmary.
+AIF_ResurrectText	Resurrect
+AIF_ResurrectToolTip	<valign=top><align=center><color=DDDD00><font=tahoma_bold_10><align=center>[AIF_ResurrectText]<br><color=FFFFFF><font=tahoma_regular_8><align=left>[$]
+AIF_ResurrectToolTipText	Resurrect as much of your army from the Infirmary as possible.
+AIF_Spoils	[AIF_FormatWhiteS]Trophies
+AIF_StartBattle	[AIF_FormatWhiteL]Start battle<image=textures/interface/common/icons/stamina_22x22> [?]
+AIF_TextTitle	[FormTitleText][FormTitleColor]Battle Starting
+AIF_WaitTime	[AIF_FormatWhiteS]Waiting: <image=textures/interface/common/icons/mini_clock_22x22>[AIF_FormatYellowS]
+AIF_WaitTime_LessMinute	[AIF_WaitTime] Less than a minute
+AIF_WaitTime_MoreOneDay	[AIF_WaitTime] [?] d. [?] h. [?] m.
+AIF_WaitTime_MoreOneHour	[AIF_WaitTime] [?] h. [?] m.
+AIF_WaitTime_WithInAnHour	[AIF_WaitTime] [?] m.
+AIF_YouArmy	[AIF_FormatWhiteL]Your Army
+
+
+

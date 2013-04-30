@@ -1,0 +1,8 @@
+﻿quest_system_932024622_desc	Don’t worry. I’ll make you a new amulet, even better than the old one. The power of the amulet comes from using the right material, not the right ritual. I have enough hooting reeds... my whole floor is covered with them. The nights are quite chilly here. See how my hands tremble? How will I ever make you an amulet in this cold? I can’t. I need some firewood. But the Ents don’t let me chop down any branches... They guard the whole forest.
+quest_system_932024622_done	Ents, ents. Now I can go to the forest and gather some firewood. Hah! Ents themselves will become kindling now. Thank you. I’m in your debt, you know.
+quest_system_932024622_name	The Wood Issue
+quest_system_932024622_stage_0	Hunt
+quest_system_932024622_task	Collect bark from {counter_limit_0} Ents after slaying them.
+
+
+

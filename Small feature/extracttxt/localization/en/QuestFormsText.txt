@@ -1,0 +1,8 @@
+﻿QstDescTitle	Description
+QstRwdOrTitle	or
+QstRwdSelTitle	Award for choice
+QstRwdTitle	Reward
+QstTargetTitle	Quest tasks
+
+
+

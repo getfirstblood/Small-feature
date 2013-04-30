@@ -1,0 +1,8 @@
+﻿quest_system_1011643712_desc	Now then, the forging of magic items is a most exacting task indeed. It requires a great deal of deliberation, as well as intuition and the necessary materials, obviously enough. I have a few bars of mythril, but we shall have to get our hands on some Dew of the Herbs of Life. Young Faeries collect it to restore their magical powers. It will be hard to obtain so much as a single vial of the dew. However, if you save a faery from some dangerous entanglement, she will reward her savior with a vial of the dew – it is the Law of the Woods. Semi-sentient beasts that dwell deep in the woods often hunt faeries in our parts, so you'll have an opportunity to save one or two, sooner or later.
+quest_system_1011643712_done	We have all we need now. I'll get to work immediately. The forging of magical items takes time, so I'd much rather not have you breathing down my back. Wait outside, in the yard. There was this poor curious lad who got a lightnin' bolt right in the kisser, they barely managed to bring him back to life, you know . . .
+quest_system_1011643712_name	The Magic Dew
+quest_system_1011643712_stage_0	Rout
+quest_system_1011643712_task	Chase away {counter_limit_0} packs of Feral Beasts 
+
+
+

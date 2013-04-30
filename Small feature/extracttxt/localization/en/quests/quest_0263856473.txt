@@ -1,0 +1,8 @@
+﻿quest_system_263856473_desc	You killed off some of the spiders, and the rest of them ran away when you freed them from the Spider Queen’s control. Your work here is done. Follow the road north to the hunters’ camp. You should get in touch with Scout Giango and confirm that the road up north is safe. It’s usually difficult to find Giango in the camp, but his assistant Knool always knows where to find him. I’ll inform the Commander of the latest events. He should know that someone tried to block the road to the Eastern Fort.
+quest_system_263856473_done	Ahem... Are you to see Giango with a special request? We have not seen any royal messengers for quite some time.
+quest_system_263856473_name	Further North
+quest_system_263856473_stage_0	Speak
+quest_system_263856473_task	Find Scout Giango or his assistant Knool in the hunters’ camp.
+
+
+

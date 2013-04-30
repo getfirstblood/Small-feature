@@ -1,0 +1,12 @@
+﻿FBActivateFormC1	<color=FFFFFF>
+FBActivateFormC2	<color=FEE789>
+FBActivateFormCenter	<align=center><valign=center>
+FBActivateFormContent	[FBActivateFormCenter][FBActivateFormF1][FBActivateFormC1]For this feature you must <br>connect to [FBActivateFormC2]Facebook[FBActivateFormC1]. <br>While connecting, the game <br>will be closed.
+FBActivateFormF1	<font=tahoma_bold_11_border_smooth>
+FBActivateFormF2	<font=tahoma_bold_12>
+FBActivateFormNo	[FBActivateFormCenter][FBActivateFormF1][FBActivateFormC2]Cancel
+FBActivateFormTitle	[FBActivateFormCenter][FBActivateFormF2][FBActivateFormC2]Note
+FBActivateFormYes	[FBActivateFormCenter][FBActivateFormF1][FBActivateFormC2]Connect
+
+
+

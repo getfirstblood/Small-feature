@@ -1,0 +1,10 @@
+﻿chat_system_387388144_actor_description	Elder Sedwich.An elder of a free village
+chat_system_387388144_snap_0_question	We do our best to survive, but we have to deal with the buggers on our own. 
+chat_system_387388144_snap_0_answer_0	Firefighting Measures
+chat_system_387388144_snap_2_question	end quest text
+chat_system_387388144_snap_2_answer_0	end quest dialog
+chat_system_387388144_snap_1_question	We’re counting on you. Now there is a water bucket next to every home, sand piles, and some shovels hanging, too. We are not afraid of a couple of spiders.
+chat_system_387388144_snap_1_answer_0	(away)
+
+
+

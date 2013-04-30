@@ -1,0 +1,8 @@
+﻿quest_system_1034709164_desc	The dome is gone, and now they can’t finish their ritual. But we must not let Lazarus escape! I don’t have the strength left to chase him, so you must get him yourself. Why do I call him crazy? Hah, so you don’t know...? But we’ll have to talk about that later! Destroy him before he goes into hiding!
+quest_system_1034709164_done	So you think you’ve won? Hahaha! This is only the beginning!
+quest_system_1034709164_name	The Elusive Lazarus
+quest_system_1034709164_stage_0	Speak with Lazarus
+quest_system_1034709164_task	Destroy Lazarus’ army and interrogate him.
+
+
+

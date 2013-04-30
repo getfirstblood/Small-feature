@@ -1,0 +1,8 @@
+﻿quest_system_1761958040_desc	No secret assignments for you so far. Are you disappointed? What did you expect? Trust has to be earned. Therefore, your first job is to patrol the Library Ruins. Lately, we’ve been getting alarming reports from our scouts there. Find Charon the Archive Keeper in the Library Ruins area and check on the situation there.
+quest_system_1761958040_done	By Rusith, they finally sent me some help. The people in Kronberg think we just fool around in here! Even the guard station was transferred to the North Bay. But our mission here is of great importance. Some of the most ancient books and manuscripts, each of unimaginable value, are stored here.
+quest_system_1761958040_name	Patrol Guard Duty
+quest_system_1761958040_stage_0	Speak
+quest_system_1761958040_task	Speak with Charon the Archive Keeper in the Library Ruins
+
+
+

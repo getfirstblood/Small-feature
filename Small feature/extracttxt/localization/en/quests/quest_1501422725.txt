@@ -1,0 +1,8 @@
+﻿quest_system_1501422725_desc	My scouts found several divisions of Ancients in the vicinity of the fort. The Ancients are a once-great race whose existence is tightly bound to nature and ancient magic, remembered only by druids and mentioned only in very rare manuscripts. I don't think that they're up to anything, but the very fact that they're so close is making my people nervous - the curses the Necromancers could put on them are scary enough, but the magic of the Ancients, combined with Chaos magic, could have unforeseen consequences. Deal with this threat as soon as possible.
+quest_system_1501422725_done	Fine work, Legionnaire. Thanks to your decisive actions, my hunters were able to capture several creatures of the Ancient race as they fled. They are prepared to swear an oath of allegiance to the best of the Knights of the Royal Academy. So get ready for more trials.
+quest_system_1501422725_name	Reconnaissance in Force 
+quest_system_1501422725_stage_0	The Rout
+quest_system_1501422725_task	Destroy the Green Scouts and the Party of Forest Guardians
+
+
+

@@ -1,0 +1,13 @@
+﻿MoveToNode_btnGetStamina	Buy a Stamina refilling potion.
+MoveToNode_btnSpeedUpToolTip	Spend [?] Stamina points to move faster.
+MoveToNode_FulfillStaminaAdvise	<align=center><valign=center><font=tahoma_bold_8><color=F0F0F0>Refill Stamina for acceleration:
+MoveToNode_GetStaminaButton	Receive
+MoveToNode_HeaderText	<align=center><valign=center><font=tahoma_bold_8><wordwrap=on>[FormTitleColor]Moving to [?]
+MoveToNode_SpeedUpButton	Acceleration!
+MoveToNode_TextStaminaConsumed	<align=center><valign=center><font=tahoma_bold_8><color=F0F0F0>Your move used [?] of your Stamina points
+MoveToNode_TimeLeft	<align=center><valign=center><font=tahoma_bold_8><wordwrap=off>[FormTitleColor]Left: <color=F0F0F0>[?]
+MoveToNode_UnknownStaminaCount	several
+MoveToNode_UnsuffStaminaToMovement	Not enough Stamina to move.
+
+
+

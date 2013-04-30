@@ -1,0 +1,8 @@
+﻿quest_system_409292064_desc	I’ll be brief. Our “friends”, the Dwarf Mechanics, stole my mortar. My personal mortar! It has my grandfather’s brand on it! They don’t make them like they used to, you know? Get back my mortar and punish the rascals! Of course, I don’t know which one of them has it . . . But no problem, just destroy several teams to teach them a lesson!
+quest_system_409292064_done	Well. The rascals did not have my mortar. But I’ll pay you for your trouble anyway. What? You wonder how far it’ll shoot? Who gave you the idea that it shoots at all? It has my grandfather’s brand, it’s a ra-ri-ty!
+quest_system_409292064_name	Ra-ri-ty!
+quest_system_409292064_stage_0	Rout
+quest_system_409292064_task	Destroy {counter_limit_0} teams of Dwarf Mechanics. 
+
+
+

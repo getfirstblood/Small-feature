@@ -1,0 +1,8 @@
+﻿quest_system_1027869987_desc	This is my first encounter with a problem of this kind. On the one hand, the shoreline spell is simple, a mirror-type spell. But on the other hand, I can’t detect the flow of binding energies, which I must do in order to start detangling the chain of thought-forms. I made a couple of estimates, but even an archdemon himself could get lost in this mess. I need help... Yes, yes, I do! But I can’t ask these bumpkins for help. I can trust you, since you are the Commander’s authorized agent. Please deliver these calculations to the Archmage, my former teacher. I’m sure he’ll be able to figure out what’s wrong.
+quest_system_1027869987_done	What is this, some kind of a conspiracy? First, Charon goes all weird on me, and then Locrim, my former student... What thought-forms is he talking about? His own calculations show that this is a simple spell, and of a lower category, too... Admittedly, its power indicates that a sacrifice was made... 
+quest_system_1027869987_name	Checking the Calculations
+quest_system_1027869987_stage_0	Speak
+quest_system_1027869987_task	Ask for Survus the Archmage’s help checking the spell’s properties.
+
+
+

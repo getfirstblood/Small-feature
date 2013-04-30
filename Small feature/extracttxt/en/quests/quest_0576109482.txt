@@ -1,0 +1,8 @@
+﻿quest_system_576109482_desc	While we were busy investigating the circumstances around the attack on Albus, several ancient and very valuable manuscripts, written in the language spoken before the great divide, were stolen from the library. Apart from the older shamans, and some language scholars, there are very few beings who know this language. At the place where the theft occurred, we found the claws of some kind of animal, as well as scales – like a snake's, but thicker. Meanwhile, the gang-leader has admitted that he was acting on the orders of a gentleman whose face he has not seen. However, he did hear him making a hissing noise during their conversation. I'd wager that this is the work of the ancient pangolins! It was recently discovered that they hadn't died out, as everyone had thought, but had in fact been concealing themselves cleverly all this time. According to the terms of their contract, the gang-leader is to take the stolen manuscript and meet the person who ordered the theft at a predetermined location. I think you ought to do the gang-leader a favor and go to this meeting. Then you can get to the bottom of this, there and then.
+quest_system_576109482_done	Incredible. Fortune favors you in almost everything you do! Fine work, fine work. I'm delighted that we were able to foil those pangolins' devious plans. There's no doubt they would have been able to use the power hidden in these relics. I shouldn't think we'll be troubling you about this again.
+quest_system_576109482_name	The Soft Hiss of Deceit
+quest_system_576109482_stage_0	Double Defeat
+quest_system_576109482_task	Find and destroy {counter_limit_0} Hissing Mastermind's party and {counter_limit_1} Hisser's Bodyguards party 
+
+
+

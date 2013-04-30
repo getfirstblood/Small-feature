@@ -1,0 +1,8 @@
+﻿quest_system_681940150_desc	I was conducting an everyday investigation trying to figure out how exactly Locrim's magic staff was stolen. The fact that there were several miralis leaves found at the crime scene told me that the thieves came from the western forest. That's exactly where I found one of these strange creatures. I'm not sure whether they are animals or something completely different. They moved on their hind paws holding primitive spears in the front ones. I saw that they were using the stolen staff to conduct some kind of ritual. I do not believe that they have peaceful intentions. We need to return the staff to its owner as soon as possible before things turn for the worse.
+quest_system_681940150_done	You have returned the staff. The mage will be ecstatic! How did you manage to get it back? I found out something about them. Apparently they are members of an ancient race that were long believed to be extinct. In reality they were just extremely good at hiding. I still don't know why they stole Locrim’s staff.
+quest_system_681940150_name	An Unexpected Encounter
+quest_system_681940150_stage_0	Rout
+quest_system_681940150_task	Rout {counter_limit_0} armies of Scaly Thieves
+
+
+

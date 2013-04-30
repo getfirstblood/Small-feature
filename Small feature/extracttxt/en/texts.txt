@@ -1,0 +1,229 @@
+﻿AdventureButtonBattle	<font=tahoma_bold_12_border_smooth>To Arms!<br><image=textures/abilities/DA_Burn_normal><br><font=tahoma_regular_8><line_spacing=1><align=left>Click!<br><color=00FF00>Not clicking is considered mutiny and is punishable by death!<br><align=right><color=FFFFFF>Stamina cost: -1 <image=textures/interface/common/icons/coin_14x13 offset=2><line_spacing=5><br><align=left>Award:<br><align=center><image=textures/interface/common/icons/attack_55x55><image=textures/interface/common/icons/defense_55x55><image=textures/interface/common/icons/intellect_55x55><image=textures/interface/common/icons/leadership_55x55><image=textures/interface/common/icons/mana_55x55>
+AdventureButtonQuest	<font=tahoma_bold_12_border_smooth>Accept Quest<br><image=textures/abilities/DA_Dragon_Will_normal><br><font=tahoma_regular_8><line_spacing=1><align=left><color=00FF00>Here is a riddle, tell, if you know: who aims for the heel, but hits in the nose?<br><color=FFFFFF><line_spacing=5><align=left>Award: 999.99 <image=textures/interface/common/icons/coin_14x13 offset=2><br><align=center><image=textures/interface/common/icons/attack_55x55><image=textures/interface/common/icons/defense_55x55><image=textures/interface/common/icons/intellect_55x55><image=textures/interface/common/icons/leadership_55x55><image=textures/interface/common/icons/mana_55x55>
+AP_AutoBattle	<valign=top><color=DDDD00><font=tahoma_regular_10><align=center>Auto<br><color=FFFFFF><font=tahoma_regular_8><align=left>Automatic battle.
+AP_CombatHealthbar	<valign=top><color=DDDD00><font=tahoma_regular_10><align=center>HealthBar<br><color=FFFFFF><font=tahoma_regular_8><align=left>Turn the combat health bar display on or off.
+AP_CombatOptions	<valign=top><color=DDDD00><font=tahoma_regular_10><align=center>Battle Options<br><color=FFFFFF><font=tahoma_regular_8><align=left>Battle Options Menu
+AP_CrystalAddTooltip	Replenish your Gems to buy unique items and game features.
+AP_CurrentCrystal	Gems are precious stones needed for purchasing particularly valuable resources and units.
+AP_CurrentLeadership	Your Leadership {leadership}
+AP_CurrentLeadershipBuffed	Leadership affects the number of troops in your army, depending on the conditions of license and equipment.
+AP_CurrentLevel	Your Level
+AP_CurrentMoney	To hire an army, you need money. You can get it as a reward for completing quests and fighting. 
+AP_CurrentWarpoints	Battle Points
+AP_DefenceAbility	<valign=top><color=DDDD00><font=tahoma_bold_10><align=center>Defencive Stance <color=36FF00>(Space)<br><color=FFFFFF><font=tahoma_regular_8><align=left>A stance which increases Defence but skips the current turn.
+AP_DefenceAbility_Tablets	<valign=top><color=DDDD00><font=tahoma_bold_10><align=center>Defencive Stance <br><color=FFFFFF><font=tahoma_regular_8><align=left>A stance which increases Defence but skips the current turn.
+AP_DelayTurn	<valign=top><color=DDDD00><font=tahoma_bold_10><align=center>Delay Turn <color=36FF00>(W)<br><color=FFFFFF><font=tahoma_regular_8><align=left>Delay turn until a better time (during the current round)
+AP_DelayTurn_Tablets	<valign=top><color=DDDD00><font=tahoma_bold_10><align=center>Delay Turn <br><color=FFFFFF><font=tahoma_regular_8><align=left>Delay turn until a better time (during the current round)
+AP_GoldAddTooltip	Buy a treasure chest to refill your reserve of gold.
+AP_PlayerName	Your Name
+AP_QuickScrollsPanel	<valign=top><color=DDDD00><font=tahoma_bold_10><align=center>Spell Book <color=36FF00>(B)<br><color=FFFFFF><font=tahoma_regular_8><align=left>The Spell Book holds magical spells that can be used once per round.
+AP_QuickScrollsPanel_Tablets	<valign=top><color=DDDD00><font=tahoma_bold_10><align=center>Spell Book <br><color=FFFFFF><font=tahoma_regular_8><align=left>The Spell Book holds magical spells that can be used once per round.
+AP_QuickScrollsPanelDisabledInPvP	<valign=top><color=DDDD00><font=tahoma_bold_10><align=center>Spell Book <color=36FF00>(B)<br><color=FFFFFF><font=tahoma_regular_8><align=left>The book of combat spells. You cannot use spells in PvP combat.
+AP_QuickScrollsPanelDisabledInPvP_Tablets	<valign=top><color=DDDD00><font=tahoma_bold_10><align=center>Spell Book <br><color=FFFFFF><font=tahoma_regular_8><align=left>The book of combat spells. You cannot use spells in PvP combat.
+AP_RealAddTooltip	Replenish your Facebook Credits to purchase unique items and opportunities in the game.
+AP_RunAway	<valign=top><color=DDDD00><font=tahoma_bold_10><align=center>Run Away! <color=36FF00>(L)<br><color=FFFFFF><font=tahoma_regular_8><align=left>Run from danger, and be laughed at forever. But, your surviving warriors will be saved from becoming a pile of miserable corpses.
+AP_RunAway_Lock_Escape	<valign=top><color=DDDD00><font=tahoma_bold_10><align=center>Retreat! <color=36FF00>(L)<br><color=FFFFFF><font=tahoma_regular_8><align=left>You have entered the battle. You cannot retreat.
+AP_RunAway_Lock_Escape_Tablets	<valign=top><color=DDDD00><font=tahoma_bold_10><align=center>Retreat! <br><color=FFFFFF><font=tahoma_regular_8><align=left>You have entered the battle. You cannot retreat.
+AP_RunAway_Lock_Tutorial	<valign=top><color=DDDD00><font=tahoma_bold_10><align=center>Retreat! <color=36FF00>(L)<br><color=FFFFFF><font=tahoma_regular_8><align=left>You cannot retreat from the tutorial battle.
+AP_RunAway_Lock_Tutorial_Tablets	<valign=top><color=DDDD00><font=tahoma_bold_10><align=center>Retreat! <br><color=FFFFFF><font=tahoma_regular_8><align=left>You cannot retreat from the tutorial battle.
+AP_RunAway_Tablets	<valign=top><color=DDDD00><font=tahoma_bold_10><align=center>Run Away! <br><color=FFFFFF><font=tahoma_regular_8><align=left>Run from danger, and be laughed at forever. But, your surviving warriors will be saved from becoming a pile of miserable corpses.
+AP_SpellBook	<valign=top><color=DDDD00><font=tahoma_regular_10><align=center>Spell Book<br><color=FFFFFF><font=tahoma_regular_8><align=left>Used for storing spell scrolls.
+ArenaPanelText0	Xeona
+ArenaTest0	Test0
+ArenaTest1	Test1
+ArenaTest2	Test2
+ArenaTest3	Test3
+BAR_Exp	Gain experience by fighting battles and completing quests. [?] more experience until level [?].
+BAR_Exp_Max	You have reached maximum of experience points
+BAR_Stamina	Stamina<br>[?]/[?] ([?]%)
+BAR_StaminaMax	Stamina<br>[?]/[?] ([?]%)<br>Bonus: +[?] to maximum Stamina<br>You've reached the maximum Stamina bonus available.
+BAR_StaminaMid	Stamina<br>[?]/[?] ([?]%)<br>Bonus: +[?] to maximum Stamina<br>Get [?] friends to increase the bonus to +[?]
+BAR_StaminaMin	Stamina<br>[?]/[?] ([?]%)<br>Get [?] friends and get a +[?] bonus to your maximum Stamina.
+BAR_StaminaOverloaded	<br>Your current Stamina is not less than the usual amount for your level. That's why Stamina is not recharging.
+ChatMyNicknameColor	<color=df6969>[?]</color>
+ChatOtherNicknameColor	<color=4bc4e0>[?]</color>
+ComboBoxItem0	<image=vert_scroll_short align=-1 offset=1>320х240
+ComboBoxItem1	<image=textures/interface/common/icons/coin_14x13 offset=2>640х480
+ComboBoxItem2	<image=textures/interface/common/icons/coin_14x13 offset=2>800х600
+ComboBoxItem3	<image=textures/interface/common/icons/coin_14x13 offset=2>1024х768
+ComboBoxItem4	<image=textures/interface/common/icons/coin_14x13 offset=2>1152х864
+ComboBoxItem5	<image=textures/interface/common/icons/coin_14x13 offset=2>1280х720
+ComboBoxItem6	<image=textures/interface/common/icons/coin_14x13 offset=2>1280х768
+ComboBoxItem7	<image=textures/interface/common/icons/coin_14x13 offset=2>1280х800
+ComboBoxItem8	<image=textures/interface/common/icons/coin_14x13 offset=2>1280х960
+ComboBoxItem9	<image=textures/interface/common/icons/coin_14x13 offset=2>1280х1024
+cteat_army	Cheated army
+hero_info.crystals_label	<font=tahoma_regular_8_numbers_only><color=ECC270>{hero.crystals}
+hero_info.leadership_label	<font=tahoma_regular_8_numbers_only><color=ECC270>{hero.leadership}
+hero_info.money_label	<font=tahoma_regular_8_numbers_only><color=ECC270>{hero.money}
+hero_info.warpoints_label	<font=tahoma_regular_8_numbers_only><color=ECC270>{hero.wp}
+Hide	Hide
+Invalid_Level_Id	---
+max	max.
+MESSAGE_SUBTYPE_BAN_0	server maintenance
+MESSAGE_SUBTYPE_BAN_1	an in-game chat violation
+MESSAGE_SUBTYPE_BAN_-1	moving to another location
+MESSAGE_SUBTYPE_BAN_2	cheating
+MESSAGE_SUBTYPE_BAN_3	bug usage for personal gain
+MESSAGE_SUBTYPE_BAN_4	obstruction of the operating system
+MESSAGE_SUBTYPE_BAN_5	a billing violation 
+MESSAGE_SUBTYPE_BAN_6	multi-accounting 
+MESSAGE_SUBTYPE_BAN_7	user-generated content
+MESSAGE_SUBTYPE_BAN_8	an unspecified reason
+MESSAGE_SUBTYPE_GAG_0	server maintenance
+MESSAGE_SUBTYPE_GAG_1	an in-game chat violation
+MESSAGE_SUBTYPE_GAG_2	cheating
+MESSAGE_SUBTYPE_GAG_3	bug usage for personal gain
+MESSAGE_SUBTYPE_GAG_4	obstruction of the game system
+MESSAGE_SUBTYPE_GAG_5	a billing violation 
+MESSAGE_SUBTYPE_GAG_6	multi-accounting 
+MESSAGE_SUBTYPE_GAG_7	obscene language
+MESSAGE_SUBTYPE_GAG_8	an unspecified reason
+MESSAGE_TYPE_ABILITY_UPGRADED	<color=00ff00>You’ve upgraded your [$] skill to level [?]
+MESSAGE_TYPE_ACHIEVEMENT	<color=00ff00>You have gained an achievement: [$]
+MESSAGE_TYPE_ARMY_CHANGED_BY_CHANGING_LEADERSHIP	<color=ff0000>Your army has been modified due to a change in Leadership!
+MESSAGE_TYPE_AUTOESCAPED_FROM_BATTLE	You refused to take control of your army, and it has automatically left the battlefield.
+MESSAGE_TYPE_BAN_SET	<color=ff0000>You have been banned until <color=ff00ff>[?] <color=ff0000>for [?] and will be disconnected.
+MESSAGE_TYPE_BAN_UNSET	The ban has been removed.
+MESSAGE_TYPE_BAN_UNSET_TO_CHAT	<color=00ff00>The ban has been removed.
+MESSAGE_TYPE_CANT_CHAT_GAGGED	<color=ff0000>You are not allowed to chat until <color=ff00ff>[?]<color=ff0000>.
+MESSAGE_TYPE_CANT_CHAT_GAGGED_PERMANENT	You have been muted in the chat permanently. Please contact Support for details.
+MESSAGE_TYPE_CASTLE_ATTACK_LOG_NEW_MESSAGE_FAIL	<color=FFFF00>[?]</color> <color=FF0000>defeated</color> your Garrison
+MESSAGE_TYPE_CASTLE_ATTACK_LOG_NEW_MESSAGE_WIN	<color=FFFF00>[?]</color> <color=00FF00>was defeated</color> by your Garrison
+MESSAGE_TYPE_CHARISMA_CHANGED_DEC	You lost <color=FFFF00>[?] charisma
+MESSAGE_TYPE_CHARISMA_CHANGED_INC	You received <color=FFFF00>+[?] charisma
+MESSAGE_TYPE_COLLECTION_ACCEPT	<color=FFFF00>You received a letter from [?] that contains valuable resources
+MESSAGE_TYPE_CREATURE_ADDED	<color=00ff00>You received: [$] x [?]
+MESSAGE_TYPE_CREATURE_REMOVED	<color=00ff00>You lost: [$] x [?]
+MESSAGE_TYPE_CREATURE_RESURRECT	<color=00ff00>You healed [?] units: [$].
+MESSAGE_TYPE_CREATURE_UPGRADED	<color=00ff00>You’ve upgraded your [$] to level [?]
+MESSAGE_TYPE_CRYSTAL_CHANGED_DEC	You lost <color=FFFF00>[?] Gems
+MESSAGE_TYPE_CRYSTAL_CHANGED_INC	You received <color=FFFF00>+[?] Gems
+MESSAGE_TYPE_CURRENCY_CHANGED	With the [?] faction, you received <color=FFFF00>+[?] currency
+MESSAGE_TYPE_DANGEON_GIFT	With your help, your friend will go hunting for villains sooner, while you will receive a reward.<br><br>Your reward: <font=tahoma_bold_10><color=fcffc3>[$]</font>.
+MESSAGE_TYPE_DANGEON_GIFT_TITLE	Join the hunt for villains!
+MESSAGE_TYPE_DANGEON_NOT_VALID_LINK	The player already received all the help that was required. You receive no reward.
+MESSAGE_TYPE_DANGEON_OWN_LINK	You cannot do it on your own! Summon some friends!
+MESSAGE_TYPE_DANGEON_SECOND_CLICK	You have already helped your friend hunt villains today.
+MESSAGE_TYPE_DISCONNECTED	<color=ff0000>You have been disconnected from the game server for [?]
+MESSAGE_TYPE_DUNGEON_ACCEPT	<color=FFFF00>[?] has sent you a letter confirming help with hunting for villains.
+MESSAGE_TYPE_DUNGEON_REQUEST	<color=FFFF00>You have received a letter from [?] asking for help.
+MESSAGE_TYPE_EXP_CHANGED_DEC	You lost <color=FFFF00>[?] experience
+MESSAGE_TYPE_EXP_CHANGED_INC	You received <color=FFFF00>+[?] experience
+MESSAGE_TYPE_EXTERNAL_LINK_COMPONENT_REWARD	You helped the player <font=tahoma_bold_10><color=fcffc3>[?]</font> with completing the collection, having sent them the valuable resource of <font=tahoma_bold_10><color=fcffc3>[?]</font>.<br>Your reward is: <font=tahoma_bold_10><color=fcffc3>[$]</font>.
+MESSAGE_TYPE_EXTERNAL_LINK_GIFT	Congratulations, Legionnaire! You get a generous gift – <font=tahoma_bold_10><color=fcffc3>[$]</font>.<br>Continue playing and inviting friends to share more rewards, gain battle advantage and get gifts.
+MESSAGE_TYPE_EXTERNAL_LINK_GIFT_TITLE	A gift!
+MESSAGE_TYPE_EXTERNAL_NOT_VALID_LINK_COMPONENT_REWARD	<color=652401>[?]</color> has already received all necessary items from friends.<br>Gift not received.
+MESSAGE_TYPE_EXTERNAL_NOT_VALID_LINK_GIFT	Other Legionnaires have taken all the rewards! You get no reward.
+MESSAGE_TYPE_EXTERNAL_OWN_LINK_COMPONENT_REWARD	You may not help yourself with your own collection.<br>Gift not received
+MESSAGE_TYPE_EXTERNAL_OWN_LINK_GIFT	You cannot receive a gift from yourself.
+MESSAGE_TYPE_EXTERNAL_SECOND_CLICK_LINK_COMPONENT_REWARD	You have already helped the player <color=652401>[?]</color> with their collection.<br>A gift is not received
+MESSAGE_TYPE_EXTERNAL_SECOND_CLICK_LINK_GIFT	Gift already received.
+MESSAGE_TYPE_GAG_SET	You have been muted in the chat by the GMs until [?] for [?].
+MESSAGE_TYPE_GAG_SET_TO_CHAT	<color=ff0000>You have been muted in the chat until <color=ff00ff>[?] <color=ff0000>for [?].
+MESSAGE_TYPE_GAG_UNSET	You have been un-muted. You can send messages in the chat.
+MESSAGE_TYPE_GAG_UNSET_TO_CHAT	<color=00ff00>You have been un-muted. You can send messages in the chat.
+MESSAGE_TYPE_GARRISON_CHANGED_BY_CHANGING_LEADERSHIP	<color=ff0000>Your Garrison has been changed because of the change in your level of Leadership.
+MESSAGE_TYPE_GIFT_RECEIVED	<color=FFFF00>You’ve received a gift from [?]
+MESSAGE_TYPE_HERO_LEVELUP	<color=FFFF00>Level up!<color=ffffff> You have reached <color=FFFF00>[?]<color=ffffff> level.
+MESSAGE_TYPE_IMPACT_END	<color=ff0000>[$] spell expired <color=ff00ff>[?]
+MESSAGE_TYPE_IMPACT_END_UNLIMITED	<color=ff0000>[$] spell expired
+MESSAGE_TYPE_IMPACT_PROLONGATE	<color=00ff00>[$] spell prolonged for <color=ff00ff>[?]
+MESSAGE_TYPE_IMPACT_START	<color=00ff00>[$] spell activated until <color=ff00ff>[?]
+MESSAGE_TYPE_IMPACT_START_UNLIMITED	<color=00ff00>[$] Spell activated
+MESSAGE_TYPE_INVENTORY_CHANGED_DEC	You used [?] <color=ff0000>-[?]
+MESSAGE_TYPE_INVENTORY_CHANGED_INC	You received [?] <color=ff0000>+[?]
+MESSAGE_TYPE_ITEM_SOLD	You have sold <color=FFFF00>[?]<color=ffffff> x[?]
+MESSAGE_TYPE_ITEM_USED	<color=ff0000>You used [?]
+MESSAGE_TYPE_LEADERSHIP_CHANGED_DEC	You lost <color=FFFF00>[?] Leadership
+MESSAGE_TYPE_LEADERSHIP_CHANGED_INC	You received <color=FFFF00>+[?] Leadership
+MESSAGE_TYPE_MEGAPHONE_CHAT	<color=FFD700>Megafon: [?]: [?]</color>
+MESSAGE_TYPE_MEGAPHONE_EVENT	<font=tahoma_bold_10_border_smooth><align=center><valign=center><color=FFD700>[$]
+MESSAGE_TYPE_MEGAPHONE_EVENT_CHAT	<color=FFD700>[$]</color>
+MESSAGE_TYPE_MEGAPHONE_EVENT_TEXT_OwnedEpicItem	<color=FF0000>[?]</color> just got <color=FF0000>[$]</color> from the Lucky Chest! Congratulations!
+MESSAGE_TYPE_MEGAPHONE_EVENT_TEXT_SimpleMessage	[?]
+MESSAGE_TYPE_MEGAPHONE_GM	<font=tahoma_bold_10_border_smooth><align=center><valign=center><color=FFFF00>Administration: [?]
+MESSAGE_TYPE_MEGAPHONE_GM_CHAT	<color=FFD700>Administration: [?]</color>
+MESSAGE_TYPE_MONEY_CHANGED_DEC	You lost <color=FFFF00>[?]
+MESSAGE_TYPE_MONEY_CHANGED_INC	You received <color=FFFF00>[?] Gold coin(s)
+MESSAGE_TYPE_PATROL_ABORTED	<color=00ff00>Patrol mode aborted
+MESSAGE_TYPE_PATROL_FINISHED	<color=00ff00>Patrol mode completed
+MESSAGE_TYPE_PATROL_STARTED	<color=00ff00>Patrol mode activated for [?] {#digits_format (digit_simple_format) (hour, hours, hours)}
+MESSAGE_TYPE_PERMANENT_BAN_SET	<color=ff0000>You have been banned permanently and will be immediately disconnected from the server. Please contact Support for details.
+MESSAGE_TYPE_PERMANENT_GAG_SET	You have been muted in the chat permanently. Please contact Support for more information.
+MESSAGE_TYPE_PERMANENT_GAG_SET_TO_CHAT	<color=ff0000>You have been muted in the chat permanently for [?]. Please contact Support for more information.
+MESSAGE_TYPE_PROMO_CODE_ACTIVATED	You activated a promo code and received a <color=FFFF00>[?]<color=ffffff> x[?] as a gift.
+MESSAGE_TYPE_PROMO_CODE_ACTIVATED_POPUP	[PopUp_Style][MESSAGE_TYPE_PROMO_CODE_ACTIVATED]
+MESSAGE_TYPE_PROMO_CODE_ACTIVATION_ERROR	Invalid promo code.
+MESSAGE_TYPE_PROMO_CODE_ALREADY_USED	The promo code you entered has already been activated.
+MESSAGE_TYPE_PROMO_CODE_WRONG_PLATFORM	Entered promotion code can’t be activated on this platform.
+MESSAGE_TYPE_PURCHASE_IN_FB_SHOP	Purchased for credits: <color=FFFF00>[?]<color=ffffff>
+MESSAGE_TYPE_PURCHASE_IN_NODE_SHOP	Purchased: <color=FFFF00>[?]<color=ffffff> x[?]
+MESSAGE_TYPE_PURCHASE_IN_NODE_SHOP_CHEST	You uncover a huge chest and take every last coin inside, refilling your monetary reserves.
+MESSAGE_TYPE_PURCHASE_IN_NODE_SHOP_STAMINA	A vessel of life-giving energy appears in your inventory. You can use it whenever you need to.
+MESSAGE_TYPE_QUEST_END	<color=ffffff>Quest <color=ffff00>''[$]''</color> [$]
+MESSAGE_TYPE_QUEST_END_COMPLETE	<color=00ff00>completed</color>
+MESSAGE_TYPE_QUEST_END_FAILED	<color=ff0000>failed</color>
+MESSAGE_TYPE_QUEST_END_REJECTED	<color=777777>cancelled</color>
+MESSAGE_TYPE_REINFORCEMENT	<color=FFFF00>Reinforcements have arrived!<color=ffffff>
+MESSAGE_TYPE_REINFORCEMENT_UNIT	<color=FFFF00>[$]<color=ffffff> x[?]
+MESSAGE_TYPE_REPUTATION_CHANGED	With the [?] faction, you received <color=FFFF00>+[?] reputation
+MESSAGE_TYPE_RESURRECT_CREATURES	[?] was revived <color=FFFF00>+[?]
+MESSAGE_TYPE_SET_PENALTY_NEXT_MM_PVP	You have deserted from a rating battle or left your soldiers without a commander.<br><br>The next rating battle will be available in [?].
+MESSAGE_TYPE_STAMINA_CHANGED_DEC	You lost <color=FFFF00>[?] Stamina
+MESSAGE_TYPE_STAMINA_CHANGED_INC	You received <color=FFFF00>+[?] Stamina
+MESSAGE_TYPE_TUTORIAL_FINISH_TEGRA_3	[PopUp_Style]Training on Tegra 3 platform has been completed! You have received an Emerald Dragon!
+MESSAGE_TYPE_WARPOINTS_CHANGED_DEC	Battle Points spent <color=FFFF00>[?]
+MESSAGE_TYPE_WARPOINTS_CHANGED_INC	Battle Points received <color=FFFF00>+[?]
+MSG_askFriend_GiveAward_text	You get <font=tahoma_bold_10>300<image=textures/interface/common/icons/money_22x22></font> for your assistance in replenishing your friend's Stamina. 
+MSG_askFriend_GiveStamina_text	Your friends have answered your plea for help and sent you some Vial of Life. 
+MSG_askFriend_NotValid_text	Other players have already helped this Legionnaire! You get no reward.
+MSG_askFriend_UseOwner_text	You cannot replenish your own Stamina – you need friends to do it. 
+MSG_askFriend_UseRepeat_text	You have already helped this friend with replenishing Stamina. You can provide more help later. 
+PO_PackItemDescription	<valign=center><align=left><font=tahoma_bold_10_border_smooth><wordwrap=on>[?]<br=5><font=tahoma_bold_8><wordwrap=on>[?] piece(s).
+purchase_confirm.text	Do you really want to make this purchase?
+purchase_confirm.title	Purchase for Gems
+raid.changed_price_dialog.text	The cost of searching for a new opponent has changed an is now <image=[?]> [?]. Do you want to continue search?
+raid.changed_price_dialog.title	The cost is changed
+SmallTooltipTextFooter	<color=fdfd44><font=tahoma_regular_8>Click <image=textures/interface/pre_damage_tooltip/mouse_pic>
+SmallTooltipTextHeader	{unit}
+TestActorName	Dirty Maccon
+TestFormSlot0	14
+TestFormSlot1	90
+TestFormSlot10	36
+TestFormSlot11	83
+TestFormSlot12	16
+TestFormSlot13	13
+TestFormSlot14	29
+TestFormSlot15	22
+TestFormSlot2	2
+TestFormSlot3	11
+TestFormSlot4	24
+TestFormSlot5	19
+TestFormSlot6	18
+TestFormSlot7	98
+TestFormSlot8	38
+TestFormSlot9	34
+TestPanelHintAbility1	<align=center><font=font12>Tactics<br><image=textures/abilities/DA_Natural_Force_normal><br><font=font8><line_spacing=1><align=left>Knowledge of tactics allows the avatar to position his forces on the battlefield before the battle[AdventureButtonQuest][AdventureButtonBattle]
+TestPanelHintAbility2	<align=center><font=font12>Night Operations<br><image=textures/abilities/DA_Strike_Wing_normal><br><font=font8><line_spacing=1><align=left><color=9F9FFF>During evening and night, and when fighting underground, all of the parties in the hero’s army receive a Defence and Attack bonus.
+TestPanelHintAbility3	<align=center><font=font12>Fury Control<br><image=textures/abilities/DA_Torpor_normal><br><font=font8><line_spacing=1><align=left><color=FF9F9F>Increases the amount of Fury the hero can accumulate.
+TestPanelHintAbility4	<align=center><font=font12>Training<br><image=textures/abilities/DA_Strong_Shot_normal><br><font=font8><line_spacing=1><align=left>Increases the amount of experience a Tamed Dragon can earn in combat.<br><label=TestPanelHintAbility5>
+TestPanelHintAbility5	<align=center><font=font12>Rage<br><image=textures/abilities/DA_Storm_Shadow_normal><br><font=font8><line_spacing=1><align=left>Any squad that destroys an enemy squad receives an attack bonus. These bonuses stack.<br><label=TestPanelHintAbility6>
+TestPanelHintAbility6	<align=center><font=font12>Snap Shooting<br><image=textures/abilities/DA_Force_Mark_normal><br><font=font8><line_spacing=1><align=left>The art of snap-shooting allows your warriors to attack first in battle, crushing the enemy with a single volley.<br><label=TestPanelHintAbility5>
+TestPanelHintBag	Bag.<br>A very large bag.
+TestPanelHintEnable	Block.<br>Blocks an Ability.
+TestPanelHintFrozen	Freeze.<br>Freezes an ability.
+TestPanelHintSkip	Skip Turn
+TestPanelHintYield	Make a cowardly escape from the battlefield, disguised as a woman.
+TestSubTitle	Order Quest (level 7)
+time_span.auto_format	{time_span.auto_format}
+time_span.d_hh	{time_span.d} d. {time_span.h} h. 
+time_span.hh_mm	{time_span.h} h. {time_span.mm} m.
+time_span.mm_ss	{time_span.mm} m. {time_span.ss} s.
+time_span.mmm	{time_span.mmm} m.
+time_span.ss	{time_span.ss} s.
+unit_count_total	{count_color_tag}{total_count}[color_tag_gray]/{limit}
+WF_Buying	[FormTitleText][FormTitleColor][UCF_TitleBuyText]...
+
+
+

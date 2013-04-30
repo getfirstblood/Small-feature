@@ -1,0 +1,8 @@
+﻿quest_system_1688321569_desc	I am aware that you are in a hurry to visit the sanctuary of the Order of the Mages. However, the key that you've got only removes the astral seals; it does not disarm any magic traps. One must train certain qualities within oneself to overcome those. Magic is a temptation, you know, and it can drive one insane. You need an inner equilibrium in order to resist temptation. Therefore, we have to focus on your concentration first and foremost. Bring me a few Royal Thorn seeds. This might seem a strange task to you, but you will discover that this quest will help you acquire the qualities you need – patience and endurance
+quest_system_1688321569_done	I see that you've proved your endurance adequate to this task, as simple as it is complex. Let us now proceed to our next challenge, so that you may learn some new lessons. 
+quest_system_1688321569_name	Endurance Training
+quest_system_1688321569_stage_0	Hunt
+quest_system_1688321569_task	Capture and destroy {counter_limit_0} Royal Thorns
+
+
+

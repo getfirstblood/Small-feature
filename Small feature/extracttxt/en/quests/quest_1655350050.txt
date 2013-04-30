@@ -1,0 +1,8 @@
+﻿quest_system_1655350050_desc	It's clear that you know little of medicine, but hopefully you are much better with a sword. There are lots of dangerous snakes around the area; I use their poison to create powerful potions. You need to kill the Marsh Brood and get a vial of snake venom; that should provide plenty for you for a whole week. But make sure to watch out for Ancient Snakes. These units belong to the so-called Special class. They are significantly stronger than common units.
+quest_system_1655350050_done	Hmmm. You managed to kill the snakes. You’ll do fine for this job! All the previous helpers I had weren’t much use and constantly needed to be cured of poison. Had an utterly negative effect on my potion supply.
+quest_system_1655350050_name	Healing Poison
+quest_system_1655350050_stage_0	The Defeat of the Marsh Brood
+quest_system_1655350050_task	Destroy the Marsh Brood
+
+
+

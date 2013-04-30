@@ -1,0 +1,8 @@
+﻿quest_system_1811145169_desc	It’s finally ready. You can take this potion to Locrim. Just don’t talk to it along the way. What? You didn’t know that it is intelligent? This is, by the way, one of the highest levels of alchemistry: creating a live elixir. If the potion weren’t conscious, how would it figure out how to untangle a spell? Now you are getting it.
+quest_system_1811145169_done	How did it go with the calculations? What’s that mumbling? A dispersion elixir? Oh my, a talking potion. I haven’t seen one in quite a while. Give it to me, quick. I hope it didn’t bore you with its speeches along the way? Excellent. Let’s get started.
+quest_system_1811145169_name	Talking Elixir
+quest_system_1811145169_stage_0	Locrim
+quest_system_1811145169_task	Deliver the magical potion to Locrim
+
+
+

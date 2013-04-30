@@ -1,0 +1,8 @@
+﻿quest_system_1111026519_desc	There is no dome, so they won't be able to complete the rite. Lazarus and his demonologists are at their most vulnerable now. They have been wearied out, and if I make enough astral traps, they won't be able to unleash their full magical powers against you. This is our chance to take out the best mages Lazarus has with a single blow – let us do it. 
+quest_system_1111026519_done	That was some battle! Those oafs from the order's forts are as likely to be able to compete with you as walk the entire distance to the Dalarian Continent.
+quest_system_1111026519_name	Battle against Lazarus
+quest_system_1111026519_stage_0	Rout
+quest_system_1111026519_task	Destroy Lazarus’ Army
+
+
+

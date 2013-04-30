@@ -1,0 +1,25 @@
+﻿LU_AwardColor	<color=83B5DA>
+LU_AwardInfo	<font=tahoma_regular_10><align=left><valign=center>[LU_AwardColor][?]
+LU_AwardItemCount	, count: [LU_ParamValueColor]<font=tahoma_bold_10>+[?]</color>
+LU_AwardItemInfo	<font=tahoma_bold_10><align=left><valign=center>[LU_AwardColor][$]<font=tahoma_regular_10>[LU_AwardItemCount]<br>[$]
+LU_GiftsTitle	<font=tahoma_bold_10><align=center><valign=center>[LU_InfoColor][LU_GiftsTitle_Text]
+LU_GiftsTitle_Text	Reward
+LU_InfoColor	<color=F6FFCB>
+LU_LabelColor	<color=FFF373>
+LU_Leadership_Text	Leadership
+LU_LeadershipInfo_Text	Your Leadership skills have increased. More and more men dream of serving under your command.
+LU_Level_Text	Level
+LU_LevelUpInfo	<font=tahoma_bold_10><align=center><valign=center>[LU_InfoColor][LU_LevelUpInfo_Text]
+LU_LevelUpInfo_Text	You’ve leveled up!
+LU_LevelValue	<align=center><valign=center><font=tahoma_bold_12_border_smooth>[LU_LevelValueColor][?] <font=tahoma_bold_12_border_smooth>[LU_TitleColor][LU_Level_Text]
+LU_LevelValueColor	<color=FEE6C2>
+LU_ParamInfoColor	<color=83B5DA>
+LU_ParamRewardInfo	<font=tahoma_regular_8><align=left><valign=center>[LU_ParamInfoColor][$]
+LU_ParamRewardValue	<font=tahoma_bold_11><align=center><valign=center>[LU_LabelColor][$]<br=3><font=tahoma_bold_10>[LU_ParamValueColor][?][?]
+LU_ParamValueColor	<color=F6FFCB>
+LU_Stamina_Text	Stamina
+LU_StaminaInfo_Text	Your maximum Stamina level has been increased. You can now fight more often and move farther.
+LU_TitleColor	<color=FEE6C2>
+
+
+

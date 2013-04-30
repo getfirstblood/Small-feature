@@ -1,0 +1,88 @@
+﻿QIM_QSS_COMPLETED	'[$]' – completed
+QIM_QSS_FAILED	'[$]' - failed
+QIM_QUEST_FAILED	Quest '[$]' failed
+QIM_QUEST_REJECTED	Quest '[$]' cancelled
+QIM_QUEST_RUNNING	Quest '[$]' started
+QIM_QUEST_SUCCEED	Quest '[$]' completed
+QJ_ActorTitleTmpl	<align=left><valign=center><font=tahoma_bold_10><wordwrap=off><color=492805>[$] ([$])
+QJ_ButtonNameTmpl	[FormButtonText_9][FormButtonColor]
+QJ_CloseButton	[QJ_ButtonNameTmpl][CloseButton]
+QJ_CounterColorDone	<color=75664A>
+QJ_CounterColorRun	<color=622200>
+QJ_CounterLocation	<br>[$][$]
+QJ_CounterLocationColor	<color=492805>
+QJ_DeclineButton	[QJ_ButtonNameTmpl][DeclineButton]
+QJ_QuestComplete_Failed	Quest failed
+QJ_QuestComplete_Image_Failed	[QJ_QuestVM_Image_StageFailed]
+QJ_QuestComplete_Image_Success	[QJ_QuestVM_Image_StageComplete]
+QJ_QuestComplete_Success	Quest accomplished
+QJ_QuestCount	 ([?])
+QJ_QuestName_Color_Disable	<color=777777>
+QJ_QuestName_Color_Easy	<color=98B4B4>
+QJ_QuestName_Color_Enable	<color=FFFFFF>
+QJ_QuestName_Color_Hard	<color=C13A0B>
+QJ_QuestName_Color_Normal	<color=EDED88>
+QJ_QuestName_Image_Common_Disable	textures/interface/quests_journal/task_common_dis_20x20
+QJ_QuestName_Image_Common_Easy	textures/interface/quests_journal/task_common_easy_20x20
+QJ_QuestName_Image_Common_Hard	textures/interface/quests_journal/task_common_hard_20x20
+QJ_QuestName_Image_Common_Normal	textures/interface/quests_journal/task_common_normal_20x20
+QJ_QuestName_Image_Complete	textures/interface/quests_journal/task_complete_20x20
+QJ_QuestName_Image_Impotant_Disable	textures/interface/quests_journal/task_important_dis_20x20
+QJ_QuestName_Image_Impotant_Easy	textures/interface/quests_journal/task_important_easy_20x20
+QJ_QuestName_Image_Impotant_Hard	textures/interface/quests_journal/task_important_hard_20x20
+QJ_QuestName_Image_Impotant_Normal	textures/interface/quests_journal/task_important_normal_20x20
+QJ_QuestNameTitleTmpl	<align=left><valign=center><font=georgia_bold_12_smooth><wordwrap=off><color=622200>[$]
+QJ_QuestNameTmpl	<font=tahoma_bold_8><align=left><valign=center><wordwrap=off>[$][?]
+QJ_QuestStageCounterDone	[QJ_QuestStageCounterTmpl][QJ_CounterColorDone][?] [?] [$]
+QJ_QuestStageCounterRun	[QJ_QuestStageCounterTmpl][QJ_CounterColorRun][?] [?][$]
+QJ_QuestStageCounterTmpl	<align=left><valign=center><font=tahoma_bold_10>
+QJ_QuestStageFail	(failed)
+QJ_QuestTemplateTitle	<align=left><valign=center><font=georgia_bold_12_smooth><color=622200>[$]
+QJ_QuestVM_Actor_Disloc	<br><font=tahoma_bold_10><color=492805>[$]
+QJ_QuestVM_Image_ActorTalk	textures/interface/quests_journal/ic_talk_30x30
+QJ_QuestVM_Image_Common	textures/interface/quests_journal/ic_common_30x30
+QJ_QuestVM_Image_CounterBorder	textures/interface/army_manager/item_border
+QJ_QuestVM_Image_KillArmy	textures/interface/quests_journal/ic_army_30x30
+QJ_QuestVM_Image_KillUnits	textures/interface/quests_journal/ic_monster_30x30
+QJ_QuestVM_Image_RewardPlank_117	textures/interface/ActorDialog/reward_plank_117x42
+QJ_QuestVM_Image_RewardPlank_167	textures/interface/ActorDialog/reward_plank_167x42
+QJ_QuestVM_Image_RewardPlank_92	textures/interface/ActorDialog/reward_plank_92x42
+QJ_QuestVM_Image_SpecialSingleStage	[QJ_QuestVM_Image_Common]
+QJ_QuestVM_Image_StageActive	textures/interface/quests_journal/ic_stage_active_30x30
+QJ_QuestVM_Image_StageComplete	textures/interface/quests_journal/ic_stage_complete_30x30
+QJ_QuestVM_Image_StageEnable	textures/interface/quests_journal/ic_stage_enable_30x30
+QJ_QuestVM_Image_StageFailed	textures/interface/quests_journal/ic_stage_failed_30x30
+QJ_QuestVM_Stage_Actor	[QJ_QuestVM_Stage_Simple][$]
+QJ_QuestVM_Stage_Complete_Actor	[QJ_QuestVM_Stage_Simple_Small]<br>[QJ_QuestVM_Stage_Actor]
+QJ_QuestVM_Stage_Complete_To_Text	Quest completed. Go back to the quest giver. 
+QJ_QuestVM_Stage_CompleteText	Quest completed. Go back to the quest giver.
+QJ_QuestVM_Stage_CompleteTmpl	[QJ_QuestVM_Stage_Simple]
+QJ_QuestVM_Stage_Simple	<align=left><valign=center><font=tahoma_bold_11><color=622200>[$]
+QJ_QuestVM_Stage_Simple_Small	<align=left><valign=center><font=tahoma_bold_10><color=622200>[$]
+QJ_QuestVM_Text_ActorTalk	Speak with character
+QJ_QuestVM_Text_Common	Quest progress
+QJ_QuestVM_Text_KillArmy	Defeat of army
+QJ_QuestVM_Text_KillUnits	Units to hunt
+QJ_RewardCounterMinusValue	<color=800000>
+QJ_RewardCounterValue	<align=center><valign=center><font=tahoma_bold_10_numbers_only>[$][?]
+QJ_RewardCounterPlusValue	<color=008000>
+QJ_ShowCompletedCheckbox	<align=left><indent=5><valign=center><font=tahoma_regular_8><wordwrap=off><color=AFAFAF>[QJ_ShowCompletedCheckboxText] ([?])
+QJ_ShowCompletedCheckboxText	Show completed quests
+QJ_StageCounterValue	([?]/[?])
+QJ_StageDone	[QJ_TextTmpl]<color=75664A>[$]
+QJ_StageFail	[QJ_TextTmpl]<color=75664A>[$] [QJ_QuestStageFail]
+QJ_StageRun	[QJ_TextTmpl]<color=622200>[$]
+QJ_Text	[QJ_TextTmpl][$]
+QJ_TextTitle	[QJ_TextTitleTmpl][$]
+QJ_TextTitleTmpl	<align=left><valign=center><font=georgia_bold_12_smooth><color=622200>
+QJ_TextTmpl	<align=left><valign=center><font=tahoma_bold_10><color=44371C>
+QJ_Title	[FormTitleText][FormTitleColor][QJ_TitleText]
+QJ_TitleText	Quest Journal
+QUI_CounterInfo	[$]: [?]
+QUI_CounterInfoComplete	[$]: [?] – completed
+QUI_CounterInfoEx	[$]: [?] ([?]/[?])
+QUI_MessageStyle	<font=tahoma_bold_10_border_smooth><align=center><valign=center><color=FFFF00>
+QUI_MessageTmpl	[QUI_MessageStyle][$]
+
+
+

@@ -1,0 +1,39 @@
+﻿ButtonDisabledTextColor	<color=5F5F5F>
+ButtonTextColor	<color=FBFFC5>
+color_blue	1ba7db
+color_gray	c7c7c7
+color_green	1bdb3b
+color_red	db1b1b
+color_tag_blue	<color=[color_blue]>
+color_tag_gray	<color=[color_gray]>
+color_tag_green	<color=[color_green]>
+color_tag_red	<color=[color_red]>
+color_tag_white	<color=[color_white]>
+color_tag_yellow	<color=[color_yellow]>
+color_white	ffffff
+color_yellow	f6f42e
+ColorEnd	</color>
+DarkTextColor	<color=D0B25C>
+SubTitleColor	<color=EEE1B7>
+TabColorActive	<color=FFF8D8>
+TabColorDisabled	<color=776B55>
+TabColorInactive	<color=D8B166>
+TextColor	<color=FBFFC5>
+TextColorAcceleration	<color=e372f4>
+TextColorAncients	<color=228400>
+TextColorAnimal	<color=c93dc9>
+TextColorAttack	<color=ff0000>
+TextColorDefense	<color=4177a1>
+TextColorHeal	<color=17c001>
+TextColorinitiative	<color= b63d9e>
+TextColorleadership	<color=6e94a2>
+TextColorListIM	<color=f4ef72>
+TextColorRare	<color=9c4ebc>
+TextColorTChaos	<color=d51515>
+TextColorTI	<color=2fa800>
+TextColorTII	<color=5974ff>
+TextColorTIII	<color=fc4b75>
+TextColorTKingdom	<color=0061e4>
+
+
+

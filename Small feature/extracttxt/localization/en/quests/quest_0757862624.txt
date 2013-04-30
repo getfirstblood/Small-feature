@@ -1,0 +1,8 @@
+﻿quest_system_757862624_desc	Locrim the Mage has sent me a letter with his theories. Have I mentioned how much I dislike dark mages? To be honest, I don’t understand that much in his magical scribbles, but it seems that a very powerful spell is the cause of this ordeal. You better go ask him yourself for more details. I am not that good at these things.
+quest_system_757862624_done	Did the Commander send you? Finally! As you can see, the ships with the reinforcements are unable to dock at the pier. This is my first encounter with a problem of this kind. On one hand, the shoreline spell is a simple, mirror-type spell. But on the other hand, I can’t detect the flow of binding energies, which I must do in order to start detangling the chain of thought-forms. 
+quest_system_757862624_name	Enchanted Pier
+quest_system_757862624_stage_0	Locrim
+quest_system_757862624_task	Ask Locrim the Mage what is going on at the pier
+
+
+

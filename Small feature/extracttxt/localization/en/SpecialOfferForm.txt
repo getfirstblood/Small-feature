@@ -1,0 +1,14 @@
+﻿SOF_AbilityDesc	<align=center><valign=center><font=tahoma_bold_10><color=000000>[$]
+SOF_PIBB_Cost	<align=left><valign=center><font=tahoma_bold_12_border_smooth_numbers_only><color=D2FFFC> [?]
+SOF_PIBB_FooterDesc	<align=center><valign=center><font=tahoma_bold_11_border_smooth><color=E5CCBF>Discount [?]%
+SOF_PIBB_TitleDesc	<align=center><valign=center><font=tahoma_bold_12_border_smooth><color=E6E900>Buy [?]
+SOF_PrimeItemDesc	<align=center><valign=center><font=tahoma_bold_10><color=000000>[$]
+SOF_PrimeItemName	<align=center><valign=center><font=tahoma_bold_11_border_smooth><color=EBE1B4>[$]
+SOF_SecondaryBottomTitle	[SOF_SecondaryTitleTemplate][SOF_SecondaryBottomTitleText]
+SOF_SecondaryBottomTitleText	Expires in:
+SOF_SecondaryTitleTemplate	<align=center><valign=center><font=tahoma_bold_11_border_smooth><color=FCF9A3>
+SOF_SecondaryTopTitle	[SOF_SecondaryTitleTemplate][SOF_SecondaryTopTitleText]
+SOF_SecondaryTopTitleText	Special Offer
+SOF_Time	<align=center><valign=center><font=tahoma_bold_11_border_smooth_numbers_only><color=302929>[?]
+
+

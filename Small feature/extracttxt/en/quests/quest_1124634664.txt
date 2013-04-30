@@ -1,0 +1,8 @@
+﻿quest_system_1124634664_desc	Please carry word of that which came to pass to the archmage. Myself and my brothers shall check everything over and give an exhaustive report to the circle of the mages. We might find clues of some sort and catch the thieves red-handed. Ye gods, I dread the times that lie ahead of us now.
+quest_system_1124634664_done	I have already received the most disturbing news from Maximus the Exorcist. This whole affair begins to look very serious indeed. 
+quest_system_1124634664_name	A report to Albus
+quest_system_1124634664_stage_0	Albus
+quest_system_1124634664_task	Obtain an audience with Albus
+
+
+

@@ -1,0 +1,8 @@
+﻿quest_system_970017769_desc	I got a gift of sorts from a witch from the Northern Swamp. She cast a terrible spell on a group of travelers and set them on to our village. Truth be told, this is not the first group of terrible zombies trying to gain access to our settlement and destroy everything. But this time, I’m afraid, we won’t be able to disperse them. There are too many.<br><br>
+quest_system_970017769_done	I hope these walking dead won’t rise again; then we can live peacefully for at least a little while. How does the witch manage to attract travelers? Maybe she spreads rumors of some great treasure she has or something...
+quest_system_970017769_name	The Witch’s Gift
+quest_system_970017769_stage_0	Rout
+quest_system_970017769_task	Destroy {counter_limit_0} band(s) of Dead Travelers.
+
+
+

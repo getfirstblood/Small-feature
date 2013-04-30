@@ -1,0 +1,8 @@
+﻿quest_system_1550578876_desc	Well? I think you have stayed within the walls of the Academy long enough. Your warriors are completely ready to fight. It is time to start taking care of business. Go talk to the Academy Secretary. He’ll tell you about your new appointment.
+quest_system_1550578876_done	Yes. Instructor Paincraft has spoken well of your skills. The whole square could hear him say it. Let’s see where we can send you.
+quest_system_1550578876_name	New Appointment
+quest_system_1550578876_stage_0	Speak with the Secretary
+quest_system_1550578876_task	Get a new appointment from the Academy Secretary
+
+
+

@@ -1,0 +1,8 @@
+﻿quest_system_1659198219_desc	Recently some necromancers from the Lazarus Cult came to visit. They asked me to create some tricky contraptions for them, but I refused, naturally. The last thing I need is business with these possessed magicians. But they just won’t let me go now. A small group of them stayed and can be seen hanging around the village, reviving the drowned. Looks like when they get enough of them they’ll take over our village for sure. But you can handle them, right?
+quest_system_1659198219_done	Are the necromancers finished? Honestly, I thought it was hopeless. Don’t get me wrong, it’s not like I doubted you. A strong warrior like you can overcome any possessed magician, no doubt.
+quest_system_1659198219_name	Endless Persistence
+quest_system_1659198219_stage_0	Rout
+quest_system_1659198219_task	Destroy {counter_limit_0} squads of Lords of the Drowned. 
+
+
+

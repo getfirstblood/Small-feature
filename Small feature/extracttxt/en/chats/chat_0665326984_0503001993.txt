@@ -1,0 +1,33 @@
+﻿chat_system_503001993_actor_description	Captain Alistar. A gifted captain of the Gray Wardens in charge of bringing the reinforcements to Kronberg.
+chat_system_503001993_snap_0_answer_0	The Arrival of the Gray Wardens
+chat_system_503001993_snap_0_answer_1	Cursed Warriors
+chat_system_503001993_snap_0_answer_2	Cursed Warriors
+chat_system_503001993_snap_0_answer_3	Further Down the Path
+chat_system_503001993_snap_0_answer_4	Reinforcements
+chat_system_503001993_snap_0_answer_5	A Shake-up before Battle
+chat_system_503001993_snap_0_answer_6	A Shake-up before Battle
+chat_system_503001993_snap_0_answer_7	Refreshed and Ready for New Battles
+chat_system_503001993_snap_0_question	We are forced to stay in the town for a while until we find out what caused the appearance of a barrier over the pier. We also must protect the civilians.
+chat_system_503001993_snap_1_answer_0	end quest dialog
+chat_system_503001993_snap_1_question	Hello man!
+chat_system_503001993_snap_10_answer_0	begin quest dialog
+chat_system_503001993_snap_10_question	Hello man!
+chat_system_503001993_snap_2_answer_0	begin quest dialog
+chat_system_503001993_snap_2_question	Hello man!
+chat_system_503001993_snap_3_answer_0	(away)
+chat_system_503001993_snap_3_question	Necromancers are dangerous in a fight, but same as everyone else, they can be killed with a good blade. Do not let them scare you off.
+chat_system_503001993_snap_4_answer_0	end quest dialog
+chat_system_503001993_snap_4_question	end quest text
+chat_system_503001993_snap_5_answer_0	begin quest dialog
+chat_system_503001993_snap_5_question	Hello man!
+chat_system_503001993_snap_6_answer_0	end quest dialog
+chat_system_503001993_snap_6_question	Hello man!
+chat_system_503001993_snap_7_answer_0	begin quest dialog
+chat_system_503001993_snap_7_question	Hello man!
+chat_system_503001993_snap_8_answer_0	(away)
+chat_system_503001993_snap_8_question	How was your training?
+chat_system_503001993_snap_9_answer_0	end quest dialog
+chat_system_503001993_snap_9_question	end quest text
+
+
+

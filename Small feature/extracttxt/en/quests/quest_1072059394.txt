@@ -1,0 +1,8 @@
+﻿quest_system_1072059394_desc	I understand that you have already encountered these dark mages before. For now, we are keeping information about these cultists very hush, but it doesn’t mean that we are sitting around idly, either. The Commander has instructed us to conduct a thorough investigation. Apparently, each sect has its own dark manifest. We need to find a few of those in order to figure out what these possessed necromancers want.
+quest_system_1072059394_done	You can feel the dark magic radiating from these documents. I hope that our mages will be able to figure out the writing inscribed here.
+quest_system_1072059394_name	Traces of Dark Magic
+quest_system_1072059394_stage_0	inquisitors
+quest_system_1072059394_task	Capture and punish {counter_limit_0} Inquisitors
+
+
+

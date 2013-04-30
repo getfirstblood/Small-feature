@@ -1,0 +1,8 @@
+﻿quest_system_1754641004_desc	If it wasn’t for your status in the Order... Yes, yes, I know about you; therefore I respect you. Anyway, if not for your status, our conversation would be over. But, knowing that you have influence both on the Commander and the Archmage, I am trying to dissuade you, to convince you that my plan is effective. You have a strong party. Please head out and defeat a few gangs that seem suspicious. I’m sure that, afterwards, you will agree that they’re nothing more than rabble!
+quest_system_1754641004_done	What? No, that can’t be... You say that you took this paper from the body of one of the gang’s commanders? But... but this is impossible! Yes, yes, I see that the commands of some “Lazarus” are mentioned. Commands to draw our troops away from Signal Island by troubling the Western Fort. Yes, I know, go away! Wait! Please forgive me, I’m just too upset... it’s hard to take in such news so quickly. But Signal Island! By St. Rusith, I must warn them!
+quest_system_1754641004_name	Unexpected Insight
+quest_system_1754641004_stage_0	Rout
+quest_system_1754641004_task	Destroy {counter_limit_0} Suspicious Gangs. 
+
+
+

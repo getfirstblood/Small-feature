@@ -1,0 +1,728 @@
+﻿abilityDesc_1017087550	Inflicts [AbilityParam]{passive_attack_param_val}%[CloseParam] more damage on Special units.
+abilityDesc_1022723509	
+abilityDesc_1023080053	Lowers the squad’s movement speed by [AbilityParam]{controldist_delta}[CloseParam]. Duration: [AbilityParam]{control_duration}[CloseParam] turn(s).
+abilityDesc_1033086317	[AbilityName]Flaming Fist<br>[AbilityBody]A fiery blow from the Pentademon burns into the enemy's health. A basic attack that inflicts magical damage. Increases enemy aggression toward the Pentademon.<br><font=tahoma_regular_8><align=left><color=FFFFFF><font=tahoma_bold_8>Ability Type:<color=FF0000> Damage: 68<br><color=FFFFFF>Range: <color=00B0F0> 1 cell<br><color=FFFFFF>Cooldown: <color=00B0F0> 0 rounds<br><color=FFFFFF>Duration: <color=00B0F0> instant<br><color=FFFFFF>Target Type: <color=00B0F0> single target<br><color=FFFFFF>Ability Type: <color=E36C0A> Physical
+abilityDesc_1033743346	Prayer heals the Paladin and his nearby allies within [AbilityParam]{radius_area_ability}[CloseParam] cells by [AbilityParam]{hot_single}[CloseParam] and additionally by [AbilityParam]{hot_permanent}[CloseParam] over the following turns. Duration: [AbilityParam]{hot_duration}[CloseParam] turn(s).
+abilityDesc_1036973018	Increases an allied squad's speed by [AbilityParam]{controldist_delta}[CloseParam]. Duration: [AbilityParam]{control_duration}[CloseParam] turn(s).
+abilityDesc_1037093766	[AbilityName]Searing Touch<br>[AbilityBody]The touch of these fiery imp's hands causes moderate physical damage to one target. A basic attack, which increases the opponent's aggression toward the imp.<br><font=tahoma_regular_8><align=left><color=FFFFFF><font=tahoma_bold_8>Ability:<color=FF0000> Damage: 34<br><color=FFFFFF>Range: <color=00B0F0> 1 cell<br><color=FFFFFF>Cooldown: <color=00B0F0> 0 rounds<br><color=FFFFFF>Duration: <color=00B0F0> instant<br><color=FFFFFF>Target Type: <color=00B0F0> single target<br><color=FFFFFF>Ability Type: <color=E36C0A> Physical
+abilityDesc_103791127	An attack that inflicts [AbilityParam]{ability_damage}[CloseParam] points of physical damage.
+abilityDesc_1054653140	A terrible bite that inflicts [AbilityParam]{ability_damage}[CloseParam] points of physical damage.
+abilityDesc_107162298	[AbilityName]Sweeping Strike<br>[AbilityBody]A very powerful blow, with which the Vagabond can attack enemies two cells away. Everyone in range takes damage. There is also a chance that the target will be stunned after the attack.<br><font=tahoma_regular_8><align=left><color=FFFFFF><font=tahoma_bold_8>Ability Type:<color=FF0000> Damage: 48<br><color=FFFFFF>Range: <color=00B0F0> 2 cells<br><color=FFFFFF>Cooldown: <color=00B0F0>3 rounds<br><color=FFFFFF>Duration: <color=00B0F0> instant<br><color=FFFFFF>Target Type: <color=00B0F0> single target<br><color=FFFFFF>Ability Type: <color=E36C0A> Physical
+abilityDesc_1072052074	No penalty for ranged attacks
+abilityDesc_1074812907	Fights well against Common units. Inflicts [AbilityParam]{passive_attack_param_val}%[CloseParam] more damage
+abilityDesc_1075479563	Quick attacks inflict [AbilityParam]{passive_attack_param_val}%[CloseParam] more damage on targets with a speed of [AbilityParam]1[CloseParam]
+abilityDesc_1081409748	A blow that inflicts [AbilityParam]{ability_damage}[CloseParam] physical damage.
+abilityDesc_1081822141	A venomous attack, inflicts [AbilityParam]{dot_permanent}[CloseParam] damage every turn.
+abilityDesc_1090942177	A chain lightning attack hitting up to [AbilityParam]5[CloseParam] targets, and. Inflicts up to [AbilityParam]{ability_damage}[CloseParam] damage (magical)
+abilityDesc_1100834784	An attack that inflicts [AbilityParam]{ability_damage}[CloseParam] points of physical damage.
+abilityDesc_1102119419	abilityDesc_1102119419
+abilityDesc_1117646504	A sword attack that inflicts [AbilityParam]{ability_damage}[CloseParam] points of physical damage.
+abilityDesc_1123979517	abilityDesc_1123979517
+abilityDesc_1128919576	Gorguana 2: Buff around self, and on self (for magical classes): increase in damage, and critical hit chance
+abilityDesc_1134196237	Inflicts [AbilityParam]{passive_attack_param_val}%[CloseParam] more damage on Defenders
+abilityDesc_1142781126	Increases an ally's Defence by [AbilityParam]{buff_param_0}[CloseParam]. Duration: [AbilityParam]{buff_duration}[CloseParam] turn(s).
+abilityDesc_1146177346	The Duke lunges and attacks with his enchanted foil inflicting [AbilityParam]{ability_damage}[CloseParam] magical damage.
+abilityDesc_1150259482	An attack that inflicts [AbilityParam]{ability_damage}[CloseParam] points of physical damage.
+abilityDesc_1156114167	Increased alchemical resistance
+abilityDesc_1156955815	Restores [AbilityParam]{heal_heal}[CloseParam] health to an ally.
+abilityDesc_1164602186	Restores [AbilityParam]{heal_heal}[CloseParam] life to self or target ally
+abilityDesc_1165868771	Slows a unit down by [AbilityParam]{controldist_delta}[CloseParam].
+abilityDesc_1167747050	abilityDesc_1167747050
+abilityDesc_1170351384	
+abilityDesc_1176022106	20% chance of lowering a male warrior's Initiative
+abilityDesc_1180222496	Burns the target. Inflicts [AbilityParam]{dot_single}[CloseParam] damage (alchemical) at once and [AbilityParam]{dot_permanent}[CloseParam] more with each turn. Duration: [AbilityParam]{dot_duration}[CloseParam] turn(s).
+abilityDesc_1180656772	Generates a fireball and hurls it at the enemy, dealing [AbilityParam]{ability_damage}[CloseParam] damage (magical)
+abilityDesc_1183327728	Affects all units within range, dealing them magic damage.
+abilityDesc_1184729916	[AbilityName]Thrust<br>[AbilityBody]A very strong attack by the Peasant which attacks two cells forward. All enemies within the attack's effective zone take damage.<br><font=tahoma_regular_8><align=left><color=FFFFFF><font=tahoma_bold_8>Ability Type:<color=FF0000> Damage: 24<br><color=FFFFFF>Range: <color=00B0F0> 1 cell<br><color=FFFFFF>Cooldown: <color=00B0F0> 3 rounds<br><color=FFFFFF>Duration: <color=00B0F0> instant<br><color=FFFFFF>Target Type: <color=00B0F0> single target<br><color=FFFFFF>Ability Type: <color=E36C0A> Physical
+abilityDesc_1185434917	Decreases the target's Initiative by [AbilityParam]{debuff_param_0}[CloseParam]
+abilityDesc_1190743865	The powers of darkness increase attack by [AbilityParam]{buff_param_0}[CloseParam]. Duration: [AbilityParam]{buff_duration}[CloseParam] turn(s).
+abilityDesc_119406430	A magic blow that inflicts [AbilityParam]{ability_damage}[CloseParam] magical damage.
+abilityDesc_1207568305	
+abilityDesc_1211860478	Lowers speed by [AbilityParam]{controldist_delta}[CloseParam] but increases attack by [AbilityParam]{sub0_buff_param_0}[CloseParam] and critical chance by [AbilityParam]{sub0_buff_param_1}[CloseParam]. Duration: [AbilityParam]{control_duration}[CloseParam] turn(s). Does not end the turn. Unavailable after moving. 
+abilityDesc_1240335115	An attack that inflicts [AbilityParam]{ability_damage}[CloseParam] Physical damage.
+abilityDesc_1247830084	abilityDesc_1247830084
+abilityDesc_1255528052	Shoots a sharp arrow at the enemy, dealing [AbilityParam]{ability_damage}[CloseParam] points of physical damage, with [AbilityParam]{chance_subabil_0}%[CloseParam] chance of causing bleeding, which slowly drains the enemy's health. Duration: [AbilityParam]{sub0_dot_duration}[CloseParam] turn(s).
+abilityDesc_1260049534	A spore projectile that inflicts [AbilityParam]{ability_damage}[CloseParam] points of physical damage. Has a [AbilityParam]{chance_subabil_0}%[CloseParam] chance of reducing the effects of sleepiness; reduces Initiative by [AbilityParam]{sub0_debuff_param_0}[CloseParam].
+abilityDesc_1261625223	Gives neighboring allies the protection of the Earth's powers, increasing their defence by [AbilityParam]{buff_param_0}[CloseParam]. Duration: [AbilityParam]{buff_duration}[CloseParam] turn(s).
+abilityDesc_1270980782	A powerful hoof attack that inflicts [AbilityParam]{ability_damage}[CloseParam] points of physical damage on all nearby targets.
+abilityDesc_1273855462	A spear attack that inflicts [AbilityParam]{ability_damage}[CloseParam] damage.
+abilityDesc_1286179825	Slows a unit down by [AbilityParam]{controldist_delta}[CloseParam].
+abilityDesc_1310360873	abilityDesc_1310360873
+abilityDesc_131046242	Restrains a squad's movements and immobilizes it. Duration: [AbilityParam]{control_duration}[CloseParam] turn(s).
+abilityDesc_1311577116	Increases all of a target ally’s resistance attributes by [AbilityParam]{buff_param_0}%[CloseParam]. Duration: [AbilityParam]{buff_duration}[CloseParam] turn(s).
+abilityDesc_1324875544	The Call sucks [AbilityParam]{vamp_single}[CloseParam] life from all allies within [AbilityParam]{radius_area_ability}[CloseParam] cells, healing the Demonologist by [AbilityParam]{vamp_single}[CloseParam]. Increases an ally's attack by [AbilityParam]{sub0_buff_param_0}[CloseParam]. Duration: [AbilityParam]{sub0_buff_duration}[CloseParam] turn(s).
+abilityDesc_13262226	May stun the enemy
+abilityDesc_1329211835	[AbilityName]Flaming Chains<br>[AbilityBody]Fiery chains envelop the target, causing incredible pain and burning away the target's health for several rounds.<br><font=tahoma_regular_8><align=left><color=FFFFFF><font=tahoma_bold_8>Ability Type:<color=FF0000> Long-Term Damage: 100/25<br><color=FFFFFF>Range: <color=00B0F0> 3 cells<br><color=FFFFFF>Cooldown: <color=00B0F0> 3 rounds<br><color=FFFFFF>Duration: <color=00B0F0> 2 rounds<br><color=FFFFFF>Target Type: <color=00B0F0> single target<br><color=FFFFFF>Ability Type: <color=7030A0> Magical
+abilityDesc_1333276331	Inflicts up to [AbilityParam]{ability_damage}[CloseParam] damage (magical) with chain lightning, hitting up to [AbilityParam]5[CloseParam] nearby enemies.[spell_damage_koeff]
+abilityDesc_1341305225	abilityDesc_1341305225
+abilityDesc_134703462	Sharp Fangs cause [AbilityParam]{ability_damage}[CloseParam] Physical Damage.
+abilityDesc_1355282279	The forces of darkness heal an allied squad by [AbilityParam]{hot_single}[CloseParam] health each turn. Duration: [AbilityParam]{hot_duration}[CloseParam] turn(s).
+abilityDesc_1357174795	A volley of grapeshot causes the unit [AbilityParam]{ability_damage}[CloseParam] points of physical damage and stuns it. The victim has its attack power lowered by [AbilityParam]{sub0_debuff_param_0}[CloseParam] and its defence by [AbilityParam]{sub0_debuff_param_1}[CloseParam]. Effect duration: [AbilityParam]{sub0_debuff_duration}[CloseParam] turn(s).
+abilityDesc_1358686659	[AbilityName]Burning Spikes<br>[AbilityBody]A basic unit attack that inflicts alchemical damage. Moderate range and damage.<br><font=tahoma_regular_8><align=left><color=FFFFFF><font=tahoma_bold_8>Ability Type:<color=FF0000> Damage: 11<br><color=FFFFFF>Range: <color=00B0F0> 4 cells<br><color=FFFFFF>Cooldown: <color=00B0F0> 0 rounds<br><color=FFFFFF>Duration: <color=00B0F0> instant<br><color=FFFFFF>Target Type: <color=00B0F0> single target<br><color=FFFFFF>Ability Type: <color=00B050> Alchemical
+abilityDesc_1361980471	Speed increased by [AbilityParam]{controldist_delta}[CloseParam]
+abilityDesc_1362807730	A sword attack that inflicts [AbilityParam]{ability_damage}[CloseParam] points of physical damage.
+abilityDesc_138391308	Unit has 25% resistance to alchemical damage
+abilityDesc_1392481059	[AbilityName]Hellish Flare<br>[AbilityBody]A ball of flame envelops the target and explodes, damaging a large number of surrounding units. There is a chance that those caught in the explosion will be set aflame, losing health for several rounds.<br><font=tahoma_regular_8><align=left><color=FFFFFF><font=tahoma_bold_8>Ability Nype:<color=FF0000> Damage: 25<br><color=FFFFFF>Range: <color=00B0F0> 5 cells<br><color=FFFFFF>Cooldown: <color=00B0F0> 4 rounds<br><color=FFFFFF>Duration: <color=00B0F0> instant<br><color=FFFFFF>Target Type: <color=00B0F0> a square 2 cells across cells<br><color=FFFFFF>Ability Type: <color=7030A0> Magical
+abilityDesc_1396100995	Griffin 2: A powerful attack with a very wide conic range (180 degrees) and a depth of 3 cells. DoT.
+abilityDesc_140377823	Sorcerers and Warriors wear light or medium armour, and thus, can't move quickly. So, all Defender attacks will deal them 25% more damage.
+abilityDesc_1408462254	[AbilityName]Infernal Shield<br>[AbilityBody]The Imp can create an infernal shield around himself, which will absorb some of the damage he takes. The shield will hold until it is exhausted, or until a given number of rounds has passed. The shield also causes one enemy to lose its mind and attack only the Imp.<br><font=tahoma_regular_8><align=left><color=FFFFFF><font=tahoma_bold_8>Ability Type:<color=FF0000> Buff: +40% to all resistance<br><color=FFFFFF>Range: <color=00B0F0> self<br><color=FFFFFF>Cooldown: <color=00B0F0> 4 rounds<br><color=FFFFFF>Duration: <color=00B0F0> 4 rounds<br><color=FFFFFF>Target Type: <color=00B0F0> single target<br><color=FFFFFF>Ability Type: <color=7030A0> Magical
+abilityDesc_1419898811	Inflicts [AbilityParam]{passive_attack_param_val}%[CloseParam] more damage on Common units
+abilityDesc_1420677209	Increases the squad’s Attack by [AbilityParam]{buff_param_0}[CloseParam] but decreases its Defence by [AbilityParam]{buff_param_1}[CloseParam]. Duration: [AbilityParam]{buff_duration}[CloseParam] turn(s).
+abilityDesc_1422187244	[AbilityName]Crashing Tusks<br>[AbilityBody]A headbutt hitting up to 3 enemies located in front of the Brontaur. The damage is not very high, but the attack will scare one of the targets into attacking the Brontaur alone. Attack increases aggresion.<br><font=tahoma_regular_8><align=left><color=FFFFFF><font=tahoma_bold_8>Ability Type:<color=FF0000> Damage: 10<br><color=FFFFFF>Range: <color=00B0F0> 1 cell<br><color=FFFFFF>Cooldown: <color=00B0F0> 4 rounds<br><color=FFFFFF>Duration: <color=00B0F0> instant<br><color=FFFFFF>Target Type: <color=00B0F0> a forward cone, up to 3 enemies<br><color=FFFFFF>Ability Type: <color=E36C0A> Physical
+abilityDesc_1434524072	[AbilityName]Injection<br>[AbilityBody]The Droid injects himself or a wounded ally with a potion that dramatically restores health, and continues to heal over several rounds. The Droid must be no more than 2 cells away from the target.<br><font=tahoma_regular_8><align=left><color=FFFFFF><font=tahoma_bold_8>Ability Type:<color=FF0000> Long-Term Healing: 67/25<br><color=FFFFFF>Range: <color=00B0F0> 2 cells<br><color=FFFFFF>Cooldown: <color=00B0F0> 2 rounds<br><color=FFFFFF>Duration: <color=00B0F0> 4 rounds<br><color=FFFFFF>Target Type: <color=00B0F0> single target<br><color=FFFFFF>Ability Type: <color=E36C0A> Physical
+abilityDesc_1441163757	Elixir increasing speed of ally by [AbilityParam]{controldist_delta}[CloseParam]. Duration: [AbilityParam]{control_duration}[CloseParam] turn(s).
+abilityDesc_1450553169	Shock lowers all types of Resistance by [AbilityParam]{debuff_param_0}[CloseParam] and also lowers Initiative by [AbilityParam]{debuff_param_3}[CloseParam]
+abilityDesc_1454350636	A part of the enemy's soul is sucked away, restoring [AbilityParam]{vamp_single}[CloseParam] health and resurrecting fallen ghosts.
+abilityDesc_1457625940	
+abilityDesc_1470759546	Heals an ally by [AbilityParam]{heal_heal}[CloseParam] health, and resurrects the fallen
+abilityDesc_1475760352	This is a Living Dead man. He possesses alchemical resistance. Sustains increased damage from undead-hating units.
+abilityDesc_1478509367	abilityDesc_1478509367
+abilityDesc_1479244953	Stunning prevents a Common unit from taking its turn.
+abilityDesc_1483441827	[AbilityName]Succubus Kiss<br>[AbilityBody]The Demoness increases her own health by drinking an enemy's. A basic attack with magical damage.<br><font=tahoma_regular_8><align=left><color=FFFFFF><font=tahoma_bold_8>Ability Type:<color=FF0000> Damage: 30<br><color=FFFFFF>Range: <color=00B0F0> 7 cells<br><color=FFFFFF>Cooldown: <color=00B0F0> 0 rounds<br><color=FFFFFF>Duration: <color=00B0F0> instant<br><color=FFFFFF>Target Type: <color=00B0F0> single target<br><color=FFFFFF>Ability Type: <color=7030A0> Magical
+abilityDesc_1492753295	Entangling roots immobilize a Common or Special target. Duration: [AbilityParam]{control_duration}[CloseParam] turn(s).
+abilityDesc_1493377650	Draconid 2: Strengthens attack, and lowers the attack and vitality of one target + chain effect (2-3 targets)
+abilityDesc_1500044558	Increases the unit’s Defence by [AbilityParam]{buff_param_0}[CloseParam]. Duration: [AbilityParam]{buff_duration}[CloseParam] turn(s).
+abilityDesc_1509208465	Encourages allies, increasing their Initiative by [AbilityParam]{buff_param_0}[CloseParam]. Duration: [AbilityParam]{buff_duration}[CloseParam] turn(s).
+abilityDesc_1510704820	Efficiently fights against all humans, additionally dealing to them [AbilityParam]{passive_attack_param_val}%[CloseParam] of damage
+abilityDesc_1513761836	The unit does not respond to melee attacks.
+abilityDesc_151835558	abilityDesc_151835558
+abilityDesc_1525765342	Increases Attack by [AbilityParam]{buff_param_0}[CloseParam] but lowers Defence by [AbilityParam]{buff_param_1}[CloseParam]. Duration: [AbilityParam]{buff_duration}[CloseParam] turn(s).
+abilityDesc_1528111218	abilityDesc_1528111218
+abilityDesc_1531423253	[AbilityName]Mimicry<br>[AbilityBody]The Draconid can mimic the enemy, lowering the enemy's health and attack power to restore the Draconid's own. <br><font=tahoma_regular_8><align=left><color=FFFFFF><font=tahoma_bold_8>Ability Type:<color=FF0000> Long-Term Damage: 11/11<br><color=FFFFFF>Range: <color=00B0F0> 4 cells<br><color=FFFFFF>Cooldown: <color=00B0F0> 3 rounds<br><color=FFFFFF>Duration: <color=00B0F0> 4 rounds<br><color=FFFFFF>Target Type: <color=00B0F0> single target<br><color=FFFFFF>Ability Type: <color=7030A0> Magical
+abilityDesc_1535547602	Strikes the enemy with lightning, dealing [AbilityParam]{ability_damage}[CloseParam] magic damage.
+abilityDesc_1538724539	abilityDesc_1538724539
+abilityDesc_154419755	Support troops easily damage Archers and Defenders, causing them 25% more damage.
+abilityDesc_1547945974	abilityDesc_1547945974
+abilityDesc_1564491900	Strikes the enemy with lightning, dealing [AbilityParam]{ability_damage}[CloseParam] magic damage. The lightning causes shock to the target and lowers all types of Resistance by [AbilityParam]{sub0_debuff_param_0}[CloseParam]. Lowers Initiative by [AbilityParam]{sub0_debuff_param_3}[CloseParam]. Duration: [AbilityParam]{sub0_debuff_duration}[CloseParam] turn(s).
+abilityDesc_1576405378	Increases initiative by [AbilityParam]{buff_param_0}[CloseParam] and attack by [AbilityParam]{buff_param_1}[CloseParam] for self and allied Sorcerers within [AbilityParam]{radius_area_ability}[CloseParam] cells of the Gargoyle. Duration: [AbilityParam]{buff_duration}[CloseParam] turn(s).
+abilityDesc_1586504173	Increases Defence by [AbilityParam]{defence_delta}[CloseParam]
+abilityDesc_1587866292	[AbilityName]Spit<br>[AbilityBody]The Creature may spit acid across a good distance, an attack which will inflict damage on the target for several rounds. Also, there is a chance that the saliva will greatly decrease the target's speed.<br><font=tahoma_regular_8><align=left><color=FFFFFF><font=tahoma_bold_8>Ability Type:<color=FF0000> Long-Term Damage: 6/7<br><color=FFFFFF>Range: <color=00B0F0> 4 cells<br><color=FFFFFF>Cooldown: <color=00B0F0> 2 rounds<br><color=FFFFFF>Duration: <color=00B0F0> 3 rounds<br><color=FFFFFF>Target Type: <color=00B0F0> single target<br><color=FFFFFF>Ability Type: <color=00B050> Alchemical
+abilityDesc_1589621593	abilityDesc_1589621593
+abilityDesc_1589641140	A circular sword attack that inflicts [AbilityParam]{ability_damage}[CloseParam] points of physical damage on all neighboring units.
+abilityDesc_1591902722	A powerful blow that inflicts [AbilityParam]{ability_damage}[CloseParam] points of physical damage.
+abilityDesc_159479137	An attack. Inflicts [AbilityParam]{ability_damage}[CloseParam] damage.
+abilityDesc_1598921679	The default attack of Thorn Warriors.
+abilityDesc_1600718409	abilityDesc_1600718409
+abilityDesc_1601753179	A powerful blow with a clawed paw. Inflicts [AbilityParam]{ability_damage}[CloseParam] damage (magical) and lowers Common or Special units' speed by [AbilityParam]{sub0_controldist_delta}[CloseParam]. Duration: [AbilityParam]{sub0_control_duration}[CloseParam] turn(s).
+abilityDesc_1604966318	Decreases the movement speed of an enemy unit by [AbilityParam]{controldist_delta}[CloseParam]. Duration: [AbilityParam]{control_duration}[CloseParam] turn(s).
+abilityDesc_1607426179	abilityDesc_1607426179
+abilityDesc_1610023085	[AbilityName]Flame<br>[AbilityBody]The Dragon Whelp's basic attack, a fireball projectile. Magical damage type.<br><font=tahoma_regular_8><align=left><color=FFFFFF><font=tahoma_bold_8>Ability Type:<color=FF0000> Damage: 17<br><color=FFFFFF>Range: <color=00B0F0> 7 cells<br><color=FFFFFF>Cooldown: <color=00B0F0> 0 rounds<br><color=FFFFFF>Duration: <color=00B0F0> instant<br><color=FFFFFF>Target Type: <color=00B0F0> single target<br><color=FFFFFF>Ability Type: <color=7030A0> Magical
+abilityDesc_1615742304	abilityDesc_1615742304
+abilityDesc_1615924344	abilityDesc_1615924344
+abilityDesc_1616231923	A release of an enchanted spore dealing [AbilityParam]{ability_damage}[CloseParam] damage (magical)
+abilityDesc_1628171006	A net which immobilizes the target. Duration: [AbilityParam]{control_duration}[CloseParam] turn(s).
+abilityDesc_1631536995	abilityDesc_1631536995
+abilityDesc_1632819739	abilityDesc_1632819739
+abilityDesc_1642255454	A sword stroke that inflicts [AbilityParam]{ability_damage}[CloseParam] points of physical damage on the target and [AbilityParam]50%[CloseParam] damage on neighboring units.
+abilityDesc_1649759057	A creature awakened by dark magic and weak against attacks by warriors of Light
+abilityDesc_1652404912	Lowers a chosen enemy's critical chance by [AbilityParam]{debuff_param_0}[CloseParam]%, and defence by [AbilityParam]{debuff_param_1}[CloseParam]. Duration: [AbilityParam]{debuff_duration}[CloseParam] turn(s).
+abilityDesc_1656074496	The unit has been stunned. Duration: [AbilityParam]{control_duration}[CloseParam] turn(s).
+abilityDesc_1669894975	A powerful attack. Inflicts [AbilityParam]{ability_damage}[CloseParam] damage to all enemies.
+abilityDesc_1670088714	25% chance of stunning Common units
+abilityDesc_1679704559	Inflicts [AbilityParam]{ability_damage}[CloseParam] damage points (alchemical) on a selected target. [spell_damage_koeff]
+abilityDesc_1682557680	The Cultist curses an ally, dealing [AbilityParam]6[CloseParam] damage and giving the Cultist [AbilityParam]12[CloseParam] life
+abilityDesc_1696384288	[AbilityName]High-frequency Shock<br>[AbilityBody]The Droid Defender can deal a powerful electric shock over a long distance. A basic attack with magical damage.<br><font=tahoma_regular_8><align=left><color=FFFFFF><font=tahoma_bold_8>Ability Type:<color=FF0000> Damage: 50<br><color=FFFFFF>Range: <color=00B0F0> 5 cells<br><color=FFFFFF>Cooldown: <color=00B0F0> 0 rounds<br><color=FFFFFF>Duration: <color=00B0F0> instant<br><color=FFFFFF>Target Type: <color=00B0F0> single target<br><color=FFFFFF>Ability Type: <color=7030A0> Magical
+abilityDesc_1719665513	abilityDesc_1719665513
+abilityDesc_173214989	abilityDesc_173214989
+abilityDesc_1733877369	An arrow attack. Inflicts [AbilityParam]{ability_damage}[CloseParam] damage (alchemical).
+abilityDesc_1734892836	abilityDesc_1734892836
+abilityDesc_1739414361	A wind vortex increases movement speed by [AbilityParam]{controldist_delta}[CloseParam]. Duration: [AbilityParam]{control_duration}[CloseParam] turn(s).
+abilityDesc_1747025157	Thanks to frequent Knightly tournaments, inflicts [AbilityParam]{passive_attack_param_val}%[CloseParam] more damage on armoured foot soldiers
+abilityDesc_1751321803	The forces of nature revive nearby allies with [AbilityParam]{heal_heal}[CloseParam] Health.
+abilityDesc_175216067	Inflicts [AbilityParam]{ability_damage}[CloseParam] damage points (alchemical) on a selected target. [spell_damage_koeff]
+abilityDesc_1766752359	No penalty for ranged attacks
+abilityDesc_1770590269	A terrifying bite that inflicts [AbilityParam]{ability_damage}[CloseParam] points of physical damage on the enemy and reduces the attack of Common and Special units by [AbilityParam]{sub0_debuff_param_0}[CloseParam]. Duration: [AbilityParam]{sub0_debuff_duration}[CloseParam] turn(s).
+abilityDesc_1779507406	A paw attack. Inflicts [AbilityParam]{ability_damage}[CloseParam] damage.
+abilityDesc_1780781165	[AbilityName]Infernal Aura<br>[AbilityBody]An infernal aura surrounds the Pentademon, absorbing some of the damage he takes. The aura will hold until it is exhausted or until a certain number of rounds have passed. The aura also causes one enemy to lose its mind and attack only the Pantademon.<br><font=tahoma_regular_8><align=left><color=FFFFFF><font=tahoma_bold_8>Ability Type:<color=FF0000> Buff: +50% to all resistance<br><color=FFFFFF>Range: <color=00B0F0> self<br><color=FFFFFF>Coldown: <color=00B0F0> 4 rounds<br><color=FFFFFF>Duration: <color=00B0F0> 4 rounds<br><color=FFFFFF>Target Type: <color=00B0F0> single target<br><color=FFFFFF>Ability Type: <color=7030A0> Magical
+abilityDesc_1784766813	A shot of fire web. Inflicts [AbilityParam]{ability_damage}[CloseParam] damage (alchemical).
+abilityDesc_1787321956	abilityDesc_1787321956
+abilityDesc_17903860	Attacks on female combatants reduce their attack by 3.
+abilityDesc_1795518848	Increases the squad’s Speed by [AbilityParam]{controldist_delta}[CloseParam]. Duration: [AbilityParam]{control_duration}[CloseParam] turn(s).
+abilityDesc_1795697659	An artfully executed assassin's attack deals [AbilityParam]{dot_single}[CloseParam] points of physical damage, leaving bleeding wounds that cause [AbilityParam]{dot_permanent}[CloseParam] damage over the next [AbilityParam]{dot_duration}[CloseParam] turns.
+abilityDesc_1798458704	abilityDesc_1798458704
+abilityDesc_1813780673	Hurts an opponent's speed for by [AbilityParam]{controldist_delta}[CloseParam] Duration: [AbilityParam]{control_duration}[CloseParam] turn(s).
+abilityDesc_1817892876	Has a 20% chance of binding the attacked party
+abilityDesc_1820444301	Triggers regeneration, restoring [AbilityParam]{hot_single}[CloseParam] health. Triggers regeneration, restoring [AbilityParam]{hot_permanent}[CloseParam] health. Regeneration restores fallen units. Duration: [AbilityParam]{hot_duration}[CloseParam] turn(s).
+abilityDesc_1823026497	A red-hot stone throw causes[AbilityParam]{ability_damage}[CloseParam] Alchemical Damage.
+abilityDesc_1829166144	Slows target Common or Special unit by [AbilityParam]{controldist_delta}[CloseParam]. Duration: [AbilityParam]{control_duration}[CloseParam] turn(s).
+abilityDesc_1831069638	Fires a Spit of Flame at the enemy, dealing the target [AbilityParam] {ability_damage} [CloseParam] alchemical damage.
+abilityDesc_1831583659	Bleeding causes [AbilityParam]{dot_permanent}[CloseParam] damage every turn.
+abilityDesc_1836753213	Stunning hit causes [AbilityParam]{ability_damage}[CloseParam] units of Physical Damage, lowers all types of target’s Resistance by [AbilityParam]{sub0_debuff_param_0}[CloseParam]. Duration: [AbilityParam]{sub0_debuff_duration}[CloseParam] turn(s)
+abilityDesc_183816681	[AbilityName]Pentagram<br>[AbilityBody]The Pentademon surrounds any Sorcerer with a circuit of power, blocking his ability to cast spells for several rounds.<br><font=tahoma_regular_8><align=left><color=FFFFFF><font=tahoma_bold_8>Ability Type:<color=FF0000> Debuff: -50% Attack and Initiative<br><color=FFFFFF>Range: <color=00B0F0> 5 cells<br><color=FFFFFF>Cooldown: <color=00B0F0> 3 rounds<br><color=FFFFFF>Duration: <color=00B0F0> 3 rounds<br><color=FFFFFF>Target Type: <color=00B0F0> single target<br><color=FFFFFF>Ability Type: <color=7030A0> Magical
+abilityDesc_184111672	A venomous attack. Inflicts [AbilityParam]{dot_permanent}[CloseParam] damage every turn.
+abilityDesc_184909760	abilityDesc_184909760
+abilityDesc_1849824588	A projectile. Inflicts [AbilityParam]{ability_damage}[CloseParam] damage.
+abilityDesc_1858384254	Deals a sword strike which inflicts [AbilityParam]{ability_damage}[CloseParam] physical damage.
+abilityDesc_1858644064	[AbilityEvil]Beak Slash<br>[AbilityRecharge]Cooldown: 0<br>[AbilityRange]Close Combat<br>[AbilityText]A slash of the beak, inflicts [AbilityParam]{ability_damage}[CloseParam] damage.
+abilityDesc_1861162218	Attempts to destroy units, influenced by dark magic, therefore damage on these units is increased by 10%
+abilityDesc_1861395671	Direct hit dealing [AbilityParam]{ability_damage}[CloseParam] Physical Damage.
+abilityDesc_1864329356	Each unit has a 100% chance of counterattacking, when faced with any attack in close combat.
+abilityDesc_186730504	Hits all enemy targets with [AbilityParam]{ability_damage}[CloseParam] damage (magical). Inactive during the first round.
+abilityDesc_1873728363	Defenders and Warriors are weighed down by their armour. This gives the Archers better aim, allowing them to inflict 25% more damage.
+abilityDesc_187637817	An attack that inflicts [AbilityParam]{ability_damage}[CloseParam] points of physical damage.
+abilityDesc_1880472850	Inflicts [AbilityParam]{ability_damage}[CloseParam] damage on the target and neighboring enemies within [AbilityParam]2[CloseParam] cells. Damage decreases by [AbilityParam]33%[CloseParam] as the distance increases. Reduces each target's attack by [AbilityParam]{sub0_debuff_param_0}[CloseParam]. Duration: [AbilityParam]{sub0_debuff_duration}[CloseParam] turn(s).
+abilityDesc_1880618445	abilityDesc_1880618445
+abilityDesc_1896104366	[AbilityName]Dehydration<br>[AbilityBody]Ghost’s base attack. Affects physical targets.<br><font=tahoma_regular_8><align=left><color=FFFFFF><font=tahoma_bold_8>Ability Type: <color=FF0000>Damage: 21<br><color=FFFFFF>Range: <color=00B0F0>1 cell<br><color=FFFFFF>Cooldown: <color=00B0F0>0 rounds<br><color=FFFFFF>Duration: <color=00B0F0> instant<br><color=FFFFFF>Target Type: <color=00B0F0>single target<br><color=FFFFFF>Ability Type: <color=E36C0A>Physical
+abilityDesc_189621577	Squad's Defence is increased.
+abilityDesc_1900893334	A stream of fire that inflicts [AbilityParam]{ability_damage}[CloseParam] alchemical damage to the target, burns it severely and decreases its Physical resistance by [AbilityParam]{sub0_debuff_param_0}%[CloseParam]. Duration: [AbilityParam]{sub0_debuff_duration}[CloseParam] turn(s).
+abilityDesc_1926023893	Thunder Strike deals [AbilityParam]{ability_damage}[CloseParam] damage to the target and [AbilityParam]50%[CloseParam] of that damage to nearby units. Inactive during the first round.
+abilityDesc_1931107000	A attack with a sharpened pitchfork that inflicts [AbilityParam]{ability_damage}[CloseParam] points of physical damage.
+abilityDesc_1933816717	A shot of dark magic. Inflicts [AbilityParam]{ability_damage}[CloseParam] damage (magical) on the target and [AbilityParam]50%[CloseParam] damage on neighboring targets
+abilityDesc_1936259545	Chitin reliably protects the unit from physical attacks
+abilityDesc_1950031223	A blow that inflicts [AbilityParam]{ability_damage}[CloseParam] points of physical damage.
+abilityDesc_1967504509	abilityDesc_1967504509
+abilityDesc_1972428904	Increases an ally's attack by [AbilityParam]{buff_param_0}[CloseParam]. Duration: [AbilityParam]{buff_duration}[CloseParam] turn(s).
+abilityDesc_1983863725	abilityDesc_1983863725
+abilityDesc_1984201118	Increases an allied squad’s movement range by [AbilityParam]{controldist_delta}[CloseParam]. Duration: [AbilityParam]{control_duration}[CloseParam] turn(s).
+abilityDesc_1986403173	abilityDesc_1986403173
+abilityDesc_1995908544	Has a 20% chance of igniting the attacked squad
+abilityDesc_2009313860	A chain lightning attack. Inflicts [AbilityParam]{ability_damage}[CloseParam] damage (magical)
+abilityDesc_2009535857	abilityDesc_2009535857
+abilityDesc_2012567388	Restores [AbilityParam]{heal_heal}[CloseParam] health points; resurrects slain units.
+abilityDesc_2018487055	Puts a selected Common or Special enemy to sleep. Duration: [AbilityParam]{control_duration}[CloseParam] turn(s).
+abilityDesc_2018730340	Attacks may cause bleeding
+abilityDesc_202793777	abilityDesc_202793777
+abilityDesc_2049453761	Strikes fear into enemies’ hearts, reducing their Attack and Defence by [AbilityParam]{debuff_param_0}[CloseParam]. Duration: [AbilityParam]{debuff_duration}[CloseParam] turn(s).
+abilityDesc_2051551010	abilityDesc_2051551010
+abilityDesc_205284442	By consuming an ally's vital force, the necromancer revives himself and heals by [AbilityParam]{vamp_single}[CloseParam], resurrecting the fallen. The target releases its inner force, boosting its attack by [AbilityParam]{sub0_buff_param_0}[CloseParam].
+abilityDesc_2066882253	Hits the target with [AbilityParam]{ability_damage}[CloseParam] damage (alchemical), and [AbilityParam]50%[CloseParam] damage to all nearby enemies.[spell_damage_koeff]
+abilityDesc_206904243	abilityDesc_206904243
+abilityDesc_2069863091	Pain makes you vulnerable to physical attacks for [AbilityParam]{debuff_param_0}[CloseParam]
+abilityDesc_2071125185	Restores [AbilityParam]{heal_heal}[CloseParam] health to an ally.
+abilityDesc_2071422099	A powerful blow that inflicts [AbilityParam]{ability_damage}[CloseParam] points of physical damage.
+abilityDesc_2074116514	Hits all enemies in the arena, dealing them [AbilityParam]{dot_single}[CloseParam] alchemical damage and setting them on fire, which deals them an additional [AbilityParam]{dot_permanent}[CloseParam] alchemical damage per turn. Duration: [AbilityParam]{dot_duration}[CloseParam] turn(s).
+abilityDesc_2075781800	The unit is a dead body brought back to life by Chaos magic. Possesses alchemical resistance. Sustains added damage from attacks by warriors of Light.
+abilityDesc_20768380	A very powerful Pirate blow. Inflicts [AbilityParam]{ability_damage}[CloseParam] damage
+abilityDesc_2079823357	Inflicts [AbilityParam]{passive_attack_param_val}%[CloseParam] more damage to all beasts.
+abilityDesc_2082780058	An explosive acid shot. Inflicts [AbilityParam]{ability_damage}[CloseParam] damage (alchemical)
+abilityDesc_2099803808	A dagger stab that inflicts [AbilityParam]{ability_damage}[CloseParam] points of physical damage. The enemy does not counterattack.
+abilityDesc_2101411069	Inflicts [AbilityParam]{ability_damage}[CloseParam] damage points (alchemical) on a selected target. [spell_damage_koeff]
+abilityDesc_2103442460	abilityDesc_2103442460
+abilityDesc_2127196773	[AbilityName]Poison Barb<br>[AbilityBody]The Thorn Hunter's basic alchemical attack. The Thorn Hunter can throw thorns across a good distance, causing some damage.<br><font=tahoma_regular_8><align=left><color=FFFFFF><font=tahoma_bold_8>Ability Type:<color=FF0000> Damage: 7<br><color=FFFFFF>Range: <color=00B0F0> 5 cells<br><color=FFFFFF>Cooldown: <color=00B0F0> 0 rounds<br><color=FFFFFF>Duration: <color=00B0F0> instant<br><color=FFFFFF>Target Type: <color=00B0F0> single target<br><color=FFFFFF>Ability Type: <color=00B050> Alchemical
+abilityDesc_2137462956	Terrible roar causes [AbilityParam]{ability_damage}[CloseParam] units of Physical Damage to the nearest units and [AbilityParam]50%[CloseParam] Damage to the units within [AbilityParam]2[CloseParam] radius. Inactive after movement.
+abilityDesc_2141744678	Restores [AbilityParam]{heal_heal}[CloseParam] health to an ally.
+abilityDesc_2144720312	The victim gave the necromancer strength, increasing his attack by [AbilityParam]{buff_param_0}[CloseParam]
+abilityDesc_2146562159	A blow inflicting [AbilityParam]{ability_damage}[CloseParam] points of physical damage.
+abilityDesc_21501811	Replenishes [AbilityParam]{heal_heal}[CloseParam] of an allied squad’s health, raising its fallen units.
+abilityDesc_215575582	A powerful blast of astral energy. Inflicts [AbilityParam]{ability_damage}[CloseParam] damage (magical).
+abilityDesc_215996622	A powerful blow that inflicts [AbilityParam]{ability_damage}[CloseParam] points of physical damage and stuns the target. Duration: [AbilityParam]{sub0_control_duration}[CloseParam] turn(s).
+abilityDesc_228117545	[AbilityName]Bite<br>[AbilityBody]The Long-tailed Serpent's basic attack. Since the serpent's saliva is venomous, the attack is alchemical.<br><font=tahoma_regular_8><align=left><color=FFFFFF><font=tahoma_bold_8>Ability Type:<color=FF0000> Damage: 8<br><color=FFFFFF>Range: <color=00B0F0> 1 cell<br><color=FFFFFF>Cooldown: <color=00B0F0> 0 rounds<br><color=FFFFFF>Duration: <color=00B0F0> instant<br><color=FFFFFF>Target Type: <color=00B0F0> single target<br><color=FFFFFF>Ability Type: <color=00B050> Alchemical 
+abilityDesc_229458143	25% chance of poisoning an attacked squad
+abilityDesc_230944791	Increases all allies’ Attack by [AbilityParam]{buff_param_0}[CloseParam]. Duration: [AbilityParam]{buff_duration}[CloseParam] turn(s).
+abilityDesc_260496860	Uses it sharp roots to inflict [AbilityParam]{ability_damage}[CloseParam] points of physical damage on all enemy targets within [AbilityParam]{radius_area_ability}[CloseParam] cells.
+abilityDesc_268545087	An inspirational shout increases an ally's initiative by [AbilityParam]{buff_param_1}[CloseParam] and increases his critical chance by [AbilityParam]{buff_param_0}%[CloseParam] Duration: [AbilityParam]{buff_duration}[CloseParam] turn(s).
+abilityDesc_277421721	Mastery of stealth combat increases attack by [AbilityParam]{buff_param_0}[CloseParam], and critical chance by [AbilityParam]{buff_param_1}[CloseParam]. Duration: [AbilityParam]{buff_duration}[CloseParam] turn(s).
+abilityDesc_278773846	An attack that inflicts [AbilityParam]{ability_damage}[CloseParam] points of physical damage.
+abilityDesc_280868432	A serpent bite that inflicts [AbilityParam]{ability_damage}[CloseParam] points of physical damage. Has a [AbilityParam]{chance_subabil_0}%[CloseParam] chance of poisoning a Common enemy, dealing damage each turn. Duration: [AbilityParam]{sub0_dot_duration}[CloseParam] turn(s).
+abilityDesc_283379776	Decreases the movement speed of an enemy unit by [AbilityParam]{controldist_delta}[CloseParam]. Duration: [AbilityParam]{control_duration}[CloseParam] turn(s).
+abilityDesc_290053651	The Bear becomes infuriated, which increases its speed by [AbilityParam]{sub0_controldist_delta}[CloseParam] and attack by [AbilityParam]{buff_param_0}[CloseParam], lowering defence by [AbilityParam]{buff_param_1}[CloseParam]. Effect duration: [AbilityParam]{buff_duration}[CloseParam] turn(s). Does not end the turn.
+abilityDesc_297832232	[AbilityName]Drowsiness<br>[AbilityBody]A weak magical attack. The enchantment deals mild damage over several rounds. But the damage isn't what hurts the most. There's a chance that the enemy will feel so drowsy that their attack, defence, and initiative will weaken. There's even a chance they'll be completely immobilized.<br><font=tahoma_regular_8><align=left><color=FFFFFF><font=tahoma_bold_8>Ability Type:<color=FF0000> Long-Term Damage: 10/20<br><color=FFFFFF>Range: <color=00B0F0> 6 cells<br><color=FFFFFF>Cooldown: <color=00B0F0> 3 rounds<br><color=FFFFFF>Duration: <color=00B0F0> 4 rounds<br><color=FFFFFF>Target Type: <color=00B0F0> single target<br><color=FFFFFF>Ability Type: <color=7030A0> Magical
+abilityDesc_306450430	Hits the target with [AbilityParam]{ability_damage}[CloseParam] damage (alchemical), and [AbilityParam]50%[CloseParam] damage to all nearby enemies.[spell_damage_koeff]
+abilityDesc_307536576	[AbilityParam]{passive_attack_param_val}%[CloseParam] increased attack against Archers
+abilityDesc_310727765	abilityDesc_310727765
+abilityDesc_311648058	Specter 2: Prevents use of melee DPS abilities (may increase the cooldown time of abilities). One target. Close range.
+abilityDesc_317057717	Shadow creature’s spell attack
+abilityDesc_318979698	The Zombie's basic attack, dealing [AbilityParam]{ability_damage}[CloseParam] points of physical damage.
+abilityDesc_335194153	Increases an ally's Defence by [AbilityParam]{buff_param_0}[CloseParam]. Duration: [AbilityParam]{buff_duration}[CloseParam] turn(s).
+abilityDesc_337357393	Inflicts [AbilityParam]{passive_attack_param_val}[CloseParam]% more damage on Pirates and Sea Wolves
+abilityDesc_353471327	An attack that inflicts [AbilityParam]{ability_damage}[CloseParam] points of physical damage.
+abilityDesc_354010080	Shock lowers all types of Resistance by [AbilityParam]{debuff_param_0}[CloseParam]
+abilityDesc_354372598	Inflicts [AbilityParam]{ability_damage}[CloseParam] damage (magical) on the target and nearby units
+abilityDesc_35499845	Entangling roots immobilize a Common or Special target. Duration: [AbilityParam]{control_duration}[CloseParam] turn(s).
+abilityDesc_361975317	abilityDesc_361975317
+abilityDesc_362288633	A stone crust that increases all types of the ally's resistance by [AbilityParam]{buff_param_0}%[CloseParam]. Duration: [AbilityParam]{buff_duration}[CloseParam] turn(s).
+abilityDesc_36525646	DoT ability
+abilityDesc_370248012	[AbilityName]Throwing Needles<br>[AbilityBody]Draconids can hurl their needles at the enemy from a great distance, causing mild alchemical damage. Base attack.<br><font=tahoma_regular_8><align=left><color=FFFFFF><font=tahoma_bold_8>Ability Type:<color=FF0000> Damage: 12<br><color=FFFFFF>Range: <color=00B0F0> 4 cells<br><color=FFFFFF>Cooldown: <color=00B0F0> 0 rounds<br><color=FFFFFF>Duration: <color=00B0F0> instant<br><color=FFFFFF>Target Type: <color=00B0F0> single target<br><color=FFFFFF>Ability Type: <color=7030A0> Magical
+abilityDesc_378401296	A magical sphere shot. Inflicts [AbilityParam]{ability_damage}[CloseParam] damage (magical).
+abilityDesc_382026253	[AbilityName]Spider Web<br>[AbilityBody]Spider web flies across great distances and sticks to its targets, dealing damage for several rounds. There's a chance that the target will be immobilized by the web.<br><font=tahoma_regular_8><align=left><color=FFFFFF><font=tahoma_bold_8>Ability Type:<color=FF0000> Movement Control: -8<br><color=FFFFFF>Range: <color=00B0F0> 6 cells<br><color=FFFFFF>Cooldown: <color=00B0F0> 3 rounds<br><color=FFFFFF>Duration: <color=00B0F0> 4 rounds<br><color=FFFFFF>Target Type: <color=00B0F0> single target<br><color=FFFFFF>Ability Type: <color=00B050> Alchemical
+abilityDesc_382964962	A fatal bite that inflicts [AbilityParam]{ability_damage}[CloseParam] points of physical damage. Poisons Common or Special enemies, dealing them damage every turn. Duration: [AbilityParam]{sub0_dot_duration}[CloseParam] turn(s).
+abilityDesc_393404206	A shot of astral energy. Inflicts [AbilityParam]{ability_damage}[CloseParam] damage (magical)
+abilityDesc_401886649	Increases an ally's Defence by [AbilityParam]{buff_param_0}[CloseParam]. Duration: [AbilityParam]{buff_duration}[CloseParam] turn(s).
+abilityDesc_402108664	The Gargoyle creates a cyclone around himself, hitting neighboring enemies with [AbilityParam]{ability_damage}[CloseParam] points of physical damage.
+abilityDesc_41170707	A poisonous projectile. Inflicts [AbilityParam]{ability_damage}[CloseParam] damage (alchemical)
+abilityDesc_414023845	abilityDesc_414023845
+abilityDesc_416174630	Stunning prevents a Common unit from taking its turn
+abilityDesc_4194607	An attack that inflicts [AbilityParam]{ability_damage}[CloseParam] points of physical damage.
+abilityDesc_420024426	Increases the unit’s Attack by [AbilityParam]{buff_param_0}[CloseParam]. Duration: [AbilityParam]{buff_duration}[CloseParam] turn(s).
+abilityDesc_421114038	Hits a Common opponent with [AbilityParam]{ability_damage}[CloseParam] damage (alchemical) and decreases his speed by [AbilityParam]{sub0_controldist_delta}[CloseParam]. Duration: [AbilityParam]{sub0_control_duration}[CloseParam] turn(s).
+abilityDesc_421374243	The Spirit of the North slows the Bear down by [AbilityParam]{controldist_delta}[CloseParam].
+abilityDesc_423303023	abilityDesc_423303023
+abilityDesc_425603989	Increases Defence by [AbilityParam]{buff_param_0}[CloseParam]. Duration: [AbilityParam]{buff_duration}[CloseParam] turn(s).
+abilityDesc_43080557	A grenade that inflicts [AbilityParam]{ability_damage}[CloseParam] damage on the target and [AbilityParam]35%[CloseParam] damage on its neighbors (including allies).
+abilityDesc_431022144	[AbilityName]Will of the Dragon<br>[AbilityBody]The Dragon Whelp creates a protective field around itself or an ally, which increases all forms of resistance for several rounds.<br><font=tahoma_regular_8><align=left><color=FFFFFF><font=tahoma_bold_8>Ability Type:<color=FF0000> Buff: resistance increased by 10/12/11%<br><color=FFFFFF>Range: <color=00B0F0> 5 cells<br><color=FFFFFF>Cooldown: <color=00B0F0> 3 rounds<br><color=FFFFFF>Duration: <color=00B0F0> 3 rounds<br><color=FFFFFF>Target Type: <color=00B0F0> single target<br><color=FFFFFF>Ability Type: <color=7030A0> Magical
+abilityDesc_433227381	An attack that inflicts [AbilityParam]{ability_damage}[CloseParam] points of physical damage.
+abilityDesc_445406477	Casts a curse on all enemies within [AbilityParam]{radius_area_ability}[CloseParam] cells, decreasing their attack by [AbilityParam]{debuff_param_0}[CloseParam] and initiative by [AbilityParam]{debuff_param_1}[CloseParam]. Duration: [AbilityParam]{debuff_duration}[CloseParam] turn(s).
+abilityDesc_458387343	The massive enchanted beak of a Grey-maned Griffin inflicts [AbilityParam]{ability_damage}[CloseParam] magical damage.
+abilityDesc_466577597	Increases the squad’s Attack by [AbilityParam]{buff_param_0}[CloseParam]. Duration: [AbilityParam]{buff_duration}[CloseParam] turn(s).
+abilityDesc_480283106	The unit falls asleep and misses its turn
+abilityDesc_482935319	An enchanted cloak protects the Archmage from alchemical and magical attacks
+abilityDesc_491821798	A blow that deals the squad [AbilityParam]{ability_damage}[CloseParam] points of alchemical damage.
+abilityDesc_494499264	A grenade dealing [AbilityParam]{ability_damage}[CloseParam] alchemical damage to the target and [AbilityParam]50%[CloseParam] of that damage to neighbors (including allies).
+abilityDesc_495865617	Inflicts up to [AbilityParam]{ability_damage}[CloseParam] damage points (magical) with chain lightning, hitting up to [AbilityParam]5[CloseParam] nearby enemies, with damage decreasing by [AbilityParam]50%[CloseParam] with each turn.[spell_damage_koeff]
+abilityDesc_499450584	Increases by [AbilityParam]{buff_param_0}[CloseParam] the attack power of all allied archers (including self). Duration: [AbilityParam]{buff_duration}[CloseParam] turn(s).
+abilityDesc_506148052	Lowers attack by [AbilityParam]{debuff_param_0}[CloseParam]. Duration: [AbilityParam]{debuff_duration}[CloseParam] turn(s).
+abilityDesc_509319360	Fright reduces the target's Attack by [AbilityParam]{debuff_param_0}[CloseParam]
+abilityDesc_528058959	The power of the Ancients strenthens the wolves, heals [AbilityParam]{heal_heal}[CloseParam] Health and resurrects slain units. Defense increases by [AbilityParam]{sub0_buff_param_0}[CloseParam]. Duration: [AbilityParam]{sub0_buff_duration}[CloseParam] turns.
+abilityDesc_531891461	A potion which removes stunning or immobilizing effects
+abilityDesc_532996575	[AbilityName]Bandages<br>[AbilityBody]By bandaging the wound, the Droid Defender can cancel one harmful effect (DoT or poison) from an ally.<br><font=tahoma_regular_8><align=left><color=FFFFFF><font=tahoma_bold_8>Ability Type:<color=FF0000> Healing: 200<br><color=FFFFFF>Range: <color=00B0F0> 1 cell<br><color=FFFFFF>Cooldown: <color=00B0F0> 4 rounds<br><color=FFFFFF>Duration: <color=00B0F0> instant<br><color=FFFFFF>Target Type: <color=00B0F0> single target<br><color=FFFFFF>Ability Type: <color=E36C0A> Physical
+abilityDesc_533682580	A powerful blast of astral energy which deals [AbilityParam]{ability_damage}[CloseParam] damage (magical).
+abilityDesc_53992937	DoT ability
+abilityDesc_544482152	A Control Ability.
+abilityDesc_559419347	The default ability of Forest Guardians. Inflicts [AbilityParam]{ability_damage}[CloseParam] damage (magical).
+abilityDesc_560442234	Inflicts [AbilityParam]{passive_attack_param_val}%[CloseParam] more damage on all servants of the Light
+abilityDesc_561421384	Releases a swarm of wasps at a squad within range. Inflicts [AbilityParam]{ability_damage}[CloseParam] damage.
+abilityDesc_56363225	The Spirit of the North awakens in the Bear, reducing its speed by [AbilityParam]{sub0_controldist_delta}[CloseParam] but increasing resistance by [AbilityParam]{buff_param_0}%[CloseParam]. Effect duration: [AbilityParam]{buff_duration}[CloseParam] turn(s). Does not end the turn.
+abilityDesc_568359958	Hypnotizes a Special or Common enemy, putting them to sleep for [AbilityParam]{control_duration}[CloseParam] turn(s).
+abilityDesc_575822498	Increases Speed by [AbilityParam]{controldist_delta}[CloseParam]. Duration: [AbilityParam]{control_duration}[CloseParam] turn(s).
+abilityDesc_578197437	Launches a magical projectile at the enemy, dealing [AbilityParam]{ability_damage}[CloseParam] magic damage.
+abilityDesc_583846568	A charged lightning attack. Inflicts [AbilityParam]{ability_damage}[CloseParam] damage (magical). The enemy cannot fight back. The enemy does not respond to attacks.
+abilityDesc_592630715	A Control Ability.
+abilityDesc_596728344	Gives himself and his allies bloodlust. Increases Attack for himself and his allies by [AbilityParam]{buff_param_0}[CloseParam], increases critical chance by [AbilityParam]{buff_param_1}[CloseParam]. Duration: [AbilityParam]{buff_duration}[CloseParam] turn(s).
+abilityDesc_598095299	Cultist 2: Conical attack + DoT + chance of lowering target's speed
+abilityDesc_600493823	Inflicts [AbilityParam]{ability_damage}[CloseParam] damage (magical)
+abilityDesc_602139265	An arrow attack. Inflicts [AbilityParam]{ability_damage}[CloseParam] damage (alchemical)
+abilityDesc_605501460	Decreases Attack and Defence by [AbilityParam]{debuff_param_0}[CloseParam]
+abilityDesc_606705589	Attacks may cause bleeding
+abilityDesc_615563342	Earth energy attack. Inflicts [AbilityParam]{ability_damage}[CloseParam] damage (magical)
+abilityDesc_615687580	Attacking undead and Light-fearing units deals [AbilityParam]{passive_attack_param_val}% [CloseParam] more damage
+abilityDesc_616560904	Cultist 2: Debuff one target for Support units
+abilityDesc_619801784	Resurrects an ally, restoring him to [AbilityParam]{heal_heal}[CloseParam] Health.
+abilityDesc_626502930	Deals [AbilityParam]{ability_damage}[CloseParam] damage (magical) to all enemy units within [AbilityParam]{radius_area_ability}[CloseParam] cells
+abilityDesc_627928340	[AbilityName]Fiery Flash<br>[AbilityBody]The Cern hurls fire at the enemy. The fireball damages not only the target, but also those surrounding it.<br><font=tahoma_regular_8><align=left><color=FFFFFF><font=tahoma_bold_8>Ability Type:<color=FF0000> Damage: 13<br><color=FFFFFF>Range: <color=00B0F0> 7 cells<br><color=FFFFFF>Cooldown: <color=00B0F0> 3 rounds<br><color=FFFFFF>Duration: <color=00B0F0> instant<br><color=FFFFFF>Target Type: <color=00B0F0> dynamic radius, up to 9<br><color=FFFFFF>Ability Type: <color=7030A0> Magical
+abilityDesc_636411277	Inflicts [AbilityParam]{ability_damage}[CloseParam] damage points (alchemical) on a selected target. [spell_damage_koeff]
+abilityDesc_641482315	Mad Ghosts’ default ability
+abilityDesc_642107590	Increased physical resistance
+abilityDesc_644130697	Unit takes additional damage from hunter attacks.
+abilityDesc_648836234	[AbilityName]Spore<br>[AbilityBody]Thorn units can inject their victims with spores that grow inside, causing damage over several rounds. In addition, the spore has a chance of bursting and surrounding the enemy with a cloud, lowering his attack.<br><font=tahoma_regular_8><align=left><color=FFFFFF><font=tahoma_bold_8>Ability Type:<color=FF0000> Long-term Damage: 8/5<br><color=FFFFFF>Range: <color=00B0F0> 5 cells<br><color=FFFFFF>Cooldown: <color=00B0F0> 2 rounds<br><color=FFFFFF>Duration: <color=00B0F0> 4 rounds<br><color=FFFFFF>Target Type: <color=00B0F0> single target<br><color=FFFFFF>Ability Type: <color=00B050> Alchemical
+abilityDesc_652303558	Dragon 2: Debuff on one magical target.
+abilityDesc_655614497	The Zombie puts a curse on the opponent, inflicting [AbilityParam]{dot_single}[CloseParam] magic damage instantly and [AbilityParam]{dot_permanent}[CloseParam] additional damage over the next [AbilityParam]{dot_duration}[CloseParam] turn(s).
+abilityDesc_660365270	Releases a swarm which inflicts [AbilityParam]{dot_single}[CloseParam] points of physical damage immediately and [AbilityParam]{dot_permanent}[CloseParam] more with each turn. Duration: [AbilityParam]{dot_duration}[CloseParam] turn(s).
+abilityDesc_663211697	The enemy does not respond to attacks
+abilityDesc_668336104	Fiery Draconids’ default ability
+abilityDesc_671166008	An enchanted ray. Inflicts [AbilityParam]{ability_damage}[CloseParam] damage (magical), with a [AbilityParam]{chance_subabil_0}[CloseParam]% chance of putting a Common unit to sleep. Duration: [AbilityParam]{sub0_control_duration}[CloseParam] turn(s).
+abilityDesc_676062697	The creature is asleep and misses its turn
+abilityDesc_676738981	Physical and alchemical damage reduced by 15%
+abilityDesc_683582393	Increases an allied squad’s movement range by [AbilityParam]{controldist_delta}[CloseParam]. Duration: [AbilityParam]{control_duration}[CloseParam] turn(s).
+abilityDesc_691925413	Restores [AbilityParam]{heal_heal}[CloseParam] health to an allied unit, resurrects slain units.
+abilityDesc_69683952	Unit always responds to attacks
+abilityDesc_704526242	A horn attack that inflicts [AbilityParam]{ability_damage}[CloseParam] points of physical damage.
+abilityDesc_707903685	Reduces the squad’s Initiative by [AbilityParam]{debuff_param_0}[CloseParam]. Duration: [AbilityParam]{debuff_duration}[CloseParam] turn(s).
+abilityDesc_710654211	The Archmage understands his unique strengths, and this gives him confidence in combat. [AbilityParam]{passive_attack_param_val}%[CloseParam] more damage to Common and Special units.
+abilityDesc_711835106	Land Brontaurs’ default ability
+abilityDesc_712318492	The Demonologist controls the secrets of dark magic, and so he deals [AbilityParam]{passive_attack_param_val}%[CloseParam] more damage to Forest People
+abilityDesc_714277592	A Control Ability
+abilityDesc_714863489	Stuns target. Duration: [AbilityParam]{control_duration}[CloseParam] turn(s).
+abilityDesc_731162419	A Debuff ability.
+abilityDesc_747930815	[AbilityName]Burn<br>[AbilityBody]The Cern's basic attack (magical). <br><font=tahoma_regular_8><align=left><color=FFFFFF><font=tahoma_bold_8>Ability Type:<color=FF0000> Damage: 10<br><color=FFFFFF>Range: <color=00B0F0> 7 cells<br><color=FFFFFF>Cooldown: <color=00B0F0> 0 rounds<br><color=FFFFFF>Duration: <color=00B0F0> instant<br><color=FFFFFF>Target Type: <color=00B0F0> single target<br><color=FFFFFF>Ability Type: <color=7030A0> Magical
+abilityDesc_753420168	Gorguana 2: AoE centered on the unit. Chance of stunning (increased)
+abilityDesc_772221671	Serpent 2: An attack on one target which prevents the use of abilities by Magical classes.
+abilityDesc_772243365	Restores [AbilityParam]{heal_heal}[CloseParam] health to an ally.
+abilityDesc_779545085	A magic shot that inflicts [AbilityParam]{ability_damage}[CloseParam] magical damage.
+abilityDesc_787800506	Increases an ally's attack by [AbilityParam]{buff_param_0}[CloseParam]. Duration: [AbilityParam]{buff_duration}[CloseParam] turn(s).
+abilityDesc_788268983	Increases an ally's Defence by [AbilityParam]{buff_param_0}[CloseParam]. Duration: [AbilityParam]{buff_duration}[CloseParam] turn(s).
+abilityDesc_792020902	Yells and increases Initiative for himself and his allies by [AbilityParam]{buff_param_0}[CloseParam]. Duration: [AbilityParam]{buff_duration}[CloseParam] turn(s).
+abilityDesc_793563558	10% chance of causing the bleeding in the target
+abilityDesc_802808661	A projectile of astral flame. Inflicts [AbilityParam]{ability_damage}[CloseParam] damage (alchemical).
+abilityDesc_805597863	A shot of concentrated acid. Inflicts [AbilityParam]{ability_damage}[CloseParam] damage (alchemical)
+abilityDesc_811708010	Increases Defence by [AbilityParam]{buff_param_0}[CloseParam]. Duration: [AbilityParam]{buff_duration}[CloseParam] turn(s).
+abilityDesc_815052999	A primeval energy blast that inflicts [AbilityParam]{ability_damage}[CloseParam] damage (magical).
+abilityDesc_828634348	Inflicts [AbilityParam]{passive_attack_param_val}%[CloseParam] more damage on Battle Sorcerers
+abilityDesc_828672153	[AbilityName]Chilling Touch<br>[AbilityBody]The Ghost begins to consume the life force of his opponent, increasing his own health at the expense of his enemy's. This can continue for several rounds. There's a chance that the opponent's attack will be weakened.<br><font=tahoma_regular_8><align=left><color=FFFFFF><font=tahoma_bold_8>Ability Type:<color=FF0000> Long-Term Damage: 30/30<br><color=FFFFFF>Range: <color=00B0F0> 1 cells<br><color=FFFFFF>Cooldown: <color=00B0F0> 2 rounds<br><color=FFFFFF>Duration: <color=00B0F0> 2 rounds<br><color=FFFFFF>Target Type: <color=00B0F0> single target<br><color=FFFFFF>Ability Type: <color=E36C0A> Physical
+abilityDesc_837586798	Slowing down time increases an ally's speed by [AbilityParam]{controldist_delta}[CloseParam]. Duration: [AbilityParam]{control_duration}[CloseParam] turn(s).
+abilityDesc_840877886	Increases own and allies' Defence by [AbilityParam]{buff_param_0}[CloseParam]. Duration: [AbilityParam]{buff_duration}[CloseParam] turn(s).
+abilityDesc_844429719	Increased critical chance
+abilityDesc_848377756	The energy of the earth gives an ally a [AbilityParam]{buff_param_0}%[CloseParam] chance of dealing a critical hit and a [AbilityParam]{buff_param_1}%[CloseParam] resistance to alchemical damage. Duration: [AbilityParam]{buff_duration}[CloseParam] turn(s).
+abilityDesc_851947077	A Control Ability
+abilityDesc_858416604	The unit counter-attacks each time it's been attacked.
+abilityDesc_860882195	Serpent 2: Swamp Serpents’ attack ability.
+abilityDesc_867499086	[AbilityName]Double Injection<br>[AbilityBody]Intense medical treatment for an ally a short distance away. The effects of the injection may last for several rounds.<br><font=tahoma_regular_8><align=left><color=FFFFFF><font=tahoma_bold_8>Ability Type:<color=FF0000> Long-Term Healing: 134/50<br><color=FFFFFF>Range: <color=00B0F0> 2 cells<br><color=FFFFFF>Cooldown: <color=00B0F0> 2 rounds<br><color=FFFFFF>Duration: <color=00B0F0> 4 rounds<br><color=FFFFFF>Target Type: <color=00B0F0> single target<br><color=FFFFFF>Ability Type: <color=E36C0A> Physical
+abilityDesc_882175294	A winged blow to several targets inflicts [AbilityParam]{ability_damage}[CloseParam] damage
+abilityDesc_891069436	Enchanted forest units have increased alchemical resistance
+abilityDesc_892822459	No penalty for ranged attacks
+abilityDesc_893916734	Speed increased by [AbilityParam]{controldist_delta}[CloseParam]. Duration: [AbilityParam]{control_duration}[CloseParam] turn(s). Does not end the turn.
+abilityDesc_903756116	[AbilityName]Demonic Enchantment<br>[AbilityBody]The Demoness casts a enchantment which lowers the magical resistance of anything it touches.<br><font=tahoma_regular_8><align=left><color=FFFFFF><font=tahoma_bold_8>Ability Type:<color=FF0000> Debuff: -30% magical resistance<br><color=FFFFFF>Range: <color=00B0F0> 7 cells<br><color=FFFFFF>Cooldown: <color=00B0F0> 3 rounds<br><color=FFFFFF>Duration: <color=00B0F0> 2 rounds<br><color=FFFFFF>Target Type: <color=00B0F0> a square 3 cells across<br><color=FFFFFF>Ability Type: <color=7030A0> Magical
+abilityDesc_904959486	[AbilityName]Electroshock<br>[AbilityBody]An electric shot which the Droid can use to damage an enemy from a respectable distance A basic attack with magical damage.<br><font=tahoma_regular_8><align=left><color=FFFFFF><font=tahoma_bold_8>Ability Type:<color=FF0000> Damage: 25<br><color=FFFFFF>Range: <color=00B0F0> 5 cells<br><color=FFFFFF>Cooldown: <color=00B0F0> 0 rounds<br><color=FFFFFF>Duration: <color=00B0F0> instant<br><color=FFFFFF>Target Type: <color=00B0F0> single target<br><color=FFFFFF>Ability Type: <color=7030A0> Magical
+abilityDesc_923082225	A beautiful song lures the enemy to sleep. Duration: [AbilityParam]{control_duration}[CloseParam] turn(s).
+abilityDesc_929843260	Fright slows movement by [AbilityParam]{debuff_param_0}[CloseParam]
+abilityDesc_93676361	An attack dealing [AbilityParam]{ability_damage}[CloseParam] points of physical damage with a [AbilityParam]{chance_subabil_0}%[CloseParam] chance of stunning a Common opponent. Duration: [AbilityParam]{sub0_control_duration}[CloseParam] turn(s).
+abilityDesc_937122646	A attack with a sharp saber that inflicts [AbilityParam]{ability_damage}[CloseParam] points of physical damage.
+abilityDesc_942953423	A direct flow of energy that inflicts [AbilityParam]{ability_damage}[CloseParam] magical damage with [AbilityParam]{chance_subabil_1}%[CloseParam] chance to put a Common unit to sleep and a [AbilityParam]{chance_subabil_0}%[CloseParam] chance to put a Special unit to sleep. Durationь: [AbilityParam]{sub0_control_duration}[CloseParam] turn(s).
+abilityDesc_946857285	Archers and Support troops that lack armour protection are easily damaged by magic. Therefore, Sorcerers cause them 25% more damage.
+abilityDesc_947537027	Increases an allied squad’s movement range by [AbilityParam]{controldist_delta}[CloseParam]. Duration: [AbilityParam]{control_duration}[CloseParam] turn(s).
+abilityDesc_951824631	An enraged dinosaur increases its Attack by [AbilityParam]{buff_param_0}[CloseParam] and lowers Defence by [AbilityParam]{buff_param_1}[CloseParam]. Movement speed increases by [AbilityParam]{sub0_controldist_delta}[CloseParam]. Unavailable after move. Does not complete turn. Duration: [AbilityParam]{buff_duration}[CloseParam] turn(s).
+abilityDesc_956488622	Sorcerers and supporting troops are vulnerable to metal weaponry attacks. So, all Warrior attacks will deal them 25% more damage.
+abilityDesc_964049910	Increased critical chance
+abilityDesc_965171791	The creature is asleep and misses several turns
+abilityDesc_973084232	A bear roar inflicts [AbilityParam]{ability_damage}[CloseParam] damage to all targets in a cone-shaped attack zone
+abilityDesc_975940695	Increases an ally's attack by [AbilityParam]{buff_param_0}[CloseParam]. Duration: [AbilityParam]{buff_duration}[CloseParam] turn(s).
+abilityDesc_980848828	The Paladin appeals to the Gods, bringing chain lightning down on the enemy, which deals up to [AbilityParam]{ability_damage}[CloseParam] magical damage, hitting [AbilityParam]5[CloseParam] nearby enemies.
+abilityDesc_988676019	Heals a being by [AbilityParam]{heal_heal}[CloseParam] health.
+abilityDesc_989788910	Sharp teeth inflict [AbilityParam]{ability_damage}[CloseParam] points of physical damage on the enemy.
+abilityDesc_994637115	[AbilityName]Venomous Bite<br>[AbilityBody]The snake injects venom with its bite. Inflicts severe damage upon the enemy. There is also a chance that the target will be poisoned, causing the foe to lose health for several rounds.<br><font=tahoma_regular_8><align=left><color=FFFFFF><font=tahoma_bold_8>Ability Type:<color=FF0000> Damage: 20<br><color=FFFFFF>Range: <color=00B0F0> 1 cells<br><color=FFFFFF>Cooldown: <color=00B0F0> 3 rounds<br><color=FFFFFF>Duration: <color=00B0F0> instant<br><color=FFFFFF>Target Type: <color=00B0F0> single target<br><color=FFFFFF>Ability Type: <color=00B050> Alchemical
+abilityDesc_999582089	Sea Dogs’ default ability
+abilityName_1017087550	Heavy Missiles
+abilityName_1022723509	
+abilityName_1023080053	Slowdown
+abilityName_1033086317	Flaming Fist
+abilityName_1033743346	Prayer
+abilityName_1036973018	Light Tread
+abilityName_1037093766	Searing Touch
+abilityName_103791127	Cavalryman’s Strike
+abilityName_1054653140	Bear Bite
+abilityName_107162298	Sweeping Strike
+abilityName_1072052074	Apprentice’s Staff
+abilityName_1074812907	Master Swordsman
+abilityName_1075479563	Fast Strike
+abilityName_1081409748	Cruel Bite
+abilityName_1081822141	Poisoning
+abilityName_1090942177	Lightning
+abilityName_1100834784	Beak Slash
+abilityName_1102119419	Stammering
+abilityName_1117646504	Sword Sweep
+abilityName_1123979517	Purification
+abilityName_1128919576	Astral Support
+abilityName_1134196237	Surge of Power
+abilityName_1142781126	Legionary's Armour
+abilityName_1146177346	Ghostly Blow
+abilityName_1150259482	Penetrating Bite
+abilityName_1156114167	Chemist
+abilityName_1156955815	Healing
+abilityName_1164602186	Healing
+abilityName_1165868771	Freeze
+abilityName_1167747050	Fireball
+abilityName_1170351384	
+abilityName_1176022106	Enchantment
+abilityName_1180222496	Incendiary Blast
+abilityName_1180656772	Power Blow
+abilityName_1183327728	Circle of Lightning
+abilityName_1184729916	Thrust
+abilityName_1185434917	Drowsiness
+abilityName_1190743865	Power of the Dead
+abilityName_119406430	Astral Discharge
+abilityName_1207568305	Antimage
+abilityName_1211860478	Soft Tread
+abilityName_1240335115	Knockout Blow
+abilityName_1247830084	Pungent Saliva
+abilityName_1255528052	Accurate Shot
+abilityName_1260049534	Spit
+abilityName_1261625223	Earth Shield
+abilityName_1270980782	Thundering Step
+abilityName_1273855462	Spear Attack
+abilityName_1286179825	Freeze
+abilityName_1310360873	Plague Blade
+abilityName_131046242	Shackles of Darkness
+abilityName_1311577116	Divine Shield
+abilityName_1324875544	Call of the Dead
+abilityName_13262226	Two-handed Sword
+abilityName_1329211835	Flaming Chains
+abilityName_1333276331	Chain Lightning
+abilityName_1341305225	Poisonous Spore
+abilityName_134703462	Sharp Fangs
+abilityName_1355282279	Awakening
+abilityName_1357174795	Grapeshot
+abilityName_1358686659	Burning Spikes
+abilityName_1361980471	Acceleration
+abilityName_1362807730	Sword Strike
+abilityName_138391308	Metabolism
+abilityName_1392481059	Hellish Flare
+abilityName_1396100995	Wing Sheaf
+abilityName_140377823	Shattering Blow
+abilityName_1408462254	Infernal Shield
+abilityName_1419898811	Massive
+abilityName_1420677209	Unholy Rage
+abilityName_1422187244	Teeth Smasher
+abilityName_1434524072	Injection
+abilityName_1441163757	Acceleration Potion
+abilityName_1450553169	Electric Shock
+abilityName_1454350636	Soul Abduction
+abilityName_1457625940	Protected
+abilityName_1470759546	Resurrection
+abilityName_1475760352	Undead
+abilityName_1478509367	Knockdown
+abilityName_1479244953	Stun
+abilityName_1483441827	Succubus Kiss
+abilityName_1492753295	Entanglement
+abilityName_1493377650	Concentration
+abilityName_1500044558	Hand of the Gods
+abilityName_1509208465	Dryad Song
+abilityName_1510704820	Secret Knowledge
+abilityName_1513761836	Confusion
+abilityName_151835558	Stun
+abilityName_1525765342	Wrath of the Master
+abilityName_1528111218	Hex
+abilityName_1531423253	Mimicry
+abilityName_1535547602	Lightning
+abilityName_1538724539	Beast Spirit
+abilityName_154419755	Spirituality
+abilityName_1547945974	Serrated Spike
+abilityName_1564491900	Heaven's Blow
+abilityName_1576405378	Inexhaustible Supply
+abilityName_1586504173	Protective Stance
+abilityName_1587866292	Spit
+abilityName_1589621593	Uplifted Spirit
+abilityName_1589641140	Circular Attack
+abilityName_1591902722	Flail
+abilityName_159479137	Beak Slash
+abilityName_1598921679	Leaf Spiral
+abilityName_1600718409	Hatred
+abilityName_1601753179	Ice Claws
+abilityName_1604966318	Slowdown
+abilityName_1607426179	Zombie Terror
+abilityName_1610023085	Flame
+abilityName_1615742304	Cocoon
+abilityName_1615924344	Draconic Aura
+abilityName_1616231923	Enchanted Spores
+abilityName_1628171006	Sticky Threads
+abilityName_1631536995	Spore Cloud
+abilityName_1632819739	Burning Poison
+abilityName_1642255454	Feint
+abilityName_1649759057	Living Deadman
+abilityName_1652404912	Demon Brand
+abilityName_1656074496	Stun
+abilityName_1669894975	Kill 'Em All
+abilityName_1670088714	Knockout Blows
+abilityName_1679704559	Heaven's Wrath
+abilityName_1682557680	Decay
+abilityName_1696384288	High-frequency Shock
+abilityName_1719665513	Blast of Wickedness
+abilityName_173214989	Fiery Explosion
+abilityName_1733877369	Fiery Arrow
+abilityName_1734892836	Wind Shackles
+abilityName_1739414361	Way of the Wind
+abilityName_1747025157	Victor
+abilityName_1751321803	Force of Nature
+abilityName_175216067	Fiery Arrow
+abilityName_1766752359	Sniper
+abilityName_1770590269	Devil's Bite
+abilityName_1779507406	Quick Bite
+abilityName_1780781165	Infernal
+abilityName_1784766813	Spitting Fire
+abilityName_1787321956	Time to Board
+abilityName_17903860	Terrifying Creature
+abilityName_1795518848	Mobility
+abilityName_1795697659	Blades of Death
+abilityName_1798458704	Life-Burning
+abilityName_1813780673	Paralyzing Shackles
+abilityName_1817892876	Shaman’s Staff
+abilityName_1820444301	Regeneration
+abilityName_1823026497	Stone Throw
+abilityName_1829166144	Lameness
+abilityName_1831069638	Spit of Flame
+abilityName_1831583659	Bleeding
+abilityName_1836753213	Stone Crusher
+abilityName_183816681	Pentagram
+abilityName_184111672	Ancient Poison
+abilityName_184909760	Pollen
+abilityName_1849824588	Power Shot
+abilityName_1858384254	Sword Stroke
+abilityName_1858644064	Beak Slash
+abilityName_1861162218	Defender of Purity
+abilityName_1861395671	Strong Strike
+abilityName_1864329356	Counterattack
+abilityName_186730504	Divine Wrath
+abilityName_1873728363	Stand-up Target
+abilityName_187637817	Elemental Fury
+abilityName_1880472850	Infernal Fire
+abilityName_1880618445	Caustic Lump
+abilityName_1896104366	Dehydration
+abilityName_189621577	Shield of the Ancielts
+abilityName_1900893334	Fire-eyed
+abilityName_1926023893	Thunder Strike
+abilityName_1931107000	Spike
+abilityName_1933816717	Dark Lightning
+abilityName_1936259545	Strong Chitin
+abilityName_1950031223	Dragon Strike
+abilityName_1967504509	Snare
+abilityName_1972428904	Legionary's Blade
+abilityName_1983863725	Aura of Death
+abilityName_1984201118	Acceleration
+abilityName_1986403173	Fire Breath
+abilityName_1995908544	Flame of the Inquisition
+abilityName_2009313860	Sign of Judgment
+abilityName_2009535857	Leader’s Summons
+abilityName_2012567388	Resurrection
+abilityName_2018487055	Amnesia
+abilityName_2018730340	Sharpened Nails
+abilityName_202793777	Nature's Energy
+abilityName_2049453761	Soul Reaper
+abilityName_2051551010	Acid Blast
+abilityName_205284442	Sacrifice
+abilityName_2066882253	Fireball
+abilityName_206904243	Venomous Jaws
+abilityName_2069863091	Burn
+abilityName_2071125185	First Aid
+abilityName_2071422099	Chop Attack
+abilityName_2074116514	Hell Fire
+abilityName_2075781800	Undead
+abilityName_20768380	Cleaving Strike
+abilityName_2079823357	Hunter
+abilityName_2082780058	Acid Projectile
+abilityName_2099803808	Dagger Stab
+abilityName_2101411069	Heavenly Wrath
+abilityName_2103442460	Rending Beak
+abilityName_2127196773	Poison Barb
+abilityName_2137462956	Dinosaur’s Roar
+abilityName_2141744678	First Aid
+abilityName_2144720312	Forces of Darkness
+abilityName_2146562159	Draconid’s Blow
+abilityName_21501811	Resurrection
+abilityName_215575582	Judgment
+abilityName_215996622	Storm
+abilityName_228117545	Bite
+abilityName_229458143	Venomous
+abilityName_230944791	Commander
+abilityName_260496860	Thorny Roots
+abilityName_268545087	Roar
+abilityName_277421721	Quiet Combat
+abilityName_278773846	Ghastly Blow
+abilityName_280868432	Serpent Bite
+abilityName_283379776	Slowdown
+abilityName_290053651	Fury
+abilityName_297832232	Drowsiness
+abilityName_306450430	Fireball
+abilityName_307536576	Sharp Pitchfork
+abilityName_310727765	Handful of Dust
+abilityName_311648058	Terror
+abilityName_317057717	Acid Rain
+abilityName_318979698	Jagged Axe
+abilityName_335194153	Legionary's Armour
+abilityName_337357393	Terror of the Seas
+abilityName_353471327	Saber Strike
+abilityName_354010080	Pain Shock
+abilityName_354372598	Blast of Darkness
+abilityName_35499845	Entanglement
+abilityName_361975317	Weakness
+abilityName_362288633	Stone Bark
+abilityName_36525646	Bleeding
+abilityName_370248012	Throwing Needles
+abilityName_378401296	Warden’s Seal
+abilityName_382026253	Spider Web
+abilityName_382964962	Fatal Bite
+abilityName_393404206	Astral Shot
+abilityName_401886649	Magical Armour
+abilityName_402108664	Whirlwind
+abilityName_41170707	Slime Blob
+abilityName_414023845	Shredding Talon
+abilityName_416174630	Stun
+abilityName_4194607	Powerful Attack
+abilityName_420024426	Blessing
+abilityName_421114038	Ice Arrow
+abilityName_421374243	Slowdown
+abilityName_423303023	Zombie Bite
+abilityName_425603989	Armour
+abilityName_43080557	Grenade
+abilityName_431022144	Will of the Dragon
+abilityName_433227381	Shadow of a Thunderstorm
+abilityName_445406477	Piercing Scream
+abilityName_458387343	Beak Attack
+abilityName_466577597	Magic Blade
+abilityName_480283106	Sleep
+abilityName_482935319	Archmage’s Mantle
+abilityName_491821798	Fiery Arrow
+abilityName_494499264	Lava Grenade
+abilityName_495865617	Chain Lightning
+abilityName_499450584	Correction for Wind
+abilityName_506148052	Infernal Curse
+abilityName_509319360	Fright
+abilityName_528058959	Call of the Ancients
+abilityName_531891461	Liberation Potion
+abilityName_532996575	Bandages
+abilityName_533682580	Spiritual Charms
+abilityName_53992937	Putrid Poison
+abilityName_544482152	Viscous Slime
+abilityName_559419347	Phantom Blade
+abilityName_560442234	Hatred of Light
+abilityName_561421384	Wasp Swarm
+abilityName_56363225	Spirit of the North
+abilityName_568359958	Hypnosis
+abilityName_575822498	Rage Burst
+abilityName_578197437	Lazarus’ Staff
+abilityName_583846568	Sign of Power
+abilityName_592630715	Dissection
+abilityName_596728344	Bloodlust
+abilityName_598095299	Ashes
+abilityName_600493823	Enchanted Dust
+abilityName_602139265	Archer’s Shot
+abilityName_605501460	Stupefaction
+abilityName_606705589	Sharpened Weaponry
+abilityName_615563342	Shepherd’s Wrath
+abilityName_615687580	Servant of the Light
+abilityName_616560904	Impiety
+abilityName_619801784	Reanimation
+abilityName_626502930	Spirit Wrath
+abilityName_627928340	Fiery Flash
+abilityName_636411277	Heaven's Wrath
+abilityName_641482315	Stab of Fear
+abilityName_642107590	Armour Bearer
+abilityName_644130697	Animal
+abilityName_648836234	Spore
+abilityName_652303558	Anti-magic Cocoon
+abilityName_655614497	Curse
+abilityName_660365270	Swarm
+abilityName_663211697	Unrequited
+abilityName_668336104	Metal Spikes
+abilityName_671166008	Sleep Ray
+abilityName_676062697	Sleep
+abilityName_676738981	Living Tree
+abilityName_683582393	Acceleration
+abilityName_691925413	Resurrection
+abilityName_69683952	Persistent
+abilityName_704526242	Horn Upswing
+abilityName_707903685	Weakness
+abilityName_710654211	Superiority
+abilityName_711835106	Gore with the Horn
+abilityName_712318492	Priest of Darkness
+abilityName_714277592	Bonds of Dust
+abilityName_714863489	Blow to the Jaw
+abilityName_731162419	Light Drowsiness
+abilityName_747930815	Burn
+abilityName_753420168	Thunder
+abilityName_772221671	Hypnosis
+abilityName_772243365	First Aid
+abilityName_779545085	Astral Strike
+abilityName_787800506	Legionary's Blade
+abilityName_788268983	Legionary's Armour
+abilityName_792020902	Inspiration
+abilityName_793563558	Sharpened Arrows
+abilityName_802808661	Shot of Darkness
+abilityName_805597863	Acid Shot
+abilityName_811708010	Protective Bark
+abilityName_815052999	Thunderbolt
+abilityName_828634348	Flail
+abilityName_828672153	Chilling Touch
+abilityName_837586798	Slowdown
+abilityName_840877886	Earth Shield
+abilityName_844429719	Murderer’s Instinct
+abilityName_848377756	Earth Energy
+abilityName_851947077	Sloth
+abilityName_858416604	Rage
+abilityName_860882195	Needle Blast
+abilityName_867499086	Double Injection
+abilityName_882175294	Smashing Wing
+abilityName_891069436	Forest Child
+abilityName_892822459	Magical Staff
+abilityName_893916734	Dash
+abilityName_903756116	Demonic Enchantment
+abilityName_904959486	Electroshock
+abilityName_923082225	Hypnotism
+abilityName_929843260	Slowdown
+abilityName_93676361	Stunning Blow
+abilityName_937122646	Saber Strike
+abilityName_942953423	Enchanting Flow
+abilityName_946857285	Pervasive Charms
+abilityName_947537027	Acceleration
+abilityName_951824631	Animal Rage
+abilityName_956488622	Sharp Blade
+abilityName_964049910	Raging
+abilityName_965171791	Sleep
+abilityName_973084232	Power of Nature
+abilityName_975940695	Legionary's Blade
+abilityName_980848828	Divine Judgment
+abilityName_988676019	Healing
+abilityName_989788910	Sharpened Teeth
+abilityName_994637115	Venomous Bite
+abilityName_999582089	Lunge
+spell_damage_koeff	<br><br><color=C8C8C8>Damage from other players' attacks is reduced by 50%.</color>
+
+
+

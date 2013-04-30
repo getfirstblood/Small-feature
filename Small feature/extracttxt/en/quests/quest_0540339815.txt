@@ -1,0 +1,8 @@
+﻿quest_system_540339815_desc	The key from the sanctuary with the ancient artifacts? Erm, it's likely to be in the Lower Hall of Saint Elmo or the Library Archive. But woe is me! There is no way any of us can reach the lower levels. I sent some novices to the Book Archive for some old tomes just the other week, and both returned quite gray! It has taken a fortnight to bring them to their senses with potions and salves. I fear that while there are so many ghosts in the cellars, we're unlikely to reach the lower levels before the Spring Equinox. I wonder if anybody could rid us of all those horrors?
+quest_system_540339815_done	Thank you so much for your help! I shall get the key from the cellars myself; I'll spare the novices this time. 
+quest_system_540339815_name	The Sanctuary Monstrosities
+quest_system_540339815_stage_0	Hunt
+quest_system_540339815_task	Destroy {counter_limit_0} Eyebeasts and {counter_limit_1} Ghosts
+
+
+

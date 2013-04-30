@@ -1,0 +1,8 @@
+﻿quest_system_1482981784_desc	By any chance, did you see my messengers? Sick-looking bunch. A twig-thin elf and four shorties with him. You didn’t? That’s too bad. We found an old charm, shaped like a ring. Precious, one may say. I sent it with my messengers to Kronberg. They were last seen around the mountain in the center of the island. Then, one of our scouts brought back a clasp-pin from a cape. A memorable one, shaped like a burdock leaf. There were some White Finger dudes trashing around, maybe they intercepted my messengers. Do me a favor, squash a couple of their gangs; perchance the messengers are still with them, alive?
+quest_system_1482981784_done	So, nothing? Oh well, we’ll keep looking. Here’s something for your trouble.
+quest_system_1482981784_name	Ring, Ring, Ringlet...
+quest_system_1482981784_stage_0	The Rout
+quest_system_1482981784_task	Destroy {counter_limit_0} White Finger gangs. 
+
+
+

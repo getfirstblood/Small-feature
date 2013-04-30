@@ -1,0 +1,8 @@
+﻿quest_system_1710091235_desc	Overall it’s pretty clear. Someone has cast the Astral Barrier spell. Best way to get rid of it is to use the Universal Magic Eraser. An excellent potion. But there is one problem. As you may recall, I don’t have any helpers, and as a result, I don’t have any ingredients either. So any help is welcome. I need Griffin Feathers. You will need to pick a fight with these birds of prey. They are actually quite dangerous. Legendary creatures! This means that you need to be well prepared before fighting them: buy a few magic scrolls, and recruit a few trustworthy warriors. Ready?
+quest_system_1710091235_done	Take a look at you! Looks like those griffins put up quite a fight!
+quest_system_1710091235_name	Griffin Feathers
+quest_system_1710091235_stage_0	Hunt
+quest_system_1710091235_task	Knock a few feathers out of the Dark Griffins.
+
+
+

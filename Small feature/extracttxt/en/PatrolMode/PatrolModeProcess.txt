@@ -1,0 +1,46 @@
+﻿PMP_AbortPatrolConfirm	If you stop patrolling, you will lose you reward. <br>Are you sure you want to cancel patrol?
+PMP_Cancel	Interrupt patrol
+PMP_End	Collect award
+PMP_Exit	[FormButtonText_9][FormButtonColor][$]
+PMP_Header	[FormTitleText][FormTitleColor]Patrolling
+PMP_HeaderColEvent	Event
+PMP_HeaderColReward	Reward
+PMP_HeaderColTime	Time
+PMP_Info	[$]
+PMP_InfoCancel	You can close the browser window and return to the game later.
+PMP_InfoCancel_Tablets	You can close the game and return later.
+PMP_InfoResult_Full	Battles: [?] Victories: [?] Treasures Found: [?]
+PMP_InfoResult_Small	Battles: [?] Victories: [?]
+PMP_ListItem_Event_FoundGold	A secret Gold chest has been found!
+PMP_ListItem_Event_FoundTreasure	Treasure found!
+PMP_ListItem_Event_PatrolFinished	Patrol completed!
+PMP_ListItem_Event_PatrolStart	Patrol started!
+PMP_ListItem_LongEventText	<align=left><valign=center><font=tahoma_regular_8><color=FFD30F>[$]<br><color=F5DFB3>Level [?]
+PMP_ListItem_Reward_Chest	Ancient chest
+PMP_ListItem_Reward_Exp	Experience: <color=FFFF00><font=tahoma_bold_8>+[?]
+PMP_ListItem_Reward_Money	Gold: <color=FFFF00><font=tahoma_bold_8>+[?]
+PMP_ListItem_Reward_Units	Joined: <color=FFFF00><font=tahoma_bold_8>+[?]
+PMP_ListItem_RewardText	<align=left><valign=center><font=tahoma_regular_8><color=FFD30F>[$]
+PMP_ListItem_ShortEventText	<align=left><valign=center><font=tahoma_regular_8><color=F5DFB3>[$]
+PMP_ListItem_Time	<align=center><valign=center><font=tahoma_regular_8><color=FFD30F>[?]
+PMP_ListItem_Tooltip_Chest	Treasures
+PMP_ListItem_Tooltip_Double_Reward	<br>Reward Doubled
+PMP_ListItem_Tooltip_Exp	Experience[?]
+PMP_ListItem_Tooltip_Gold	Gold[?]
+PMP_ListItem_Tooltip_Unit	[?][?]
+PMP_RemainTime	Remaining: [?]
+PMP_RemainTime_Txt	[$]
+PMP_RemainTimeEnd	Completed
+PMP_Text_x2	[$]
+PMP_Text_x2_disable	<align=center><valign=center><font=tahoma_regular_10><color=808080>х2
+PMP_Text_x2_enable	<align=center><valign=center><font=tahoma_regular_10><color=F5DFB3>х2
+PMP_Tooltip_Exit	Exit
+PMP_Tooltip_FoundTreasure	Treasure found
+PMP_Tooltip_Loose	Defeat
+PMP_Tooltip_Timebar	Patrol time remaining
+PMP_Tooltip_Win	You’ve received a reward for victory in battle.
+PMP_Tooltip_X2RewardImg	Wait until the patrol is completed to get a double Gold reward.
+PMP_Tooltop_InfoCancel	Decline additional reward for completing patrol.
+
+
+

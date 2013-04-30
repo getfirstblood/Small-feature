@@ -1,0 +1,29 @@
+﻿chat_system_75554399_actor_description	Druid Amforius. An old druid who ran deep into the woods after his mind slipped a bit.
+chat_system_75554399_snap_0_answer_0	Acorn Hunt
+chat_system_75554399_snap_0_answer_1	Acorn Hunt
+chat_system_75554399_snap_0_answer_2	A tree is a good friend to have!
+chat_system_75554399_snap_0_answer_3	A tree is a good friend to have!
+chat_system_75554399_snap_0_answer_4	Midges
+chat_system_75554399_snap_0_answer_5	Midges
+chat_system_75554399_snap_0_question	Are you looking for roots or miracle dew? Well, no matter, I have neither...
+chat_system_75554399_snap_1_answer_0	begin quest dialog
+chat_system_75554399_snap_1_question	Hello man!
+chat_system_75554399_snap_2_answer_0	(away)
+chat_system_75554399_snap_2_question	I liked it better with acorns! You understand? ...
+chat_system_75554399_snap_3_answer_0	end quest dialog
+chat_system_75554399_snap_3_question	end quest text
+chat_system_75554399_snap_4_answer_0	begin quest dialog
+chat_system_75554399_snap_4_question	Hello man!
+chat_system_75554399_snap_5_answer_0	(away)
+chat_system_75554399_snap_5_question	You understand, friend, unless I... Hey! Didn’t your mother ever teach you not to eavesdrop? Can’t you see I’m talking with a friend? We’re having a private conversation!
+chat_system_75554399_snap_6_answer_0	end quest dialog
+chat_system_75554399_snap_6_question	end quest text
+chat_system_75554399_snap_7_answer_0	begin quest dialog
+chat_system_75554399_snap_7_question	Hello man!
+chat_system_75554399_snap_8_answer_0	(away)
+chat_system_75554399_snap_8_question	Alright, here we go... You wanted something? No? Well, then, farewell... I still have work to do.
+chat_system_75554399_snap_9_answer_0	end quest dialog
+chat_system_75554399_snap_9_question	end quest text
+
+
+

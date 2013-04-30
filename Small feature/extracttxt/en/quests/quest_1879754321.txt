@@ -1,0 +1,8 @@
+﻿quest_system_1879754321_desc	The spiders are overwhelming us. Were they regular ones! At least those we could handle. The Fiery Spiders are the real problem. Hot like an oven full of cinders, the blighters! Just last week they burned down two houses, three barns and one chicken coop. Do us a favor and kill a few dozen. Otherwise they’ll burn down the entire village.
+quest_system_1879754321_done	Excellent! As one of my friends would say, one fights fires by prevention!
+quest_system_1879754321_name	Firefighting Measures
+quest_system_1879754321_stage_0	Hunt
+quest_system_1879754321_task	Destroy {counter_limit_0} Fiery Spiders 
+
+
+

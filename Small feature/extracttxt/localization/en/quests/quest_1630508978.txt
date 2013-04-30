@@ -1,0 +1,8 @@
+﻿quest_system_1630508978_desc	I see a key in your hands. Apparently, I must let you pass; pray do. But know that the sanctuary is filled with the minions of the mage that came here before you. Could it be that I stand between you and a great deal of trouble? They will attack you as soon as I open the passage. Be prepared.
+quest_system_1630508978_done	My congratulations. You appear to have enough gray cells to crush a gang of helter-skelter mages. 
+quest_system_1630508978_name	A Hidden Threat
+quest_system_1630508978_stage_0	Rout
+quest_system_1630508978_task	Repel the attack of the Devourers of Darkness and the Minions of Chaos. 
+
+
+

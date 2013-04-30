@@ -1,0 +1,9 @@
+﻿quest_system_716680744_cntdesc_0	Buy a Scroll of Healing
+quest_system_716680744_desc	As you’ve noticed, combat magic can often reverse the outcome of even the most hopeless battles. However, spell scrolls tend to expire at the most inopportune moments. So it’s always worth keeping a couple in reserve. As it happens, the local store sells the scrolls you need.
+quest_system_716680744_done	Well, that’s a different matter! Now we can find you a worthy opponent.
+quest_system_716680744_name	New Magic
+quest_system_716680744_stage_0	purchasing a scroll
+quest_system_716680744_task	Buy a Scroll of Healing in the Store
+
+
+

@@ -1,0 +1,8 @@
+﻿quest_system_159652440_desc	The town is celebrating holidays, and the townsfolk are having fun. But someone cannot but break the law even at this bright time! In particular, someone stole several gifts from the storehouse. Not that this is such a terrible offense, but just imagine how upset the kids will be unless they get their candy of firecracker. For these little ones the holiday would be spoilt... I have been able to roughly identify those involved in the theft. All you have to do is to bring back what has been stolen. Now, go!
+quest_system_159652440_done	Have you managed to find the stolen gifts? What an excellent job! You are a true savior of the holiday! I will send all this stuff back to the storehouse and tinker with the fireworks in the meantime. I hope we will never have to save the holiday mood like this again!<br>
+quest_system_159652440_name	Theft on the Eve of a Holiday
+quest_system_159652440_stage_0	Items to collect:
+quest_system_159652440_task	Find {counter_limit_0} Holiday Candle, {counter_limit_1} Firecrackers, {counter_limit_2} Candies and {counter_limit_3} Toys
+
+
+

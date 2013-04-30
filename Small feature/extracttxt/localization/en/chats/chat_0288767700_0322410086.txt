@@ -1,0 +1,29 @@
+﻿chat_system_322410086_actor_description	Zach Kisson. Manager of Kisson & Co. Mechanical Shop.
+chat_system_322410086_snap_0_answer_0	Ra-ri-ty!
+chat_system_322410086_snap_0_answer_1	Ra-ri-ty!
+chat_system_322410086_snap_0_answer_2	Failed Experiment
+chat_system_322410086_snap_0_answer_3	Failed Experiment
+chat_system_322410086_snap_0_answer_4	Endless Persistence
+chat_system_322410086_snap_0_answer_5	Endless Persistence
+chat_system_322410086_snap_0_question	Do you have a request or are you just looking around? I have a lot of work to do.
+chat_system_322410086_snap_1_answer_0	begin quest dialog
+chat_system_322410086_snap_1_question	Hello man!
+chat_system_322410086_snap_2_answer_0	(away)
+chat_system_322410086_snap_2_question	A good gun... Grandfather... You can’t get an alloy like that nowadays... So, not much luck so far, I see? Well, I’ll wait. What else can I do?
+chat_system_322410086_snap_3_answer_0	end quest dialog
+chat_system_322410086_snap_3_question	end quest text
+chat_system_322410086_snap_4_answer_0	begin quest dialog
+chat_system_322410086_snap_4_question	Hello man!
+chat_system_322410086_snap_5_answer_0	(away)
+chat_system_322410086_snap_5_question	Some nights I hear distant grumbling in the lake. I’m almost sure it’s caused by these creatures. I hope you’ll deal with them swiftly.
+chat_system_322410086_snap_6_answer_0	end quest dialog
+chat_system_322410086_snap_6_question	end quest text
+chat_system_322410086_snap_7_answer_0	begin quest dialog
+chat_system_322410086_snap_7_question	Hello man!
+chat_system_322410086_snap_8_answer_0	(away)
+chat_system_322410086_snap_8_question	I don’t think I’d like to be their captive. Rumor has it they won’t stop even at experimenting with live people.
+chat_system_322410086_snap_9_answer_0	end quest dialog
+chat_system_322410086_snap_9_question	end quest text
+
+
+

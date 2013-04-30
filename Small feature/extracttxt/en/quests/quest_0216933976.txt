@@ -1,0 +1,8 @@
+﻿quest_system_216933976_desc	I see. No time for old feuds. Battle mages from my garrison are ready to assist Captain Alistair; however, we've got enough problems of our own. The Saurian Shamans roam the nearby woods – as soon as any of my people wander away from the fort, they get caught and are made to serve the Transformed Ones. Their harmful magic is held in check only by the ceaseless efforts of my sorcerers. You must track these lizards and interrupt the flow of their magic while they concentrate their willpower on my people. In that case I'll be able to send some of the mages away from the fort. 
+quest_system_216933976_done	I must admit that you managed to defeat those ancient shamans with the utmost skill. I am therefore forced to recognize the fact that warriors are capable of making themselves useful. It would be a pleasure to fight alongside your team anytime.<br>
+quest_system_216933976_name	Ancient Magick
+quest_system_216933976_stage_0	Rout
+quest_system_216933976_task	Destroy {counter_limit_0} squad of Saurian Sorcerers and {counter_limit_1} squad of Battle Lizards
+
+
+

@@ -1,0 +1,8 @@
+﻿quest_system_1319334139_desc	It’s ready. While you were out in the forest, I made the amulet for you.
+quest_system_1319334139_done	What? He burned it?! What will we do now? I don’t even know if a replacement amulet will work.
+quest_system_1319334139_name	The Third Part of the Key
+quest_system_1319334139_stage_0	Speak
+quest_system_1319334139_task	Get the key from Lok Toyl.
+
+
+

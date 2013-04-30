@@ -1,0 +1,41 @@
+﻿chat_system_452929199_actor_description	Elder Stutz Village Elder
+chat_system_452929199_snap_0_answer_0	To Turtle Hill
+chat_system_452929199_snap_0_answer_1	Scarlet Sashes
+chat_system_452929199_snap_0_answer_2	Scarlet Sashes
+chat_system_452929199_snap_0_answer_3	Insolent Cultists
+chat_system_452929199_snap_0_answer_4	Insolent Cultists
+chat_system_452929199_snap_0_answer_5	Graveyard Visit
+chat_system_452929199_snap_0_answer_6	Further Down the Path
+chat_system_452929199_snap_0_answer_7	Scarlet Sash Gang
+chat_system_452929199_snap_0_answer_8	The Scarlet Sash Gang
+chat_system_452929199_snap_0_answer_9	The Path across the Graveyard
+chat_system_452929199_snap_0_question	Please come in and make yourself at home.
+chat_system_452929199_snap_1_answer_0	end quest dialog
+chat_system_452929199_snap_1_question	Hello man!
+chat_system_452929199_snap_10_answer_0	begin quest dialog
+chat_system_452929199_snap_10_question	Hello man!
+chat_system_452929199_snap_11_answer_0	(away)
+chat_system_452929199_snap_11_question	Just look at them. Scarlet Sashes Just like Scarlet Corsairs. Only the Corsairs kept all the Archipelago in check, and these guys are just scum... A lot of scum, though.
+chat_system_452929199_snap_12_answer_0	end quest dialog
+chat_system_452929199_snap_12_question	end quest text
+chat_system_452929199_snap_13_answer_0	begin quest dialog
+chat_system_452929199_snap_13_question	Hello man!
+chat_system_452929199_snap_2_answer_0	begin quest dialog
+chat_system_452929199_snap_2_question	Hello man!
+chat_system_452929199_snap_3_answer_0	(away)
+chat_system_452929199_snap_3_question	Just look at them. Scarlet Sashes Just like Scarlet Corsairs. Only the Corsairs kept all the Archipelago in check, and these guys are just scum... A lot of scum, though.
+chat_system_452929199_snap_4_answer_0	end quest dialog
+chat_system_452929199_snap_4_question	end quest text
+chat_system_452929199_snap_5_answer_0	begin quest dialog
+chat_system_452929199_snap_5_question	Hello man!
+chat_system_452929199_snap_6_answer_0	(away)
+chat_system_452929199_snap_6_question	I’m sure these Cultists are dangerous, with Rusith as my witness! If the troops go, somebody is sure to get kidnapped. And who’ll have to answer for it, but me and you!
+chat_system_452929199_snap_7_answer_0	end quest dialog
+chat_system_452929199_snap_7_question	end quest text
+chat_system_452929199_snap_8_answer_0	begin quest dialog
+chat_system_452929199_snap_8_question	Hello man!
+chat_system_452929199_snap_9_answer_0	end quest dialog
+chat_system_452929199_snap_9_question	Hello man!
+
+
+

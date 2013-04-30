@@ -1,0 +1,8 @@
+﻿quest_system_342031289_desc	Here’s the story. We caught that Giango boy right next to the traps. Be what may, he is involved somehow. Kronberg wants animal skins, and these poachers have been killing off all of the beasts around here. I need to be in good standing with the city bureaucrats. Hmm. What if I let your buddy Giango go? What then will be my excuse for not filling my skin quota? I’ll tell you what. Help me get some animal skins, and then we’ll talk. All you need to do is catch some griffins and bears. Deal?
+quest_system_342031289_done	You know, I like doing business with you. Would you like to moonlight a little? Okay, just kidding! Duty and all that, I get it. Here’s your Giango. But if we catch him again, his head is off! 
+quest_system_342031289_name	Deal Under Duress
+quest_system_342031289_stage_0	Hunt
+quest_system_342031289_task	Destroy {counter_limit_0} Dark Griffins and {counter_limit_1} Possessed Bears.
+
+
+

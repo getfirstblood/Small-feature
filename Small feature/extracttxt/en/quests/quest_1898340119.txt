@@ -1,0 +1,8 @@
+﻿quest_system_1898340119_desc	Hereby, per official statute, I congratulate you on your acceptance into the service of the Kingdom. All graduates of the Knight Academy may count on obtaining the highest rank. Within these walls, real heroes have been nurtured. But for you, that is still a distant future, so let’s get the formalities over with and get down to business. As you can see, we are at war. The Island has been besieged for three months by pirate gangs, and our brave warriors aren’t making any headway. Your task is to ruthlessly destroy the enemy and earn the praise of our most virtuous commander. I just received your assignment to the Garrison of the Order, located up the north road. You’ll find the quartermaster there; he’ll give you your actual place of service. Farewell . . . And good luck, it won't hurt!
+quest_system_1898340119_done	I see... Reinforcements are here. We could use some fresh blood.
+quest_system_1898340119_name	Assignment
+quest_system_1898340119_stage_0	Receive your service assignment from the Order Garrison Quartermaster
+quest_system_1898340119_task	Receive your service assignment from the Order Garrison Quartermaster.
+
+
+

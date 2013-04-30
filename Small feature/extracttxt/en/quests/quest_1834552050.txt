@@ -1,0 +1,8 @@
+﻿quest_system_1834552050_desc	These cultists came here before you. They appeared all of a sudden, and that jarl was with them, you know, the free-roaming pirate. He appears to have laid his hands on the key during one of his adventures at sea. I had to let them pass, but they did not loot the sanctuary, to my utmost surprise. They wanted only the Crystal of Arymbus. You humans are so bizarre. Why would anybody need this worthless shard when there are so many artifacts of great power all around? Your exorcist friends might know more. 
+quest_system_1834552050_done	So the cultists haven't taken any dangerous artifacts? This is very odd indeed. 
+quest_system_1834552050_name	What the Gate Doesn't Say
+quest_system_1834552050_stage_0	Maximus
+quest_system_1834552050_task	Give a full report to Maximus
+
+
+

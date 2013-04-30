@@ -1,0 +1,8 @@
+﻿quest_system_1081488520_desc	I just got a sizable order for bear skins and my guys very simply cannot manage it. There are plenty of bears around; I don’t even know where they came from. Could you help us out? You only have to kill them, and my laborers will skin them right away.
+quest_system_1081488520_done	I see the guys already cleaned up after you. Still, we may be too late with that order...
+quest_system_1081488520_name	Furry Apocalypse
+quest_system_1081488520_stage_0	Hunt
+quest_system_1081488520_task	Destroy {counter_limit_0} Possessed Bears. 
+
+
+

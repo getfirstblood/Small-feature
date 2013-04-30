@@ -1,0 +1,8 @@
+﻿quest_system_2033237301_desc	The war between humankind and us, the Transformed Ones, will rage on until we wipe your accursed species out! The Jarls? Nothing but despicable pirates and bandits overcome by wild fancies. Another tool from our arsenal. You and the witch may have interrupted our ritual, but we shall conduct another one somewhere else, it is just a matter of time!
+quest_system_2033237301_done	So he's managed to flee, hasn't he? Through a portal, no less. I hope this madman refrains from other antics in this vein henceforth. Fancy trying to revive ancient powers and hoping to control them! The Guardians tried it once, and their attempt brought about the Cataclysm. On the other hand... Perhaps he didn't mean to control them after all? Could he have wanted for the catastrophe that afflicted a faraway continent once to repeat and hit inhabited islands this time. Would he have perished himself? Hardly. Nothing would hold him from opening a portal and winding up halfway across the globe. He would dump his soldiers here, though – they are mere tools to him. 
+quest_system_2033237301_name	The Foreboding
+quest_system_2033237301_stage_0	Morania
+quest_system_2033237301_task	Meet Morania and try to establish what had happened
+
+
+

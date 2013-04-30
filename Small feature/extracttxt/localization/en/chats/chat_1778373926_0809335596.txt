@@ -1,0 +1,37 @@
+﻿chat_system_809335596_actor_description	Lina Frizzle. A female Mage from the faraway northern island of Ruttespiel.
+chat_system_809335596_snap_0_answer_0	Visitors from Ruttespiel
+chat_system_809335596_snap_0_answer_1	Visitors from Ruttespiel
+chat_system_809335596_snap_0_answer_2	A War against Shadows
+chat_system_809335596_snap_0_answer_3	A War against Shadows
+chat_system_809335596_snap_0_answer_4	Triumvirate
+chat_system_809335596_snap_0_answer_5	Triumvirate
+chat_system_809335596_snap_0_answer_6	Theft on the Eve of a Holiday
+chat_system_809335596_snap_0_answer_7	Theft on the Eve of a Holiday
+chat_system_809335596_snap_0_question	I have arrived on a mission to capture dangerous renegade Mages. Please don't bother me with trifles.
+chat_system_809335596_snap_1_answer_0	begin quest dialog
+chat_system_809335596_snap_1_question	Hello man!
+chat_system_809335596_snap_10_answer_0	begin quest dialog
+chat_system_809335596_snap_10_question	Hello man!
+chat_system_809335596_snap_11_answer_0	(away)
+chat_system_809335596_snap_11_question	Have you found everything? Don't delay, or else someone will be left without a gift! We don't want this to happen, do we? This would be worse than the most terrible disaster for someone who believes in the magic of this holiday.
+chat_system_809335596_snap_12_answer_0	end quest dialog
+chat_system_809335596_snap_12_question	end quest text
+chat_system_809335596_snap_2_answer_0	(away)
+chat_system_809335596_snap_2_question	Don't even think about asking me for an assignment before you prove to me you deserve the name of a warrior! If you cannot deal with the bears, you're not up to the challenge that awaits you!
+chat_system_809335596_snap_3_answer_0	end quest dialog
+chat_system_809335596_snap_3_question	end quest text
+chat_system_809335596_snap_4_answer_0	begin quest dialog
+chat_system_809335596_snap_4_question	Hello man!
+chat_system_809335596_snap_5_answer_0	(away)
+chat_system_809335596_snap_5_question	Any good news? Don't be in a rush, but don't procrastinate either. Once I'm done with the last folio I am interested in, I'll have to get down to it myself, and then you can forget about your reward!
+chat_system_809335596_snap_6_answer_0	end quest dialog
+chat_system_809335596_snap_6_question	end quest text
+chat_system_809335596_snap_7_answer_0	begin quest dialog
+chat_system_809335596_snap_7_question	Hello man!
+chat_system_809335596_snap_8_answer_0	(away)
+chat_system_809335596_snap_8_question	Those three Mages are capable of plunging the island into sheer chaos, unless we prevent them from gathering their forces. They left ashes in place of once-beautiful cities on our island, and I don't think you want the same to happen to your own island. Don't let me down.
+chat_system_809335596_snap_9_answer_0	end quest dialog
+chat_system_809335596_snap_9_question	end quest text
+
+
+

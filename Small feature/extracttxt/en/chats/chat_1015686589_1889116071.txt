@@ -1,0 +1,28 @@
+﻿chat_system_1889116071_actor_description	Lazarus Fanatical leader of the Lazarus Cult
+chat_system_1889116071_snap_0_answer_0	Flight
+chat_system_1889116071_snap_0_answer_1	The Elusive Lazarus
+chat_system_1889116071_snap_0_answer_2	Lazarus’ Army
+chat_system_1889116071_snap_0_answer_3	Lazarus’ Army
+chat_system_1889116071_snap_0_answer_4	A Personal Encounter
+chat_system_1889116071_snap_0_answer_5	The Foreboding
+chat_system_1889116071_snap_0_answer_6	The Foreboding
+chat_system_1889116071_snap_0_question	Mortals! You are the dust under my boots! You are like the dirt on my hands! I’ll stamp you out, I’ll wipe you off the face of the world! There’s no higher cause than cleansing by the Power!
+chat_system_1889116071_snap_1_answer_0	end quest dialog
+chat_system_1889116071_snap_1_question	Hello man!
+chat_system_1889116071_snap_2_answer_0	begin quest dialog
+chat_system_1889116071_snap_2_question	Hello man!
+chat_system_1889116071_snap_3_answer_0	begin quest dialog
+chat_system_1889116071_snap_3_question	Hello man!
+chat_system_1889116071_snap_4_answer_0	(away)
+chat_system_1889116071_snap_4_question	Approach, so that my zombies may devour your flesh!
+chat_system_1889116071_snap_5_answer_0	end quest dialog
+chat_system_1889116071_snap_5_question	end quest text
+chat_system_1889116071_snap_6_answer_0	end quest dialog
+chat_system_1889116071_snap_6_question	Hello man!
+chat_system_1889116071_snap_7_answer_0	begin quest dialog
+chat_system_1889116071_snap_7_question	Hello man!
+chat_system_1889116071_snap_8_answer_0	end quest dialog
+chat_system_1889116071_snap_8_question	Hello man!
+
+
+

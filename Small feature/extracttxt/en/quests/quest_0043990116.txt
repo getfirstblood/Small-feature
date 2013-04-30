@@ -1,0 +1,8 @@
+﻿quest_system_43990116_desc	The dark Mages have kidnapped Fatto the forester from our camp. They want to use him as a guide to get through our lands. We were combing the forest trying to find the kidnappers, but as soon as we managed to find some tracks heading North, we were captured by the baron's troops. It's not much use talking about it now. We've lost time, but I doubt the cultists have gone far – they'll be hiding in the Bear Forest. I'm hoping that you'll be able to find them and free Fatto. His knowledge of the dangerous inhabitants of these lands is essential for assuring safe passage for the Gray Wardens.
+quest_system_43990116_done	Who's there? Oh my goodness. I had given up hope of ever encountering an actual human being again. I've spent the last few weeks in the company of those darned necromancers. I wouldn't wish being imprisoned by them on my worst enemy.
+quest_system_43990116_name	Imprisoned by Dark Mages
+quest_system_43990116_stage_0	Fatto
+quest_system_43990116_task	Talk to Fatto the Ranger
+
+
+

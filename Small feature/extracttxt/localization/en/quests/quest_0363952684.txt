@@ -1,0 +1,8 @@
+﻿quest_system_363952684_desc	Our Academy Tiltyard training exercises are often hindered by the Fairies. They are attracted by fiery magic, and if they gather in numbers large enough, they are impossible to get rid of. But if you destroy some of them, it will substantially improve our situation.
+quest_system_363952684_done	With the Fairies gone, we can focus on our training. I hope we’ll be able to use your help again when we need to destroy more of the troublesome creatures.
+quest_system_363952684_name	Like Moths in the Fire
+quest_system_363952684_stage_0	Hunt
+quest_system_363952684_task	Destroy {counter_limit_0} Young Fairies. 
+
+
+

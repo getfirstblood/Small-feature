@@ -1,0 +1,8 @@
+﻿quest_system_1574065928_desc	This is a grave matter and no mistake. There are indeed two cultist encampments nearby. However, Lazarus himself lit out to Signal Isle. He's a formidable opponent – a dark mage of great power. I have barely managed to penetrate his infernal barrier to discover his hideout. He and his demonologists appear to be preparing for some ritual that involves this crystal. I think they mean business and that we must act without delay. Seems as though you won't be able to take on Lazarus without my help. Who else has the knowledge of all the dark magic traps? But even I shall need support. Go to old man Albus and tell him everything. He should gather all capable mages and send them to the Signal Isle; I'll get there on my own one way or another. I do hope we manage to stop this madman in time. 
+quest_system_1574065928_done	Morania has joined us; that's good news. However, a lot remains to be done. The situation is very grave indeed. 
+quest_system_1574065928_name	The Storm Clouds Are Gathering
+quest_system_1574065928_stage_0	Albus
+quest_system_1574065928_task	Tell all the details pertaining to the present situation to the Archmage
+
+
+

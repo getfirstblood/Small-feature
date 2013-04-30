@@ -1,0 +1,8 @@
+﻿quest_system_180863793_desc	Hey, take a look – this Lazarus appears to be alive. Is there anything he would like to say? Don't be afraid of him – his powers have been exhausted to the very last drop; he won't be able to muster the simplest of spells in this condition.
+quest_system_180863793_done	You think you've won? Har har har! This is just the beginning!
+quest_system_180863793_name	A Personal Encounter
+quest_system_180863793_stage_0	Lazarus
+quest_system_180863793_task	Seize Lazarus
+
+
+

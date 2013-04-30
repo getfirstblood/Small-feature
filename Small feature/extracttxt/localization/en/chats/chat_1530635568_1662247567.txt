@@ -1,0 +1,33 @@
+﻿chat_system_1662247567_actor_description	Abbot Lawrence. Pastor and abbot of the future Temple of Light.
+chat_system_1662247567_snap_0_answer_0	Deciphering Required
+chat_system_1662247567_snap_0_answer_1	A Strange Radiance
+chat_system_1662247567_snap_0_answer_2	A Strange Radiance
+chat_system_1662247567_snap_0_answer_3	The Captain's Nerves
+chat_system_1662247567_snap_0_answer_4	Key to the Past
+chat_system_1662247567_snap_0_answer_5	Monsters of the Sanctuary
+chat_system_1662247567_snap_0_answer_6	Monsters of the Sanctuary
+chat_system_1662247567_snap_0_answer_7	A New Key
+chat_system_1662247567_snap_0_question	Open your heart to the Light. Upon entering, the Light will cleanse you of impurity and deliver the blessing of St. Rusith.
+chat_system_1662247567_snap_10_answer_0	end quest dialog
+chat_system_1662247567_snap_10_question	end quest text
+chat_system_1662247567_snap_15_answer_0	end quest dialog
+chat_system_1662247567_snap_15_question	Hello man!
+chat_system_1662247567_snap_16_answer_0	begin quest dialog
+chat_system_1662247567_snap_16_question	Hello man!
+chat_system_1662247567_snap_17_answer_0	(away)
+chat_system_1662247567_snap_17_question	Will our wretched isle ever see an age of peace?
+chat_system_1662247567_snap_18_answer_0	end quest dialog
+chat_system_1662247567_snap_18_question	end quest text
+chat_system_1662247567_snap_19_answer_0	begin quest dialog
+chat_system_1662247567_snap_19_question	Hello man!
+chat_system_1662247567_snap_6_answer_0	end quest dialog
+chat_system_1662247567_snap_6_question	Hello man!
+chat_system_1662247567_snap_7_answer_0	begin quest dialog
+chat_system_1662247567_snap_7_question	Hello man!
+chat_system_1662247567_snap_8_answer_0	(away)
+chat_system_1662247567_snap_8_question	For certain creatures, death is deliverance, anyway. Perhaps they’ll get a second chance in the next life.
+chat_system_1662247567_snap_9_answer_0	begin quest dialog
+chat_system_1662247567_snap_9_question	Hello man!
+
+
+

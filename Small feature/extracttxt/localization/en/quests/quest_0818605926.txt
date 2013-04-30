@@ -1,0 +1,8 @@
+﻿quest_system_818605926_desc	Take your deciphered manuscripts, and go back to your captain before anything else spawns from these cursed magic papers.
+quest_system_818605926_done	Did you manage to get the documents deciphered? That is excellent news. I heard that you had to go through a lot to get old Meshmer to help you.<br>
+quest_system_818605926_name	All Seals are Removed
+quest_system_818605926_stage_0	Crunch
+quest_system_818605926_task	Deliver the decrypted documents to Captain Crunch<br>
+
+
+

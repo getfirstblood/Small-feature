@@ -1,0 +1,8 @@
+﻿quest_system_1064358264_desc	It’s time for serious business. The Commander has asked for you personally. I don’t know what assignment he has for you, but you’d better hurry up. The Headquarters are in Kronberg, so you should go there right away! And keep it quiet along the way! Lots of suspicious types roam around here.
+quest_system_1064358264_done	What? A highly important secret assignment? Oh, the Quartermaster always confuses everything. There’s no rush. But I’ll soon have an important mission for you.
+quest_system_1064358264_name	Very Important Secret Assignment
+quest_system_1064358264_stage_0	Speak
+quest_system_1064358264_task	Receive a top secret mission from Commander Tarcus.
+
+
+

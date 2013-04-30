@@ -1,0 +1,8 @@
+﻿quest_system_792109550_desc	It is vital that we get the marching troops through here safely. I can give you a few members from my garrison to strengthen your troops. I can probably find a few attack scrolls for you as well. But if we aren't prepared, it could all be for nothing. You need to be trained well. A nice shake-up before battle. I am going to have a few of my boys fight yours. Don't think that we will go easy on you.
+quest_system_792109550_done	It couldn't have gone better. Now I can see that your soldiers are ready to fight these hordes of spiders. With the help of our reinforcements, these beasts will have no chance of survival.
+quest_system_792109550_name	A Shake-up before Battle
+quest_system_792109550_stage_0	Troop of Gray Wardens
+quest_system_792109550_task	Triumph over the squad of Gray Wardens
+
+
+

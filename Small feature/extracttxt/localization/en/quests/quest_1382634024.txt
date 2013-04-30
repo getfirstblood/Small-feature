@@ -1,0 +1,8 @@
+﻿quest_system_1382634024_desc	Oh, your grace, we’re in trouble! Those forest guys in green outfits have gotten into the habit of visiting us. Those, what do you call them..? Druids! They forbid us to butcher cattle, to eat meat. They say, “Eat only grass, and prior to eating it, ask its forgiveness.” Anyone who disagrees with them, they beat up. Could you, maybe, reason with them? As it is, our elder has been all black-and-blue for a week already.
+quest_system_1382634024_done	I don’t even know how to thank you properly! Here, our elder has sent you some money, he couldn’t come ‘cause he’s still sick. Let these green fools eat their grass in their forest! We can decide for ourselves whether we prefer melon to steak.
+quest_system_1382634024_name	Greens in a Village
+quest_system_1382634024_stage_0	Rout
+quest_system_1382634024_task	Destroy {counter_limit_0} armies of the Forest Visitors. 
+
+
+

@@ -1,0 +1,8 @@
+﻿quest_system_361505416_desc	It’s done. Yes, it didn’t go as well as I’d hoped. But that’s alright. Tell the quartermaster that his beloved junk-boats may dock now. I must get some sleep now, and then I’m off to... ahem... chat with the archmage. And please keep this confidential, all right? Anyone can make a mistake, you know.
+quest_system_361505416_done	Is it done?! Blessed be Rusith! I thought that would be the end of me! And my kids would be orphaned! I’ll go give the order for the ships to dock.
+quest_system_361505416_name	Everyone to the pier!
+quest_system_361505416_stage_0	Speak
+quest_system_361505416_task	Inform the Port Quartermaster that the spell is broken.
+
+
+

@@ -1,0 +1,19 @@
+﻿chat_system_868726270_actor_description	Master Strummer. Give him a screw and he’ll transform it into a nail, making a profit for himself!
+chat_system_868726270_snap_0_answer_0	Magnet Stone
+chat_system_868726270_snap_0_answer_1	Madness
+chat_system_868726270_snap_0_answer_2	Madness
+chat_system_868726270_snap_0_answer_3	The Second Part of the Key
+chat_system_868726270_snap_0_question	The arrival of the Order did make it more orderly here, with evil creatures and wild Beasts mostly eliminated. But somehow a great number of Pirates and various other bandits took their place.
+chat_system_868726270_snap_1_answer_0	end quest dialog
+chat_system_868726270_snap_1_question	Hello man!
+chat_system_868726270_snap_2_answer_0	begin quest dialog
+chat_system_868726270_snap_2_question	Hello man!
+chat_system_868726270_snap_3_answer_0	(away)
+chat_system_868726270_snap_3_question	Sorry for your own? How is it that they’re your own? Look, they’re no one’s. When these folks start inhaling fumes, they go totally weird.
+chat_system_868726270_snap_4_answer_0	end quest dialog
+chat_system_868726270_snap_4_question	end quest text
+chat_system_868726270_snap_5_answer_0	begin quest dialog
+chat_system_868726270_snap_5_question	Hello man!
+
+
+

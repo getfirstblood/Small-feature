@@ -1,0 +1,8 @@
+﻿quest_system_1838641137_desc	Well... It looks like they are taking you away. And our work had started so well... You’ve got talent, you just need some training. Anyway, the quartermaster was looking for you. He said he had a real mission for you. What kind of mission? By Rusith, who knows? You’ll find out once you’re there.
+quest_system_1838641137_done	The Alchemist spoke very well of you. He said one could count on you. Pretty soon, working for him will seem like a vacation... Trust me!
+quest_system_1838641137_name	And it started so well...
+quest_system_1838641137_stage_0	Speak
+quest_system_1838641137_task	Speak with the Order Garrison Quartermaster.
+
+
+

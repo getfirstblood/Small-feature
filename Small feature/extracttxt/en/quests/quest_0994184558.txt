@@ -1,0 +1,8 @@
+﻿quest_system_994184558_desc	Our mission here is critically important. We restore the island ecology by bits and pieces, using magic to regrow extinct species and monitor their populations. But all our efforts are in vain if we don’t get rid of the Northern Forest Poachers. Many dwarf draconoids and golden-beaked griffins have vanished under their knives. And nobody knows how much their appetites may grow tomorrow. It’s a catastrophe. If you could trace and destroy their gang, it’ll be a truly good deed.
+quest_system_994184558_done	The news of that poaching gang's demise is the best I've heard recently. I might as well release a population of firemaned dragons into the wild. But then, the local fauna may not be robust enough yet to meet such ferocious predators. I think I'll discuss this with the other Masters.
+quest_system_994184558_name	Hunting for Poachers
+quest_system_994184558_stage_0	Rout
+quest_system_994184558_task	Destroy {counter_limit_0} teams of Northern Forest Poachers. 
+
+
+

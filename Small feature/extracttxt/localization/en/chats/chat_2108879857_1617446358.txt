@@ -1,0 +1,13 @@
+﻿chat_system_1617446358_actor_description	Captain Rando. The brave captain of the Northern Bay Garrison
+chat_system_1617446358_snap_0_answer_0	Spirit Attack
+chat_system_1617446358_snap_0_answer_1	Spirit Attack
+chat_system_1617446358_snap_0_question	It's hard service out here. Never a dull moment.
+chat_system_1617446358_snap_1_answer_0	begin quest dialog
+chat_system_1617446358_snap_1_question	Hello man!
+chat_system_1617446358_snap_2_answer_0	(away)
+chat_system_1617446358_snap_2_question	We always track the movements of these cocky pirate riders but still can’t predict where they’ll attack next. So you’d better trust your hunch.
+chat_system_1617446358_snap_3_answer_0	end quest dialog
+chat_system_1617446358_snap_3_question	end quest text
+
+
+

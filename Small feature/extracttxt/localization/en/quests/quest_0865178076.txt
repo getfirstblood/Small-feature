@@ -1,0 +1,8 @@
+﻿quest_system_865178076_desc	First things first. Let’s enforce some tidiness around here! The swamp isn’t the most pleasant of places, but things are splendid here in the spring. And as for the rest of the time... mud, mosquitoes, and slush. The animals around here get so dirty in the mud that they look truly frightening. And stink even worse. Destroy a few Fetid Packs and things will be much cleaner!
+quest_system_865178076_done	Excellent! Now let’s start collecting some roots!
+quest_system_865178076_name	Putting Things in Order
+quest_system_865178076_stage_0	Rout
+quest_system_865178076_task	Excellent! And now for some root picking!
+
+
+

@@ -1,0 +1,29 @@
+﻿chat_system_437609799_actor_description	Detective Barton. A renowned detective in the Royal secret service. He's shrewd and cautious.
+chat_system_437609799_snap_0_answer_0	An Unexpected Encounter
+chat_system_437609799_snap_0_answer_1	An Unexpected Encounter
+chat_system_437609799_snap_0_answer_2	Thieves with Poisons
+chat_system_437609799_snap_0_answer_3	Thieves with Poisons
+chat_system_437609799_snap_0_answer_4	Shoulder to Shoulder against Evil
+chat_system_437609799_snap_0_answer_5	Shoulder to Shoulder against Evil
+chat_system_437609799_snap_0_question	You may look but please don't touch anything. All things here are real evidence. You might become one of the suspects inadvertently.
+chat_system_437609799_snap_1_answer_0	begin quest dialog
+chat_system_437609799_snap_1_question	Hello man!
+chat_system_437609799_snap_2_answer_0	(away)
+chat_system_437609799_snap_2_question	Well, how did it go? Did you manage to get the staff? All right, then. I'll be expecting the good news.
+chat_system_437609799_snap_3_answer_0	end quest dialog
+chat_system_437609799_snap_3_question	end quest text
+chat_system_437609799_snap_4_answer_0	begin quest dialog
+chat_system_437609799_snap_4_question	Hello man!
+chat_system_437609799_snap_5_answer_0	(away)
+chat_system_437609799_snap_5_question	Have you managed to find anything out? Any traces of them? I am concerned that this might be the beginning of a planned invasion of the port. Have you gathered a party of courageous companions and defeated those Corsairs? 
+chat_system_437609799_snap_6_answer_0	end quest dialog
+chat_system_437609799_snap_6_question	end quest text
+chat_system_437609799_snap_7_answer_0	begin quest dialog
+chat_system_437609799_snap_7_question	Hello man!
+chat_system_437609799_snap_8_answer_0	(away)
+chat_system_437609799_snap_8_question	Have you gathered a party of courageous companions and defeated those Corsairs? Please don't delay. The city has been besieged, you know...
+chat_system_437609799_snap_9_answer_0	end quest dialog
+chat_system_437609799_snap_9_question	end quest text
+
+
+

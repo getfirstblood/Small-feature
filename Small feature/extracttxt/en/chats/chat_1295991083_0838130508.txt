@@ -1,0 +1,19 @@
+﻿chat_system_838130508_actor_description	Fatto the Ranger. An old ranger who knows every single blade of grass in the forest
+chat_system_838130508_snap_0_answer_0	Imprisoned by Dark Mages
+chat_system_838130508_snap_0_answer_1	The Sleepy Knight
+chat_system_838130508_snap_0_answer_2	The Sleepy Knight
+chat_system_838130508_snap_0_answer_3	Report for the Fort Commander
+chat_system_838130508_snap_0_question	Be careful. We have amazing, one can even say, magical animals walking around the place.
+chat_system_838130508_snap_1_answer_0	end quest dialog
+chat_system_838130508_snap_1_question	Hello man!
+chat_system_838130508_snap_2_answer_0	begin quest dialog
+chat_system_838130508_snap_2_question	Hello man!
+chat_system_838130508_snap_3_answer_0	(away)
+chat_system_838130508_snap_3_question	Don’t even think about it. There is no way I would have anything to do with these dryads! This is something you’ll have to deal with yourself.
+chat_system_838130508_snap_4_answer_0	end quest dialog
+chat_system_838130508_snap_4_question	end quest text
+chat_system_838130508_snap_5_answer_0	begin quest dialog
+chat_system_838130508_snap_5_question	Hello man!
+
+
+

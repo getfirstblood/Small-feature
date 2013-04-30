@@ -1,0 +1,11 @@
+﻿chat_system_1637842646_actor_description	Druid Grundel A Druid fighting for his radical beliefs
+chat_system_1637842646_snap_0_answer_0	Green Ultimatum
+chat_system_1637842646_snap_0_answer_1	Shuttle Diplomacy
+chat_system_1637842646_snap_0_question	Fre-e-dom to the fo-o-rest! Fre-e-dom to the fo-o-rest! We won’t leave, we won’t budge, despite your refusal to negotiate with us!
+chat_system_1637842646_snap_1_answer_0	end quest dialog
+chat_system_1637842646_snap_1_question	Hello man!
+chat_system_1637842646_snap_2_answer_0	begin quest dialog
+chat_system_1637842646_snap_2_question	Hello man!
+
+
+

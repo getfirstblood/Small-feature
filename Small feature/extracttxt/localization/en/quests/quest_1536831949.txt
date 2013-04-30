@@ -1,0 +1,8 @@
+﻿quest_system_1536831949_desc	My warriors cannot make any headway on the road to the Ancient Heathen Fane. The Demonologists have surrounded it with infernal traps and barriers that make it impossible for large parties to advance any farther. I hope you can help us defeat the demonologists who control all the approaches to the Fane. 
+quest_system_1536831949_done	The road is clear. We must but disarm a number of magical traps. 
+quest_system_1536831949_name	Infernal Traps
+quest_system_1536831949_stage_0	Hunt
+quest_system_1536831949_task	Destroy {counter_limit_0} Demonologists. 
+
+
+

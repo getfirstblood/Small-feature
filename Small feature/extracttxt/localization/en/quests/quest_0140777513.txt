@@ -1,0 +1,8 @@
+﻿quest_system_140777513_desc	The spiders have been coming out of the forest for the second day in a row. Their lair is there, but never before have they left it. At least not in these numbers. I have a hunch that something has incited them to flood in like this. When the troops come, they’ll have to fight their way through, and inevitably they’ll suffer some losses. I have some spider venom antidote, but not enough for such a large party. But for you and your warriors I’ll get a few flasks from my old supply. Destroy some Fiery Spiders and some Cave Spiders. It may scare the rest away.
+quest_system_140777513_done	Well, now there are less of them around. Don’t know for how long, though. We must figure out what incited them to action.
+quest_system_140777513_name	Through the Web
+quest_system_140777513_stage_0	Hunt
+quest_system_140777513_task	Destroy {counter_limit_0} Fiery Spiders and {counter_limit_1} Cave Spiders
+
+
+

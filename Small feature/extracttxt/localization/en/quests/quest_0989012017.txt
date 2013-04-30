@@ -1,0 +1,9 @@
+﻿quest_system_989012017_cntdesc_0	Add one Archer to your army
+quest_system_989012017_desc	Legionary, I congratulate you on your first victories! They have brought you not only valuable combat experience but also credibility. So now you can lead a large army into battle. Which means it's time to fill your ranks with new recruits. Each village has recruits who want to fight under the banner of a famous general. Try to recruit a few Archers in the nearest shop.
+quest_system_989012017_done	Aha! I see that you have already filled up your ranks! Good for you. Remember that different populations will have different kinds of recruits. It is important to always have a couple of loyal warriors in reserve in case of emergency.
+quest_system_989012017_name	First Completion
+quest_system_989012017_stage_0	Army Replenishment
+quest_system_989012017_task	Buy an archer in the Store
+
+
+

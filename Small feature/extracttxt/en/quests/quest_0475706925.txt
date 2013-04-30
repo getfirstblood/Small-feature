@@ -1,0 +1,8 @@
+﻿quest_system_475706925_desc	I see you are eager to show what you can do. That’s an admirable quality. Just outside, there’s a horde of brigands waiting for you. They probably want to steal your money... and your officer’s papers. It is time to teach them some manners, and show what a soldier of the Knights’ Academy is really worth! Go ahead. I’ll be watching.
+quest_system_475706925_done	Did you make it out alright? No injuries? Great! Looks like your training has paid off. You’ll do well in the king’s service.
+quest_system_475706925_name	Show Me What You Are Made Of
+quest_system_475706925_stage_0	A Throng of Bandits
+quest_system_475706925_task	Deal with the Horde of Brigands
+
+
+

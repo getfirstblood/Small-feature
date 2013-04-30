@@ -1,0 +1,6 @@
+﻿IMF_SimpleTextTmpl	[?]
+IMF_TextTmpl	<align=center><valign=center><font=tahoma_bold_10><color=44371C>[$]
+IMF_TitleTmpl	[FormTitleText][FormTitleColor][$]
+
+
+

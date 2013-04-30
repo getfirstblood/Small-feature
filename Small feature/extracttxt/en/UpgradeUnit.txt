@@ -1,0 +1,50 @@
+﻿UCF_Header	[FormTitleText][FormTitleColor]Training
+UCInfo_CreatureName	[UU_Center_Align]<font=tahoma_bold_11_border_smooth><color=FFEA03>[$]
+UCInfo_MaxUpgrTxt	[UU_Center_Align][UU_Color_White]<font=tahoma_bold_10>Training<br>fully<br>completed
+UCInfo_MaxUpgrVal	[UU_Center_Align][UU_Color_White]<font=tahoma_bold_8>[?]
+UCInfo_UpgradeDescrHeader	[UU_Center_Align]<font=tahoma_bold_10><color=47391E>Upgrade:
+UCInstr_BeginLearnToolNormal	[UU_Center_Align]Train with the Captain by spending Strategy Books and Gold.<br>
+UCInstr_BeginLearnToolPremium	[UU_Center_Align]Train with the General by spending Gems.<br><br>An experienced General always achieves good results.
+UCInstrContent_BeginLearn	[UU_Center_Align]<font=tahoma_bold_11_border_smooth><color=BEE6FF>Upgrade
+UCInstrContent_Chance	[UU_Center_Align]<color=BEE6FF><font=tahoma_bold_10>Success: [UCInstrContent_ChanceColor]
+UCInstrContent_ChanceColor	<font=tahoma_bold_10_numbers_only>[?][?]%
+UCInstrContent_CostBooks	[UU_Center_Align]<font=tahoma_bold_10_numbers_only><image=textures/interface/common/icons/tactic_book_22x22> [?][?][UU_Color_White]/[?]<br=8><image=textures/interface/common/icons/money_22x22> <font=tahoma_bold_10_numbers_only>[?]
+UCInstrContent_CostCrystal	[UU_Center_Align]<font=tahoma_bold_10_numbers_only><image=textures/interface/common/icons/crystal_22x22> [?]
+UCInstrContent_LearnNotAvailable	[FormTitleText]Training<br>is unavailable
+UCInstrContent_Name	[UU_Center_Align]<font=tahoma_bold_12>[$]
+UCInstrContent_NameCaptain	<font=tahoma_bold_11_border_smooth>Captain
+UCInstrContent_NameGeneral	<font=tahoma_bold_11_border_smooth>General
+UCInstrContent_TextTemplate	[$]
+UCMSG_UpgradeConfirm	Do you really want to train<br>with this trainer<br>for: <image=textures/interface/common/icons/money_22x22> [?] and <image=textures/interface/common/icons/tactic_book_22x22> [?]<br>with [?]% chance of success?
+UU_AbilityUpgradeDescr	<color=b50000><font=tahoma_regular_9>[$]: [UU_Color_White][?] [UU_Color_Green][?] [UU_Color_White][?]
+UU_Center_Align	<align=center><valign=center>
+UU_Color_Green	<color=00FF00>
+UU_Color_Red	<color=FF0000>
+UU_Color_Spec	<color=E7C570>
+UU_Color_White	<color=FFFFFF>
+UU_Color_Yellow	<color=FF9900>
+UU_Confirm	Are you sure you want to buy this upgrade for [?] <image=textures/interface/common/icons/money_22x22>?
+UU_Cost	Upgrade cost [?] <image=textures/interface/common/icons/money_22x22>
+UU_Font	<font=tahoma_regular_10><wordwrap=on>
+UU_NotAvailable	Unavailable
+UU_NotMoney	You do not have enough money to upgrade the unit. Buy a treasure chest to refill your Gold
+UU_Param_template	<font=tahoma_regular_9>[UU_Color_White][?] [?][UU_Color_Green][?]
+UU_Params_header	[FormTitleText][FormTitleColor]Upgraded Attributes:<br>
+UU_Tooltip_Active	Upgrade unit for [?] Gold:<br=2><image=textures/interface/common/breaker_260x1><br>[?]
+UU_Tooltip_AllUpgradesComplete	All upgrades completed
+UU_Tooltip_AlreadyUpgrade	Upgrade completed.<br=2><image=textures/interface/common/breaker_260x1><br>[?]
+UU_Tooltip_Available	Upgrade unit for [?] <image=textures/interface/common/icons/money_22x22>:<br>[?]<br>Complete previous upgrade.
+UU_Tooltip_Forbidden	Upgrade for [?] Gold:<br=2><image=textures/interface/common/breaker_260x1><br>[?]<br>Unit upgrades are only available in the Army Manager
+UU_Tooltip_Unavailable	Next upgrade unavailable
+UU_UpgradeSuccess	You have upgraded this unit by improving its abilities. Now is just the right time to test it on the battlefield or try another upgrade.
+UU_UpgrDesc_Available	Complete earlier Training
+UU_UpgrDesc_Current	Training available
+UU_UpgrDesc_Template	[?]<br><br>[UU_Color_Green]{unit_upgrade_crown_state}
+UU_UpgrDesc_Upgraded	Training completed
+UU_Wait	Please wait.
+UUF_MaxUpgradeText	The unit cannot be upgraded any further.
+UUF_NoneUpgrade	[UU_Center_Align][UU_Font][UU_Color_Spec][UUF_NoneUpgradeText]
+UUF_NoneUpgradeText	The unit cannot be upgraded any further.
+UUF_Tooltip_Upgrade	Upgrade
+
+

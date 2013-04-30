@@ -1,0 +1,50 @@
+﻿SpellbookCategoryAll	Spells
+SpellbookCategoryBuff	Spells of Distortion
+SpellbookCategoryDamage	Spells of Chaos
+SpellbookCategoryDebuff	Spells of Distortion
+SpellbookCategoryFreqUsed	Frequently Used
+SpellbookCategoryHealing	Spells of Order
+SpellbookItemCount	[SpellbookRunebookC1][SpellbookRunebookF4]<align=right><color=FFFFFF>[?]
+SpellbookMovingButtonOk	[SpellbookRunebookC1]<font=tahoma_bold_10><color=FFF6B6>Ok
+SpellbookMovingInfoContent	[SpellbookRunebookC1][SpellbookRunebookF2]<color=BCDCF5>[$]
+SpellbookMovingInfoMsg	[SpellbookRunebookC1][SpellbookRunebookF1]<color=BCDCF5>Select the number of Runes
+SpellbookMovingInfoTitle	[SpellbookRunebookC1]<font=tahoma_bold_12><color=4F3301>[$]
+SpellbookMovingLeft	[SpellbookRunebookC1][SpellbookRunebookF2]<color=FFF6B6>[?]
+SpellbookMovingLeftTitle	[SpellbookRunebookC1][SpellbookRunebookF3]<color=FFF6B6>In Runebook
+SpellbookMovingRigth	[SpellbookRunebookC1][SpellbookRunebookF2]<color=FFF6B6>[?]
+SpellbookMovingRigthTitle	[SpellbookRunebookC1][SpellbookRunebookF3]<color=FFF6B6>Equipped
+SpellbookQItemCount	[SpellbookRunebookC1][SpellbookRunebookF5]<wordwrap=off><color=913D00>[?]
+SpellbookQItemTitle	[SpellbookRunebookC1][SpellbookRunebookF1]<wordwrap=off><color=913D00>[$]
+SpellbookQuickScrollLocked	Coming soon
+SpellbookQuickScrollStartBattle	In the PvP mode, a battle begins with all spells locked
+SpellbookQuickSlotsPanelHeader	Spell Belt
+SpellbookRBAttackContent	Attack Runes are used in Duels and Raids on other players. Each battle uses one set Rune.
+SpellbookRBAttackTitle	Attack Runes
+SpellbookRBCastleContent	Garrison Runes are used when you are being attacked. Each attack uses one Rune from the set amount.
+SpellbookRBCastleTitle	Garrison Runes
+SpellbookRBQAttackTitle	<align=center><valign=center><font=tahoma_bold_8><color=FFFF26>Attack Runes
+SpellbookRBQCastleTitle	<align=center><valign=center><font=tahoma_bold_8><color=FFFF26>Garrison Runes
+SpellbookRBRestrictionTooltip	Runes will become available when you reach level 8.
+SpellbookRBRuneInfoContent	<align=left><valign=top>[SpellbookRunebookF2]<color=7e4300>[$]
+SpellbookRBRuneInfoTitle	[SpellbookRunebookC1][SpellbookRunebookF2]<align=left><color=7e4300>[$]
+SpellbookRBRuneInfoTitleDefault	Select a Rune
+SpellbookRBRuneToolTip	[SpellbookRunebookC1][SpellbookRunebookF1]<align=center><color=00FF00>{title}<br=2><align=left><valign=top>[SpellbookRunebookF1]<color=FFFF00>{content}
+SpellbookRunebookBtnBuy	[SpellbookRunebookC1]<font=tahoma_bold_10><color=FFF6B6>Buy
+SpellbookRunebookBtnBuyPrice	[SpellbookRunebookC1]<font=tahoma_bold_10><color=FFF6B6>[?]
+SpellbookRunebookC1	<align=center><valign=center>
+SpellbookRunebookF1	<font=tahoma_regular_10>
+SpellbookRunebookF2	<font=tahoma_bold_10>
+SpellbookRunebookF3	<font=tahoma_bold_10>
+SpellbookRunebookF4	<font=tahoma_bold_10_border_smooth_numbers_only>
+SpellbookRunebookF5	<font=tahoma_bold_8_numbers_only>
+SpellbookRunebookTitle	Runes
+SpellbookScrollName	<align=center><valign=center><font=tahoma_regular_10><wordwrap=off><color=913D00>[?]
+SpellbookScrollNoUpgradesTooltip	<br><br><color=00FF00>No upgrades
+SpellbookScrollsCount	<align=center><valign=center><font=tahoma_bold_8_numbers_only><wordwrap=off><color=913D00>[?]
+SpellbookScrollTooltip	{ability_affection}{ability_name}<br=2>[AbilityText]{ability_text_description}{scroll_upgrade_level}<br=2>[AbilityRecharge]Cooldown Time: {cooldown_base} {#digits_format (cooldown_base) (digit_simple_format) (turn, turns, turns)}
+SpellbookScrollUpgradeInfoTooltip	<br><br><color=00FF00>Current upgrade level [?]</color>
+SpellbookTitleTmpl	[FormTitleText][FormTitleColor][$]
+SpellbookUpgradeButtonTooltip	Upgrade to level {scroll_upgrade_level}<br>{scroll_upgrade_desc}<br>Cost: {scroll_upgrade_cost}
+
+
+

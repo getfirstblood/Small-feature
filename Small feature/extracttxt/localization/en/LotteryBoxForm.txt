@@ -1,0 +1,7 @@
+﻿LotteryBoxForm_BuyItemText	Purchase more
+LotteryBoxForm_BuyItemTmpl	<align=center><valign=center><font=tahoma_bold_12_border_smooth><color=FFFFFF>[LotteryBoxForm_BuyItemText] <image=[?]> [?]
+LotteryBoxForm_Caption	[FormTitleText][FormTitleColor][$]
+LotteryBoxForm_ItemName	<align=center><valign=center><font=tahoma_bold_8><color=fff9ba>[$]
+
+
+

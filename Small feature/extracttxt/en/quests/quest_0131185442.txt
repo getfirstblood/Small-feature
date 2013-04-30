@@ -1,0 +1,8 @@
+﻿quest_system_131185442_desc	Their main party must have gone deep into the swamps – to the Witch's Swamp, no less. It is perilous to venture any further. The swamps are the domain of the dark mages. We shall require the support of the battle mages from the Western Fort. Go there at once and speak to Magister Taron. We shall keep an eye on these cultists while you're gone. 
+quest_system_131185442_done	So Captain Alistair finally realized he won't budge it all by himself? – I remember him saying he'd do it without any help from the mages. 
+quest_system_131185442_name	Aid from the West
+quest_system_131185442_stage_0	Taron
+quest_system_131185442_task	Secure support from the Mages of the Western Fort
+
+
+

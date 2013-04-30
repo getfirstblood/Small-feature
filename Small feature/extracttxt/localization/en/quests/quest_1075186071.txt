@@ -1,0 +1,8 @@
+﻿quest_system_1075186071_desc	This tablet is extremely old. But the problem isn’t the Guardian dialect on it; it’s written in their everyday tongue. No, the problem is that a protective curse has been placed on the tablet, rearranging the words. How odd that the Archmage didn’t see this. Or perhaps he did, but was unable to remove the spell? Heh-heh, mages aren’t what they used to be, before the War... I’ll help you, but I need your assistance, as well. This ritual requires the Magic of the Light. But how can I perform such a powerful spell in the midst of such chaotic and destructive energy? The bands of guardsmen and zombies that roam around here generate a negative background. Perhaps if you can take care of them, I’ll be able to concentrate enough light magical energy.
+quest_system_1075186071_done	Excellent. I feel the magical flow around me becoming more peaceful. 
+quest_system_1075186071_name	A Strange Glimmer of Light
+quest_system_1075186071_stage_0	Hunt
+quest_system_1075186071_task	Destroy {counter_limit_0} Swordsmen and {counter_limit_1} Zombies.
+
+
+

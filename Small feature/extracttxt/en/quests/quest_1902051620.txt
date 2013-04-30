@@ -1,0 +1,8 @@
+﻿quest_system_1902051620_desc	Dear Young Legionary, if we dispense with all the formalities, you're in for amazing adventures, heroic fights, and enough glory for several lifetimes. Therefore, haste to get to the Order Garrison, get your billet from your Quartermaster, and may your efforts benefit Kingdom. Goodbye and good luck!
+quest_system_1902051620_done	I see... A new recruit. What am I going to do with you all.
+quest_system_1902051620_name	Garrison of the Order
+quest_system_1902051620_stage_0	Speak with the Garrison Quartermaster
+quest_system_1902051620_task	Head to the Garrison of the Order and confirm your new assignment
+
+
+

@@ -1,0 +1,33 @@
+﻿chat_system_688879305_actor_description	Morania the Witch. A witch from the swamp.
+chat_system_688879305_snap_0_answer_0	What the Witch Knows
+chat_system_688879305_snap_0_answer_1	Running Errands
+chat_system_688879305_snap_0_answer_2	Visiting a Witch
+chat_system_688879305_snap_0_answer_3	Trespassers in the Swamp
+chat_system_688879305_snap_0_answer_4	Trespassers in the Swamp
+chat_system_688879305_snap_0_answer_5	Secret Ingredients
+chat_system_688879305_snap_0_answer_6	Secret Ingredients
+chat_system_688879305_snap_0_answer_7	The Storm Clouds Are Gathering
+chat_system_688879305_snap_0_question	Do you need poison? Or do you want to put a curse on somebody?
+chat_system_688879305_snap_1_answer_0	end quest dialog
+chat_system_688879305_snap_1_question	Hello man!
+chat_system_688879305_snap_10_answer_0	begin quest dialog
+chat_system_688879305_snap_10_question	Hello man!
+chat_system_688879305_snap_2_answer_0	end quest dialog
+chat_system_688879305_snap_2_question	Hello man!
+chat_system_688879305_snap_3_answer_0	begin quest dialog
+chat_system_688879305_snap_3_question	Hello man!
+chat_system_688879305_snap_4_answer_0	begin quest dialog
+chat_system_688879305_snap_4_question	Hello man!
+chat_system_688879305_snap_5_answer_0	(away)
+chat_system_688879305_snap_5_question	That's right! Let's crush these snobs, so they know their place.
+chat_system_688879305_snap_6_answer_0	end quest dialog
+chat_system_688879305_snap_6_question	end quest text
+chat_system_688879305_snap_7_answer_0	begin quest dialog
+chat_system_688879305_snap_7_question	Hello man!
+chat_system_688879305_snap_8_answer_0	(away)
+chat_system_688879305_snap_8_question	Move it. Or do you think the Cultists are gonna wait for us, eh?
+chat_system_688879305_snap_9_answer_0	end quest dialog
+chat_system_688879305_snap_9_question	end quest text
+
+
+

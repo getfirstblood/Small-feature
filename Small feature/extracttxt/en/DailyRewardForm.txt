@@ -1,0 +1,35 @@
+﻿DR_DAY	<align=center><valign=center><font=tahoma_regular_10>[DR_DayColor]
+DR_DAY_1	[DR_DAY]DAY 1
+DR_DAY_2	[DR_DAY]DAY 2
+DR_DAY_3	[DR_DAY]DAY 3
+DR_DAY_4	[DR_DAY]DAY 4
+DR_DAY_5	[DR_DAY]DAY 5
+DR_DAY_6	[DR_DAY]DAY 6
+DR_DAY_7	[DR_DAY]DAY 7
+DR_DayColor	<color=EACB77>
+DR_Gain	<align=center><valign=center><font=tahoma_regular_10>[DR_GainLabelColor][DR_Gain_Text]
+DR_Gain_Text	You’ve received a <br><color=ffffff>[$]: [?]</color>.
+DR_GainLabelColor	<color=EACB77>
+DR_LabelColor	<color=EBE1B4>
+DR_MoneyReward	<align=center><valign=center><font=tahoma_regular_10>[DR_MoneyRewardColor2][DR_MoneyRewardText]
+DR_MoneyRewardColor	<color=FFFFFF>
+DR_MoneyRewardColor2	<color=EACB77>
+DR_MoneyRewardText	You’ve received<br> <color=ffffff>[?]</color><image=textures/interface/common/icons/money_22x22>
+DR_NextDay	<align=center><valign=center><font=tahoma_regular_10>[DR_NextDayColor][DR_NextDay_Text]
+DR_NextDay_Text	Visit the treasury tomorrow to receive the award.
+DR_NextDayColor	<color=7FB3D8>
+DR_No_Reward	<align=center><valign=center><font=tahoma_regular_10>[DR_GainLabelColor][DR_No_Reward_Item_Text]
+DR_No_Reward_Item_Text	No additional reward
+DR_Reward	<align=center><valign=center><font=tahoma_regular_10>[DR_RewardLabelColor][DR_Reward_Text]
+DR_Reward_Text	His Royal Highness rewards you generously<br>for your faithful, outstanding service to the Crown.
+DR_RewardLabelColor	<color=EBE1B4>
+DR_RewardTooltip1	Daily reward: a certain amount of Gold (determined by your character’s level) and several common resources of a single type.
+DR_RewardTooltip2	Daily reward: a certain amount of Gold (determined by the day and your character’s level) and several common or uncommon resources of a single type.
+DR_RewardTooltip3	Daily reward: a certain amount of Gold (determined by the day and your character’s level) and several uncommon or rare resources or several scrolls of the same type.
+DR_RewardTooltip4	Daily reward: a certain amount of Gold (determined by the day and your character’s level) and several rare resources, several scrolls of the same type, or several Gems.
+DR_RewardTooltip5	Daily reward: a certain amount of Gold (determined by the day and your character’s level) and several Gems.
+DR_Title	<font=tahoma_bold_11_border_smooth><align=center><valign=center>[DR_LabelColor][DR_Title_Text]
+DR_Title_Text	Royal Award
+
+
+

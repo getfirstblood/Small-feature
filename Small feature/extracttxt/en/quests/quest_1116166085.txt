@@ -1,0 +1,8 @@
+﻿quest_system_1116166085_desc	It’s finally ready. You can take it to Locrim. Just don’t talk with it along the way. What? You didn’t know that it’s sapient? This is, by the way, one of the highest products of alchemy – a live elixir. If the potion weren’t sapient, how would it figure out the way to break a spell? Here you go...
+quest_system_1116166085_done	What’s up with my calculations? What’s that mumbling here? A dispersion elixir? Oh my, a talking potion. I haven’t seen one in quite a while. Give it to me, quick. I hope it didn’t bore you with its speeches along the way? Excellent... Let’s get started.
+quest_system_1116166085_name	Talkative Jar
+quest_system_1116166085_stage_0	Speak
+quest_system_1116166085_task	Deliver the dispersal elixir to Locrim the Mage.
+
+
+

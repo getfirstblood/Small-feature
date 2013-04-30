@@ -1,0 +1,21 @@
+﻿chat_system_1246088042_actor_description	Captain Retak. Order’s Garrison Commander
+chat_system_1246088042_snap_0_answer_0	Roadside Bandits
+chat_system_1246088042_snap_0_answer_1	Roadside Bandits
+chat_system_1246088042_snap_0_answer_2	Brutal Pack
+chat_system_1246088042_snap_0_answer_3	Brutal Pack
+chat_system_1246088042_snap_0_question	The Kingdom places much hope in the Knight Academy graduates. I don't know what will come of it.
+chat_system_1246088042_snap_1_answer_0	begin quest dialog
+chat_system_1246088042_snap_1_question	Hello man!
+chat_system_1246088042_snap_2_answer_0	(away)
+chat_system_1246088042_snap_2_question	How is the hunt for the local bandits going?
+chat_system_1246088042_snap_3_answer_0	end quest dialog
+chat_system_1246088042_snap_3_question	end quest text
+chat_system_1246088042_snap_4_answer_0	begin quest dialog
+chat_system_1246088042_snap_4_question	Hello man!
+chat_system_1246088042_snap_5_answer_0	(away)
+chat_system_1246088042_snap_5_question	Well? Were you able to find those feathery beakwingers?
+chat_system_1246088042_snap_6_answer_0	end quest dialog
+chat_system_1246088042_snap_6_question	end quest text
+
+
+

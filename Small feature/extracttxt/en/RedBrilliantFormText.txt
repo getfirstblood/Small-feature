@@ -1,0 +1,12 @@
+﻿RBFB_priceNum	[RedBrilliantFormC]<font=tahoma_bold_12_border_smooth><color=EEFFE6>[?]
+RBFB_productBonus	[RedBrilliantFormC]<font=tahoma_bold_9_border_smooth><color=F9D833>[?]+[?] Bonus
+RBFB_productCount	[RedBrilliantFormC]<font=tahoma_bold_12_border_smooth><color=F9D833>for <color=EEFFE6>[?]
+RedBrilliantFormBonusInfo	[RedBrilliantFormC]<font=tahoma_regular_10><color=EEFFE6>During the special<br=5><font=tahoma_bold_11_border_smooth><color=E00906>RED DIAMOND<br=5><font=tahoma_regular_10><color=EEFFE6>event you receive bonuses <br>when buying Gems.
+RedBrilliantFormC	<align=center><valign=center>
+RedBrilliantFormTimeLeft	[RedBrilliantFormC]<font=tahoma_bold_11_border_smooth><color=F9D833>Time left: <br=5><font=tahoma_bold_12_border_smooth><color=EEFFE6>[?]
+RedBrilliantFormTimeLimited	[RedBrilliantFormC]<font=tahoma_bold_12_border_smooth><color=EEFFE6>LIMITED-<br>TIME<br>OFFER
+RedBrilliantFormTitle	[RedBrilliantFormC]<font=tahoma_bold_12_border_smooth><color=ECC779>Special offer “Red Diamond”
+RedBrilliantFormTitle1	[RedBrilliantFormC]<font=tahoma_bold_11><color=622206>While fighting, you have found a <br><font=tahoma_regular_24_border_smooth><color=E00906>RED DIAMOND
+
+
+

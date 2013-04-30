@@ -1,0 +1,8 @@
+﻿quest_system_685901611_desc	The main power of the Temple Defenders isn’t the blades of the pirates or barbarians, but the Lazarus cultists. Their magic is protecting the entrances. So, if you want to weaken the defences, you must weaken the cultists. Or just kill them. Destroy the Demonologists. Then you can enter the temple unnoticed.
+quest_system_685901611_done	Wait... I sense a breach in their protective charms. Time to begin!
+quest_system_685901611_name	Weakened Defence
+quest_system_685901611_stage_0	Hunt
+quest_system_685901611_task	Destroy {counter_limit_0} Demonologists. 
+
+
+

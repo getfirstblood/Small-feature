@@ -1,0 +1,13 @@
+﻿chat_system_1866997949_actor_description	Saphaor the Priest A famous scientist and devoted servant of the gods
+chat_system_1866997949_snap_0_answer_0	The Secret of Lazarus
+chat_system_1866997949_snap_0_answer_1	Key to the Ancient Temple
+chat_system_1866997949_snap_0_question	Wisdom is not to be found in knowledge. Wisdom is in the pursuit of knowledge.
+chat_system_1866997949_snap_1_answer_0	end quest dialog
+chat_system_1866997949_snap_1_question	Hello man!
+chat_system_1866997949_snap_2_answer_0	begin quest dialog
+chat_system_1866997949_snap_2_question	Hello man!
+chat_system_1866997949_snap_3_answer_0	begin quest dialog
+chat_system_1866997949_snap_3_question	Hello man!
+
+
+

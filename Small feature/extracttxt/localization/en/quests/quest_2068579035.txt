@@ -1,0 +1,8 @@
+﻿quest_system_2068579035_desc	Prepare your men to head out. I have just received a message from the Library Ruins. Someone is trying to steal the ancient manuscripts from the basements of the library. Naturally, there were marauders that had tried to steal things before, but this time it looks more serious. Go to Charon the Archivist, and do what’s needed. Just be careful. It is quite easy to get ambushed in the ruins.
+quest_system_2068579035_done	By Rusith, they finally sent me some help. The people in Kronberg think we just fool around in here! Even the guard station was transferred to the North Bay. But, our mission here is of great importance. Some of the oldest books and manuscripts, each of unimaginable value, are stored here.
+quest_system_2068579035_name	A Threat to the Manuscripts
+quest_system_2068579035_stage_0	Charon
+quest_system_2068579035_task	Go to Charon the Archivist and receive further instructions
+
+
+

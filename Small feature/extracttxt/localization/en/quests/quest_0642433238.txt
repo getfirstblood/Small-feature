@@ -1,0 +1,8 @@
+﻿quest_system_642433238_desc	Alright. I used the elixir. Now, it’s just a matter of time. Hold on a second! No, that can’t be. Looks like this darned talking bottle has uttered some incomprehensible word! What is this glow? Looks like it removed the barrier enchantment as well as the astral bonds that were holding back the souls of the dead pirates. Their ghosts are already beginning to rise from the water! What is going to happen to us now?
+quest_system_642433238_done	Yes. You never know what exactly is going to happen when you use the magic of distortion. I seem to remember that last year we managed to turn half the people in town into toads. For a limited time, of course. But anyways, don't even want to think about it now.<br>
+quest_system_642433238_name	Escaped Word
+quest_system_642433238_stage_0	Rout
+quest_system_642433238_task	Defend the city from the monsters and the undead
+
+
+

@@ -1,0 +1,8 @@
+﻿quest_system_1419348930_desc	More dangerous enemies dwell in our land than just forest bears. My assistants mentioned a few times the strange persons prowling about in the ruins of the Academy. Looks like they are the Tomb Raiders. Naturally I understand what they are after – rare artifacts and manuscripts. Loss of even a single one of these may be a real tragedy for science! These ruffians must be stopped immediately.
+quest_system_1419348930_done	Now that the manuscripts stored in the Academy cellars are out of danger, I can safely attend to my business... What I mean is, we can start the excavations right now. Tomorrow morning. I hope...
+quest_system_1419348930_name	History is in Danger
+quest_system_1419348930_stage_0	Rout
+quest_system_1419348930_task	Destroy a squad of Tomb Raiders
+
+
+

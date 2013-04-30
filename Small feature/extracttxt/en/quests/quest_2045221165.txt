@@ -1,0 +1,8 @@
+﻿quest_system_2045221165_desc	We have a problem. Due to a slight error in my experiment we’ve started a mass Zombie reproduction cycle. It was supposed to be the other way around! I was looking for an anti-zombie solution, after all. We have lots of cemeteries here, plenty of raw materials. Please do me a favor and destroy at least some of them before the Archmage hears about it.
+quest_system_2045221165_done	Thank you for your help. I have to reconsider the formula, no doubt about it. Either too much mandrake, or I should have used an extraction essence instead of an essence. Let’s look for a different approach! The important thing is to make sure they don’t come out again! Isn’t it?
+quest_system_2045221165_name	Side Effect
+quest_system_2045221165_stage_0	Hunt
+quest_system_2045221165_task	Destroy {counter_limit_0} Zombies.
+
+
+

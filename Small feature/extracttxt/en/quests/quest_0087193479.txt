@@ -1,0 +1,8 @@
+﻿quest_system_87193479_desc	Have you seen any paladins in our lands? They visit here quite often, looking for glory. It makes sense. No dragons? Well, squashing a couple of zombies won’t be too bad. And if a necromancer comes by, that’ll be quite handy. But this is all bad for my business. I’m an old-school necromancer, and I like it quiet. The deceased are the quietest creatures in the world and I think our titled friends, the paladins, should join their ranks. 
+quest_system_87193479_done	Without these champions of glory we can have some peace and quiet. And it’s easier for me to go about my business, heh.
+quest_system_87193479_name	Champions of Glory
+quest_system_87193479_stage_0	Hunt
+quest_system_87193479_task	Destroy {counter_limit_0} Paladins. 
+
+
+

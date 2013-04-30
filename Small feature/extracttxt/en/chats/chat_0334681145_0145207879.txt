@@ -1,0 +1,19 @@
+﻿chat_system_145207879_actor_description	Apprentice Witch A cutie who became an apprentice of Morania the Witch out of sheer boredom.
+chat_system_145207879_snap_0_answer_0	Putting Things in Order
+chat_system_145207879_snap_0_answer_1	Putting Things in Order
+chat_system_145207879_snap_0_answer_2	Running Errands
+chat_system_145207879_snap_0_answer_3	Morania Is in the Temple Already!
+chat_system_145207879_snap_0_question	It’s not so bad around here! One does get accustomed to things.
+chat_system_145207879_snap_1_answer_0	end quest dialog
+chat_system_145207879_snap_1_question	Hello man!
+chat_system_145207879_snap_2_answer_0	begin quest dialog
+chat_system_145207879_snap_2_question	Hello man!
+chat_system_145207879_snap_3_answer_0	(away)
+chat_system_145207879_snap_3_question	Cleanliness is next to godliness. Ah, your grace hasn’t heard that maxim. It seems by the look of you, anyway, haha...
+chat_system_145207879_snap_4_answer_0	end quest dialog
+chat_system_145207879_snap_4_question	end quest text
+chat_system_145207879_snap_5_answer_0	begin quest dialog
+chat_system_145207879_snap_5_question	Hello man!
+
+
+

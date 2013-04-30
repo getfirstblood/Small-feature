@@ -1,0 +1,49 @@
+﻿AddFriend	<color=F0BA2A>Invite<br>a friend
+AddFriendInvite	Invite
+elo_rating.tooltip	Legion: {hero.rating.legion} <br> {hero.rating.tooltip}
+elo_rating.tooltip.l1	Next legion at rating {hero.rating.next}
+elo_rating.tooltip.l2	Maximum level legion is achieved.
+FRBackOfflineToolTip	Your friend is offline, and cannot help you.
+FRBannerBottom	Each of your friends can help you in battle with a spell.
+FRBannerTop	Play together with your friends to enjoy extra features!
+FRBattleInBattleToolTip	Not available during battle
+FRBattleInPatrolModeToolTip	This person is on patrol.
+FRBattleOfflineToolTip	This friend is offline.
+FRBattlePlayerInBattleToolTip	Player is in battle.
+FRBattleToolTip	Fight
+FRCastleToolTip	Start raid
+FRCastleToolTipDisable	Get level [?] to start raid.
+FRChatOfflineToolTip	This friend is offline.
+FRChatToolTip	Chat
+FRFastLeftToolTip	Browse the list on the left
+FRFastRightToolTip	Browse the list on the right
+FRFriendInviteToolTip	Invite your friends to the application. The more friends, the more fun you’ll have in the game.
+FRGiftInBattleToolTip	Not available during battle
+FRGiftLimitToolTip	You have sent the maximum number of gifts allowed.
+FRGiftTodayToolTip	You’ve already sent this player a gift today.
+FRGiftToolTip	Send a gift. <br>Gifts for friends <br>left: <color=639502><font=tahoma_bold_10>[?]</font></color> of <color=639502><font=tahoma_bold_10>[?]</font></color>
+friend_item.elo_rating	<image=legion_inline frame={hero.legion_index}> <font=tahoma_regular_8><color=fde046>{hero.elo_rating}
+FRInviteToolTip	Invite a friend and get assistance in battle.
+FRInviteX2ToolTip	Invite a friend and get double gold for one battle.
+FRLeftToolTip	Browse the list one position to the left.
+FRNoCastleToolTip	Can’t attack
+FROnlineToolTip	Show all players or just online players
+FRRightToolTip	Browse the list one position to the right
+FRSpellCooldownToolTip	Friend spells are unavailable at the beginning of a battle.
+FRSpellDisableToolTip	You'll be able to use your friends' spells in your turn.
+FRSpellEnemyTurnToolTip	You can use this friend's magical assistance on your own turn.
+FRSpellFriendToolTip	You cannot use a spell against its owner.
+FRSpellLevel	<color=FFFFFF>[?]
+FRSpellOffline	<align=center><valign=center><color=1F343D>The friend is offline.
+FRSpellText	<color=1F343D>[?]
+FRSpellToolTip	Friend spells (left)
+FRSpellUsedAllBattleToolTip	All available spells have been used.
+FRSpellUsedDayToolTip	Your friend has no more available spells to use for today.
+FRSpellUsedToolTip	You have already used a spell on this friend.
+FRStatusOff	<color=F0F0F0>[?]
+FRStatusOn	<color=7DE91B>[?]
+FRTitleText	<color=AD6800>[?]
+private	Private
+
+
+

@@ -1,0 +1,29 @@
+﻿chat_system_1926657633_actor_description	Bernar Lazo. A respected resident of this village, worried about the events of late...
+chat_system_1926657633_snap_0_answer_0	Curse of Valenia
+chat_system_1926657633_snap_0_answer_1	Curse of Valenia
+chat_system_1926657633_snap_0_answer_2	Ring, ring, ring...
+chat_system_1926657633_snap_0_answer_3	Ring, ring, ring...
+chat_system_1926657633_snap_0_answer_4	Fire Prevention
+chat_system_1926657633_snap_0_answer_5	Fire Prevention
+chat_system_1926657633_snap_0_question	Hello man!
+chat_system_1926657633_snap_1_answer_0	begin quest dialog
+chat_system_1926657633_snap_1_question	Hello man!
+chat_system_1926657633_snap_2_answer_0	(away)
+chat_system_1926657633_snap_2_question	It’s frightening even thinking of those horrible ghosts. I hope you’ll be able to take care of them.
+chat_system_1926657633_snap_3_answer_0	end quest dialog
+chat_system_1926657633_snap_3_question	end quest text
+chat_system_1926657633_snap_4_answer_0	begin quest dialog
+chat_system_1926657633_snap_4_question	Hello man!
+chat_system_1926657633_snap_5_answer_0	(away)
+chat_system_1926657633_snap_5_question	Did you bring the ring? No? So sad... it was so lovely... Keep searching!
+chat_system_1926657633_snap_6_answer_0	end quest dialog
+chat_system_1926657633_snap_6_question	end quest text
+chat_system_1926657633_snap_7_answer_0	begin quest dialog
+chat_system_1926657633_snap_7_question	Hello man!
+chat_system_1926657633_snap_8_answer_0	(away)
+chat_system_1926657633_snap_8_question	Don’t let us down. Now every home has a tub of water, some sand, and shovels on the wall. A couple of spiders won’t scare us.
+chat_system_1926657633_snap_9_answer_0	end quest dialog
+chat_system_1926657633_snap_9_question	end quest text
+
+
+

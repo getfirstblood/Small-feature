@@ -1,0 +1,8 @@
+﻿quest_system_1546318618_desc	Don't worry, I knew of your arrival – your boys are safe. How's old Taron? Hasn't burned the fort down with his fire spells, has he? Hee hee hee. You're in a right jam and no mistake. You need help. Sure thing, this Taron stood by me once at the council of the mages, back in the day when I was still a member of their circle of old-timer prestidigitators. He must expect me to reciprocate, the senile codger. I've got business of my own to attend to, you know. I've got unwanted visitors here in my swamp, and I can't seem to give them the spanking they deserve. I wouldn't mind if somebody lent a hand, I tell you. 
+quest_system_1546318618_done	Oh, I'm so mad at these cultists! They've really gotten to me. I'd tear every man Jack of them to pieces!
+quest_system_1546318618_name	Trespassers in the Swamp
+quest_system_1546318618_stage_0	Rout
+quest_system_1546318618_task	Chase away {counter_limit_0} groups of Disturbers of Peace from the swamp 
+
+
+

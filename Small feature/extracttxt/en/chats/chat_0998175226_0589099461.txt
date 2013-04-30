@@ -1,0 +1,11 @@
+﻿chat_system_589099461_actor_description	Scout Knool. A simple country bumpkin.
+chat_system_589099461_snap_0_answer_0	Further North
+chat_system_589099461_snap_0_answer_1	So where is our friend Giango?
+chat_system_589099461_snap_0_question	We’ve been tracking a boar lately. I’ll tell you about it next time.
+chat_system_589099461_snap_1_answer_0	end quest dialog
+chat_system_589099461_snap_1_question	Hello man!
+chat_system_589099461_snap_2_answer_0	begin quest dialog
+chat_system_589099461_snap_2_question	Hello man!
+
+
+

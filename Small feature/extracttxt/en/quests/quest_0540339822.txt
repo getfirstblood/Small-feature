@@ -1,0 +1,8 @@
+﻿quest_system_540339822_desc	All right. I understand that you need these scouts for a very important mission. But who gave them the right to make so much noise out here? They started scouting through the forests, and scared off all the animals. The hunting season has been ruined, and someone must compensate for our losses. If you collect enough hides and furs for us, then I will pardon these disturbers of the peace.
+quest_system_540339822_done	Excellent. Now our monthly goal for production of hides has been reached. We are even ahead of schedule.
+quest_system_540339822_name	Ruined Plans
+quest_system_540339822_stage_0	Hunt
+quest_system_540339822_task	Kill {counter_limit_0} Dark Griffins and {counter_limit_1} Possessed Bears<br>
+
+
+

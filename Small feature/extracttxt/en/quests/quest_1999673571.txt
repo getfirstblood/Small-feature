@@ -1,0 +1,9 @@
+﻿quest_system_1999673571_cntdesc_0	Victories in the Duel mode within the Eastern Fort walls
+quest_system_1999673571_desc	In an effort to keep up the fort defenders' morale we will be holding special exhibition matches for any knights who wish to participate. And since you've proven to be quite capable in the art of war, I insist that you take part in the tournament! If you ask me, the juice is worth the squeeze. Good luck in your matches!
+quest_system_1999673571_done	There's no mistaking a crafty mind when I see one. Your tactics and strategy alone are invaluable. My congratulations to a distinguished graduate of the Knight Academy! Keep it up!
+quest_system_1999673571_name	Knight Tournament
+quest_system_1999673571_stage_0	Win over the audience's affection by winning Duels
+quest_system_1999673571_task	Win several Duels without leaving the Eastern Fort. Victories needed to complete the quest: {counter_limit_0}.
+
+
+

@@ -1,0 +1,8 @@
+﻿quest_system_318762141_desc	It looks like this was a carefully planned and prepared operation. The Cultists really thought this one through. Right now, with our security stretched thin, they were able to capture our main frigate, the Scarlet Pearl. They sneaked onto the ship under the cover of the night and took out the entire crew. That ship is the largest and best equipped of them all. If we don't get it back soon, we risk coming under artillery fire, and we'll simply have no way of fighting off any surprise attacks. My soldiers are in a state of panic. Nobody wants to take on these cult followers, or the army of cursed cut-throats. You've got to do something about these Cultists.
+quest_system_318762141_done	I can't find the words to express my gratitude. Here, from a safe distance, I had an excellent view of it all. I saw how you smashed the cult followers and their servant recruits. Brilliant work indeed. You have a great future ahead of you. You'll make everyone proud. It's not every day that such gifted commanders come out of the Academy. And we haven't seen the last of those cult followers. Of that I'm certain.
+quest_system_318762141_name	The Missing Pearl
+quest_system_318762141_stage_0	Double Defeat
+quest_system_318762141_task	Defeat {counter_limit_0} party of Hooded Recruiters and {counter_limit_0} party of Soldier Enlistees.<br>
+
+
+

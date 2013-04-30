@@ -1,0 +1,8 @@
+﻿quest_system_1556943659_desc	Well, dealing with the pirates was the easy part. The second mission is more challenging. Some weird types have shown up in the neighborhood. Sorta like monks, but not monks. Cultists. They worship some Lustrous or Lazarus or something like that... Terribly pushy guys. Initially they just preached to us. Some stuff like the coming of a master, some crap about overseas protectors. Nobody could make any sense of it, so we just kicked them out. And now they’ve gotten into the habit of converting people by force. Well, the women they convert, and the men they just kill. As if they were freeing their souls. Told you – they are cultists. That’s what our priest calls them. Please teach them a lesson. Things are getting nasty.
+quest_system_1556943659_done	Excellent, just marvelous! We’ve rid the land of some more pestilence!
+quest_system_1556943659_name	Insolent Cultists
+quest_system_1556943659_stage_0	Rout
+quest_system_1556943659_task	Destroy {counter_limit_0} squads of Insolent Cultists. 
+
+
+

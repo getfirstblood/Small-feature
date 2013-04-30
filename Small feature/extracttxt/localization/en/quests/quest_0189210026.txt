@@ -1,0 +1,8 @@
+﻿quest_system_189210026_desc	On behalf of the forest people, I’m authorized to state the following. From now on we refuse to tolerate the intrusion of the Order, the King, and anybody else in the forest ecology! We request to designate Michenwald a demilitarized zone. Yes, Michenwald, since this is its historically correct name. From now on, not only troop movement should be forbidden here, but also any wagon train traffic as well as any other kinds of cargo movement. Also, we require that we be provided regular subsidies for restoration of the fern and mushroom population. In order to prove the seriousness of our demands, after two days we shall start destroying any wagon trains that dare move along this road in violation of these regulations.
+quest_system_189210026_done	They require all that nonsense? By St. Rusith...
+quest_system_189210026_name	Shuttle Diplomacy
+quest_system_189210026_stage_0	Speak
+quest_system_189210026_task	Convey Grundel’s request to Tender.
+
+
+

@@ -1,0 +1,8 @@
+﻿quest_system_1366129590_desc	We shall use the opportunity given by this lull to drum up a peasant militia. I think we'll be able to handle these zombies by ourselves if we follow through on this plan. The hammer has defended us faithfully for many a year, but now appears to be the time for us to take our fate into our own hands. I hope this hammer serves the old man Hammerhorn for many years to come; we have taken great care with his relic. 
+quest_system_1366129590_done	I'm so happy to see my old hammer in such excellent condition. Their alderman has kept his word – he's been taking excellent care of it all these years. What was that? You think the hammer may have lost its powers? Heh! The hammer shall retain all of its magical properties for as long as you can see the runes upon it. Believe me, I know a thing or two about them. 
+quest_system_1366129590_name	Retrieving the Hammer
+quest_system_1366129590_stage_0	Torvald
+quest_system_1366129590_task	Retrieve Torvald's hammer.
+
+
+

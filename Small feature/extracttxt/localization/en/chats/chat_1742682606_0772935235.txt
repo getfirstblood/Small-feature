@@ -1,0 +1,33 @@
+﻿chat_system_772935235_actor_description	Torvald Hammerhorn. An old blacksmith of enormous experience, whose fame and skill are surpassed by none in this whole region.
+chat_system_772935235_snap_0_answer_0	A New Key
+chat_system_772935235_snap_0_answer_1	The Father's Sins
+chat_system_772935235_snap_0_answer_2	The Father's Sins
+chat_system_772935235_snap_0_answer_3	The Family Tool
+chat_system_772935235_snap_0_answer_4	Retrieving the Hammer
+chat_system_772935235_snap_0_answer_5	The Magic Dew
+chat_system_772935235_snap_0_answer_6	The Key Is Ready
+chat_system_772935235_snap_0_answer_7	Enchanted Dew
+chat_system_772935235_snap_0_question	You name it, I've forged it. I'm a blacksmith with that kind of experience, you know... I remember forging a certain magical blade – a long time ago that was...
+chat_system_772935235_snap_1_answer_0	end quest dialog
+chat_system_772935235_snap_1_question	Hello man!
+chat_system_772935235_snap_10_answer_0	begin quest dialog
+chat_system_772935235_snap_10_question	Hello man!
+chat_system_772935235_snap_11_answer_0	(away)
+chat_system_772935235_snap_11_question	In the morning fairies are often found on the edges of the forest. I hope that helps.
+chat_system_772935235_snap_12_answer_0	end quest dialog
+chat_system_772935235_snap_12_question	end quest text
+chat_system_772935235_snap_2_answer_0	begin quest dialog
+chat_system_772935235_snap_2_question	Hello man!
+chat_system_772935235_snap_3_answer_0	(away)
+chat_system_772935235_snap_3_question	I can think of nothing but my son. How I hope some vestige of humanity remains in him still...
+chat_system_772935235_snap_4_answer_0	end quest dialog
+chat_system_772935235_snap_4_question	end quest text
+chat_system_772935235_snap_5_answer_0	begin quest dialog
+chat_system_772935235_snap_5_question	Hello man!
+chat_system_772935235_snap_6_answer_0	end quest dialog
+chat_system_772935235_snap_6_question	Hello man!
+chat_system_772935235_snap_7_answer_0	begin quest dialog
+chat_system_772935235_snap_7_question	Hello man!
+
+
+

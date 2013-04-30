@@ -1,0 +1,37 @@
+﻿chat_system_1570335467_actor_description	Locrim the Mage. A forgetful and discombobulated Mage.
+chat_system_1570335467_snap_0_answer_0	Enchanted Pier
+chat_system_1570335467_snap_0_answer_1	Checking the Calculations
+chat_system_1570335467_snap_0_answer_2	Talkative Jar
+chat_system_1570335467_snap_0_answer_3	Everyone to the pier!
+chat_system_1570335467_snap_0_answer_4	Enchanted Pier
+chat_system_1570335467_snap_0_answer_5	Scientific Consultation
+chat_system_1570335467_snap_0_answer_6	Talking Elixir
+chat_system_1570335467_snap_0_answer_7	Escaped Word
+chat_system_1570335467_snap_0_answer_8	Escaped Word
+chat_system_1570335467_snap_0_answer_9	To the pier!
+chat_system_1570335467_snap_0_question	Why does everybody think it's permissible to bother me with their advice? Don't they know I'm a certified Mage?
+chat_system_1570335467_snap_1_answer_0	end quest dialog
+chat_system_1570335467_snap_1_question	Hello man!
+chat_system_1570335467_snap_10_answer_0	end quest dialog
+chat_system_1570335467_snap_10_question	end quest text
+chat_system_1570335467_snap_11_answer_0	begin quest dialog
+chat_system_1570335467_snap_11_question	Hello man!
+chat_system_1570335467_snap_2_answer_0	begin quest dialog
+chat_system_1570335467_snap_2_question	Hello man!
+chat_system_1570335467_snap_3_answer_0	end quest dialog
+chat_system_1570335467_snap_3_question	Hello man!
+chat_system_1570335467_snap_4_answer_0	begin quest dialog
+chat_system_1570335467_snap_4_question	Hello man!
+chat_system_1570335467_snap_5_answer_0	end quest dialog
+chat_system_1570335467_snap_5_question	Hello man!
+chat_system_1570335467_snap_6_answer_0	begin quest dialog
+chat_system_1570335467_snap_6_question	Hello man!
+chat_system_1570335467_snap_7_answer_0	end quest dialog
+chat_system_1570335467_snap_7_question	Hello man!
+chat_system_1570335467_snap_8_answer_0	begin quest dialog
+chat_system_1570335467_snap_8_question	Hello man!
+chat_system_1570335467_snap_9_answer_0	(away)
+chat_system_1570335467_snap_9_question	What are you waiting for? Quickly! Help us get rid of this scourge!
+
+
+

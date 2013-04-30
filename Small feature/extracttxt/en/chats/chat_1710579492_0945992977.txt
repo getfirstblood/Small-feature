@@ -1,0 +1,25 @@
+﻿chat_system_945992977_actor_description	Captain Stroke. A Commander able to see two steps ahead of the enemy due to his unique battle experience.
+chat_system_945992977_snap_0_answer_0	The Captain’s Worries
+chat_system_945992977_snap_0_answer_1	Wolves in Sheep’s Clothing
+chat_system_945992977_snap_0_answer_2	Wolves in Sheep’s Clothing
+chat_system_945992977_snap_0_answer_3	Witnessing the Slaughter
+chat_system_945992977_snap_0_answer_4	Mage's Mystery
+chat_system_945992977_snap_0_answer_5	A Warning
+chat_system_945992977_snap_0_question	These military theoreticians are amazingly arrogant. So they think they know how the enemy will think...
+chat_system_945992977_snap_1_answer_0	end quest dialog
+chat_system_945992977_snap_1_question	Hello man!
+chat_system_945992977_snap_2_answer_0	begin quest dialog
+chat_system_945992977_snap_2_question	Hello man!
+chat_system_945992977_snap_3_answer_0	(away)
+chat_system_945992977_snap_3_question	Well? Convinced yet?
+chat_system_945992977_snap_4_answer_0	end quest dialog
+chat_system_945992977_snap_4_question	end quest text
+chat_system_945992977_snap_5_answer_0	begin quest dialog
+chat_system_945992977_snap_5_question	Hello man!
+chat_system_945992977_snap_6_answer_0	end quest dialog
+chat_system_945992977_snap_6_question	Hello man!
+chat_system_945992977_snap_7_answer_0	begin quest dialog
+chat_system_945992977_snap_7_question	Hello man!
+
+
+

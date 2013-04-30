@@ -1,0 +1,8 @@
+﻿quest_system_1741032819_desc	Well, congratulations! Your efforts were justly appreciated and... No, no. No promotion yet, but I’ve got something even better. You have been appointed secret agent of the Order and are now in charge of secret operations. I don’t quite know what that means exactly, but... that’s what Tarcus said. I think it’s a great assignment; trust me, it’s much better than being stuck in this hole and breathing in the dust of the march. But I digress... Tarcus mentioned some Priest of Rusith here in the Eastern Fort whom you should meet. I don’t get involved in this kind of stuff, but it seems very important. 
+quest_system_1741032819_done	Don’t bother, I know exactly who you are. And don’t act surprised. We seers know many, many things.
+quest_system_1741032819_name	Promising Conversation
+quest_system_1741032819_stage_0	Speak
+quest_system_1741032819_task	Speak with the Priest of Rusith.
+
+
+

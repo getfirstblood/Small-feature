@@ -1,0 +1,8 @@
+﻿quest_system_606204592_desc	While you were chasing after that gang, another one visited our camp. And they knew what they were looking for! We had to hide while they pillaged the place. But, I saw exactly what they took. It was a crate from History Hall on the lower level. The content of this crate is priceless, and incredibly dangerous. I believe that these texts date back to at least the Exodus era. They describe some kind of ancient rituals. Yes, yes, I know. They should have been sent to Kronberg right away... But I was so absorbed in trying to decipher them. I wanted to be able to read and understand them. You have to report this to Commander Tarcus as soon as possible. The theft of these manuscripts may place us in grave danger.
+quest_system_606204592_done	Charon, Charon... I understand his desire to acquire knowledge, but how could he have been so careless. Not only did he ignore the rules and sneak into the Historical Hall, but he managed to remove the protective enchantments.
+quest_system_606204592_name	Daring Theft
+quest_system_606204592_stage_0	Tarcus
+quest_system_606204592_task	Report to Commander Tarcus about the stealing
+
+
+

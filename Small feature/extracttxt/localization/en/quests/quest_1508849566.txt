@@ -1,0 +1,8 @@
+﻿quest_system_1508849566_desc	You need Elements to create Runes. You Factory produces only enough Elements of one type. You can obtain missing Elements by besieging an Enemy Castle. Attack an opponent and obtain missing Elements.
+quest_system_1508849566_done	Wonderful battle! Continue your good work to develop your Town’s economy and construct new buildings.
+quest_system_1508849566_name	Seige Mastery
+quest_system_1508849566_stage_0	1
+quest_system_1508849566_task	Besiege an enemy Castle and receive Elements
+
+
+

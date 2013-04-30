@@ -1,0 +1,8 @@
+﻿quest_system_959352479_desc	You must build a factory. We have prepared a perfect location for it. When the construction is finished, order a small amount of Elements to start production.
+quest_system_959352479_done	Great! Now that you’ve built a factory and began production, think about your Town’s defences. You should begin with your Garrison.
+quest_system_959352479_name	Handmade
+quest_system_959352479_stage_0	1
+quest_system_959352479_task	Construct a Factory and produce a small amount of Elements at the Factory.
+
+
+

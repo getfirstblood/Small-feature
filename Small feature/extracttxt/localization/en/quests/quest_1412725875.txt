@@ -1,0 +1,8 @@
+﻿quest_system_1412725875_desc	It is quite rare to meet a true warrior in our lands. As an officer of the royal guards, I’m always happy to cross foils with a skilled warrior. That’s right. I do mean you. And don’t even think about saying no. If I’m not satisfied, I will not stamp the legal documents. Bureaucracy is one of the most powerful weapons of our era, you know.
+quest_system_1412725875_done	This was a great fight. I’m glad that I had a chance to meet such a worthy opponent. Just don’t let it get to your head. Next time, we will be ready for you, and I will beat your boys to a pulp.
+quest_system_1412725875_name	Satisfaction
+quest_system_1412725875_stage_0	Baron Hussaro
+quest_system_1412725875_task	Triumph Over Baron Hussaro’s army
+
+
+

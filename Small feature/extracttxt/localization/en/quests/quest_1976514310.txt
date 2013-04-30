@@ -1,0 +1,10 @@
+﻿quest_system_1976514310_cntdesc_0	Create the Traveller’s Boots item and equip it
+quest_system_1976514310_cntdesc_1	Equip the Traveller's Boots
+quest_system_1976514310_desc	A Knight of the Academy, a worthy Legionary, should not go traipsing around without the proper equipment. In the last battle, you gathered enough resources to make yourself a good suit of armour. So get to work and don’t stop until you’re properly equipped!
+quest_system_1976514310_done	Well, I can easily see that a future legend of the Kingdom stands before me!
+quest_system_1976514310_name	Equipment
+quest_system_1976514310_stage_0	crafting and equipment
+quest_system_1976514310_task	Create the Traveller’s Boots item and equip it
+
+
+

@@ -1,0 +1,8 @@
+﻿quest_system_1893212723_desc	Now I’ll tell you about the second component. It’s an astralite. A stone that attracts iron. They say it can be found on the bottom of Eternal Lake. Dwarves use it sometimes to manufacture compasses. Maybe they’ll agree to give you one of the magic, iron-attracting stones. But you’ll have to persuade them with some solid arguments.
+quest_system_1893212723_done	What? The astralite? You make it sound so simple. I give you my stuff? What for?
+quest_system_1893212723_name	Magnet Stone
+quest_system_1893212723_stage_0	Speak with Master Strummer
+quest_system_1893212723_task	Get the astralite from Master Strummer.
+
+
+

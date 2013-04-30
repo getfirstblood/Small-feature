@@ -1,0 +1,8 @@
+﻿quest_system_1949729563_desc	Many have I helped, many have I saved from disease and afflictions, but I cannot save myself... An old witch keeps all human woes inside until she goes mad, and I am nearly there. Ooh... All kinds of visions are overcoming me – there are monsters man has never seen, then there are ghosts ghosts, and vampires. Wait and see them bringing me to my grave. I cannot go to the coven like this. Would you mind helping me? I will give you an enchanted stone, so you can see my nightmares and chase them out of my head if you can.
+quest_system_1949729563_done	Oh, I'm feeling better. My head is getting clearer. But is this for long..? Thank you for your efforts. Come back if there is someone you want charmed or you have an aching tooth, hehe.
+quest_system_1949729563_name	Human Woes
+quest_system_1949729563_stage_0	Rout
+quest_system_1949729563_task	Chase away {counter_limit_0} squads of Human Woes Ghosts 
+
+
+

@@ -1,0 +1,49 @@
+﻿chat_system_1790272529_actor_description	Digory the Hermit An eccentric hermit.
+chat_system_1790272529_snap_0_answer_0	The Hermit's Amulet
+chat_system_1790272529_snap_0_answer_1	The Question of the Woods
+chat_system_1790272529_snap_0_answer_10	Spiritual Education
+chat_system_1790272529_snap_0_answer_11	A Secret Encountered
+chat_system_1790272529_snap_0_answer_2	The Question of the Woods
+chat_system_1790272529_snap_0_answer_3	The Third Part of the Key
+chat_system_1790272529_snap_0_answer_4	Visiting the Hermit
+chat_system_1790272529_snap_0_answer_5	Self-Mastery
+chat_system_1790272529_snap_0_answer_6	Self-Mastery
+chat_system_1790272529_snap_0_answer_7	An Education in Wit
+chat_system_1790272529_snap_0_answer_8	An Education in Wit
+chat_system_1790272529_snap_0_answer_9	Spiritual Education
+chat_system_1790272529_snap_0_question	Eh? What? No, no. I didn’t say nuthin’. What? Phew. I was just imagining things.
+chat_system_1790272529_snap_10_answer_0	end quest dialog
+chat_system_1790272529_snap_10_question	Hello man!
+chat_system_1790272529_snap_11_answer_0	begin quest dialog
+chat_system_1790272529_snap_11_question	Hello man!
+chat_system_1790272529_snap_12_answer_0	(away)
+chat_system_1790272529_snap_12_question	Don’t worry, I’ll make you a good amulet. Just as good as the old one. How was I to know I wasn’t supposed to burn the old one? The Archmage should have warned me.
+chat_system_1790272529_snap_13_answer_0	end quest dialog
+chat_system_1790272529_snap_13_question	end quest text
+chat_system_1790272529_snap_14_answer_0	begin quest dialog
+chat_system_1790272529_snap_14_question	Hello man!
+chat_system_1790272529_snap_15_answer_0	end quest dialog
+chat_system_1790272529_snap_15_question	Hello man!
+chat_system_1790272529_snap_16_answer_0	begin quest dialog
+chat_system_1790272529_snap_16_question	Hello man!
+chat_system_1790272529_snap_17_answer_0	(away)
+chat_system_1790272529_snap_17_question	Concentration and tranquility are the keys to unlocking your inner power.
+chat_system_1790272529_snap_18_answer_0	end quest dialog
+chat_system_1790272529_snap_18_question	end quest text
+chat_system_1790272529_snap_19_answer_0	begin quest dialog
+chat_system_1790272529_snap_19_question	Hello man!
+chat_system_1790272529_snap_20_answer_0	(away)
+chat_system_1790272529_snap_20_question	You shouldn't be afraid of the forest dwellers. You can outwit them if your mental facility is sufficient.
+chat_system_1790272529_snap_21_answer_0	end quest dialog
+chat_system_1790272529_snap_21_question	end quest text
+chat_system_1790272529_snap_22_answer_0	begin quest dialog
+chat_system_1790272529_snap_22_question	Hello man!
+chat_system_1790272529_snap_23_answer_0	(away)
+chat_system_1790272529_snap_23_question	Healers are the ideal barrier against any magical spell. Use them in battle and lead your warriors to victory.
+chat_system_1790272529_snap_24_answer_0	end quest dialog
+chat_system_1790272529_snap_24_question	end quest text
+chat_system_1790272529_snap_25_answer_0	begin quest dialog
+chat_system_1790272529_snap_25_question	Hello man!
+
+
+

@@ -1,0 +1,19 @@
+﻿chat_system_2056429763_actor_description	Captain Alistar. Gray Warden Veteran Remembers a time when Griffins were used as winged steeds to assault enemy fortresses.
+chat_system_2056429763_snap_0_answer_0	An Old Acquaintance
+chat_system_2056429763_snap_0_answer_1	Swamp Cultists
+chat_system_2056429763_snap_0_answer_2	Swamp Cultists
+chat_system_2056429763_snap_0_answer_3	Aid from the West
+chat_system_2056429763_snap_0_question	We were forced to transfer the main body of our troops back to the Garrison in order to be able of defending the North part of the island.
+chat_system_2056429763_snap_1_answer_0	end quest dialog
+chat_system_2056429763_snap_1_question	Hello man!
+chat_system_2056429763_snap_2_answer_0	begin quest dialog
+chat_system_2056429763_snap_2_question	Hello man!
+chat_system_2056429763_snap_3_answer_0	(away)
+chat_system_2056429763_snap_3_question	There are few men in my squad, but each one of them is an experienced warrior. Rest assured – not a single runaway Mage shall pass.
+chat_system_2056429763_snap_4_answer_0	end quest dialog
+chat_system_2056429763_snap_4_question	end quest text
+chat_system_2056429763_snap_5_answer_0	begin quest dialog
+chat_system_2056429763_snap_5_question	Hello man!
+
+
+

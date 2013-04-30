@@ -1,0 +1,881 @@
+﻿achievement_apvp.popup.caption	New game mode
+achievement_apvp.popup.caption_Avocado	Avocado
+achievement_apvp.popup.text	Congratulations! Now you can attack other players. I sent you a reward - a few Runes that will help you in battle.
+achievement_oapvp.popup.text_Avocado	Avocado
+AD_Achievement_Action	Get [?]!
+AD_Achievement_Action_Avocado	Avocado
+AD_Achievement_Reward	Reward
+AD_Achievement_Reward_Avocado	Avocado
+AD_Achievement_Text_1	Congratulations! You’ve received some new <font=tahoma_bold_10><color=fcffc3>[$]</font>. Now your army is even stronger.
+AD_Achievement_Text_1_Avocado	Avocado
+AD_Achievement_Text_100	Archmages
+AD_Achievement_Text_100_Avocado	Avocado
+AD_Achievement_Text_101	Assassins
+AD_Achievement_Text_101_Avocado	Avocado
+AD_Achievement_Text_102	Gunners
+AD_Achievement_Text_102_Avocado	Avocado
+AD_Achievement_Text_103	Demonologists
+AD_Achievement_Text_103_Avocado	Avocado
+AD_Achievement_Text_104	Dark Griffins
+AD_Achievement_Text_104_Avocado	Avocado
+AD_Achievement_Text_105	Champions
+AD_Achievement_Text_105_Avocado	Avocado
+AD_Achievement_Text_106	Inventors
+AD_Achievement_Text_106_Avocado	Avocado
+AD_Achievement_Text_107	Knights
+AD_Achievement_Text_107_Avocado	Avocado
+AD_Achievement_Text_108	Necromancers
+AD_Achievement_Text_108_Avocado	Avocado
+AD_Achievement_Text_109	Paladins
+AD_Achievement_Text_109_Avocado	Avocado
+AD_Achievement_Text_110	Sea Dogs
+AD_Achievement_Text_110_Avocado	Avocado
+AD_Achievement_Text_111	Inquisitors
+AD_Achievement_Text_111_Avocado	Avocado
+AD_Achievement_Text_112	Black Unicorns
+AD_Achievement_Text_112_Avocado	Avocado
+AD_Achievement_Text_113	Fiery Spiders
+AD_Achievement_Text_113_Avocado	Avocado
+AD_Achievement_Text_114	Royal Thorn
+AD_Achievement_Text_114_Avocado	Avocado
+AD_Achievement_Text_115	Ancient Serpents
+AD_Achievement_Text_115_Avocado	Avocado
+AD_Achievement_Text_116	Sea Devils
+AD_Achievement_Text_116_Avocado	Avocado
+AD_Achievement_Text_117	Lake Fairies
+AD_Achievement_Text_117_Avocado	Avocado
+AD_Achievement_Text_118	Gargoyle Hunters
+AD_Achievement_Text_118_Avocado	Avocado
+AD_Achievement_Text_119	Pathfinders
+AD_Achievement_Text_119_Avocado	Avocado
+AD_Achievement_Text_120	Forest Guardians
+AD_Achievement_Text_120_Avocado	Avocado
+AD_Achievement_Text_121	Dryads
+AD_Achievement_Text_121_Avocado	Avocado
+AD_Achievement_Text_122	Ancient Ents
+AD_Achievement_Text_122_Avocado	Avocado
+AD_Achievement_Text_123	Gargoyle Shamans
+AD_Achievement_Text_123_Avocado	Avocado
+AD_Achievement_Text_124	Polar Bears
+AD_Achievement_Text_124_Avocado	Avocado
+AD_Achievement_Text_125	emerald dragons
+AD_Achievement_Text_125_Avocado	Avocado
+AD_Achievement_Text_126	T-Rex
+AD_Achievement_Text_126_Avocado	Avocado
+AD_Achievement_Text_127	Cyclops
+AD_Achievement_Text_127_Avocado	Avocado
+AD_Achievement_Text_128	Dukes of Dark
+AD_Achievement_Text_128_Avocado	Avocado
+AD_Achievement_Text_129	Grey-maned Griffins
+AD_Achievement_Text_129_Avocado	Avocado
+AD_Achievement_Text_130	Night Wolves
+AD_Achievement_Text_130_Avocado	Night Wolves
+AD_Achievement_Text_131	Evil Eyes
+AD_Achievement_Text_131_Avocado	Evil Eyes
+AD_Achievement_Text_2	[$]
+AD_Achievement_Text_200	Now you are the commander of all the <font=tahoma_bold_10><color=fcffc3>Kingdom's</font>.troops. 
+AD_Achievement_Text_200_Avocado	Avocado
+AD_Achievement_Text_201	You have all <font=tahoma_bold_10><color=fcffc3>Chaos</font> units under your command.
+AD_Achievement_Text_201_Avocado	Avocado
+AD_Achievement_Text_202	You have gathered the entire <font=tahoma_bold_10><color=fcffc3>Ancient</font> race under your banners.
+AD_Achievement_Text_202_Avocado	Avocado
+AD_Achievement_Text_24	We are celebrating Valentine's Day! Send gifts with valentines to your friends and share good spirits. All guests who have an invitation will get presents!
+AD_Achievement_Text_24_Avocado	We are celebrating Valentine's Day! Send gifts with valentines to your friends and share good spirits. All guests who have an invitation will get presents!
+AD_Achievement_Text_3	You have become more experienced and reached the <font=tahoma_bold_10><color=fcffc3>[$]</font> level.
+AD_Achievement_Text_3_Avocado	Avocado
+AD_Achievement_Text_300	3rd
+AD_Achievement_Text_300_Avocado	Avocado
+AD_Achievement_Text_301	5th
+AD_Achievement_Text_301_Avocado	Avocado
+AD_Achievement_Text_302	7th
+AD_Achievement_Text_302_Avocado	Avocado
+AD_Achievement_Text_303	10th
+AD_Achievement_Text_303_Avocado	Avocado
+AD_Achievement_Text_304	15th
+AD_Achievement_Text_304_Avocado	Avocado
+AD_Achievement_Text_305	20th
+AD_Achievement_Text_305_Avocado	Avocado
+AD_Achievement_Text_306	25th
+AD_Achievement_Text_306_Avocado	Avocado
+AD_Achievement_Text_307	30th
+AD_Achievement_Text_307_Avocado	Avocado
+AD_Achievement_Text_4	You have been promoted to <font=tahoma_bold_10><color=fcffc3>[$]</font>.
+AD_Achievement_Text_4_Avocado	Avocado
+AD_Achievement_Text_400	Recruit
+AD_Achievement_Text_400_Avocado	Avocado
+AD_Achievement_Text_401	Fighter
+AD_Achievement_Text_401_Avocado	Avocado
+AD_Achievement_Text_402	Warrior
+AD_Achievement_Text_402_Avocado	Avocado
+AD_Achievement_Text_403	Veteran
+AD_Achievement_Text_403_Avocado	Avocado
+AD_Achievement_Text_404	Berserker
+AD_Achievement_Text_404_Avocado	Avocado
+AD_Achievement_Text_405	Knight
+AD_Achievement_Text_405_Avocado	Avocado
+AD_Achievement_Text_406	Champion
+AD_Achievement_Text_406_Avocado	Avocado
+AD_Achievement_Text_407	Hero
+AD_Achievement_Text_407_Avocado	Avocado
+AD_Achievement_Text_408	Legend
+AD_Achievement_Text_408_Avocado	Avocado
+AD_Achievement_Text_409	Demigod
+AD_Achievement_Text_409_Avocado	Avocado
+AD_Achievement_Text_5	[$]
+AD_Achievement_Text_500	You managed to repulse the mysterious assault on the Library. Now the many priceless books and ancient manuscripts within are out of danger.
+AD_Achievement_Text_500_Avocado	Avocado
+AD_Achievement_Text_501	With your help, the Mages managed to remove the spell blocking the port, allowing the reinforcements to arrive.
+AD_Achievement_Text_501_Avocado	Avocado
+AD_Achievement_Text_502	New intelligence has been received from a trusted member of the Royal Intelligence Agency. We can move further north.
+AD_Achievement_Text_502_Avocado	Avocado
+AD_Achievement_Text_503	You learned more about the mysterious manuscripts written in the ages before the Great Cataclysm.
+AD_Achievement_Text_503_Avocado	Avocado
+AD_Achievement_Text_504	I had the good fortune of obtaining a very ancient Scroll. Its contents might shed some light on this situation.
+AD_Achievement_Text_504_Avocado	Avocado
+AD_Achievement_Text_505	With your help, the ancient manuscript has been deciphered. It warns of a potential threat to the Crown.
+AD_Achievement_Text_505_Avocado	Avocado
+AD_Achievement_Text_506	Lazarus managed to escape. But thanks to your efforts, his army was defeated and his plans, thwarted.
+AD_Achievement_Text_506_Avocado	Avocado
+AD_Achievement_Text_507	Your outstanding efforts to uncover the conspiracy against the people of the Kingdom earn you a promotion to the Golden Legion from His Majesty. 
+AD_Achievement_Text_507_Avocado	Avocado
+AD_Achievement_Text_508	You managed to repulse the mysterious assault on the Library. Now the many priceless books and ancient manuscripts within are out of danger. Now is the time to move on and meet new challenges. 
+AD_Achievement_Text_508_Avocado	Avocado
+AD_Achievement_Text_509	With your help, the Mages managed to remove the spell blocking the port, allowing the reinforcements to arrive. Help for the Order is on the way! 
+AD_Achievement_Text_509_Avocado	Avocado
+AD_Achievement_Text_510	New intelligence has been received from a trusted member of the Royal Intelligence Agency. We can move further north. 
+AD_Achievement_Text_510_Avocado	Avocado
+AD_Achievement_Text_511	With your help, the cultists' manifestos have been deciphered. The ArchMages must be warned of the imminent danger! 
+AD_Achievement_Text_511_Avocado	Avocado
+AD_Achievement_Text_512	A special magical key to the door guarding the ancient secrets has been manufactured. High time to face the unknown! 
+AD_Achievement_Text_512_Avocado	Avocado
+AD_Achievement_Text_513	Having secured the witches' magical assistance, you are ready to face the Kingdom's most dangerous foe! 
+AD_Achievement_Text_513_Avocado	Avocado
+AD_Achievement_Text_514	Lazarus managed to escape. But thanks to your efforts, his army was defeated and his plans, thwarted. The Kingdom is no longer threatened. 
+AD_Achievement_Text_514_Avocado	Avocado
+AD_Achievement_Text_515	Your outstanding efforts to uncover the conspiracy against the people of the Kingdom earn you a promotion to the Golden Legion from His Majesty. 
+AD_Achievement_Text_515_Avocado	Avocado
+AD_Achievement_Text_6	Congratulations! You have passed the <font=tahoma_bold_10><color=fcffc3>training</font>.
+AD_Achievement_Text_6_Avocado	Avocado
+AD_Achievement_Text_7	Congratulations! You have arrived at the <font=tahoma_bold_10><color=fcffc3>[$]</font>.
+AD_Achievement_Text_7_Avocado	Avocado
+AD_Achievement_Text_700	Witch's Swamp
+AD_Achievement_Text_700_Avocado	Avocado
+AD_Achievement_Text_701	Academy Tiltyard
+AD_Achievement_Text_701_Avocado	Avocado
+AD_Achievement_Text_702	Karakol Port
+AD_Achievement_Text_702_Avocado	Avocado
+AD_Achievement_Text_703	Ancient Temple
+AD_Achievement_Text_703_Avocado	Avocado
+AD_Achievement_Text_704	Barley Grove
+AD_Achievement_Text_704_Avocado	Avocado
+AD_Achievement_Text_705	Bear Forest
+AD_Achievement_Text_705_Avocado	Avocado
+AD_Achievement_Text_706	Kronberg
+AD_Achievement_Text_706_Avocado	Avocado
+AD_Achievement_Text_707	Ruined Temple
+AD_Achievement_Text_707_Avocado	Avocado
+AD_Achievement_Text_708	Eastern Fort
+AD_Achievement_Text_708_Avocado	Avocado
+AD_Achievement_Text_709	Engineers' Reservation
+AD_Achievement_Text_709_Avocado	Avocado
+AD_Achievement_Text_710	Forsaken Village
+AD_Achievement_Text_710_Avocado	Avocado
+AD_Achievement_Text_711	Free Village
+AD_Achievement_Text_711_Avocado	Avocado
+AD_Achievement_Text_712	Garrison of the Order
+AD_Achievement_Text_712_Avocado	Avocado
+AD_Achievement_Text_713	Gray Warden Garrison
+AD_Achievement_Text_713_Avocado	Avocado
+AD_Achievement_Text_714	Hunter’s Camp
+AD_Achievement_Text_714_Avocado	Avocado
+AD_Achievement_Text_715	Library Ruins
+AD_Achievement_Text_715_Avocado	Avocado
+AD_Achievement_Text_716	Northern Bay
+AD_Achievement_Text_716_Avocado	Avocado
+AD_Achievement_Text_717	Scouts’ Camp
+AD_Achievement_Text_717_Avocado	Avocado
+AD_Achievement_Text_718	Shady Grove
+AD_Achievement_Text_718_Avocado	Avocado
+AD_Achievement_Text_719	Turtle Hill
+AD_Achievement_Text_719_Avocado	Avocado
+AD_Achievement_Text_720	Watermill Junction
+AD_Achievement_Text_720_Avocado	Avocado
+AD_Achievement_Text_721	Western Fort
+AD_Achievement_Text_721_Avocado	Avocado
+AD_Achievement_Text_8	{hero_name}, you have begun playing King’s Bounty: Legions. New adventures await brave heroes! Tell your friends so that they can join in the excitement.
+AD_Achievement_Text_8_Avocado	Avocado
+AD_Achievement_Text_9	[$]
+AD_Achievement_Text_900	We are celebrating Hallowe'en. Happy All Hallows' Eve everybody! Share <font=tahoma_bold_10><color=fcffc3>licorice</font> with your friends and send them new gifts. You will meet new units you have never seen before.
+AD_Achievement_Text_900_Avocado	Avocado
+AD_Achievement_Text_901	We are celebrating Christmas. Merry Christmas, everybody! Share <font=tahoma_bold_10><color=fcffc3>hot drinks</font> with your friends. Be ready to meet both new opponents and new faithful warriors! Expect to see new characters and face exciting new quests! 
+AD_Achievement_Text_901_Avocado	Avocado
+AD_Achievement_Text_Share_Reward_1	[AD_Achievement_Text_Share_Reward_Money]
+AD_Achievement_Text_Share_Reward_1_Avocado	[AD_Achievement_Text_Share_Reward_Money_Avocado]
+AD_Achievement_Text_Share_Reward_10	[AD_Achievement_Text_Share_Reward_Creature]
+AD_Achievement_Text_Share_Reward_10_Avocado	[AD_Achievement_Text_Share_Reward_Creature_Avocado]
+AD_Achievement_Text_Share_Reward_11	[AD_Achievement_Text_Share_Reward_Creature]
+AD_Achievement_Text_Share_Reward_11_Avocado	[AD_Achievement_Text_Share_Reward_Creature_Avocado]
+AD_Achievement_Text_Share_Reward_12	[AD_Achievement_Text_Share_Reward_Creature]
+AD_Achievement_Text_Share_Reward_12_Avocado	[AD_Achievement_Text_Share_Reward_Creature_Avocado]
+AD_Achievement_Text_Share_Reward_13	[AD_Achievement_Text_Share_Reward_Creature]
+AD_Achievement_Text_Share_Reward_13_Avocado	[AD_Achievement_Text_Share_Reward_Creature_Avocado]
+AD_Achievement_Text_Share_Reward_15	[AD_Achievement_Text_Share_Reward_Creature]
+AD_Achievement_Text_Share_Reward_15_Avocado	[AD_Achievement_Text_Share_Reward_Creature_Avocado]
+AD_Achievement_Text_Share_Reward_16	[AD_Achievement_Text_Share_Reward_Creature]
+AD_Achievement_Text_Share_Reward_16_Avocado	[AD_Achievement_Text_Share_Reward_Creature_Avocado]
+AD_Achievement_Text_Share_Reward_17	[AD_Achievement_Text_Share_Reward_Creature]
+AD_Achievement_Text_Share_Reward_17_Avocado	[AD_Achievement_Text_Share_Reward_Creature_Avocado]
+AD_Achievement_Text_Share_Reward_18	[AD_Achievement_Text_Share_Reward_Creature]
+AD_Achievement_Text_Share_Reward_18_Avocado	[AD_Achievement_Text_Share_Reward_Creature_Avocado]
+AD_Achievement_Text_Share_Reward_19	[AD_Achievement_Text_Share_Reward_Creature]
+AD_Achievement_Text_Share_Reward_19_Avocado	[AD_Achievement_Text_Share_Reward_Creature_Avocado]
+AD_Achievement_Text_Share_Reward_2	<br>
+AD_Achievement_Text_Share_Reward_2_Avocado	Avocado
+AD_Achievement_Text_Share_Reward_20	[AD_Achievement_Text_Share_Reward_Creature]
+AD_Achievement_Text_Share_Reward_20_Avocado	[AD_Achievement_Text_Share_Reward_Creature_Avocado]
+AD_Achievement_Text_Share_Reward_21	[AD_Achievement_Text_Share_Reward_Creature]
+AD_Achievement_Text_Share_Reward_21_Avocado	[AD_Achievement_Text_Share_Reward_Creature_Avocado]
+AD_Achievement_Text_Share_Reward_22	[AD_Achievement_Text_Share_Reward_Creature]
+AD_Achievement_Text_Share_Reward_22_Avocado	[AD_Achievement_Text_Share_Reward_Creature_Avocado]
+AD_Achievement_Text_Share_Reward_23	[AD_Achievement_Text_Share_Reward_Creature]
+AD_Achievement_Text_Share_Reward_23_Avocado	[AD_Achievement_Text_Share_Reward_Creature_Avocado]
+AD_Achievement_Text_Share_Reward_24	[AD_Achievement_Text_Share_Reward_Creature]
+AD_Achievement_Text_Share_Reward_24_Avocado	[AD_Achievement_Text_Share_Reward_Creature_Avocado]
+AD_Achievement_Text_Share_Reward_25	[AD_Achievement_Text_Share_Reward_Creature]
+AD_Achievement_Text_Share_Reward_25_Avocado	[AD_Achievement_Text_Share_Reward_Creature_Avocado]
+AD_Achievement_Text_Share_Reward_26	[AD_Achievement_Text_Share_Reward_Creature]
+AD_Achievement_Text_Share_Reward_26_Avocado	[AD_Achievement_Text_Share_Reward_Creature_Avocado]
+AD_Achievement_Text_Share_Reward_27	<br>
+AD_Achievement_Text_Share_Reward_27_Avocado	Avocado
+AD_Achievement_Text_Share_Reward_28	[AD_Achievement_Text_Share_Reward_Money]
+AD_Achievement_Text_Share_Reward_28_Avocado	[AD_Achievement_Text_Share_Reward_Money_Avocado]
+AD_Achievement_Text_Share_Reward_3	[AD_Achievement_Text_Share_Reward_Creature]
+AD_Achievement_Text_Share_Reward_3_Avocado	[AD_Achievement_Text_Share_Reward_Creature_Avocado]
+AD_Achievement_Text_Share_Reward_4	[AD_Achievement_Text_Share_Reward_Creature]
+AD_Achievement_Text_Share_Reward_4_Avocado	[AD_Achievement_Text_Share_Reward_Creature_Avocado]
+AD_Achievement_Text_Share_Reward_5	[AD_Achievement_Text_Share_Reward_Creature]
+AD_Achievement_Text_Share_Reward_5_Avocado	[AD_Achievement_Text_Share_Reward_Creature_Avocado]
+AD_Achievement_Text_Share_Reward_6	[AD_Achievement_Text_Share_Reward_Creature]
+AD_Achievement_Text_Share_Reward_6_Avocado	[AD_Achievement_Text_Share_Reward_Creature_Avocado]
+AD_Achievement_Text_Share_Reward_7	[AD_Achievement_Text_Share_Reward_Creature]
+AD_Achievement_Text_Share_Reward_7_Avocado	[AD_Achievement_Text_Share_Reward_Creature_Avocado]
+AD_Achievement_Text_Share_Reward_8	[AD_Achievement_Text_Share_Reward_Creature]
+AD_Achievement_Text_Share_Reward_8_Avocado	[AD_Achievement_Text_Share_Reward_Creature_Avocado]
+AD_Achievement_Text_Share_Reward_9	[AD_Achievement_Text_Share_Reward_Creature]
+AD_Achievement_Text_Share_Reward_9_Avocado	[AD_Achievement_Text_Share_Reward_Creature_Avocado]
+AD_Achievement_Text_Share_Reward_Creature	<br><br>Share a battle unit with your friends – <font=tahoma_bold_10><color=fcffc3>[$]</font>.
+AD_Achievement_Text_Share_Reward_Creature_Avocado	Avocado
+AD_Achievement_Text_Share_Reward_Money	<br><br>Share <font=tahoma_bold_10><color=fcffc3>[$]</font> with your friends.
+AD_Achievement_Text_Share_Reward_Money_Avocado	Avocado
+AD_Achievement_Title_1	New unit
+AD_Achievement_Title_1_Avocado	Avocado
+AD_Achievement_Title_2	[$]
+AD_Achievement_Title_200	Leader of King’s Troops
+AD_Achievement_Title_200_Avocado	Avocado
+AD_Achievement_Title_201	Master of Chaos
+AD_Achievement_Title_201_Avocado	Avocado
+AD_Achievement_Title_202	Keeper of Ancients
+AD_Achievement_Title_202_Avocado	Avocado
+AD_Achievement_Title_24	Valentine's Day
+AD_Achievement_Title_24_Avocado	Valentine's Day
+AD_Achievement_Title_3	New level
+AD_Achievement_Title_3_Avocado	Avocado
+AD_Achievement_Title_4	New title: [$]
+AD_Achievement_Title_4_Avocado	Avocado
+AD_Achievement_Title_400	Recruit
+AD_Achievement_Title_400_Avocado	Avocado
+AD_Achievement_Title_401	Fighter
+AD_Achievement_Title_401_Avocado	Avocado
+AD_Achievement_Title_402	Warrior
+AD_Achievement_Title_402_Avocado	Avocado
+AD_Achievement_Title_403	Veteran
+AD_Achievement_Title_403_Avocado	Avocado
+AD_Achievement_Title_404	Berserker
+AD_Achievement_Title_404_Avocado	Avocado
+AD_Achievement_Title_405	Knight
+AD_Achievement_Title_405_Avocado	Avocado
+AD_Achievement_Title_406	Champion
+AD_Achievement_Title_406_Avocado	Avocado
+AD_Achievement_Title_407	Hero
+AD_Achievement_Title_407_Avocado	Avocado
+AD_Achievement_Title_408	Legend
+AD_Achievement_Title_408_Avocado	Avocado
+AD_Achievement_Title_409	Demigod
+AD_Achievement_Title_409_Avocado	Avocado
+AD_Achievement_Title_5	[$]
+AD_Achievement_Title_500	Guardian of the Library
+AD_Achievement_Title_500_Avocado	Avocado
+AD_Achievement_Title_501	Spell Removed
+AD_Achievement_Title_501_Avocado	Avocado
+AD_Achievement_Title_502	The Road North
+AD_Achievement_Title_502_Avocado	Avocado
+AD_Achievement_Title_503	Secret Manuscripts
+AD_Achievement_Title_503_Avocado	Avocado
+AD_Achievement_Title_504	Ancient Manuscript
+AD_Achievement_Title_504_Avocado	Avocado
+AD_Achievement_Title_505	A Hidden Threat
+AD_Achievement_Title_505_Avocado	Avocado
+AD_Achievement_Title_506	The Island’s Salvation
+AD_Achievement_Title_506_Avocado	Avocado
+AD_Achievement_Title_507	Golden Legion
+AD_Achievement_Title_507_Avocado	Avocado
+AD_Achievement_Title_508	Manuscript Hunters
+AD_Achievement_Title_508_Avocado	Avocado
+AD_Achievement_Title_509	To the pier!
+AD_Achievement_Title_509_Avocado	Avocado
+AD_Achievement_Title_510	Free at Last
+AD_Achievement_Title_510_Avocado	Avocado
+AD_Achievement_Title_511	All Seals are removed
+AD_Achievement_Title_511_Avocado	Avocado
+AD_Achievement_Title_512	The Key Is Ready
+AD_Achievement_Title_512_Avocado	Avocado
+AD_Achievement_Title_513	The Storm Clouds Are Gathering
+AD_Achievement_Title_513_Avocado	Avocado
+AD_Achievement_Title_514	Foreboding
+AD_Achievement_Title_514_Avocado	Avocado
+AD_Achievement_Title_515	Golden Legion
+AD_Achievement_Title_515_Avocado	Avocado
+AD_Achievement_Title_6	Training complete
+AD_Achievement_Title_6_Avocado	Avocado
+AD_Achievement_Title_7	New location
+AD_Achievement_Title_7_Avocado	Avocado
+AD_Achievement_Title_8	The adventure begins
+AD_Achievement_Title_8_Avocado	Avocado
+AD_Achievement_Title_9	[$]
+AD_Achievement_Title_900	Halloween
+AD_Achievement_Title_900_Avocado	Avocado
+AD_Achievement_Title_901	Christmas
+AD_Achievement_Title_901_Avocado	Avocado
+AD_Achievement_Type_Coins	Coins
+AD_Achievement_Type_Coins_Avocado	Avocado
+AD_Achievement_Type_Creature	Unit 
+AD_Achievement_Type_Creature_Avocado	Avocado
+AD_Achievement_Type_Item	Item
+AD_Achievement_Type_Item_Avocado	Avocado
+AD_Achievement_Type_Stamina	Stamina
+AD_Achievement_Type_Stamina_Avocado	Avocado
+AD_Achievement_Wall_Desc_1	[$]
+AD_Achievement_Wall_Desc_100	I've got a new unit – [army_unit_845436252_name]! Click here to collect your reward!
+AD_Achievement_Wall_Desc_100_Avocado	Avocado
+AD_Achievement_Wall_Desc_101	I've got a new unit – [army_unit_1457885761_name]! Click here to collect your reward!
+AD_Achievement_Wall_Desc_101_Avocado	Avocado
+AD_Achievement_Wall_Desc_102	I has got a new unit – [army_unit_1082613235_name]! Click here to collect your reward!
+AD_Achievement_Wall_Desc_102_Avocado	Avocado
+AD_Achievement_Wall_Desc_103	I've got a new unit – [army_unit_907864820_name]! Click here to collect your reward!
+AD_Achievement_Wall_Desc_103_Avocado	Avocado
+AD_Achievement_Wall_Desc_104	I've got a new unit – [army_unit_1771185152_name]! Click here to collect your reward!
+AD_Achievement_Wall_Desc_104_Avocado	Avocado
+AD_Achievement_Wall_Desc_105	I've got a new unit – [army_unit_1894667343_name]! Click here to collect your reward!
+AD_Achievement_Wall_Desc_105_Avocado	Avocado
+AD_Achievement_Wall_Desc_106	I've got a new unit – [army_unit_814856525_name]! Click here to collect your reward!
+AD_Achievement_Wall_Desc_106_Avocado	Avocado
+AD_Achievement_Wall_Desc_107	I've got a new unit – [army_unit_1340698284_name]! Click here to collect your reward!
+AD_Achievement_Wall_Desc_107_Avocado	Avocado
+AD_Achievement_Wall_Desc_108	I've got a new unit – [army_unit_1554971046_name]! Click here to collect your reward!
+AD_Achievement_Wall_Desc_108_Avocado	Avocado
+AD_Achievement_Wall_Desc_109	I've got a new unit – [army_unit_501131414_name]! Click here to collect your reward!
+AD_Achievement_Wall_Desc_109_Avocado	Avocado
+AD_Achievement_Wall_Desc_110	I've got a new unit – [army_unit_1645474520_name]! Click here to collect your reward!
+AD_Achievement_Wall_Desc_110_Avocado	Avocado
+AD_Achievement_Wall_Desc_111	I've got a new unit – [army_unit_1643424966_name]! Click here to collect your reward!
+AD_Achievement_Wall_Desc_111_Avocado	Avocado
+AD_Achievement_Wall_Desc_112	I've got a new unit – [army_unit_995546218_name]! Click here to collect your reward!
+AD_Achievement_Wall_Desc_112_Avocado	Avocado
+AD_Achievement_Wall_Desc_113	I've got a new unit – [army_unit_1444834080_name]! Click here to collect your reward!
+AD_Achievement_Wall_Desc_113_Avocado	Avocado
+AD_Achievement_Wall_Desc_114	I've got a new unit – [army_unit_1270775656_name]! I would like to share my reward with you!
+AD_Achievement_Wall_Desc_114_Avocado	Avocado
+AD_Achievement_Wall_Desc_115	I've got a new unit – [army_unit_614033656_name]! Click here to collect your reward!
+AD_Achievement_Wall_Desc_115_Avocado	Avocado
+AD_Achievement_Wall_Desc_116	I've got a new unit – [army_unit_1849932360_name]! Click here to collect your reward!
+AD_Achievement_Wall_Desc_116_Avocado	Avocado
+AD_Achievement_Wall_Desc_117	I a got a new unit – [army_unit_1569707585_name]! Click here to collect your reward!
+AD_Achievement_Wall_Desc_117_Avocado	Avocado
+AD_Achievement_Wall_Desc_118	I've got a new unit – [army_unit_1736635715_name]! Click here to collect your reward!
+AD_Achievement_Wall_Desc_118_Avocado	Avocado
+AD_Achievement_Wall_Desc_119	I've got a new unit – [army_unit_933879072_name]! Click here to collect your reward!
+AD_Achievement_Wall_Desc_119_Avocado	Avocado
+AD_Achievement_Wall_Desc_120	I've got a new unit – [army_unit_440124720_name]! Click here to collect your reward!
+AD_Achievement_Wall_Desc_120_Avocado	Avocado
+AD_Achievement_Wall_Desc_121	I've got a new unit – [army_unit_730969985_name]! Click here to collect your reward!
+AD_Achievement_Wall_Desc_121_Avocado	Avocado
+AD_Achievement_Wall_Desc_122	I've got a new unit – [army_unit_679014690_name]! Click here to collect your reward!
+AD_Achievement_Wall_Desc_122_Avocado	Avocado
+AD_Achievement_Wall_Desc_123	I've got a new unit – [army_unit_1362260711_name]! Click here to collect your reward!
+AD_Achievement_Wall_Desc_123_Avocado	Avocado
+AD_Achievement_Wall_Desc_124	I've got a new unit – [army_unit_874729719_name]! Click here to collect your reward!
+AD_Achievement_Wall_Desc_124_Avocado	Avocado
+AD_Achievement_Wall_Desc_125	I've got a new unit – [army_unit_711345374_name]! Click here to collect your reward!
+AD_Achievement_Wall_Desc_125_Avocado	Avocado
+AD_Achievement_Wall_Desc_126	I've got a new unit – [army_unit_1803850629_name]! I would like to share my reward with you!
+AD_Achievement_Wall_Desc_126_Avocado	Avocado
+AD_Achievement_Wall_Desc_127	I've got a new unit – [army_unit_347648649_name]! Click here to collect your reward!
+AD_Achievement_Wall_Desc_127_Avocado	Avocado
+AD_Achievement_Wall_Desc_128	I've got a new unit – [army_unit_1109124953_name]! Click here to collect your reward!
+AD_Achievement_Wall_Desc_128_Avocado	Avocado
+AD_Achievement_Wall_Desc_129	I've got a new unit – [army_unit_1382469534_name]! Click here to collect your reward!
+AD_Achievement_Wall_Desc_129_Avocado	Avocado
+AD_Achievement_Wall_Desc_130	I've got a new unit – [army_unit_336241499_name]! Click here to collect your reward!
+AD_Achievement_Wall_Desc_130_Avocado	I've got a new unit – [army_unit_336241499_name]! Click here to collect your reward!
+AD_Achievement_Wall_Desc_131	I've got a new unit – [army_unit_1045095640_name]! Click here to collect your reward!
+AD_Achievement_Wall_Desc_131_Avocado	I've got a new unit – [army_unit_1045095640_name]! Click here to collect your reward!
+AD_Achievement_Wall_Desc_2	[$]
+AD_Achievement_Wall_Desc_2_Avocado	Avocado
+AD_Achievement_Wall_Desc_200	{hero_name} just became the commander of the Royal Garrison! Click here to collect your reward!
+AD_Achievement_Wall_Desc_200_Avocado	Avocado
+AD_Achievement_Wall_Desc_201	{hero_name} now commands all the warriors of Chaos! Click here to collect your reward!
+AD_Achievement_Wall_Desc_201_Avocado	Avocado
+AD_Achievement_Wall_Desc_202	{hero_name} now possesses every Ancient unit! Click here to collect your reward!
+AD_Achievement_Wall_Desc_202_Avocado	Avocado
+AD_Achievement_Wall_Desc_24	Love came to King's Bounty: Legions! Now, if you send a gift to your friend, they will also get a valuable valentine. Click here to get your reward!
+AD_Achievement_Wall_Desc_24_Avocado	Love came to King's Bounty: Legions! Now, if you send a gift to your friend, they will also get a valuable valentine. Click here to get your reward!
+AD_Achievement_Wall_Desc_3	[$]
+AD_Achievement_Wall_Desc_3_Avocado	Avocado
+AD_Achievement_Wall_Desc_300	I have reached level 3. Many new warriors want to join my army.
+AD_Achievement_Wall_Desc_300_Avocado	Avocado
+AD_Achievement_Wall_Desc_301	I have reached level 5. Many new warriors want to join my army.
+AD_Achievement_Wall_Desc_301_Avocado	Avocado
+AD_Achievement_Wall_Desc_302	I have reached level 7 and I can now travel more across the world.
+AD_Achievement_Wall_Desc_302_Avocado	Avocado
+AD_Achievement_Wall_Desc_303	I have reached level 10 and attract new warriors to my army.
+AD_Achievement_Wall_Desc_303_Avocado	Avocado
+AD_Achievement_Wall_Desc_304	I have reached level 15. Many new warriors want to join my army.
+AD_Achievement_Wall_Desc_304_Avocado	Avocado
+AD_Achievement_Wall_Desc_305	I have reached level 20! Now I can command a larger army!
+AD_Achievement_Wall_Desc_305_Avocado	Avocado
+AD_Achievement_Wall_Desc_306	I am now level 25. My armies are numerous and the enemies run at the sight of me.
+AD_Achievement_Wall_Desc_306_Avocado	Avocado
+AD_Achievement_Wall_Desc_307	I have reached level 30. I command the most devastating armies in the game.
+AD_Achievement_Wall_Desc_307_Avocado	Avocado
+AD_Achievement_Wall_Desc_4	[$]
+AD_Achievement_Wall_Desc_400	{hero_name} is now a Recruit in King's Bounty: Legions! Click here to collect your reward!
+AD_Achievement_Wall_Desc_400_Avocado	Avocado
+AD_Achievement_Wall_Desc_401	{hero_name} is now a Warrior in King's Bounty: Legions! Click here to collect your reward!
+AD_Achievement_Wall_Desc_401_Avocado	Avocado
+AD_Achievement_Wall_Desc_402	{hero_name} is now a Warrior in King's Bounty Legions! Legions! Click here to collect your reward!
+AD_Achievement_Wall_Desc_402_Avocado	Avocado
+AD_Achievement_Wall_Desc_403	{hero_name} is now a Veteran in King's Bounty: Legions! Click here to collect your reward!
+AD_Achievement_Wall_Desc_403_Avocado	Avocado
+AD_Achievement_Wall_Desc_404	{hero_name} is now a Berserker in King's Bounty: Legions! Click here to collect your reward!
+AD_Achievement_Wall_Desc_404_Avocado	Avocado
+AD_Achievement_Wall_Desc_405	{hero_name} is now a Knight in King's Bounty: Legions! Click here to collect your reward!
+AD_Achievement_Wall_Desc_405_Avocado	Avocado
+AD_Achievement_Wall_Desc_406	{hero_name} is now a Champion
+ in King's Bounty: Legions! Click here to collect your reward!
+AD_Achievement_Wall_Desc_406_Avocado	Avocado
+AD_Achievement_Wall_Desc_407	{hero_name} is now a Hero in King's Bounty: Legions! Click here to collect your reward!
+AD_Achievement_Wall_Desc_407_Avocado	Avocado
+AD_Achievement_Wall_Desc_408	{hero_name} is now a Legend in King's Bounty: Legions! Click here to collect your reward!
+AD_Achievement_Wall_Desc_408_Avocado	Avocado
+AD_Achievement_Wall_Desc_409	{hero_name} is now a Demigod in King's Bounty: Legions! Click here to collect your reward!
+AD_Achievement_Wall_Desc_409_Avocado	Avocado
+AD_Achievement_Wall_Desc_5	[$]
+AD_Achievement_Wall_Desc_500	I have just saved the Library Ruins! Click here to collect your reward!
+AD_Achievement_Wall_Desc_500_Avocado	Avocado
+AD_Achievement_Wall_Desc_501	I have just reclaimed the wharf! Click here to collect your reward!
+AD_Achievement_Wall_Desc_501_Avocado	Avocado
+AD_Achievement_Wall_Desc_502	I have just obtained some secret information! Click here to collect your reward!
+AD_Achievement_Wall_Desc_502_Avocado	Avocado
+AD_Achievement_Wall_Desc_503	I have found an ancient Scroll that someone very powerful had been looking for! Click here to collect your reward!
+AD_Achievement_Wall_Desc_503_Avocado	Avocado
+AD_Achievement_Wall_Desc_504	{hero_name} needs help deciphering an ancient manuscript! Click here to collect your reward!
+AD_Achievement_Wall_Desc_504_Avocado	Avocado
+AD_Achievement_Wall_Desc_505	I have got the manuscript deciphered... Looks like it warns of a great peril! Click here to collect your reward!
+AD_Achievement_Wall_Desc_505_Avocado	Avocado
+AD_Achievement_Wall_Desc_506	I have saved the Kingdom from a disaster and am about to receive an the award! Click here to collect your share!
+AD_Achievement_Wall_Desc_506_Avocado	Avocado
+AD_Achievement_Wall_Desc_507	His Majesty himself has inducted {hero_name} into the Golden Legion! Click here to collect your reward!
+AD_Achievement_Wall_Desc_507_Avocado	Avocado
+AD_Achievement_Wall_Desc_508	I have managed to stop the mysterious assaults on the Library. Now the many priceless books and ancient manuscripts within are out of danger. Now is the time to move on and meet new challenges. 
+AD_Achievement_Wall_Desc_508_Avocado	Avocado
+AD_Achievement_Wall_Desc_509	With my help, the Mages managed to remove the spell blocking the port, allowing the reinforcements to arrive. Help for the Order is on the way! 
+AD_Achievement_Wall_Desc_509_Avocado	Avocado
+AD_Achievement_Wall_Desc_510	I have received the intel from a trusted member of the King's entourage. Now that I have this information, I can move on. 
+AD_Achievement_Wall_Desc_510_Avocado	Avocado
+AD_Achievement_Wall_Desc_511	With your help, the cultists' manifestos have been deciphered. You must hurry to be debriefed by the Archmage and warn him of the impending danger. 
+AD_Achievement_Wall_Desc_511_Avocado	Avocado
+AD_Achievement_Wall_Desc_512	My ceaseless efforts have resulted in the creation of a new magical key that can open the door to many secrets. 
+AD_Achievement_Wall_Desc_512_Avocado	Avocado
+AD_Achievement_Wall_Desc_513	Even the witches have agreed to help me defeat the Kingdom's most dangerous enemy. 
+AD_Achievement_Wall_Desc_513_Avocado	Avocado
+AD_Achievement_Wall_Desc_514	Lazarus managed to escape. However, he no longer has an army or a loyal entourage. High time to get your just reward from the King. 
+AD_Achievement_Wall_Desc_514_Avocado	Avocado
+AD_Achievement_Wall_Desc_515	For my superb work in uncovering the plot against his subjects, His Highness has inducted me into the Golden Legion.
+AD_Achievement_Wall_Desc_515_Avocado	Avocado
+AD_Achievement_Wall_Desc_6	{hero_name} just completed the training mission in King's Bounty: Legions! Click here to collect your reward!
+AD_Achievement_Wall_Desc_6_Avocado	Avocado
+AD_Achievement_Wall_Desc_7	[$]
+AD_Achievement_Wall_Desc_700	I have found secret paths that lead to a secret, hidden village known as the Witch's Swamp! Click here to collect your reward!
+AD_Achievement_Wall_Desc_700_Avocado	Avocado
+AD_Achievement_Wall_Desc_701	I have earned the right to visit the Academy Tiltyard! Click here to collect your reward!
+AD_Achievement_Wall_Desc_701_Avocado	Avocado
+AD_Achievement_Wall_Desc_702	{hero_name} just earned the right to visit Karakol Port! Click here to collect your reward!
+AD_Achievement_Wall_Desc_702_Avocado	Avocado
+AD_Achievement_Wall_Desc_703	My squad has reached a new settlement – Ancient Temple!
+AD_Achievement_Wall_Desc_703_Avocado	Avocado
+AD_Achievement_Wall_Desc_704	My squad has reached a new settlement – Barley Grove!
+AD_Achievement_Wall_Desc_704_Avocado	Avocado
+AD_Achievement_Wall_Desc_705	My squad has reached a new settlement – Bear Forest!
+AD_Achievement_Wall_Desc_705_Avocado	Avocado
+AD_Achievement_Wall_Desc_706	My squad has reached a new settlement – Kronberg!
+AD_Achievement_Wall_Desc_706_Avocado	Avocado
+AD_Achievement_Wall_Desc_707	My squad has reached a new settlement – Ruined Temple! 
+AD_Achievement_Wall_Desc_707_Avocado	Avocado
+AD_Achievement_Wall_Desc_708	My squad has reached a new settlement – Eastern Fort! 
+AD_Achievement_Wall_Desc_708_Avocado	Avocado
+AD_Achievement_Wall_Desc_709	My squad has reached a new settlement – Engineers' Reservation! 
+AD_Achievement_Wall_Desc_709_Avocado	Avocado
+AD_Achievement_Wall_Desc_710	My squad has reached a new settlement – Forsaken Village! 
+AD_Achievement_Wall_Desc_710_Avocado	Avocado
+AD_Achievement_Wall_Desc_711	My squad has reached a new settlement – Free Village! 
+AD_Achievement_Wall_Desc_711_Avocado	Avocado
+AD_Achievement_Wall_Desc_712	My squad has reached a new settlement – Garrison of the Order! 
+AD_Achievement_Wall_Desc_712_Avocado	Avocado
+AD_Achievement_Wall_Desc_713	My squad has reached a new settlement – Gray Warden Garrison! 
+AD_Achievement_Wall_Desc_713_Avocado	Avocado
+AD_Achievement_Wall_Desc_714	My squad has reached a new settlement – Hunter's Camp! 
+AD_Achievement_Wall_Desc_714_Avocado	Avocado
+AD_Achievement_Wall_Desc_715	My squad has reached a new settlement – Library Ruins! 
+AD_Achievement_Wall_Desc_715_Avocado	Avocado
+AD_Achievement_Wall_Desc_716	My squad has a new settlement – Northern Bay! 
+AD_Achievement_Wall_Desc_716_Avocado	Avocado
+AD_Achievement_Wall_Desc_717	My squad has reached a new settlement – Scouts’ Camp! 
+AD_Achievement_Wall_Desc_717_Avocado	Avocado
+AD_Achievement_Wall_Desc_718	My squad has reached a new settlement – Shady Grove! 
+AD_Achievement_Wall_Desc_718_Avocado	Avocado
+AD_Achievement_Wall_Desc_719	My squad has reached a new settlement – Turtle Hill! 
+AD_Achievement_Wall_Desc_719_Avocado	Avocado
+AD_Achievement_Wall_Desc_720	My squad has reached a new settlement – Watermill Junction! 
+AD_Achievement_Wall_Desc_720_Avocado	Avocado
+AD_Achievement_Wall_Desc_721	My squad has reached a new settlement – Western Fort! 
+AD_Achievement_Wall_Desc_721_Avocado	Avocado
+AD_Achievement_Wall_Desc_8	Now I’m also playing King's Bounty: Legions. Come join me!
+AD_Achievement_Wall_Desc_8_Avocado	Avocado
+AD_Achievement_Wall_Desc_9	[$]
+AD_Achievement_Wall_Desc_900	Dear friends! Join us for a Hallowe'en celebration in the game. Сandies, unique items and boosters await you!
+AD_Achievement_Wall_Desc_900_Avocado	Avocado
+AD_Achievement_Wall_Desc_901	Dear friends! Join us for a Christmas celebration in the game. Hot drinks, new quests and amazing visitors from the North await you!
+AD_Achievement_Wall_Desc_901_Avocado	Avocado
+AD_Achievement_Wall_Param_3	Level
+AD_Achievement_Wall_Param_3_Avocado	Avocado
+AD_Achievement_Wall_Param_300	3rd
+AD_Achievement_Wall_Param_300_Avocado	Avocado
+AD_Achievement_Wall_Param_301	5th
+AD_Achievement_Wall_Param_301_Avocado	Avocado
+AD_Achievement_Wall_Param_302	7th
+AD_Achievement_Wall_Param_302_Avocado	Avocado
+AD_Achievement_Wall_Param_303	10th
+AD_Achievement_Wall_Param_303_Avocado	Avocado
+AD_Achievement_Wall_Param_304	15th
+AD_Achievement_Wall_Param_304_Avocado	Avocado
+AD_Achievement_Wall_Param_305	20th
+AD_Achievement_Wall_Param_305_Avocado	Avocado
+AD_Achievement_Wall_Param_306	25th
+AD_Achievement_Wall_Param_306_Avocado	Avocado
+AD_Achievement_Wall_Param_307	30th
+AD_Achievement_Wall_Param_307_Avocado	Avocado
+AD_Achievement_Wall_Param_4	Title
+AD_Achievement_Wall_Param_4_Avocado	Avocado
+AD_Achievement_Wall_Param_400	Recruit
+AD_Achievement_Wall_Param_400_Avocado	Avocado
+AD_Achievement_Wall_Param_401	Fighter
+AD_Achievement_Wall_Param_401_Avocado	Avocado
+AD_Achievement_Wall_Param_402	Warrior
+AD_Achievement_Wall_Param_402_Avocado	Avocado
+AD_Achievement_Wall_Param_403	Veteran
+AD_Achievement_Wall_Param_403_Avocado	Avocado
+AD_Achievement_Wall_Param_404	Berserker
+AD_Achievement_Wall_Param_404_Avocado	Avocado
+AD_Achievement_Wall_Param_405	Knight
+AD_Achievement_Wall_Param_405_Avocado	Avocado
+AD_Achievement_Wall_Param_406	Champion
+AD_Achievement_Wall_Param_406_Avocado	Avocado
+AD_Achievement_Wall_Param_407	Hero
+AD_Achievement_Wall_Param_407_Avocado	Avocado
+AD_Achievement_Wall_Param_408	Legend
+AD_Achievement_Wall_Param_408_Avocado	Avocado
+AD_Achievement_Wall_Param_409	Demigod
+AD_Achievement_Wall_Param_409_Avocado	Avocado
+AD_Achievement_Wall_Param_7	Settlement
+AD_Achievement_Wall_Param_7_Avocado	Avocado
+AD_Achievement_Wall_Param_700	Witch’s Swamp
+AD_Achievement_Wall_Param_700_Avocado	Avocado
+AD_Achievement_Wall_Param_701	Academy Tiltyard
+AD_Achievement_Wall_Param_701_Avocado	Avocado
+AD_Achievement_Wall_Param_702	Karakol Port
+AD_Achievement_Wall_Param_702_Avocado	Avocado
+AD_Achievement_Wall_Param_703	Ancient Temple
+AD_Achievement_Wall_Param_703_Avocado	Avocado
+AD_Achievement_Wall_Param_704	Barley Grove
+AD_Achievement_Wall_Param_704_Avocado	Avocado
+AD_Achievement_Wall_Param_705	Bear Forest
+AD_Achievement_Wall_Param_705_Avocado	Avocado
+AD_Achievement_Wall_Param_706	Kronberg
+AD_Achievement_Wall_Param_706_Avocado	Avocado
+AD_Achievement_Wall_Param_707	Ruined Temple
+AD_Achievement_Wall_Param_707_Avocado	Avocado
+AD_Achievement_Wall_Param_708	Eastern Fort
+AD_Achievement_Wall_Param_708_Avocado	Avocado
+AD_Achievement_Wall_Param_709	Engineers’ Reservation
+AD_Achievement_Wall_Param_709_Avocado	Avocado
+AD_Achievement_Wall_Param_710	Forsaken Village
+AD_Achievement_Wall_Param_710_Avocado	Avocado
+AD_Achievement_Wall_Param_711	Free Village
+AD_Achievement_Wall_Param_711_Avocado	Avocado
+AD_Achievement_Wall_Param_712	Garrison of the Order
+AD_Achievement_Wall_Param_712_Avocado	Avocado
+AD_Achievement_Wall_Param_713	Gray Warden Garrison
+AD_Achievement_Wall_Param_713_Avocado	Avocado
+AD_Achievement_Wall_Param_714	Hunter’s Camp
+AD_Achievement_Wall_Param_714_Avocado	Avocado
+AD_Achievement_Wall_Param_715	Library Ruins
+AD_Achievement_Wall_Param_715_Avocado	Avocado
+AD_Achievement_Wall_Param_716	Northern Bay
+AD_Achievement_Wall_Param_716_Avocado	Avocado
+AD_Achievement_Wall_Param_717	Scouts’ Camp
+AD_Achievement_Wall_Param_717_Avocado	Avocado
+AD_Achievement_Wall_Param_718	Shady Grove
+AD_Achievement_Wall_Param_718_Avocado	Avocado
+AD_Achievement_Wall_Param_719	Turtle Hill
+AD_Achievement_Wall_Param_719_Avocado	Avocado
+AD_Achievement_Wall_Param_720	Watermill Junction
+AD_Achievement_Wall_Param_720_Avocado	Avocado
+AD_Achievement_Wall_Param_721	Western Fort
+AD_Achievement_Wall_Param_721_Avocado	Avocado
+AD_Achievement_Wall_Random_Text_0	{hero_name} got mugged by a family of Griffins. 
+AD_Achievement_Wall_Random_Text_0_Avocado	Avocado
+AD_Achievement_Wall_Random_Text_1	{hero_name} just drank the blood of a bear... there was no more rum in his hip flask.
+AD_Achievement_Wall_Random_Text_1_Avocado	Avocado
+AD_Achievement_Wall_Random_Text_10	{hero_name} just got jail time for stabbing a bear in a nature reserve... again. 
+AD_Achievement_Wall_Random_Text_10_Avocado	Avocado
+AD_Achievement_Wall_Random_Text_11	{hero_name} just got mauled by a bear. 
+AD_Achievement_Wall_Random_Text_11_Avocado	Avocado
+AD_Achievement_Wall_Random_Text_12	{hero_name} is having trouble breaking it off with a big snake. 
+AD_Achievement_Wall_Random_Text_12_Avocado	Avocado
+AD_Achievement_Wall_Random_Text_13	{hero_name} thinks all games should feature a unicorn. 
+AD_Achievement_Wall_Random_Text_13_Avocado	Avocado
+AD_Achievement_Wall_Random_Text_14	{hero_name} loves unicorns. 
+AD_Achievement_Wall_Random_Text_14_Avocado	Avocado
+AD_Achievement_Wall_Random_Text_15	{hero_name} is upset because he has to kill 10 unicorns for a quest.
+AD_Achievement_Wall_Random_Text_15_Avocado	Avocado
+AD_Achievement_Wall_Random_Text_16	{hero_name} just changed their wallpaper to a picture of a black unicorn. 
+AD_Achievement_Wall_Random_Text_16_Avocado	Avocado
+AD_Achievement_Wall_Random_Text_17	{hero_name} just rode a giant spider across deep marshes. 
+AD_Achievement_Wall_Random_Text_17_Avocado	Avocado
+AD_Achievement_Wall_Random_Text_18	{hero_name} just shared a Bloody Mary with a Demonologist. We hope that it’s just a name of the drink!
+AD_Achievement_Wall_Random_Text_18_Avocado	Avocado
+AD_Achievement_Wall_Random_Text_19	{hero_name} just spilled their drink on a Golden Paladin. Need to find out how to get cranberry juice out of armour ASAP. Oh no, it’s not coming off!
+AD_Achievement_Wall_Random_Text_19_Avocado	Avocado
+AD_Achievement_Wall_Random_Text_2	{hero_name} just lost a PvP match to his 84 year old grandmother. 
+AD_Achievement_Wall_Random_Text_2_Avocado	Avocado
+AD_Achievement_Wall_Random_Text_20	{hero_name} just brought a necromancer home to meet his long-dead parents. 
+AD_Achievement_Wall_Random_Text_20_Avocado	Avocado
+AD_Achievement_Wall_Random_Text_21	{hero_name} is entangled in a love triangle with a pirate and an assassin. 
+AD_Achievement_Wall_Random_Text_21_Avocado	Avocado
+AD_Achievement_Wall_Random_Text_22	{hero_name} is battling a bunch of bears with his last whole pitchfork. He’s already broken the rest of his tools on their backs.
+AD_Achievement_Wall_Random_Text_22_Avocado	Avocado
+AD_Achievement_Wall_Random_Text_23	{hero_name} just got the snot beat out of them. Quite literally, too.
+AD_Achievement_Wall_Random_Text_23_Avocado	Avocado
+AD_Achievement_Wall_Random_Text_24	{hero_name} was recently beat up by a mob of angry sprites and is sticking a bandaid on his nose. A fairy was killed with a newspaper. Although... how did he find a newspaper in the forest?
+AD_Achievement_Wall_Random_Text_24_Avocado	Avocado
+AD_Achievement_Wall_Random_Text_25	{hero_name} is making spider leg stew. 
+AD_Achievement_Wall_Random_Text_25_Avocado	Avocado
+AD_Achievement_Wall_Random_Text_26	{hero_name} is out killing spiders. 
+AD_Achievement_Wall_Random_Text_26_Avocado	Avocado
+AD_Achievement_Wall_Random_Text_27	{hero_name} just started a tab at the Foresaken Village pub. 
+AD_Achievement_Wall_Random_Text_27_Avocado	Avocado
+AD_Achievement_Wall_Random_Text_28	{hero_name} just checked in at the Academy Tiltyard 
+AD_Achievement_Wall_Random_Text_28_Avocado	Avocado
+AD_Achievement_Wall_Random_Text_29	{hero_name} just bought an appletini for a necromancer. 
+AD_Achievement_Wall_Random_Text_29_Avocado	Avocado
+AD_Achievement_Wall_Random_Text_3	{hero_name} is reclining on the bar at the Foresaken Village Pub having a margarita mixed directly in their mouth by a Goblin barman.
+AD_Achievement_Wall_Random_Text_3_Avocado	Avocado
+AD_Achievement_Wall_Random_Text_30	{hero_name} won a battle with an archer by throwing his sword at his throat.
+AD_Achievement_Wall_Random_Text_30_Avocado	Avocado
+AD_Achievement_Wall_Random_Text_31	{hero_name} just invited an Archmage to lunch at a food truck... and hopes he brought cash. 
+AD_Achievement_Wall_Random_Text_31_Avocado	Avocado
+AD_Achievement_Wall_Random_Text_32	{hero_name} picked the black unicorn last for dodgeball. Again. 
+AD_Achievement_Wall_Random_Text_32_Avocado	Avocado
+AD_Achievement_Wall_Random_Text_33	{hero_name} is sad because the pilgrims are throwing a party, and ‘forgot’ to send an invite... again!
+AD_Achievement_Wall_Random_Text_33_Avocado	Avocado
+AD_Achievement_Wall_Random_Text_34	{hero_name} says to back off before you find yourself chased by a horde of zombies and bears. And try not to smell like a hero.
+AD_Achievement_Wall_Random_Text_34_Avocado	Avocado
+AD_Achievement_Wall_Random_Text_35	{hero_name} is treating a scratch that an enemy arrow left on his cheek and is very pleased that he now looks like a real soldier.
+AD_Achievement_Wall_Random_Text_35_Avocado	Avocado
+AD_Achievement_Wall_Random_Text_36	{hero_name} is on a date with a necromancer with bad breath. Awkward! 
+AD_Achievement_Wall_Random_Text_36_Avocado	Avocado
+AD_Achievement_Wall_Random_Text_37	{hero_name}, a pirate, and a peasant walk into a bar... 
+AD_Achievement_Wall_Random_Text_37_Avocado	Avocado
+AD_Achievement_Wall_Random_Text_38	{hero_name} is waiting for a serpent to call... too bad serpents can't dial a phone. 
+AD_Achievement_Wall_Random_Text_38_Avocado	Avocado
+AD_Achievement_Wall_Random_Text_39	{hero_name} just kicked a drunk pirate out of the Forsaken Village Pub. 
+AD_Achievement_Wall_Random_Text_39_Avocado	Avocado
+AD_Achievement_Wall_Random_Text_4	{hero_name} just got kicked in the crotch by a tiny sprite. 
+AD_Achievement_Wall_Random_Text_4_Avocado	Avocado
+AD_Achievement_Wall_Random_Text_40	{hero_name} is wondering if you can contract scurvy or foot & mouth disease from PVP battles.
+AD_Achievement_Wall_Random_Text_40_Avocado	Avocado
+AD_Achievement_Wall_Random_Text_41	{hero_name} refuses to waste time with Peasants and wants to get into a real fight.
+AD_Achievement_Wall_Random_Text_41_Avocado	Avocado
+AD_Achievement_Wall_Random_Text_42	{hero_name} farts in the general direction of all pilgrims.
+AD_Achievement_Wall_Random_Text_42_Avocado	Avocado
+AD_Achievement_Wall_Random_Text_43	{hero_name} is at the Library Ruins with a pirate... researching booty. 
+AD_Achievement_Wall_Random_Text_43_Avocado	Avocado
+AD_Achievement_Wall_Random_Text_44	{hero_name} wants to know if foot soldiers like feet. 
+AD_Achievement_Wall_Random_Text_44_Avocado	Avocado
+AD_Achievement_Wall_Random_Text_45	{hero_name} wants to know how armoured Knights handle bathroom emergencies. 
+AD_Achievement_Wall_Random_Text_45_Avocado	Avocado
+AD_Achievement_Wall_Random_Text_46	{hero_name} just edited a photo of a Demonologist, trying to give him the wings of a Griffin and snake’s scales. Not cute. The task was made even harder by the fact that a Demonologist cannot be easily photographed.
+AD_Achievement_Wall_Random_Text_46_Avocado	Avocado
+AD_Achievement_Wall_Random_Text_47	{hero_name} is behind a car full of pilgrims at the drive-through. Why is it taking half an hour to order five burgers?
+AD_Achievement_Wall_Random_Text_47_Avocado	Avocado
+AD_Achievement_Wall_Random_Text_48	{hero_name} is visiting the alchemist for a little problem. It's not contagious. 
+AD_Achievement_Wall_Random_Text_48_Avocado	Avocado
+AD_Achievement_Wall_Random_Text_49	{hero_name} saw a ghost of the bear that they killed earlier in the day egging his house.
+AD_Achievement_Wall_Random_Text_49_Avocado	Avocado
+AD_Achievement_Wall_Random_Text_5	{hero_name} just baked a bunny pie for a family of Griffins. 
+AD_Achievement_Wall_Random_Text_5_Avocado	Avocado
+AD_Achievement_Wall_Random_Text_50	{hero_name} had a Griffin omelette this morning, and it's repeating on them. 
+AD_Achievement_Wall_Random_Text_50_Avocado	Avocado
+AD_Achievement_Wall_Random_Text_51	{hero_name} just had lunch with a morbidly obese foot soldier. Training has been tough for him.  
+AD_Achievement_Wall_Random_Text_51_Avocado	Avocado
+AD_Achievement_Wall_Random_Text_52	{hero_name} is pissed. A Knight just scratched the new car's leather seat with his sword. COME ON! 
+AD_Achievement_Wall_Random_Text_52_Avocado	Avocado
+AD_Achievement_Wall_Random_Text_53	{hero_name} just got rear-ended by a serpent. Since when can serpents get a driver's license? 
+AD_Achievement_Wall_Random_Text_53_Avocado	Avocado
+AD_Achievement_Wall_Random_Text_54	{hero_name} is starting to suspect that the unicorn is taking him for granted!
+AD_Achievement_Wall_Random_Text_54_Avocado	Avocado
+AD_Achievement_Wall_Random_Text_55	{hero_name} is wondering how to get the smell of zombie out of hair. 
+AD_Achievement_Wall_Random_Text_55_Avocado	Avocado
+AD_Achievement_Wall_Random_Text_56	{hero_name} tells the troops that the best way to deal with a zombie is to hit on on the head with a silver spoon. This will totally reform him, he will stop eating brains and will happily attend the Sunday school every week.
+AD_Achievement_Wall_Random_Text_56_Avocado	Avocado
+AD_Achievement_Wall_Random_Text_57	{hero_name} is having a spa day at the Garisson Relaxation Center for dwarves and miners. The mud there is very good for complexion!
+AD_Achievement_Wall_Random_Text_57_Avocado	Avocado
+AD_Achievement_Wall_Random_Text_58	{hero_name} is helping an Archmage! The Archmage looks like a small mushroom in person... a magical mushroom, of course.
+AD_Achievement_Wall_Random_Text_58_Avocado	Avocado
+AD_Achievement_Wall_Random_Text_59	{hero_name} is trying to carry a Black Unicorn out of battle in a fireman’s hold. Thankfully, it weighs a little less than a truck.
+AD_Achievement_Wall_Random_Text_59_Avocado	Avocado
+AD_Achievement_Wall_Random_Text_6	{hero_name} just lost a match to a 4 year old. The baby is better with his pacifier than the hero with his sword!
+AD_Achievement_Wall_Random_Text_6_Avocado	Avocado
+AD_Achievement_Wall_Random_Text_60	{hero_name} is pretending they didn't notice that the Academy Quartermaster got hair plugs. 
+AD_Achievement_Wall_Random_Text_60_Avocado	Avocado
+AD_Achievement_Wall_Random_Text_61	{hero_name} is thinking of 10 reasons why bears are scarier than sharks. Reason 1: bears live on land. 
+AD_Achievement_Wall_Random_Text_61_Avocado	Avocado
+AD_Achievement_Wall_Random_Text_7	{hero_name} just put laxative in the king's soup. 
+AD_Achievement_Wall_Random_Text_7_Avocado	Avocado
+AD_Achievement_Wall_Random_Text_8	{hero_name} is under cottage arrest. He has to peel potatoes for the entire regiment.
+AD_Achievement_Wall_Random_Text_8_Avocado	Avocado
+AD_Achievement_Wall_Random_Text_9	{hero_name} just used words to destroy a horde of pitchfork-wielding Peasants. 
+AD_Achievement_Wall_Random_Text_9_Avocado	Avocado
+AD_Achievement_Wall_Title_1	I have received a new unit.
+AD_Achievement_Wall_Title_1_Avocado	Avocado
+AD_Achievement_Wall_Title_2	[$]
+AD_Achievement_Wall_Title_200	I am now the leader of the Kingdom's Troops and I want to share my reward with you!
+AD_Achievement_Wall_Title_200_Avocado	Avocado
+AD_Achievement_Wall_Title_201	I now lead the army of Chaos and I want to share my reward with you!
+AD_Achievement_Wall_Title_201_Avocado	Avocado
+AD_Achievement_Wall_Title_202	All the Ancient have submitted to me, and I want to share my reward with you!
+AD_Achievement_Wall_Title_202_Avocado	Avocado
+AD_Achievement_Wall_Title_24	Valentine's Day
+AD_Achievement_Wall_Title_24_Avocado	Valentine's Day
+AD_Achievement_Wall_Title_3	I have reached a new level and I want to share the reward with you!
+AD_Achievement_Wall_Title_3_Avocado	Avocado
+AD_Achievement_Wall_Title_4	[$]
+AD_Achievement_Wall_Title_400	My new PvP rank is Recruit!
+AD_Achievement_Wall_Title_400_Avocado	Avocado
+AD_Achievement_Wall_Title_401	My new PvP rank is Fighter!
+AD_Achievement_Wall_Title_401_Avocado	Avocado
+AD_Achievement_Wall_Title_402	My new PvP rank is Warrior!
+AD_Achievement_Wall_Title_402_Avocado	Avocado
+AD_Achievement_Wall_Title_403	My new PvP rank is Veteran!
+AD_Achievement_Wall_Title_403_Avocado	Avocado
+AD_Achievement_Wall_Title_404	My new PvP rank is Berserker!
+AD_Achievement_Wall_Title_404_Avocado	Avocado
+AD_Achievement_Wall_Title_405	My new PvP rank is Untameable!
+AD_Achievement_Wall_Title_405_Avocado	Avocado
+AD_Achievement_Wall_Title_406	My new PvP rank is Exalted!
+AD_Achievement_Wall_Title_406_Avocado	Avocado
+AD_Achievement_Wall_Title_407	My new PvP rank is Renowned!
+AD_Achievement_Wall_Title_407_Avocado	Avocado
+AD_Achievement_Wall_Title_408	My new PvP rank is Invincible!
+AD_Achievement_Wall_Title_408_Avocado	Avocado
+AD_Achievement_Wall_Title_409	My new PvP rank is Godlike!
+AD_Achievement_Wall_Title_409_Avocado	Avocado
+AD_Achievement_Wall_Title_5	[$]
+AD_Achievement_Wall_Title_500	Guardian of the Library
+AD_Achievement_Wall_Title_500_Avocado	Avocado
+AD_Achievement_Wall_Title_501	Spell Removed
+AD_Achievement_Wall_Title_501_Avocado	Avocado
+AD_Achievement_Wall_Title_502	The Road North
+AD_Achievement_Wall_Title_502_Avocado	Avocado
+AD_Achievement_Wall_Title_503	Secret Manuscripts
+AD_Achievement_Wall_Title_503_Avocado	Avocado
+AD_Achievement_Wall_Title_504	Ancient Manuscript
+AD_Achievement_Wall_Title_504_Avocado	Avocado
+AD_Achievement_Wall_Title_505	A Hidden Threat
+AD_Achievement_Wall_Title_505_Avocado	Avocado
+AD_Achievement_Wall_Title_506	The Island’s Salvation
+AD_Achievement_Wall_Title_506_Avocado	Avocado
+AD_Achievement_Wall_Title_507	Golden Legion
+AD_Achievement_Wall_Title_507_Avocado	Avocado
+AD_Achievement_Wall_Title_508	Manuscript Hunters
+AD_Achievement_Wall_Title_508_Avocado	Avocado
+AD_Achievement_Wall_Title_509	To the pier!
+AD_Achievement_Wall_Title_509_Avocado	Avocado
+AD_Achievement_Wall_Title_510	Free at Last
+AD_Achievement_Wall_Title_510_Avocado	Avocado
+AD_Achievement_Wall_Title_511	All Seals are removed
+AD_Achievement_Wall_Title_511_Avocado	Avocado
+AD_Achievement_Wall_Title_512	The Key Is Ready
+AD_Achievement_Wall_Title_512_Avocado	Avocado
+AD_Achievement_Wall_Title_513	The Storm Clouds Are Gathering
+AD_Achievement_Wall_Title_513_Avocado	Avocado
+AD_Achievement_Wall_Title_514	Foreboding
+AD_Achievement_Wall_Title_514_Avocado	Avocado
+AD_Achievement_Wall_Title_515	Golden Legion
+AD_Achievement_Wall_Title_515_Avocado	Avocado
+AD_Achievement_Wall_Title_6	Training complete
+AD_Achievement_Wall_Title_6_Avocado	Avocado
+AD_Achievement_Wall_Title_7	My squad has reached a new location and I want to share the reward with you!
+AD_Achievement_Wall_Title_7_Avocado	Avocado
+AD_Achievement_Wall_Title_8	The adventure begins
+AD_Achievement_Wall_Title_8_Avocado	Avocado
+AD_Achievement_Wall_Title_9	[$]
+AD_Achievement_Wall_Title_900	Halloween
+AD_Achievement_Wall_Title_900_Avocado	Avocado
+AD_Achievement_Wall_Title_901	Christmas
+AD_Achievement_Wall_Title_901_Avocado	Avocado
+AD_AskFriendStamina_Action	Send Stamina
+AD_AskFriendStamina_Action_Avocado	Avocado
+AD_AskFriendStamina_description	I need help so that I can carry on with my adventures, And I shall reciprocate with a gift.
+AD_AskFriendStamina_description_Avocado	Avocado
+AD_AskFriendStamina_text	King's Bounty: Legions, the 3D turn-based strategy game on Facebook
+AD_AskFriendStamina_text_Avocado	Avocado
+AD_AskFriendStamina_title	Help me!
+AD_AskFriendStamina_title_Avocado	Avocado
+AD_Award_Apply_Text	<align=center><valign=center><font=tahoma_bold_10><image=textures/interface/common/icons/[?]> Share
+AD_Award_Apply_Text_Avocado	Avocado
+AD_Award_Close_Text	[FormButtonText_11]Close
+AD_Award_Close_Text_Avocado	Avocado
+AD_Award_Share_Text	<align=center><valign=center><font=tahoma_bold_10><image=textures/interface/common/icons/[?]> Share
+AD_Award_Share_Text_Avocado	Avocado
+AD_Award_Tell_Text	<align=center><valign=center><font=tahoma_bold_10><image=textures/interface/common/icons/[?]> Share
+AD_Award_Tell_Text_Avocado	Avocado
+AD_Item_Name	<font=tahoma_bold_10><color=fcffc3>[$]</font>
+AD_KB_Wall_Text	King's Bounty: Legions.
+AD_KB_Wall_Text_Avocado	Avocado
+AD_Player_Name	<font=tahoma_bold_10><color=fcffc3>[?]</font>
+AD_Player_Name_Avocado	Avocado
+AD_Text	<align=left><valign=center><font=tahoma_regular_10><color=D9BF7B>[?]
+AD_Text_Avocado	Avocado
+AD_Text_Gift_From_Friend	[?] sent you a gift.
+AD_Text_Gift_From_Friend_Avocado	Avocado
+AD_Text_Gift_To_Friend	[AD_Player_Name] received your [AD_Item_Name].<br=5> Would you like to tell<br>them about it?
+AD_Text_Gift_To_Friend_Avocado	Avocado
+AD_Title	[FormTitleText][FormTitleColor][?]
+AD_Title_Gift_From_Friend	Gift received
+AD_Title_Gift_From_Friend_Avocado	Avocado
+AD_Title_Gift_To_Friend	Gift sent
+AD_Title_Gift_To_Friend_Avocado	Avocado
+
+
+

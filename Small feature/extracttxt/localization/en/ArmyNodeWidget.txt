@@ -1,0 +1,17 @@
+﻿AN_ArmyLevelTmpl	<valign=center><align=center><font=tahoma_bold_10_numbers_only>[?]
+AN_ArmyStaminaTmpl	<valign=center><align=center><font=tahoma_regular_8_numbers_only>[?]
+AN_TooltipArmyCooldown	<br>[WS_TooltipDescriptionFont]Unavailable for Battle
+AN_TooltipArmyDailyQuest	<br>[WS_TooltipDescriptionFont]Daily Army Quest
+AN_TooltipArmyDungeon	<br>[WS_TooltipDescriptionFont]A Wanted Army
+AN_TooltipArmyName	<valign=center><align=center>[WS_TooltipHeaderFont][$]
+AN_TooltipArmyNormal	<br>[WS_TooltipDescriptionFont]Ordinary Army
+AN_TooltipArmyQuest	<br>[WS_TooltipDescriptionFont]Side Quest Army
+AN_TooltipArmyStoryQuest	<br>[WS_TooltipDescriptionFont]Storyline Army
+AN_TooltipLine	<br=2><image=textures/interface/common/breaker_260x1 width=200>
+AN_TooltipQuestName	<color=AAFFAA> [$]</color>
+AN_TooltipQuestNameDelimeter	,
+AN_TooltipQuests	<br><image=[?] width=14 height=14> [WS_TooltipNormalFont]Quest: 
+AN_TravelToNodeText	The Army <color=6B2E00><font=tahoma_bold_10>[$]</color> is located in the settlement of <color=6B2E00><font=tahoma_bold_10>[$]</color>.<br>Moving there will spend <color=6B2E00><font=tahoma_bold_11>[?]</color> of your stamina.<br>Would you like to travel to this settlement?
+
+
+

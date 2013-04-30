@@ -1,0 +1,8 @@
+﻿quest_system_985915622_desc	Use Runes to gain advantage in battles, whether defending or attacking. Strengthen your Castle Wall and cast magic on your Squad before the siege begins. Here are a few Runes to help you.
+quest_system_985915622_done	Now your Town is protected by powerful Rune magic, and it’s time for you to start your first siege.
+quest_system_985915622_name	Rune Magic
+quest_system_985915622_stage_0	1
+quest_system_985915622_task	Use Runes to protect the Garrison and to increase the size of your Army.
+
+
+

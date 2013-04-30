@@ -1,0 +1,8 @@
+﻿quest_system_939075568_desc	What’s up, rookie? The time has come for you to serve our beloved kingdom. You don’t have any experience, true, but you’ll do for patrol duty. Report to the secretary; he’ll issue your first mission.
+quest_system_939075568_done	Well, well... I must say, Instructor Paincraft has spoken well of your skills. The whole square could hear him say it. Let’s see where we can send you...
+quest_system_939075568_name	Record of Arrival
+quest_system_939075568_stage_0	Speak with the Academy Secretary
+quest_system_939075568_task	Report your arrival to the Academy Secretary.
+
+
+

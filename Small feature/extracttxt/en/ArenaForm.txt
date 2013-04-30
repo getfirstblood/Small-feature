@@ -1,0 +1,44 @@
+﻿AF_Ruby_Info	<font=tahoma_regular_24_border_smooth><color=FAE600>Finish the battle to receive reward.
+AF_Ruby_Tool	You have found a Red Diamond! Complete the battle and you will receive a reward.
+APVP_Tower_DefenceBuff_tooltip	A defensive Wall increased the resilience of your warriors by increasing their Defence.
+Arena_TimeWaitLoadBtl	[?]
+ArenaCountDown	<font=tahoma_regular_24_border_smooth><color=FAE600>[?]
+ArenaCountDownGo	<font=tahoma_regular_24_border_smooth><color=FAE600>BEGIN!
+ArenaCurrUnitCount	<color=00FF00>[?]
+ArenaEnemyTurn	<font=tahoma_regular_24_border_smooth><color=FF0000>[ArenaEnemyTurnText]
+ArenaEnemyTurnText	Your opponent’s turn!
+ArenaFlyLoot_WarpointsTemplate	[$] - [?]
+ArenaFlyRound	<font=tahoma_regular_24_border_smooth><color=FAE600>[ArenaRound]
+ArenaLogItemResult	and [?]([?]) life changed <color=FFFFFF>[?]
+ArenaLogItemUse	[?] uses [?] 
+ArenaRound	Round [?]
+ArenaRoundEnemyTurn	[ArenaRound] Enemy’s Turn
+ArenaRoundPlayerTurn	[ArenaRound] Your Turn
+ArenaTimeBarToolTipEnemy	Skip Turn Your turn is [?].
+ArenaTimeBarToolTipFreeze	Turn time frozen.
+ArenaTimeBarToolTipSelf	Don’t miss your turn. Your turn is [?].
+ArenaTimeStepBig	[?] min [?] sec
+ArenaTimeStepSmal	[?] sec
+ArenaUnitCount	<color=FFFFFF>[?]
+ArenaWaveLast	[ArenaWaveMsgFormat]Your opponent has summoned one final wave of reinforcements!
+ArenaWaveLog	<color=FF0000>[$] [BattleLog_NormColour]summons reinforcements, opposition shows up in the form of [BattleLog_OpponentUnit][$] [BattleLog_NormColour]in the amount of: <color=FFFF00>[?]
+ArenaWaveMsgFormat	<font=tahoma_regular_24_border_smooth><color=FA3300>
+ArenaWaveNew	[ArenaWaveMsgFormat]Your opponent has summoned reinforcements!
+ArenaWaveWarning	[ArenaWaveMsgFormat]Your opponent will summon reinforcements!
+ArenaYourTurn	<font=tahoma_regular_24_border_smooth><color=FAE600>[ArenaYourTurnText]
+ArenaYourTurnText	Your turn!
+AttackWidgetDefault	Hold for details.
+BattleAbort_msgBox	No battle took place
+EscapeFromBattle_Confirm	Are you sure you want to flee?
+EscapeFromBattle_Error	You can’t flee during your opponent’s turn
+EscapeFromRatedBattle_Confirm	You will face a fine for deserting from the rating battle. You will only be able to enter the next rating battle in [?] min.<br><br>Are you sure you want to desert?
+result_BigObstMod	obstacle
+result_Block	block
+result_BlockAndCrit	critical+block
+result_CriticalHit	critical!
+result_Evasion	dodge
+result_Miss	miss
+result_Ok	hit
+
+
+

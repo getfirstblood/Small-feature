@@ -1,0 +1,8 @@
+﻿quest_system_108559336_desc	These Lazarus Cult Punishers are always roaming around our lands. I don’t know what they’re trying to find. I’m a military man. I have to deal with any clear and present danger to our security. But we can’t run after every crook that happens to linger around our walls. Especially when that means dealing with fanatics that happen to have some rudimentary knowledge of magic . . . My boys wouldn’t want to get entangled in this mess. But you appear to have experience enough in fighting any sort of enemy, so it shouldn’t be too much trouble for you to sort these annoying cultists out.
+quest_system_108559336_done	I see that you were able to show the rule of law to the possessed fanatics of Lazarus. There’s no other way to deal with cultist lunatics. Don’t I know it.
+quest_system_108559336_name	Divine Judgment
+quest_system_108559336_stage_0	Rout
+quest_system_108559336_task	Destroy {counter_limit_0} squads of Lazarus Cult Punishers. 
+
+
+

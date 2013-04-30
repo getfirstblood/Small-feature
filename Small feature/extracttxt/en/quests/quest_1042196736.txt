@@ -1,0 +1,8 @@
+﻿quest_system_1042196736_desc	All right, I can see the ships approaching the pier. Give them a couple of hours to disembark and I’ll send the troops to Kronberg. Please be so kind as to tell to the Commander that I did my best to resolve the problem. The delay is not my fault! It’s all Locrim and his stubbornness!
+quest_system_1042196736_done	I was thinking if I should send a messenger to retrieve my first messenger, with instructions to send him to... Well, let’s hear your report. The pier was under a spell? The culprit is unknown? Naturally, no one has even thought of starting an investigation. But anyway, the main task is accomplished and the reinforcements are arriving. You’ve done your job quite well. 
+quest_system_1042196736_name	Reinforcements are arriving!
+quest_system_1042196736_stage_0	Speak
+quest_system_1042196736_task	Inform Commander Tarcus that the reinforcements have arrived.
+
+
+

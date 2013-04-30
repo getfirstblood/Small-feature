@@ -1,0 +1,28 @@
+﻿PawnAlly	<color=00FF00><font=tahoma_bold_10>Allied</font></color>
+PawnBtlResult	<align=left><color=827D6B><font=tahoma_regular_10>[$]
+PawnBtlResult_Ally_DeadAll	To win the battle, keep at least one allied object in the group intact and at least one allied squad alive.
+PawnBtlResult_Ally_DeadOneOf	To win the battle, keep all allied objects in the group intact and at least one allied squad alive.
+PawnBtlResult_Ally_None	Protecting the allied object in the group is not a requirement for winning the battle.
+PawnBtlResult_Enemy_DeadAll	Destroy all enemy objects in the group and all enemy squads to win the battle.
+PawnBtlResult_Enemy_DeadOneOf	Destroy at least one enemy object in the group to win the battle.
+PawnBtlResult_Enemy_None	Destroying the enemy object in the group will not win this battle.
+PawnBtlResult_Neutral_DeadAll	Destroy the last neutral object in the group to win the battle.
+PawnBtlResult_Neutral_DeadOneOf	Destroy at least one neutral object in the group to win the battle.
+PawnBtlResult_Neutral_None	Destroying the neutral object in the group will not win this battle.
+PawnDescr	<align=left><color=FFFFFF><font=tahoma_regular_10>[$]
+PawnEnemy	<color=FF0000><font=tahoma_bold_10>Enemy</font></color>
+PawnHealth	<align=left><color=FFFFFF><font=tahoma_regular_10>Health: <color=00C109><font=tahoma_bold_10>[?]/[?]</font></color>
+PawnInfoTooltip_bottom	[PawnHealth][PawnRange]
+PawnInfoTooltip_middle_bottom	[PawnDescr]
+PawnInfoTooltip_middle_top	[PawnBtlResult]
+PawnInfoTooltip_top	[PawnName][PawnType]
+PawnName	<align=center><color=FFF8B0><font=tahoma_bold_10>[$]
+PawnNeutral	<color=DB6711><font=tahoma_bold_10>Neutral</font></color>
+PawnRange	[?]
+PawnRange_Dist	<br><br><color=FFFFFF>Object range: <color=FFD800><font=tahoma_bold_10>[?]</font></color> cell(s).
+PawnRange_Max	<br><br><color=FFFFFF>This item affects the entire battlefield.
+PawnRange_Self	<br><br><color=FFFFFF>This item only affects its user.
+PawnType	<br>[$]
+
+
+

@@ -1,0 +1,72 @@
+﻿premium_shop.discount	<font=tahoma_bold_10>-{shop_item.discount}
+PS_1day	[PS_TextAccent]1 day
+PS_3days	[PS_TextAccent]3 days
+PS_Discount	[PS_TextAccent]Sale -{shop_item.discount}%!
+PS_FormTitle	[FormTitleText][FormTitleColor][PS_TitieText]
+PS_ItemName	<align=center><valign=center><color=553200><font=tahoma_bold_10>[$]
+PS_ItemShortDescTmpl	<align=center><valign=top><font=tahoma_regular_8_border>[DarkTextColor][$]
+PS_ItemTooltip	<valign=center><color=DDDD00><font=tahoma_bold_10><align=center>{item_name}<br><color=FFFFFF><font=tahoma_regular_8><align=left>{item_additional_info}{item_impact_duration}{item_impact_already_activated}
+PS_ItemUnavaliableTooltip	<align=center><valign=center><color=DDDD00><font=tahoma_bold_10>[PS_LockedItem_Text] {item_level}
+PS_LockedItem_Text	Locked until level
+PS_LockedTab_Text	Locked until level
+PS_MoneyTmpl	[SH_TextTmpl][TextColor][?]
+PS_Sale	[PS_TextAccent]{sale_text}
+PS_Sale.EndCount	{shop_item.end_count} item(s) left
+PS_Sale.EndDate	Left {shop_item.end_date}
+PS_Sale.Simple	Sale
+PS_SpecialOffer	[PS_TextAccent]Sale
+PS_TAB_0	Hot & New
+PS_TAB_1	Units
+PS_TAB_2	Boosters
+PS_TAB_3	Goods
+PS_TAB_4	Spells
+PS_TAB_5	Special offer!
+PS_TAB_6	Tab 6
+PS_TAB_7	Tab 7
+PS_Tab_Items	Items
+PS_Tab_Scrolls	Magic
+PS_Tab_Units	Troops
+PS_TabName	[PS_TabNameTmpl][$][$]
+PS_TabNameTmpl	<align=center><valign=center><font=tahoma_regular_9><wordwrap=off>
+PS_TabUnavaliableTooltip	<align=center><valign=center><color=DDDD00><font=tahoma_bold_10>[PS_LockedTab_Text] [?]
+PS_TextAccent	<align=center><valign=center><color=FFC101><font=tahoma_bold_10>
+PS_TitieText	Royal Shop
+PS_TreasuryButton	[SH_ItemButtonTmpl][PS_TreasuryButtonText]
+PS_TreasuryButtonText	Get more
+PS_TreasuryTitle	[SH_TextTmpl]<align=left>[TextColor][PS_TreasuryTitleText]
+PS_TreasuryTitleText	Your treasury
+PS_Week	[PS_TextAccent]Week
+SH_Activate_License_Text	Activate the license?
+SH_Check_License_AuraCommander_Text	The Time Aura will suppress the Warrior Aura while it's active. Are you sure you want to use the Warrior Aura?
+SH_Check_License_AuraCommander_Title	Attention
+SH_Check_License_AuraTime_Text	Once you activate the Time Aura, your Legionary will stop receiving experience. This aura suppresses the effect of the Warrior Aura and cancels the bonus for invited friends. Are you sure you want to use the Time Aura?
+SH_Check_License_AuraTime_Title	Attention
+SH_Check_License_Text	Activating the license [SH_ItemTag] will dispel the effect of prior cast [SH_ItemTag]
+SH_Check_License_Title	Checking the License
+SH_Check_License_Tmpl	[SH_Check_License_Text]<br>[SH_Activate_License_Text]
+SH_CloseButton	[FormButtonText_9][FormButtonColor][CloseButton]
+SH_FormTitle	[FormTitleText][FormTitleColor][$]
+SH_ItemButtonTmpl	<align=center><valign=center><font=tahoma_regular_8_border>
+SH_ItemCountTmpl	<align=center><valign=center><font=tahoma_regular_7_border_numbers_only><color=FFF3CD>[?]
+SH_ItemPriceBtnTmpl	<font=tahoma_bold_10_border_smooth_numbers_only><align=center><valign=center><indent=10>[?]
+SH_ItemShortDescTmpl	<align=center><valign=top><font=tahoma_regular_7_border>[TextColor][$]<br>[DarkTextColor][$]
+SH_ItemsMagicTitle	[SH_SubTitleTmpl][SubTitleColor][SH_ItemsMagicTitleText]
+SH_ItemsMagicTitleText	Items and Magic
+SH_ItemsTitle	[SH_SubTitleTmpl][SubTitleColor][SH_ItemsTitleText]
+SH_ItemsTitleText	Items
+SH_ItemTag	 <color=6B2E00><font=tahoma_bold_11>[$]</color>
+SH_ItemTooltip	<valign=top><color=f4ef72><font=tahoma_bold_10><align=center>{item_name}<br=2><image=textures/interface/common/breaker_260x1><br><color=fbefb0><font=tahoma_regular_8><align=left>{item_desc}
+SH_MagicTitle	[SH_SubTitleTmpl][SubTitleColor][SH_MagicTitleText]
+SH_MagicTitleText	Magic
+SH_ScrollNoUpgrades	<br><br><color=00FF00>No upgrades
+SH_ScrollTooltip	<valign=top><color=f4ef72><font=tahoma_bold_10><align=center>{item_name}<br=2><image=textures/interface/common/breaker_260x1><br><color=fbefb0><font=tahoma_regular_8><align=left>{ability_text_description}{scroll_upgrade_level}
+SH_ScrollUpgradeInfo	<br><br><color=00FF00>Current upgrade level [?]</color>
+SH_SubTitleTmpl	<align=center><valign=center><font=tahoma_bold_10>
+SH_TextTmpl	<align=center><valign=center><font=tahoma_regular_8>
+SH_TroopsTitle	[SH_SubTitleTmpl][SubTitleColor][SH_TroopsTitleText]
+SH_TroopsTitleText	Troops
+SH_TryBuyMoney_Tmpl	<align=center><valign=center><font=tahoma_regular_10>[SH_NotEnoughMoney_Text] <color=DDDD00><font=tahoma_bold_10>[$]</color>.<br>[SH_BuyMoney_Text]
+PS_SaleDiscount	[PS_TextAccent]Sale {discount}%!
+
+
+

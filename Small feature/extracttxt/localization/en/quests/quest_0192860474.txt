@@ -1,0 +1,8 @@
+﻿quest_system_192860474_desc	The good thing about Ents: They have acorns. Acorns are important. Well, one could manage without acorns, I guess; it may be just a matter of taste. I personally prefer my brews with acorns. You agree? Well, it’s not like you have to. Your task is Ents! Let’s say, ten of them! Or more, if you can manage.
+quest_system_192860474_done	Nicely done. Now I can get as many acorns as I please. What are the acorns for? Well, for my brews. With acorns in it, the brew is better, stronger. It makes your mood merrier.
+quest_system_192860474_name	Acorn Hunt
+quest_system_192860474_stage_0	Hunt
+quest_system_192860474_task	Destroy {counter_limit_0} Ancient Ents. 
+
+
+

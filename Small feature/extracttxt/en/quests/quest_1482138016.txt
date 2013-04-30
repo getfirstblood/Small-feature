@@ -1,0 +1,8 @@
+﻿quest_system_1482138016_desc	Send some of your soldiers to protect the Town from enemy attacks. Just remember that the warriors can’t be in the Garrison and the Army at the same time.
+quest_system_1482138016_done	Your loyal soldiers will protect your Town to the last drop of their blood. However, if you use Runes, their work will be easier.
+quest_system_1482138016_name	Worthy Defenders
+quest_system_1482138016_stage_0	1
+quest_system_1482138016_task	Create a Garrison to protect your Castle.
+
+
+

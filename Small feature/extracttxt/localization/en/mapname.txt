@@ -1,0 +1,68 @@
+﻿kbamap_kba_map_1_0	Knights’ Academy
+kbamap_kba_map_1_0_shop	Armed Peasants
+kbamap_kba_map_1_1	Garrison of the Order
+kbamap_kba_map_1_1_desc	You can enter the Officers' garrison only if you have a billet from the Knights’ Academy.
+kbamap_kba_map_1_1_shop	Wandering Merchant’s Shop
+kbamap_kba_map_1_10	Eastern Fort
+kbamap_kba_map_1_10_desc	The roads will be blocked as long as there is any threat to the arriving reinforcements.
+kbamap_kba_map_1_10_shop	Eastern Market
+kbamap_kba_map_1_103	Scouts’ Camp
+kbamap_kba_map_1_103_desc	Signal Island unavailable. Fighting in progress.
+kbamap_kba_map_1_103_shop	Rare Goods Merchant
+kbamap_kba_map_1_107	Ancient Temple
+kbamap_kba_map_1_107_desc	You cannot reach the settlement while the cultists' protective spells are active.
+kbamap_kba_map_1_107_shop	Merchant's Tent
+kbamap_kba_map_1_11	Barley Grove
+kbamap_kba_map_1_11_desc	The route to the settlement will be impassable until backup arrives at the Eastern Fort.
+kbamap_kba_map_1_11_shop	Meadow Market
+kbamap_kba_map_1_110	Engineers’ Reservation
+kbamap_kba_map_1_110_desc	The route to the settlement will be impassable until backup arrives at the Eastern Fort.
+kbamap_kba_map_1_110_shop	Dwarves’ Shop
+kbamap_kba_map_1_12	Northern Bay
+kbamap_kba_map_1_12_desc	You cannot pass this way. You need special permission from the Archmage.
+kbamap_kba_map_1_12_shop	Northern Coast Merchant
+kbamap_kba_map_1_13	Ruined Temple
+kbamap_kba_map_1_13_desc	The entrance to the Tiltyard is closed pending a special order from the Archmages.
+kbamap_kba_map_1_13_shop	Market
+kbamap_kba_map_1_132	Shady Grove
+kbamap_kba_map_1_132_desc	Only Lok Toyl knows the way through this Godforsaken land.
+kbamap_kba_map_1_132_shop	Forest Merchant 
+kbamap_kba_map_1_14	Watermill Junction
+kbamap_kba_map_1_14_shop	Miller’s Shop
+kbamap_kba_map_1_15	Free Village
+kbamap_kba_map_1_15_shop	Free Merchant
+kbamap_kba_map_1_16	Western Fort
+kbamap_kba_map_1_16_shop	Western Market
+kbamap_kba_map_1_2	Library Ruins
+kbamap_kba_map_1_2_desc	Access to the ancient ruins is only granted to those who have a pass signed by Commander Tarcus.
+kbamap_kba_map_1_2_shop	Bookworm Shop
+kbamap_kba_map_1_3	Kronberg
+kbamap_kba_map_1_3_desc	Promotion needed for entering Kronberg
+kbamap_kba_map_1_3_shop	Magical Shop
+kbamap_kba_map_1_4	Karakol Port
+kbamap_kba_map_1_4_desc	Commander Tarcus has closed this route until further notice.
+kbamap_kba_map_1_4_shop	Market Square
+kbamap_kba_map_1_5	Turtle Hill
+kbamap_kba_map_1_5_desc	The road north is not safe. We must wait for reinforcements in Karakol Port.
+kbamap_kba_map_1_5_shop	Village Granary
+kbamap_kba_map_1_55	Witch’s Swamp
+kbamap_kba_map_1_55_desc	One shouldn't visit witches without any particular need.
+kbamap_kba_map_1_55_shop	Witch’s Shop
+kbamap_kba_map_1_6	Academy Tiltyard
+kbamap_kba_map_1_6_desc	The entrance to the Tiltyard is closed pending special permission.
+kbamap_kba_map_1_6_shop	Cave Shop
+kbamap_kba_map_1_65	Gray Warden Garrison
+kbamap_kba_map_1_65_desc	You can only enter the garrison by executive order.
+kbamap_kba_map_1_65_shop	Black Market
+kbamap_kba_map_1_7	Forsaken Village
+kbamap_kba_map_1_7_desc	We have to cut off the pirates' attack on Turtle Hill before going any further.
+kbamap_kba_map_1_7_shop	Kruzius’ Crypt
+kbamap_kba_map_1_8	Hunter’s Camp
+kbamap_kba_map_1_8_desc	We cannot move on toward the camp as long as there is danger lurking in the Forsaken Village.
+kbamap_kba_map_1_8_shop	Hunters’ Market
+kbamap_kba_map_1_9	Bear Forest
+kbamap_kba_map_1_9_desc	Before going farther, we must get intelligence from Scout Giango.
+kbamap_kba_map_1_9_shop	Forest Shop
+
+
+

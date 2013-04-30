@@ -1,0 +1,8 @@
+﻿quest_system_1291639768_desc	Something strange is going on, as you can see. First came the attack on the Library, then that spell was cast on the Port pier. It looks like something serious is going to happen... But there’s one piece of good news. The new troops are the King’s elite guardsmen. With their help, we’ll quickly rid Signal Island of this pirate scum. But the soldiers are tired after the sea voyage, and they face a long march. Therefore your next mission is to scout out the north road leading to the Eastern Fort. We have a temporary camp there. It’s not like our guardsmen can’t handle some bandits, but... We can’t afford any delays. Your mission is intelligence, so try to avoid any major fights. But you may use your troops to destroy some small gangs along the way. We don’t want them hanging around. First, go to the Elder of Turtle Hill. Ask him about the situation.
+quest_system_1291639768_done	Yes, I've heard rumors of your arrival from the Distant Stone. Please get some rest and then we'll get down to business! I hope we will eliminate him as quick as possible.<br>
+quest_system_1291639768_name	To Turtle Hill
+quest_system_1291639768_stage_0	Speak
+quest_system_1291639768_task	Find out from Elder Stutz of Turtle Hill how safe the north road is.
+
+
+

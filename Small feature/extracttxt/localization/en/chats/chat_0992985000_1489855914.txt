@@ -1,0 +1,37 @@
+﻿chat_system_1489855914_actor_description	Manager Jobs. Your assistant and Town Mayor.
+chat_system_1489855914_snap_0_answer_0	Handmade
+chat_system_1489855914_snap_0_answer_1	Handmade
+chat_system_1489855914_snap_0_answer_2	Worthy Defenders
+chat_system_1489855914_snap_0_answer_3	Worthy Defenders
+chat_system_1489855914_snap_0_answer_4	Rune Magic
+chat_system_1489855914_snap_0_answer_5	Rune Magic
+chat_system_1489855914_snap_0_answer_6	Seige Mastery
+chat_system_1489855914_snap_0_answer_7	Seige Mastery
+chat_system_1489855914_snap_0_question	Hello man!
+chat_system_1489855914_snap_1_answer_0	begin quest dialog
+chat_system_1489855914_snap_1_question	Hello man!
+chat_system_1489855914_snap_10_answer_0	begin quest dialog
+chat_system_1489855914_snap_10_question	Hello man!
+chat_system_1489855914_snap_11_answer_0	(away)
+chat_system_1489855914_snap_11_question	Besiege an enemy Castle
+chat_system_1489855914_snap_12_answer_0	end quest dialog
+chat_system_1489855914_snap_12_question	end quest text
+chat_system_1489855914_snap_2_answer_0	begin quest dialog
+chat_system_1489855914_snap_2_question	Hello man!
+chat_system_1489855914_snap_3_answer_0	(away)
+chat_system_1489855914_snap_3_question	Create a Garrison
+chat_system_1489855914_snap_4_answer_0	(away)
+chat_system_1489855914_snap_4_question	You must begin production.
+chat_system_1489855914_snap_5_answer_0	end quest dialog
+chat_system_1489855914_snap_5_question	end quest text
+chat_system_1489855914_snap_6_answer_0	end quest dialog
+chat_system_1489855914_snap_6_question	end quest text
+chat_system_1489855914_snap_7_answer_0	begin quest dialog
+chat_system_1489855914_snap_7_question	Hello man!
+chat_system_1489855914_snap_8_answer_0	(away)
+chat_system_1489855914_snap_8_question	Use Runes to cast magic on the Castle Walls.
+chat_system_1489855914_snap_9_answer_0	end quest dialog
+chat_system_1489855914_snap_9_question	end quest text
+
+
+

@@ -1,0 +1,8 @@
+﻿quest_system_1665372074_desc	I considered myself beyond all hope, but the gods of lightning and thunder appear to have sent you to my rescue. And I could help you, too. If I try hard enough, I might recreate the key that removes the magic seals from the Sanctuary of the Mages. But I need my hammer for that – the one that was covered in the ancient runes by none other than Sangrith Firebane. When I retired from my trade, I gave my hammer to the Alderman of the Free Village, forswearing it forevermore. If you bring the hammer back to me, I'll help you. 
+quest_system_1665372074_done	What do you need? Our villagers are very hospitable, but it doesn't mean we welcome vagabonds.
+quest_system_1665372074_name	The Family Tool
+quest_system_1665372074_stage_0	Sedwich the Alderman
+quest_system_1665372074_task	Meet the Alderman of Free Village.
+
+
+

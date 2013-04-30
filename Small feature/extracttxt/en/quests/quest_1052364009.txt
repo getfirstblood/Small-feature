@@ -1,0 +1,8 @@
+﻿quest_system_1052364009_desc	Of course, the Amulet... Who would’ve thought that the hermit would burn it? Although... maybe he’s right. Maybe any such amulet will work. Go to the Tiltyard. Place the items there in the sequence indicated on the Order’s coat of arms. Let’s hope that works.
+quest_system_1052364009_done	So these are the keys to the Archives? Such odd items. I would never have thought that something like this would help us get inside. How did you say they need to be placed? Hold on... what’s that? To arms!
+quest_system_1052364009_name	To the Secrets of the Tiltyard
+quest_system_1052364009_stage_0	Speak
+quest_system_1052364009_task	Speak with the Senior Exorcist.
+
+
+

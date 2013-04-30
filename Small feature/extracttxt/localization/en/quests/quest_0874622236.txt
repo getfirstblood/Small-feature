@@ -1,0 +1,8 @@
+﻿quest_system_874622236_desc	One day, a powerful witch named Valenia was killed in this swamp. They say her dark soul broke into small splinters, and each of her sins transformed into a terrifying dark phantom. I’d be glad to think that it is just an old legend, but lately terrible phantoms have started showing up in our village at midnight, and I’m afraid they are not going to leave us in peace. We desperately need help, but how can we be helped? If only you could find and destroy the Phantoms of a Hundred Sins.
+quest_system_874622236_done	I can’t believe you were able to smoke out those terrifying spirits. Now we just have to wait until nightfall to see whether they’ll return.
+quest_system_874622236_name	Valenia’s Curse
+quest_system_874622236_stage_0	Rout
+quest_system_874622236_task	Destroy {counter_limit_0} Phantoms of a Hundred Sins. 
+
+
+

@@ -1,0 +1,34 @@
+﻿PMS_Cancel	[FormButtonText_9][FormButtonColor]Close
+PMS_Header	[FormTitleText][FormTitleColor]Patrolling
+PMS_LicensePathfinder	<font=tahoma_regular_10><color=FFD30F>Ranger's License<br><font=tahoma_regular_8><color=F5DFB3>Increases patrol time to 20 hours
+PMS_LicenseStrateg	<font=tahoma_regular_10><color=FFD30F>Commander's License<br><font=tahoma_regular_8><color=F5DFB3>Doubles rewards
+PMS_LocationName	[?]
+PMS_Separator1_Header	Select patrol duration
+PMS_Separator2_Header	Licenses
+PMS_Start	[FormButtonText_9][FormButtonColor]Start
+PMS_StartBtn1_txt	[PMS_TIME_TEXT1]1 hour<br>[PMS_TIME_TEXT2](2 fights)
+PMS_StartBtn12_txt	[PMS_TIME_TEXT1]10 hours<br>[PMS_TIME_TEXT2](14 fights)
+PMS_StartBtn24_txt	[PMS_TIME_TEXT1]20 hours<br>[PMS_TIME_TEXT2](28 fights)
+PMS_StartBtn3_txt	[PMS_TIME_TEXT1]3 hours<br>[PMS_TIME_TEXT2](4 fights)
+PMS_StartBtn6_txt	[PMS_TIME_TEXT1]5 hours<br>[PMS_TIME_TEXT2](7 fights)
+PMS_StartPatrolConfirm	Are you sure you want to go into patrol mode?
+PMS_TIME_TEXT1	<font=tahoma_bold_10><color=F5DFB3>
+PMS_TIME_TEXT2	<font=tahoma_regular_8><color=817560>
+PMS_TimeDayHours	[?] days [?] hours
+PMS_TimeHoursMin	[?] h [?] min
+PMS_TimeLicenceTemplate	[$]
+PMS_TimeMin	[?] min
+PMS_TimeNoneLicence	No license
+PMS_Tooltip_BuyPathfinder	Buy a Ranger's License
+PMS_Tooltip_BuyStrategist	Buy a Commander's License
+PMS_Tooltip_Exit	Exit
+PMS_Tooltip_PathfinderTimebar	Ranger's License time remaining
+PMS_Tooltip_StartDay	Start patrolling, 20 hours (available to players with a Ranger's License)
+PMS_Tooltip_StartOneHours	Start patrolling, 1 hour
+PMS_Tooltip_StartSixHours	Start patrolling, 5 hours (available to players with a Ranger's License)
+PMS_Tooltip_StartThreeHours	Start patrolling, 3 hours
+PMS_Tooltip_StartTwelveHours	Start patrolling, 10 hours (available to players with a Ranger's License)
+PMS_Tooltip_StrategistTimebar	Commander's License time remaining
+
+
+

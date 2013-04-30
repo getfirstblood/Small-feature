@@ -1,0 +1,28 @@
+﻿chat_system_1394124667_actor_description	Senior Exorcist. A famous exorcist who became famous in battles of the past.
+chat_system_1394124667_snap_0_answer_0	Deciphering the Manuscripts
+chat_system_1394124667_snap_0_answer_1	Keys to the Archive
+chat_system_1394124667_snap_0_answer_2	To the Secrets of the Tiltyard
+chat_system_1394124667_snap_0_answer_3	Sneak Attack
+chat_system_1394124667_snap_0_answer_4	Sneak Attack
+chat_system_1394124667_snap_0_answer_5	The Mystery Darkens
+chat_system_1394124667_snap_0_answer_6	The Keys to the Academy Tiltyard
+chat_system_1394124667_snap_0_question	I often recollect the battles of old against monsters and hellspawn. May those times never return.
+chat_system_1394124667_snap_1_answer_0	end quest dialog
+chat_system_1394124667_snap_1_question	Hello man!
+chat_system_1394124667_snap_2_answer_0	begin quest dialog
+chat_system_1394124667_snap_2_question	Hello man!
+chat_system_1394124667_snap_3_answer_0	end quest dialog
+chat_system_1394124667_snap_3_question	Hello man!
+chat_system_1394124667_snap_4_answer_0	begin quest dialog
+chat_system_1394124667_snap_4_question	Hello man!
+chat_system_1394124667_snap_5_answer_0	(away)
+chat_system_1394124667_snap_5_question	Quick! Make haste to destroy these Magic Guardians, and let's get this over with!
+chat_system_1394124667_snap_6_answer_0	end quest dialog
+chat_system_1394124667_snap_6_question	end quest text
+chat_system_1394124667_snap_7_answer_0	begin quest dialog
+chat_system_1394124667_snap_7_question	Hello man!
+chat_system_1394124667_snap_8_answer_0	end quest dialog
+chat_system_1394124667_snap_8_question	Hello man!
+
+
+

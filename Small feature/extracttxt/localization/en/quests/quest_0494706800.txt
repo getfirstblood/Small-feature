@@ -1,0 +1,8 @@
+﻿quest_system_494706800_desc	This place has a special kind of energy. Our monastic Order does not fully understand the nature of these magic torrents yet, but one thing is for sure – in some mysterious way, the magic of this place attracts the living dead. It started recently and we just don’t know what to do about it. Maybe if you destroy some Rotten Zombies, it will buy us some time to figure out the solution to this problem.
+quest_system_494706800_done	Thank you for your help. Thanks to you we got ourselves some respite. I hope we’ll be able to figure out the cause of these zombies’ aggressive nature. 
+quest_system_494706800_name	Cleansing of Wickedness
+quest_system_494706800_stage_0	Hunt
+quest_system_494706800_task	Destroy {counter_limit_0} Zombies. 
+
+
+

@@ -1,0 +1,25 @@
+﻿chat_system_514717102_actor_description	Ospholdus the Battle Mage A Mage of the Order who never completed the full training program. Successfully substituted theory for practice, becoming De Bursac’s second-in-command.
+chat_system_514717102_snap_0_answer_0	Key to the Ancient Temple
+chat_system_514717102_snap_0_answer_1	Weakened Defence
+chat_system_514717102_snap_0_answer_2	Weakened Defence
+chat_system_514717102_snap_0_answer_3	The Road is Open
+chat_system_514717102_snap_0_answer_4	A Tight Seal
+chat_system_514717102_snap_0_answer_5	Protective Dome
+chat_system_514717102_snap_0_question	The best kind of theory is practice! But even practice requires some basic knowledge of theory.
+chat_system_514717102_snap_1_answer_0	end quest dialog
+chat_system_514717102_snap_1_question	Hello man!
+chat_system_514717102_snap_2_answer_0	begin quest dialog
+chat_system_514717102_snap_2_question	Hello man!
+chat_system_514717102_snap_3_answer_0	(away)
+chat_system_514717102_snap_3_question	But even practice requires some basic knowledge of theory. Alone, they’re much weaker than the Mages of the Order. But together, they can weave a spell too powerful for even the Archmage to withstand. Kill some of them, and it will weaken them all.
+chat_system_514717102_snap_4_answer_0	end quest dialog
+chat_system_514717102_snap_4_question	end quest text
+chat_system_514717102_snap_5_answer_0	end quest dialog
+chat_system_514717102_snap_5_question	Hello man!
+chat_system_514717102_snap_6_answer_0	begin quest dialog
+chat_system_514717102_snap_6_question	Hello man!
+chat_system_514717102_snap_7_answer_0	begin quest dialog
+chat_system_514717102_snap_7_question	Hello man!
+
+
+

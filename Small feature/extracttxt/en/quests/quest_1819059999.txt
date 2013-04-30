@@ -1,0 +1,8 @@
+﻿quest_system_1819059999_desc	As I mentioned earlier, you have rendered some outstanding services before the Order and the Kingdom, and you deserve the highest award! I can only promise to keep close tabs on your career – in time you shall appreciate just how useful it will be for you. Now go to Commodore Tarcus for reward of a more tangible sort – he is expecting you!
+quest_system_1819059999_done	Congratulations, that was a splendid victory indeed! I shudder to think of the fate that would befall our fair Isle if it hadn't been for your timely arrival. And therefore, on behalf of His Majesty, I hereby make you a Knight of the Crown of the Three Isles, bestowing upon you all the rights and responsibilities pertinent to the noble title of Knight. You are also due this modest remuneration... It is indeed modest compared to what awaits you. The King has expressed a wish to meet you personally, can you believe that? You may receive the honor of being deemed worthy of joining the Royal Legion – the elite league of generals who defend our lands from the most dangerous of foes. However, you cannot head to Karakol yet: the stormy season is already upon us. However, I think you'll keep busy enough here – after the defeat of Lazarus, his surviving soldiers and the savages have scattered all across the isle. We must see this matter through and eradicate our enemies! I'll arrange for an audience whenever an opportunity presents itself... We may now consider the formalities to be over. I sincerely hope to see you again before long!
+quest_system_1819059999_name	Hero of the Kingdom
+quest_system_1819059999_stage_0	Tarcus
+quest_system_1819059999_task	Go to Tarcus for debriefing
+
+
+

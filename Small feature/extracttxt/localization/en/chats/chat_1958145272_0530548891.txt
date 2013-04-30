@@ -1,0 +1,29 @@
+﻿chat_system_530548891_actor_description	Vitcher the Exorcist. The bane of witches, zombies, and the undead, with flaming eyes and icy-cold hearts.
+chat_system_530548891_snap_0_answer_0	Side Effect
+chat_system_530548891_snap_0_answer_1	Side Effect
+chat_system_530548891_snap_0_answer_2	Puppeteers
+chat_system_530548891_snap_0_answer_3	Puppeteers
+chat_system_530548891_snap_0_answer_4	Like Moths in the Fire
+chat_system_530548891_snap_0_answer_5	Like Moths in the Fire
+chat_system_530548891_snap_0_question	Too many slayings happen around here. So we get all of these unrested souls. One needs strong magic to destroy them.
+chat_system_530548891_snap_1_answer_0	begin quest dialog
+chat_system_530548891_snap_1_question	Hello man!
+chat_system_530548891_snap_2_answer_0	(away)
+chat_system_530548891_snap_2_question	I’ll cast spells to reduce the numbers of them resurrecting. So, how is it going?
+chat_system_530548891_snap_3_answer_0	end quest dialog
+chat_system_530548891_snap_3_question	end quest text
+chat_system_530548891_snap_4_answer_0	begin quest dialog
+chat_system_530548891_snap_4_question	Hello man!
+chat_system_530548891_snap_5_answer_0	(away)
+chat_system_530548891_snap_5_question	I loathe the very thought of these Flesh Conjurors.
+chat_system_530548891_snap_6_answer_0	end quest dialog
+chat_system_530548891_snap_6_question	end quest text
+chat_system_530548891_snap_7_answer_0	begin quest dialog
+chat_system_530548891_snap_7_question	Hello man!
+chat_system_530548891_snap_8_answer_0	(away)
+chat_system_530548891_snap_8_question	Recently I was overwhelmed by a host of Fairies. I had to use a teleportat spell to escape. When will it all end?
+chat_system_530548891_snap_9_answer_0	end quest dialog
+chat_system_530548891_snap_9_question	end quest text
+
+
+

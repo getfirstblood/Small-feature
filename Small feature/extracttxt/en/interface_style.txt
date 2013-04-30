@@ -1,0 +1,7 @@
+﻿FormButtonColor	<color=EBE1B4>
+FormButtonText_9	<align=center><valign=center><font=tahoma_regular_9><wordwrap=off>
+FormTitleColor	<color=EBE1B4>
+FormTitleText	<align=center><valign=center><font=tahoma_bold_12_border_smooth><wordwrap=on>
+
+
+

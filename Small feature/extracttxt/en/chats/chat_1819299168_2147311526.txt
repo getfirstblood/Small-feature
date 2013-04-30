@@ -1,0 +1,13 @@
+﻿chat_system_2147311526_actor_description	Keeper Paleopthos. An elderly librarian who is truly worried about the old manuscripts.
+chat_system_2147311526_snap_0_answer_0	In Cloaks and Chitin
+chat_system_2147311526_snap_0_answer_1	In Cloaks and Chitin
+chat_system_2147311526_snap_0_question	Ah... Is that you, the young officer of the Knight Academy? What can this humble keeper of the ruined Library do for you?
+chat_system_2147311526_snap_1_answer_0	begin quest dialog
+chat_system_2147311526_snap_1_question	Hello man!
+chat_system_2147311526_snap_2_answer_0	(away)
+chat_system_2147311526_snap_2_question	I had a dream last night that a band of thieves used the manuscripts to serve fried fish and meat. Imagine the horror! I hope you’ll hurry up and chase them all away. And may they never come back!
+chat_system_2147311526_snap_3_answer_0	end quest dialog
+chat_system_2147311526_snap_3_question	end quest text
+
+
+

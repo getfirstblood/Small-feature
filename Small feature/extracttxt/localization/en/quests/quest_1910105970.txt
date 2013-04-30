@@ -1,0 +1,8 @@
+﻿quest_system_1910105970_desc	If what I know and what you’re saying are true, then we’re in for some serious trouble... And, as fortune would have it, someone made the Distant Stones blind and deaf. We must not let Lazarus perform the ritual. It could cause a second Cataclysm. But the temple is guarded too well... And De Bursac’s soldiers are too few... Speak with Ospholdus the Battle Mage. Maybe he’ll know a way to get into the temple without much force.
+quest_system_1910105970_done	I know what you want. My magic hearing is still strong, so I heard your conversation with Saphaor. What you’re planning is reckless, but possible.
+quest_system_1910105970_name	Key to the Ancient Temple
+quest_system_1910105970_stage_0	Speak with Ospholdus
+quest_system_1910105970_task	Learn from Ospholdus the Battle Mage how to get into the Ancient Temple.
+
+
+

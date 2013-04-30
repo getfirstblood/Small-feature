@@ -1,0 +1,8 @@
+﻿quest_system_549295999_desc	So your task is to go to the Academy Tiltyard and give these items to the exorcists. Don't wonder where they are from or how I came to possess them. It is a long story, and I will tell you some other time. My agents are waiting for you in the place we have agreed on to open the Sealed Door which hides something that will help us. And that was the very purpose of these items, or al least, so it has been foretold. Now hit the road!
+quest_system_549295999_done	So these are the keys to the Archives? Such odd items. I would never have thought that something like this would help us get inside. How did you say they need to be placed? Hold on... What’s that? To arms!
+quest_system_549295999_name	The Keys to the Academy Tiltyard
+quest_system_549295999_stage_0	Speak with the Exorcist
+quest_system_549295999_task	Meet Senior Exorcist in the Academy Tiltyard
+
+
+

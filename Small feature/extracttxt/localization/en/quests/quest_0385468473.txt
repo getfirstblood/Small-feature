@@ -1,0 +1,8 @@
+﻿quest_system_385468473_desc	I see that your first few victories have put the wind in your sails. Here is a test that will be a bit harder to complete. Often times, when fighting a skilled commander, a strong army and a bunch of scrolls are simply not enough. Quite often, the winners are those that are not afraid to take a risk and go all the way. All the way to victory. Continue duelling opponents. This will allow you to train up a bit, as well as receive rewards from the royal guild of warriors.
+quest_system_385468473_done	Well? Have all your victories eclipsed those of all previous champions of the arena? Ha-ha! I understand that it is still rather early to be talking about that. On the other hand, every great champion started small. Maybe one of these days you will become the most renowned warrior of all time. Here is the reward for your first few victories. Congratulations!
+quest_system_385468473_name	Military Fame
+quest_system_385468473_stage_0	Earn some fame in Duels
+quest_system_385468473_task	Win {counter_limit_0} Duels (fights with other players) 
+
+
+

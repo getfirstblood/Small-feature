@@ -1,0 +1,18 @@
+﻿FBSelectAccountFormCancel	[FBSelectAccountFormT3][FBSelectAccountFormCenter]Cancel
+FBSelectAccountFormCancelTitle	[FBSelectAccountFormCenter][FBSelectAccountFormT1]Return [FBSelectAccountFormT2]<br>to authorization window
+FBSelectAccountFormCenter	<align=center><valign=center>
+FBSelectAccountFormContent	[FBSelectAccountFormT2][FBSelectAccountFormCenter]Your Facebook profile already has progress in the game.<br>Choose the account you would like to continue playing with:
+FBSelectAccountFormFacebook	[FBSelectAccountFormT3][FBSelectAccountFormCenter][?] <br>Level [?]
+FBSelectAccountFormFacebookTitle	[FBSelectAccountFormCenter][FBSelectAccountFormT2]Facebook <br>[FBSelectAccountFormT1] Account
+FBSelectAccountFormInfo	[FBSelectAccountFormT2][FBSelectAccountFormCenter]Warning: From now on, you will only be able to play from the save game you select. The other save game will be permanently lost.
+FBSelectAccountFormLocal	[FBSelectAccountFormT3][FBSelectAccountFormCenter]Player [?] <br>Level [?]
+FBSelectAccountFormLocalTitle	[FBSelectAccountFormCenter][FBSelectAccountFormT1] <br>[FBSelectAccountFormT2] Guest [FBSelectAccountFormT1]Account
+FBSelectAccountFormT0	<font=tahoma_bold_12><color=FFFFFF>
+FBSelectAccountFormT1	<font=tahoma_bold_11_border_smooth><color=FEE789>
+FBSelectAccountFormT2	<font=tahoma_bold_11_border_smooth><color=FFFFFF>
+FBSelectAccountFormT3	<font=tahoma_bold_10_border_smooth><color=FEE789>
+FBSelectAccountFormT4	<font=tahoma_bold_10_border_smooth><color=FFFFFF>
+FBSelectAccountFormTitle	[FBSelectAccountFormT0][FBSelectAccountFormCenter]You have logged in as [?]
+
+
+

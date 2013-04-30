@@ -1,0 +1,91 @@
+﻿impact_name_131072	Megafone (60 sec)
+impact_name_131073	Megafone (1 hr)
+impact_name_131074	Megafone (1 week)
+impact_name_196608	Scout's License (1 day)
+impact_name_196609	Scout's License (3 days)
+impact_name_196610	Scout's License (7 days)
+impact_name_196611	Scout's License (3 hours)
+impact_name_262144	Healer's License (1 day)
+impact_name_262145	Healer's License (3 days)
+impact_name_262146	Healer's License (7 days)
+impact_name_262147	Healer's License (3 hours)
+impact_name_327680	Commander's Aura (1 day)
+impact_name_327681	Commander's Aura (12 days)
+impact_name_327682	Commander's Aura (1 day)
+impact_name_327683	Commander's Aura (3 days)
+impact_name_327684	Commander's Aura (7 days)
+impact_name_327685	Commander's Aura (3 hours)
+impact_name_393216	Mercenary's License (1 day)
+impact_name_393217	Mercenary's License (3 days)
+impact_name_393218	Mercenary's License (7 days)
+impact_name_393219	Mercenary's License (32 days)
+impact_name_393220	Mercenary's License (1 month)
+impact_name_393221	Mercenary's License (3 hours)
+impact_name_393222	Candy
+impact_name_458752	Friendly Neighbor 1
+impact_name_458753	Friendly Neighbor 2
+impact_name_458754	Friendly Neighbor 3
+impact_name_524288	Ranger's License (1 day)
+impact_name_524289	Ranger's License (3 day)
+impact_name_524290	Ranger's License (7 day)
+impact_name_524291	Ranger's License (3 hours)
+impact_name_589824	Commander's License (1 day)
+impact_name_589825	Commander's License (3 days)
+impact_name_589826	Commander's License (7 days)
+impact_name_589827	Commander's License (3 hours)
+impact_name_65536	Summon the Captain
+impact_name_655360	Tutorial Battle 1
+impact_name_65536000	Test License: Vagabond
+impact_name_655361	Tutorial Battle 2
+impact_name_65537	Summon the General
+impact_name_65538	Summon the General
+impact_name_65539	Warrior's Aura (1 day)
+impact_name_65540	Warrior's Aura (3 days)
+impact_name_65541	Warrior's Aura (7 days)
+impact_name_65542	Warrior's Aura (3 hours)
+impact_name_720896	Time Aura (1 day)
+impact_name_720897	Time Aura (3 days)
+impact_name_720898	Time Aura (7 days)
+impact_name_720899	Time Aura (3 hours) (gift)
+impact_name_786432	Premium Account (3 hours)
+impact_name_786433	Premium Account (1 day)
+impact_name_786434	Premium Account (3 days
+impact_name_786435	Premium Account (1 week)
+impact_name_786436	Premium Account (30 days)
+impact_start_1191312557	Thanks to the Commander’s help, you will get double reward for patrol.
+impact_start_1237491229	Now that the Scout’s services are yours to command, you can learn all about an enemy army before the battle even starts!
+impact_start_1241803440	Owing to the dark knowledge of the Mages who manipulate the flow of time itself, your Legionary will no longer receive experience for battles or quests.
+impact_start_133549258	Thanks to the Commander’s help, you will get double reward for patrol.
+impact_start_1335969250	Thanks to the Ranger’s services, you can stay on patrol much longer.
+impact_start_1398280321	An experienced Commander always finds people clamoring to join his army. Your Leadership was increased.
+impact_start_1414937907	An experienced mercenary can always walk away from any situation with money in hand. Increases post-battle rewards.
+impact_start_1537946018	Thanks to the Commander’s help, you will get double reward for patrol.
+impact_start_1593031289	Now that the Scout’s services are yours to command, you can learn all about an enemy army before the battle even starts!
+impact_start_1722301054	Thanks to the Ranger’s services, you can stay on patrol much longer.
+impact_start_1770957707	An experienced Mercenary can always walk away from any situation with money in hand. Increases post-battle rewards.
+impact_start_182444159	An experienced Commander always finds people clamoring to join his army. Your Leadership was increased.
+impact_start_1894399267	Healers can, with a glance, diagnose a soldier’s health. Accurate health bars will be displayed in battle.
+impact_start_1916662274	Thanks to the Ranger’s services, you can stay on patrol much longer.
+impact_start_1926450848	A great Warrior can do more than merely handle a sword – he is able to learn quickly from his experience. Double experience for battles.
+impact_start_2146295703	Healers can, with a glance, diagnose a soldier’s health. Accurate health bars will be displayed in battle.
+impact_start_241072763	A great Warrior can do more than merely handle a sword – he is able to learn quickly from his experience. Double experience for battles.
+impact_start_249485972	Now that the Scout’s services are yours to command, you can learn all about an enemy army before the battle even starts!
+impact_start_323837157	Owing to the dark knowledge of the Mages who manipulate the flow of time itself, your Legionary will no longer receive experience for battles or quests.
+impact_start_331809593	An experienced mercenary can always walk away from any situation with money in hand. Increases post-battle rewards.
+impact_start_416617377	Now that the Scout’s services are yours to command, you can learn all about an enemy army before the battle even starts!
+impact_start_496578944	Thanks to the Commander’s help, you will get double reward for patrol.
+impact_start_542315024	Thanks to the Ranger’s services, you can stay on patrol much longer.
+impact_start_552473695	An experienced Commander always finds people clamoring to join his army. Your Leadership was increased.
+impact_start_645091367	Healers can, with a glance, diagnose a soldier’s health. Accurate health bars will be displayed in battle.
+impact_start_737328885	An experienced mercenary can always walk away from any situation with money in hand. Increases post-battle rewards.
+impact_start_745751034	Healers can, with a glance, diagnose a soldier’s health. Accurate health bars will be displayed in battle.
+impact_start_74910556	An experienced Commander always finds people clamoring to join his army. Your Leadership was increased.
+impact_start_818048695	A great Warrior can do more than merely handle a sword – he is able to learn quickly from his experience. Double experience for battles.
+impact_start_856275467	Holders of Megaphone's License can send broadcast messages.
+impact_start_864641708	A great Warrior can do more than merely handle a sword – he is able to learn quickly from his experience. Double experience for battles.
+impact_start_867666588	The sweet candy lifts your mood, helping you as you collect trophies. Increases post-battle rewards.
+impact_start_912427403	Owing to the dark knowledge of the Mages who manipulate the flow of time itself, your Legionary will no longer receive experience for battles or quests.
+impact_start_968870621	Owing to the dark knowledge of the Mages who manipulate the flow of time itself, your Legionary will no longer receive experience for battles or quests.
+
+
+

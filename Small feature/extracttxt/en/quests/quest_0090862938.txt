@@ -1,0 +1,8 @@
+﻿quest_system_90862938_desc	My warning was just in time! Some kind of fanatics are storming the main entrance. Hurry up and help; destroy some of them!
+quest_system_90862938_done	It seems we’re not the only ones privy to the contents of the Archives. And their timing was impeccable. They came just as you arrived with the key. Come on, let’s see what’s inside.
+quest_system_90862938_name	Sneak Attack
+quest_system_90862938_stage_0	Rout
+quest_system_90862938_task	Repel the attack on the Tiltyard by destroying {counter_limit_0} parties of Raging Fanatics. 
+
+
+

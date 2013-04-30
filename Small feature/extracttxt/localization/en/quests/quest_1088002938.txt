@@ -1,0 +1,8 @@
+﻿quest_system_1088002938_desc	When you arrived in our lands, the pirates just disappeared. I sent out some local kids to spy around – the area seems to be much quieter. You should move further north. There’s an abandoned village there, and a graveyard. For two days now we haven’t seen any carts arrive from that place. And anyone visiting the village comes back telling us scary stories about huge spiders. No one knows if they’re true or not. Head there and find Helvasink, the graveyard keeper. He should know more.
+quest_system_1088002938_done	Yes, Helvasink is my name. Ah, so you people finally remembered me. What took you so long?
+quest_system_1088002938_name	Graveyard Visit
+quest_system_1088002938_stage_0	Speak
+quest_system_1088002938_task	Find Helvasink the Graveyard Keeper at the Forsaken Village.
+
+
+

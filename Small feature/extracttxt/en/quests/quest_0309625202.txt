@@ -1,0 +1,8 @@
+﻿quest_system_309625202_desc	Old books and manuscripts are the favorite foods of the local spiders. Just imagine the oldest treatises of the great mages of the past perishing in the jaws of these hairy beasts! I cannot imagine what taste they find in them. But it’s within our power to stop this immediately. I’ll pay a good price to anyone who destroys a large bunch of these ignorant creeps. There’s no other way to end this barbarism.
+quest_system_309625202_done	Now the books are safe from those terrible beasts. But for how long? What if we contact the alchemists? They could certainly develop some chemical compound to destroy the spiders on the spot. I’ll have to give it some thought.
+quest_system_309625202_name	Bookmunchers
+quest_system_309625202_stage_0	Hunt
+quest_system_309625202_task	Destroy {counter_limit_0} Cave Spiders. 
+
+
+

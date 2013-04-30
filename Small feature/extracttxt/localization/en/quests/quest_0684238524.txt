@@ -1,0 +1,8 @@
+﻿quest_system_684238524_desc	I do a lot of business in this city! I own a dozen ships, stores, warehouses and a pawn shop. Most of all, I like when everything is quiet. But sometimes people don’t understand my desire for order. Just like the sailors that joined the pirate gang. To tell you the truth, I don’t want to find out what caused their mutiny. Just destroy some pirates in the port area. It’s time to show this scum who they’re dealing with.
+quest_system_684238524_done	The only good pirate is a dead pirate. The fewer of these ship-rats around, the better. I’m glad that we both understand this.
+quest_system_684238524_name	Mutiny
+quest_system_684238524_stage_0	Hunt
+quest_system_684238524_task	Destroy {counter_limit_0} Pirates. 
+
+
+

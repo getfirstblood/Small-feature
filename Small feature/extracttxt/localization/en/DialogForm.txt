@@ -1,0 +1,27 @@
+﻿DLG_Actor_Disloc_Tmpl	<font=tahoma_bold_10><align=left><valign=center><color=492805><indent=2>[$]
+DLG_Actor_Name_Tmpl	<font=georgia_bold_12_smooth><align=left><valign=center><color=622200>[$]
+DLG_AnswerTextTmpl	[DLG_TextTmpl][$]
+DLG_ApplyBtn	[FormButtonText_9][$]
+DLG_CloseBtn	[FormButtonText_9][FormButtonColor][$]
+DLG_CounterMinusValue	<color=800000>
+DLG_CounterName	[DLG_TextTmpl][?]<align=left><valign=center><indent=5><wordwrap=off>[?]
+DLG_CounterPlusValue	<color=008000>
+DLG_CounterValue	[DLG_TextTmpl]<align=right><valign=center><wordwrap=off>[$][?]
+DLG_DailyQuestsTimeout	[DLG_TextTmpl]<color=444444>[DLG_DailyQuestsTimeoutText] [DLG_Timeout]
+DLG_DailyQuestsTimeoutText	There are no more assignments for today.<br>Come back in
+DLG_Hours	h.
+DLG_Minutes	m.
+DLG_Quest_Accept	Accept
+DLG_Quest_Complete	Complete
+DLG_Quest_Stage_Complete	Continue
+DLG_Quest_Talk	Continue
+DLG_RewardOrSel	<align=center><valign=center><font=tahoma_bold_10><color=000000>[$]
+DLG_Text	[DLG_TextTmpl][$]
+DLG_TextTitle	[QJ_TextTitleTmpl][$]
+DLG_TextTitleTmpl	<align=left><valign=center><font=georgia_bold_12_smooth><color=622200>
+DLG_TextTmpl	<align=left><valign=center><font=tahoma_bold_10><color=44371C>
+DLG_Timeout	[?] [DLG_Hours] [?] [DLG_Minutes]
+PlayerCastleLabel	Player’s Castle
+
+
+

@@ -1,0 +1,8 @@
+﻿quest_system_1350162724_desc	Those mad Lazarus cultists have moved into the area! They hate our monastic Order and spare no effort to destroy it. With black magic they demolished the Temple of Four Moons and the South Ward of Karakol, down to the very foundation. Our temple is probably next. Someone must stop this madness!
+quest_system_1350162724_done	Blessed be the creators, you were able to prevent an unthinkable evil! But how long shall we stay safe? It’s likely that the Lazarus Cult will make another attempt to destroy us. We have to be vigilant.
+quest_system_1350162724_name	Fallen Pilgrims
+quest_system_1350162724_stage_0	Rout
+quest_system_1350162724_task	Destroy {counter_limit_0} band(s) of Lazarus' Templars. 
+
+
+

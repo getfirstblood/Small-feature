@@ -1,0 +1,8 @@
+﻿quest_system_1102483069_desc	I don’t mind griffins per se, but when that feathery creature bites off a hefty chunk of your flesh, you can’t help but think that there’s not enough space in this forest for two hunters. But these flying beasts are not so easy to get. If you could teach them a lesson, maybe they’ll vacate these lands.
+quest_system_1102483069_done	I’ll be damned! You were able to track down the feathery predators? Next time the griffins will think carefully before trespassing on our lands.
+quest_system_1102483069_name	Lone Hunter
+quest_system_1102483069_stage_0	Hunt
+quest_system_1102483069_task	Destroy {counter_limit_0} Dark Griffins. 
+
+
+

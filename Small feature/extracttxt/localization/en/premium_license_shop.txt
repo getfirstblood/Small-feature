@@ -1,0 +1,33 @@
+﻿pls_bar_button_tooltip	Buy Aura or increase its action.
+pls_bar_label	[pls_royal_aura]
+pls_bar_progress_tooltip	Aura expires in {days_left} d. {hours_left} h. {minutes_left} m.
+pls_bar_progress_tooltip_no_aura	[pls_gizmo_tooltip_no_aura]
+pls_btn_price_bronze	<color=FDE688><font=tahoma_regular_24_border_smooth>Buy</font><br>for <image=[?]> [?]<br>for 3 days
+pls_btn_price_gold	<color=FDE688><font=tahoma_regular_24_border_smooth>Buy</font><br>for <image=[?]> [?]<br>for a month
+pls_btn_price_silver	<color=FDE688><font=tahoma_regular_24_border_smooth>Buy</font><br>for <image=[?]> [?]<br>for a week
+pls_buy_button_name	<font=tahoma_regular_24_border_smooth><color=FDE688>Buy
+pls_form_name	<font=tahoma_regular_24_border_smooth><color=FDE688>[pls_royal_aura]
+pls_gizmo_tooltip	<align=left><image=textures/interface/common/icons/crown> Gold <color=00FF00>+{rel_gold_mod}%</color> for battle<br=5><image=textures/interface/common/icons/crown> Chance of Rare Resource drop<color=00FF00>might be doubled</color><br=5><image=textures/interface/common/icons/crown> With a certain probability, <color=00FF00>doubles</color> the potential amount of dropped Resources<br=5><image=textures/interface/common/icons/crown> Healing of common units <color=00FF00>does not require</color> Stamina<br=5><image=textures/interface/common/icons/crown> Cost of treatment for legendary and special units <color=00FF00>is reduced</color> by 1 point of Stamina<br=5><image=textures/interface/common/icons/crown> Moving around the map <color=00FF00>does not consume</color> Stamina<br=5><image=textures/interface/common/icons/crown> <color=00FF00>+{rel_leadership_mod}%</color> Leadership<br=5><image=textures/interface/common/icons/crown> <color=00FF00>+{abs_stamina_mod}</color>to the maximum amount of Stamina
+pls_gizmo_tooltip_no_aura	You have no Aura. You can buy it at the Shop that sells King’s Aura.
+pls_gold_bonus	<color=FDE688>Gold<br><color=FFFFFF><font=tahoma_bold_10_border_smooth_numbers_only>+[?]%
+pls_gold_bonus_tooltip	<color=FCEB46>You will receive <color=FFFFFF>[?]%</color> more Gold to hire new troops.
+pls_leadership_bonus	<color=FDE688>Leadership<br><color=FFFFFF><font=tahoma_bold_10_border_smooth_numbers_only>+[?]%
+pls_leadership_bonus_tooltip	<color=FCEB46>Your Leadership will increase by<color=FFFFFF>[?]%</color>, you will be able to hire more troops.
+pls_no_aura	No Aura
+pls_price_bronze	<color=FDE688><image=[?]> [?]<br>for <br>3 days
+pls_price_gold	<color=FDE688><image=[?]> [?]<br>for 1 month
+pls_price_silver	<color=FDE688>Just<br><image=[?]> [?]<br>for 1 week
+pls_resources_bonus	<color=FDE688>Chance<br><color=FFFFFF><font=tahoma_bold_10_border_smooth_numbers_only>+[?]%
+pls_resources_bonus_tooltip	<color=FCEB46>Your chance to get more Resources which you need to produce items might be increased by <color=FFFFFF>[?]%</color>. 
+pls_royal_aura	Royal Aura
+pls_royal_aura_description	<font=tahoma_bold_12><color=FFD306><align=center>Bonuses<font=tahoma_bold_10><color=FBF19C><br=5><align=left><color=FFD306>Free:</color> movement on the map<br><color=FFD306>More Frequent:</color> rare resource drops<br><color=FFD306>Cheaper: </color>regeneration cost
+pls_slogan	Get more prizes and gold! Buy an aura now!
+pls_stamina_bonus	<color=FDE688>Stamina<br><color=FFFFFF><font=tahoma_bold_10_border_smooth_numbers_only>+[?]
+pls_stamina_bonus_tooltip	<color=FCEB46>Your Stamina will increase by <color=FFFFFF>[?]</color>. You will be able to participate in more battles and regenerate more squads in your army.
+pls_timer_long	{days_left} days {hours_left} hours
+pls_timer_short	{hours_left} h {minutes_left} min
+pls_wp_bonus	<color=FDE688>Battle Points<br><color=FFFFFF><font=tahoma_bold_10_border_smooth_numbers_only>+[?]%
+pls_wp_bonus_tooltip	<color=FCEB46>You will receive <color=FFFFFF>[?]%</color> more Battle Points
+
+
+

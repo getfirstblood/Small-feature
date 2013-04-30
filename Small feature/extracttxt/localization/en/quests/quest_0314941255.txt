@@ -1,0 +1,8 @@
+﻿quest_system_314941255_desc	Yes, you’re right. I’d be of no help here. I’ve heard about the Transformed Ones’ ability to make shields like the one you mentioned. Destroying such a shield can’t be done by a single mage, unless... Wait, that’s it! I know who can help you. In the Witch’s Swamp lives... guess who? A witch! Her name is Morania. Female mages can gather much more Power than men. It’s just that their control of it is not nearly as good... Well, except with this woman. Witch, I mean. Although both are true. Morania is a little... let’s just say she’s not exactly in good standing with the Order, so... she’ll most likely help. Tell her that this command, I mean request, comes straight from Survus the Archmage.
+quest_system_314941255_done	So... what does your Archmage request? Of course he’s your Archmage. He’s certainly not mine. He needs me to deal with a magical dome? Why can’t he? Ah, he’s traveling. So unfortunate! The Archmage leaves just as the problems arrive! Haha... wait, awaken the ancient powers?! The blockheads really want to... Okay, I’ll think about your Archmage’s proposition.
+quest_system_314941255_name	What the Witch Knows
+quest_system_314941255_stage_0	Speak with Morania.
+quest_system_314941255_task	Ask Morania the Witch from the Witch’s Swamp for help getting past the magical dome over the Ancient Temple.
+
+
+

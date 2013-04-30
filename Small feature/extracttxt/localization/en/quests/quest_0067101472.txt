@@ -1,0 +1,8 @@
+﻿quest_system_67101472_desc	I must disappoint you. The records claim that the key was lost forever back in the days of the Jarl War. Completely forgot about that. Oh, bother. It appears as though our temple was in the possession of the only copy. What could we do? Is there any chance the smith who forged the original key might produce a duplicate? I heard he moved to the Miller's Crossroads.
+quest_system_67101472_done	Abbot Lawrence? Didn’t I tell you I have no dealings with the order? I've got other things on my plate. 
+quest_system_67101472_name	A New Key
+quest_system_67101472_stage_0	Torvald
+quest_system_67101472_task	Ask Torvald Hammerhorn for a new key
+
+
+

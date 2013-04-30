@@ -1,0 +1,8 @@
+﻿quest_system_2034763095_desc	We’ve received a letter. From the King himself. It requires us to provide any and all support to the Order in extermination of evil spirits and changelings throughout our Kingdom. So there it is. But I have only a handful of warriors. Barely enough to defend the campground. Could you help us? All you need to do is kill some zombies and necromancers.
+quest_system_2034763095_done	You saved us, great! This may be a small prize, but it is given from the heart!
+quest_system_2034763095_name	Royal Decree
+quest_system_2034763095_stage_0	Hunt
+quest_system_2034763095_task	Destroy {counter_limit_0} Zombies and {counter_limit_1} Necromancers.
+
+
+

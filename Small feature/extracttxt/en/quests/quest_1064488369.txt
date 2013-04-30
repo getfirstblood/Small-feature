@@ -1,0 +1,8 @@
+﻿quest_system_1064488369_desc	Aha! You are going to help us! The so called Devilfish Brotherhood – a bunch of sea-rats – got hold of some riding griffins somewhere. They are owned by the Northern Sea Pirates – dangerous enemies and hardy riders. They fearlessly terrorize our settlements, but we have been unable to catch them so far. We even tried to ambush them, but to no effect. They won’t suspect you, however, and that’s why you have a chance to get close to them. Use that advantage to destroy their bands. Your reward will be worth it, trust me!
+quest_system_1064488369_done	Great job! We took away their air superiority and now we can start forcing them off our land, too. The days of the Brotherhood roaming our lands are coming to end.
+quest_system_1064488369_name	Spirit Attack
+quest_system_1064488369_stage_0	Rout
+quest_system_1064488369_task	Destroy {counter_limit_0} band(s) of Northern Sea Pirates. 
+
+
+

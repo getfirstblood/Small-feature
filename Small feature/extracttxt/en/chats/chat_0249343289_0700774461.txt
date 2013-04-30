@@ -1,0 +1,11 @@
+﻿chat_system_700774461_actor_description	Priest of Rusith An elder who casts prophecies of the future
+chat_system_700774461_snap_0_answer_0	Promising Conversation
+chat_system_700774461_snap_0_answer_1	Deciphering the Manuscripts
+chat_system_700774461_snap_0_question	Visions... Sometimes they are given to us from above, to lead and to guide us. But most of the time we don’t know how to use them.
+chat_system_700774461_snap_1_answer_0	end quest dialog
+chat_system_700774461_snap_1_question	Hello man!
+chat_system_700774461_snap_2_answer_0	begin quest dialog
+chat_system_700774461_snap_2_question	Hello man!
+
+
+

@@ -1,0 +1,488 @@
+﻿army_template_1005047425_name	Feathered Squadron
+army_template_10104517_name	Battle Maidens
+army_template_1012106131_name	Lazarus Cultists
+army_template_1022789258_name	Servants of a Dark Cult
+army_template_1028497414_name	Living Dead
+army_template_1036657349_name	Battle Lizards
+army_template_1075308722_name	Servants of Death
+army_template_1079235723_name	Fugitive Deserters
+army_template_1080608494_name	Possessed Pack
+army_template_1089196592_name	Feathered Defenders
+army_template_1102135562_name	Eric's Band
+army_template_1115071082_name	Hissing Mastermind's Squad
+army_template_1115790883_name	Scarlet Sashes
+army_template_1132344515_name	Lord of the Shadows
+army_template_1132916859_name	Uninvited Guests
+army_template_1134726239_name	Lords of the Drowned
+army_template_1140542414_name	Inquisition Fanatics
+army_template_1145827478_name	Bloody Rebels
+army_template_1149987331_name	Beast Union
+army_template_1155855294_name	Young Bears
+army_template_1164951366_name	Steel Landing Party
+army_template_1165444633_name	Northern Forest Poachers
+army_template_117293734_name	Soldier Enlistees
+army_template_1174317108_name	Flesh Conjurors
+army_template_1175540149_name	Suspicious Vagabonds
+army_template_1185081874_name	Ruin's Ghosts
+army_template_1194165400_name	Marsh Brood
+army_template_1201034799_name	Forest Dwellers
+army_template_1202527107_name	Squad of Gray Wardens
+army_template_1204387882_name	Dark Templars
+army_template_1206179912_name	Living Giants
+army_template_1216987581_name	Insidious Duo
+army_template_1222840079_name	Devourers of Darkness
+army_template_1236774236_name	Enchanted Beasts
+army_template_1240422076_name	Sorcerer Spiders
+army_template_124404418_name	Black Hood
+army_template_1247298817_name	Magical Guardians
+army_template_1249673539_name	Scarlet Sashes in Red Shirts
+army_template_1251425900_name	Raging Invaders
+army_template_1254593955_name	Masters of the Woods
+army_template_1271854096_name	Divine Guard
+army_template_127745020_name	Minions of Chaos
+army_template_1284038388_name	Winged Warriors
+army_template_1286499129_name	Starving Peasants
+army_template_1287814049_name	Alchemical Monsters
+army_template_1289298915_name	Scaled Warrior Squad
+army_template_1293623714_name	Dark-Robed Mages
+army_template_1293725283_name	Free Knight
+army_template_1294750102_name	Ladies of the Forest
+army_template_1301235199_name	Magical Monsters
+army_template_1317017039_name	Mad Beasts
+army_template_132819227_name	Spell's Victims
+army_template_132851860_name	Lazarus’ Templars
+army_template_1330893935_name	Spider Brood
+army_template_1331758765_name	Scaled Warriors
+army_template_1334456632_name	Band of Farmers
+army_template_1335149636_name	Tomb Raiders
+army_template_1341578785_name	Band of Pirates
+army_template_1347553322_name	Green Army
+army_template_1350598065_name	Armoured Mercenaries
+army_template_1364159871_name	Necromancers
+army_template_1364514023_name	Magical Trees
+army_template_1377312247_name	Herbalists
+army_template_1377742424_name	Forest Mages
+army_template_1387359851_name	Band of Quickshots
+army_template_1387940226_name	Scaly Thieves
+army_template_1389779897_name	Scaled Сharmers
+army_template_1393901394_name	Dangerous Beasts
+army_template_1403591268_name	Vorden Hatkh’s Squad
+army_template_1412083688_name	Forest Enchantresses
+army_template_1418024207_name	Elusive Beauties
+army_template_1434023722_name	Masters of the Caves
+army_template_143688128_name	Enchanted Spiders
+army_template_1449725030_name	Furry Spider Queen and her Brood
+army_template_1450626732_name	Roaming Corpses
+army_template_1454604927_name	Forest Union
+army_template_1462273634_name	Ancient Unicorn
+army_template_1464705396_name	Thieves of Gifts
+army_template_1464898980_name	Possessed Pilgrims
+army_template_1470851451_name	Swift Griffins
+army_template_1475779668_name	Deserters
+army_template_1482601722_name	Band of Pirates
+army_template_1484251654_name	Crossbelly Colony
+army_template_1487276573_name	Lazarus’ Army
+army_template_1495456888_name	Spider Brood
+army_template_1496630361_name	Feathered Predators
+army_template_1504650284_name	Army of Darkness
+army_template_1516605227_name	Academy Cadet
+army_template_1520945421_name	Tomb Raiders
+army_template_1524709513_name	Lazarus Cult Punishers
+army_template_1525467611_name	Monsters from the Deep
+army_template_1530821664_name	Squad of Infectors
+army_template_1531924358_name	Free Labourers
+army_template_1538985885_name	Forest Footpads
+army_template_1551542447_name	Swamp Monsters
+army_template_155243847_name	Gravedigger Gang
+army_template_1556521707_name	Portal Keepers
+army_template_1561525557_name	Sargateus' Squad
+army_template_1572671871_name	Evil Eye Horde
+army_template_1577582334_name	Northern Swamp Murderers
+army_template_1586261937_name	Deadly Herd
+army_template_1592493530_name	Human Woes Ghosts
+army_template_159303938_name	Party Smashers
+army_template_1606077395_name	Armoured Traitors
+army_template_1607163217_name	Sinister Devotees
+army_template_1607548342_name	Cromeus' Squad
+army_template_1612002948_name	Forest Defenders
+army_template_1613129399_name	Mystical Monsters 
+army_template_1622273934_name	Raging Fanatics
+army_template_1629741413_name	Obstructive Squad
+army_template_1630427015_name	Desperadoes
+army_template_1630863286_name	Sorcerers of Death
+army_template_1645039432_name	Lazarus’ Necromancers
+army_template_1645214517_name	Marauder Gang
+army_template_1645811718_name	Brontaur Drivers
+army_template_1651546914_name	Hooded Recruiters
+army_template_1654958361_name	Beakwingers
+army_template_165604122_name	Lake's Dwellers
+army_template_1661144191_name	Flaming Spiders
+army_template_1661944578_name	Punishers of the Light
+army_template_1676785502_name	Aggressive Plants
+army_template_1677773635_name	Witch's Friends
+army_template_1681912055_name	Famished Beasts
+army_template_1686501557_name	Ancient Visitors
+army_template_1689536086_name	Order of Cleansing Fanatics
+army_template_1690769604_name	Scavengers
+army_template_170112606_name	Chitin Hunters
+army_template_1704978583_name	Lizard Charmers
+army_template_1707097672_name	Band of Thieves
+army_template_170969633_name	Daredevil Raiders
+army_template_1728462793_name	Bear Pack
+army_template_173223115_name	Free Pirates
+army_template_1740115751_name	DEFAULT_ARMY
+army_template_1740803307_name	Filthbearers
+army_template_1742217839_name	Forest Patrol
+army_template_1742779994_name	Furry Spider Queen and Her Brood
+army_template_1750776851_name	Grand Test Army
+army_template_175283244_name	Forest Brotherhood
+army_template_1757549368_name	Fallen Templar Sect
+army_template_1760316656_name	Destroyers
+army_template_1764102702_name	Keepers of the Grove
+army_template_1775893245_name	Road Rabble
+army_template_1777570840_name	Hardened Bandits
+army_template_1795854457_name	Emerald Spawn
+army_template_1797535993_name	Hisser's Bodyguards
+army_template_181613491_name	Horned Herd
+army_template_1823947086_name	Saurian Sorcerers
+army_template_1826504604_name	Forest Brotherhood
+army_template_1849442865_name	Maritime Brotherhood
+army_template_1853646425_name	Rotting Zombies
+army_template_1856585729_name	Forest Visitors
+army_template_1877489523_name	Battle Maidens
+army_template_1879983182_name	Tamers of Evil
+army_template_1889070510_name	Steel Warriors
+army_template_189456351_name	Gang of Vagabonds
+army_template_1899597834_name	Northern Sea Pirates
+army_template_1922076832_name	Sinister Necromants
+army_template_1922094110_name	Squad of Punishers
+army_template_1923426757_name	Fast Knives Gang
+army_template_1945866841_name	Roadside Rabble
+army_template_1954376156_name	Phantoms of a Hundred Sins
+army_template_1954626144_name	Free Archers
+army_template_1968256726_name	Steel Threat
+army_template_197256862_name	Wild Horde Squad
+army_template_1985771144_name	Forest People
+army_template_1989487797_name	Armoured Weavers
+army_template_1992485385_name	Cloak and Dagger Heroes
+army_template_2013569489_name	Fallen Knights
+army_template_2020816109_name	Training Squad
+army_template_2023425822_name	Squad of Dwarf Mechanics
+army_template_203191785_name	Flying Bandits
+army_template_204610872_name	Arena Masters
+army_template_2070245557_name	Forest Spirits
+army_template_2072235167_name	Chitin Monsters
+army_template_2085262344_name	Adepts of Lazarus
+army_template_2085596603_name	Wild Beakwingers
+army_template_2088196926_name	Lazarus' Guard
+army_template_2096067288_name	Young Lizards
+army_template_2097436583_name	Incinerating Inquisition
+army_template_2097956059_name	Party of Forest Guardians
+army_template_2102500841_name	Moths
+army_template_2122311314_name	Underground Lake Dwellers
+army_template_2133090294_name	Weird Bandits
+army_template_2140849699_name	Horde of Brigands
+army_template_2145272214_name	Deathly Adepts
+army_template_220172884_name	Walking Dead
+army_template_226173742_name	Forest Spirits
+army_template_226593416_name	Armoured Party
+army_template_236756223_name	DEFAULT_ARMY
+army_template_23776565_name	Necrophages
+army_template_244496530_name	Dungeon Spiders
+army_template_270679773_name	Demolition Squad
+army_template_279134311_name	Ghostwalkers
+army_template_297534349_name	Pollinated Thorns
+army_template_298554461_name	Drowned Ones
+army_template_298652565_name	Sea Monsters
+army_template_302084005_name	Ingenious Gorguans
+army_template_305418178_name	Hammer Clan Gunners
+army_template_312432012_name	Nimble Fairies
+army_template_318247885_name	Cursed Griffins
+army_template_320698074_name	Dark Disciples
+army_template_326071366_name	Annoying Fairies
+army_template_331013813_name	Disturbers of Peace
+army_template_33443486_name	Red-Maned Pack
+army_template_349770648_name	Keepers of Mysteries
+army_template_351110445_name	Furry Sweet Teeth
+army_template_355319168_name	Walking Trees
+army_template_359287314_name	Magical Plants
+army_template_367455679_name	Saurian Warriors
+army_template_368038967_name	Scaled Invaders
+army_template_379141227_name	Insolent Cultists
+army_template_381609370_name	Squad of Murderers
+army_template_397134751_name	Defiled Ones
+army_template_399608044_name	Ancient Guardians
+army_template_399936991_name	Mad Cultists
+army_template_400360121_name	Followers of Lazarus
+army_template_416378439_name	Shadowbinders
+army_template_419732164_name	Forsaken Servants of the Light
+army_template_420517713_name	Pack of Feral Animals
+army_template_424653543_name	Hungry Walking Dead
+army_template_426920859_name	Possessed Pack
+army_template_432221672_name	Unicorn Herd
+army_template_433259021_name	Swamp Spies
+army_template_433390410_name	Deserter Archers
+army_template_4366605_name	Green Scouts
+army_template_438954194_name	Pirate Gang
+army_template_468032314_name	Maritime Bandits
+army_template_47711884_name	Suspicious Gang
+army_template_479322298_name	Pack of Feral Beasts
+army_template_486820624_name	Guardians of Knowledge
+army_template_488280761_name	Death Catchers
+army_template_491044773_name	Plague Zombies
+army_template_491185736_name	Corsair Flotilla
+army_template_498841201_name	Squad of Robbers
+army_template_508294755_name	Party of Condemned
+army_template_508577131_name	Carnivorous Plants
+army_template_519608602_name	Coastal Monsters
+army_template_5336398_name	Strike Squad
+army_template_533899962_name	Sinister Scientists
+army_template_535457341_name	Baron Hussaro’s Army
+army_template_540252243_name	Ghosts of the Past
+army_template_557337719_name	Druid Circle
+army_template_575784634_name	Dead Travelers
+army_template_602150918_name	Siege Masters
+army_template_602347741_name	Test Army For Programmers
+army_template_606068792_name	Uncontrolled Beast Pack
+army_template_629859346_name	Swamp Murderers
+army_template_64560167_name	Band of Poachers
+army_template_65939432_name	Disciples of Death
+army_template_684762689_name	Winged Bandits
+army_template_692045469_name	Visiting Band
+army_template_692220284_name	Reagent Thieves
+army_template_698415521_name	Burrs
+army_template_704605695_name	Squad of Undead
+army_template_720562485_name	Raging Necromancers
+army_template_731906521_name	Chitin Pedants
+army_template_743523116_name	Robber Crowd
+army_template_773115351_name	Tamers of Magic
+army_template_823812747_name	Liarus' Squad
+army_template_835494572_name	Band of Horde Reinforcements
+army_template_852167874_name	Hill Dwellers
+army_template_879325302_name	False Inquisition
+army_template_890062542_name	Forest Magic
+army_template_897280174_name	Incarnations of Chaos 
+army_template_905152354_name	Ancient Sorcerers
+army_template_905577093_name	Guardians of the Tomes
+army_template_908442809_name	Snow-white Visitors
+army_template_911742241_name	Zombie Army
+army_template_915019385_name	Gang of Cutthroats
+army_template_93028236_name	Fetid Pack
+army_template_939738574_name	Gang of Exiles
+army_template_940519880_name	Squad of Winged Snatchers
+army_template_941731218_name	Steel Beaks
+army_template_951951882_name	White Finger’s Squad
+army_template_957676118_name	Horde of Cerns
+army_template_959104443_name	Horde
+army_template_973847790_name	Spell Whisperers
+army_template_989451073_name	Defencive Ghosts
+army_unit_102058909_desc	The Brontaur is a mighty creature. It can inflict massive amounts of damage with its horns. Though they are by nature peaceful units, they can be trained to be fierce monsters, towering like cliffs on the battlefield. Their tough skin is impervious to arrows and javelins, and smashes the swords and teeth of their adversaries.
+army_unit_102058909_name	Brontaur
+army_unit_1045095640_desc	Evil Eyes are monstrous children of the Chaos. They can bend others to their will and weaken their enemies by just looking at them.
+army_unit_1045095640_name	Evil Eye
+army_unit_1068742035_desc	[CreatureName]Droid Defender<br>[CreatureBody]An improved version of the Healer Droid. This model was created at the height of the War with the Guardians, as the Dwarves were completing their Gray Army. The Defender is better at restoring the health of the wounded and is also capable of healing deep wounds, magical wounds, and poisoning. <br><font=tahoma_regular_8><align=left><color=FFFFFF><font=tahoma_bold_8>Class:<color=FF0000> Support<br><color=FFFFFF>Type: <color=FF0000>Special<br><color=FFFFFF>Leadership Cost: <color=00B0F0> 40<br><color=FFFFFF>Health: <color=00B0F0>150<br><color=FFFFFF>Attack: <color=00B0F0>19<br><color=FFFFFF>Defence: <color=00B0F0>27<br><color=FFFFFF>Initiative: <color=00B0F0>40<br><color=FFFFFF>Speed: <color=00B0F0>4<br><color=FFFFFF>Critical Chance: <color=00B0F0>10%<br><color=FFFFFF>Chance of Missing: <color=00B0F0>10%<br><color=FFFFFF>Physical Resistance: <color=E36C0A>30<br><color=FFFFFF>Alchemical Resistance: <color=00B050>35<br><color=FFFFFF>Magical Resistance: <color=7030A0>15
+army_unit_1068742035_name	Droid Defender
+army_unit_1082613235_desc	These are the last of the dwarves who have not returned with their kin to the Masters' Continent. Only few bits of their former technology remain. But even obsolete weaponry can attack fear in an enemy's heart. Chemical ammunition is superb firepower.
+army_unit_1082613235_name	Gunner
+army_unit_1104850559_desc	[CreatureName]Archer
+army_unit_1104850559_name	Royal Serpent
+army_unit_1109124953_desc	A powerful healer able to stop enemies at a glance.
+army_unit_1109124953_name	Duke of Darkness
+army_unit_111111_desc	A wrecked Altar of Borders from the time of the Great Cataclysm. Consecutively attacks all targets in range with lightning.<br><br>Artifact Object (unaffected by mind control effects, speed modifiers, and combat parameter changes).
+army_unit_111111_name	Altar of Lightning
+army_unit_1133281689_desc	[CreatureName]Thorn Hunters<br>[CreatureBody]Reikei was quickly overrun with plants mutated by the energy of the Cataclysm. Thorn Hunters shoot their seeds at the enemy, causing intolerable pain and leaving permanent scars.<br><font=tahoma_regular_8><align=left><color=FFFFFF><font=tahoma_bold_8>Class:<color=FF0000> Archer<br><color=FFFFFF>Type: <color=FF0000>Common<br><color=FFFFFF>Leadership Cost: <color=00B0F0> 10<br><color=FFFFFF>Health: <color=00B0F0>40 <br><color=FFFFFF>Attack: <color=00B0F0>23<br><color=FFFFFF>Defence: <color=00B0F0>21<br><color=FFFFFF>Initiative: <color=00B0F0>30<br><color=FFFFFF>Speed: <color=00B0F0>5<br><color=FFFFFF>Critical Chance: <color=00B0F0>10%<br><color=FFFFFF>Chance of Missing: <color=00B0F0>10%<br><color=FFFFFF>Physical Resistance: <color=E36C0A>25<br><color=FFFFFF>Alchemical Resistance: <color=00B050>10<br><color=FFFFFF>Magical Resistance: <color=7030A0>5
+army_unit_1133281689_name	Thorn Hunter
+army_unit_1150449033_desc	[CreatureName]Archer
+army_unit_1150449033_name	Pastakurs
+army_unit_1200664721_desc	[CreatureName]Archer
+army_unit_1200664721_name	Thorn Warrior
+army_unit_1249001403_desc	[CreatureName]Droid Healer<br>[CreatureBody]Remnants of the long-forgotten glories of the Dwarves, these machines are good for healing wounds. At one time they were widespread, popular for their efficiency, durability, and ability not only to heal but also to attack enemies. The Droids can still be found in the old dwarvish dwellings.<br><font=tahoma_regular_8><align=left><color=FFFFFF><font=tahoma_bold_8>Class:<color=FF0000> Support<br><color=FFFFFF>Type: <color=FF0000>Common<br><color=FFFFFF>Leadership Cost: <color=00B0F0> 30<br><color=FFFFFF>Health: <color=00B0F0>75<br><color=FFFFFF>Attack: <color=00B0F0>19<br><color=FFFFFF>Defence: <color=00B0F0>27<br><color=FFFFFF>Initiative: <color=00B0F0>35<br><color=FFFFFF>Speed: <color=00B0F0>4<br><color=FFFFFF>Critical Chance: <color=00B0F0>10%<br><color=FFFFFF>Chance of Missing: <color=00B0F0>10%<br><color=FFFFFF>Physical Resistance: <color=E36C0A>25<br><color=FFFFFF>Alchemical Resistance: <color=00B050>45<br><color=FFFFFF>Magical Resistance: <color=7030A0>10
+army_unit_1249001403_name	Droid Healer
+army_unit_1270775656_desc	The Royal Thorn can be found at the center of the carnivorous plant colony. Its roots are so sensitive that they can find rare Gems, full of astral energy, deep in the earth. This lets the thorns feed on magical energy.
+army_unit_1270775656_name	Royal Thorn
+army_unit_1340698284_desc	These are a special caste of experienced warriors established during the War. At birth, they are given the spirit of kinship, taught the ways of the clan, and clothed in the armour of their ancestors. Their crippling attacks smash everything around them.
+army_unit_1340698284_name	Knight
+army_unit_1343820848_desc	By himself, a peasant is expendable. But you shouldn’t underestimate him. A crowd of these fellows with pitchforks can deal serious damage to an enemy in close combat.
+army_unit_1343820848_name	Peasant
+army_unit_135027259_desc	A cross saturated with dark energy, oozing with curses and diseases.<br><br>Artifact Object (unaffected by mind control effects, speed modifiers, and combat parameter changes).
+army_unit_135027259_name	Cursed Cross
+army_unit_1362260711_desc	Able to control nature and to use astral spells to support other Mages, as well as to inflict massive damage on their enemies, these monsters have become great shamans.
+army_unit_1362260711_name	Gargoyle Shaman
+army_unit_1382469534_desc	A griffin able to inspire his allies and strike enemies with lightnings.
+army_unit_1382469534_name	Grey-maned Griffin
+army_unit_1395292821_desc	The leader of the spiders besieging the Abandoned Village. Very dangerous.
+army_unit_1395292821_name	Hairy Spider
+army_unit_1401118028_desc	[CreatureName]Cern Hopper<br>[CreatureBody]An incarnated fire spirit whose earthly form is the work of the Guardians. Cerns are the very essence of flame; fire is their life and their weapon. Their fireball attacks may damage one or several enemies.<br><font=tahoma_regular_8><align=left><color=FFFFFF><font=tahoma_bold_8>Class:<color=FF0000> Sorcerer<br><color=FFFFFF>Type: <color=FF0000>Common<br><color=FFFFFF>Leadership Cost: <color=00B0F0> 10<br><color=FFFFFF>Health: <color=00B0F0>43 <br><color=FFFFFF>Attack: <color=00B0F0>29<br><color=FFFFFF>Defence: <color=00B0F0>15<br><color=FFFFFF>Initiative: <color=00B0F0>30<br><color=FFFFFF>Speed: <color=00B0F0>2<br><color=FFFFFF>Critical Chance: <color=00B0F0>10%<br><color=FFFFFF>Chance of Missing: <color=00B0F0>10%<br><color=FFFFFF>Physical Resistance: <color=E36C0A>0<br><color=FFFFFF>Alchemical Resistance: <color=00B050>30<br><color=FFFFFF>Magical Resistance: <color=7030A0>15
+army_unit_1401118028_name	Cern Hopper
+army_unit_1444834080_desc	These spiders were part of an experiment by some Mages to combine a living organism with the destructive power of fire. Rumor has it that the spider’s power is based in fragments of a demon’s soul, extracted from the underworld.
+army_unit_1444834080_name	Fiery Spider
+army_unit_1454498994_name	Droideca
+army_unit_1457885761_desc	Assassins are followers of the legendary Murderer Cult. They can poison an enemy or inflict serious damage. Any opponent who hesitates will soon regret that he neglected to pay attention to an assassin.
+army_unit_1457885761_name	Assassin
+army_unit_1467497603_desc	[CreatureName]Dragon Whelp<br>[CreatureBody]The once great race of the dragons has degenerated into a mob of ordinary beasts, possessing a mere fraction of their ancestors’ intelligence. But these dragons are still quite trainable, and they can breathe fire as well as protect themselves and their allies with a magical shield.<br><font=tahoma_regular_8><align=left><color=FFFFFF><font=tahoma_bold_8>Class:<color=FF0000> Sorcerer<br><color=FFFFFF>Type: <color=FF0000>Common<br><color=FFFFFF>Leadership Cost: <color=00B0F0> 20<br><color=FFFFFF>Health: <color=00B0F0>105 <br><color=FFFFFF>Attack: <color=00B0F0>27<br><color=FFFFFF>Defence <color=00B0F0>18<br><color=FFFFFF>Initiative: <color=00B0F0>20<br><color=FFFFFF>Speed: <color=00B0F0>2<br><color=FFFFFF>Critical Chance: <color=00B0F0>10%<br><color=FFFFFF>Chance of Missing: <color=00B0F0>10%<br><color=FFFFFF>Physical Resistance: <color=E36C0A>5<br><color=FFFFFF>Alchemical Resistance: <color=00B050>35<br><color=FFFFFF>Magical Resistance: <color=7030A0>15
+army_unit_1467497603_name	Dragon Whelp
+army_unit_1470994346_desc	[CreatureName]Archer
+army_unit_1470994346_name	Fiery Cern
+army_unit_1472898795_desc	Young Fairies have no strong magical abilities, but they can use the forces of nature in battle.
+army_unit_1472898795_name	Young Fairy
+army_unit_148171164_desc	[CreatureName]Archer
+army_unit_148171164_name	Fiery Draconid
+army_unit_1484754775_desc	[CreatureName]Ghost<br>[CreatureBody]The Cataclysm didn't kill everyone completely. Spirits chained to this world still roam the ruins of what were once cities. Ghosts drink their enemies’ life, weakening them.<br><font=tahoma_regular_8><align=left><color=FFFFFF><font=tahoma_bold_8>Class:<color=FF0000> Warrior<br><color=FFFFFF>Type: <color=FF0000>Common<br><color=FFFFFF>Leadership Cost: <color=00B0F0> 20<br><color=FFFFFF>Health: <color=00B0F0>110 <br><color=FFFFFF>Attack: <color=00B0F0>25<br><color=FFFFFF>Defence: <color=00B0F0>23<br><color=FFFFFF>Initiative: <color=00B0F0>25<br><color=FFFFFF>Speed: <color=00B0F0>4<br><color=FFFFFF>Critical Chance: <color=00B0F0>10%<br><color=FFFFFF>Chance of Missing: <color=00B0F0>10%<br><color=FFFFFF>Physical Resistance: <color=E36C0A>20<br><color=FFFFFF>Alchemical Resistance: <color=00B050>0<br><color=FFFFFF>Magical Resistance: <color=7030A0>20
+army_unit_1484754775_name	Ghost
+army_unit_1554971046_desc	Necromancers are servants of the Cult of Renegades, many of whom worship Speakers to the Dead. Although these proctors are far less powerful that the Battle Mages of the Order, their ability to use dark spells can be a significant advantage on the battlefield
+army_unit_1554971046_name	Necromancer
+army_unit_1566506775_desc	[CreatureName]Archer
+army_unit_1566506775_name	Assault Droid
+army_unit_1569707585_desc	Lake Fairies have lived for many years in harmony with nature. Their magical powers can interfere with opponents’ minds, causing them to forget the arts of warfare.
+army_unit_1569707585_name	Lake Fairy
+army_unit_158918400_desc	No, they’re not dead. But the disease of the Keepers has changed their flesh so much that none can tell whether they be men, Elves or Dwarves. One look by the Zombies causes intense pain, affecting the body with serious illness.
+army_unit_158918400_name	Zombies
+army_unit_161456337_desc	[CreatureName]Archer
+army_unit_161456337_name	Dark Rider
+army_unit_16183776_desc	[CreatureName]Archer
+army_unit_16183776_name	Forest Weaver
+army_unit_1636869664_desc	Novices of the Church of the Phoenix, professed the vow of voluntary journey. They are no Battle Mages, but they can fend for themselves. However their primary function is to heal your army.
+army_unit_1636869664_name	Pilgrim
+army_unit_1643424966_desc	Inquisitors spend many years of their lives studying the secrets of magic. By sacrificing part of his soul, the Inquisitor gains the ability to both resurrect allies and cast powerful curses on his enemies.
+army_unit_1643424966_name	Inquisitor
+army_unit_1645474520_desc	The soul of the Sea Wolf has only grown stronger through storms and gales. His fury can crush even the most dangerous enemies. His sweeping blows can cause serious damage, and their strength can harm several enemy units at a time.
+army_unit_1645474520_name	Sea Wolf
+army_unit_1653925948_desc	Formerly tranquil, now the waters of the Archipelago of Hope are filled with ships prowling about in search of victims. Even though the glory of the Scarlet Corsairs has long passed, today’s pirates are still bloodthirsty and powerful enemies. Cutlasses and fast movement speed mean that pirates can serve as formidable fighting units in your army.
+army_unit_1653925948_name	Pirate
+army_unit_1672318607_desc	Garrison’s destructible barricade
+army_unit_1672318607_name	Garrison’s destructible barricade
+army_unit_1711575639_desc	Mercenaries, wandering from one master to the next. Some seek higher pay, while others are bored by staying in one place for too long. The vagabond’s favorite weapon is the flail. The Vagabond is ambidextrous and can inflict a powerful blow that can stun his opponent.
+army_unit_1711575639_name	Vagabond
+army_unit_1733171467_desc	War Bears were bred in the northeast regions of the Kingdom before the War. The bear’s powerful paws pulverize several enemies, and his roar makes an enemy forget all other foes and attack him.
+army_unit_1733171467_name	Young Bear
+army_unit_1736635715_desc	These semi-sentient lizards reached their zenith by the end of the War. They quickly took over lands vacated by humans and other races, spreading unusually quickly. The magic of the Gargoyles is primitive but deadly. It's not wise to get too close to a Gargoyle Hunter, unless you want to be pounded by elemental magic or dealt a shattering blow from his spear.
+army_unit_1736635715_name	Gargoyle Hunter
+army_unit_1757562907_desc	The descendants of those who studied under the Guardians during the influx of the new races, long before the War. To this day they wander the expanses of Reikai. Their strength lies not in control of destructive energy flow, but in unity with nature. They defend rather than kill.
+army_unit_1757562907_name	Druid
+army_unit_1771185152_desc	These ancient units encountered dark energy in the times of the Cataclysm. The screech of this Griffin stuns enemies, and the dark magic hidden in the Griffin’s soul stands ready to unleash massive damage on several adversaries at your command.
+army_unit_1771185152_name	Dark Griffin
+army_unit_1803850629_desc	An ancient dinosaur is easily enraged, which allows it to defeat the most dangerous enemies.
+army_unit_1803850629_name	T-Rex
+army_unit_1837282987_desc	[CreatureName]Pentademon<br>[CreatureBody]The evil older brothers of the Imps. They were summoned by the Guardians specifically to deal with the Sorcerers of the new races. Pentademons are protected by a damage-absorbing infernal aura and can temporarily block Sorcerers’ ability to cast spells.<br><font=tahoma_regular_8><align=left><color=FFFFFF><font=tahoma_bold_8>Class:<color=FF0000> Defender<br><color=FFFFFF>Type: <color=FF0000>Special<br><color=FFFFFF>Leadership Cost: <color=00B0F0> 30<br><color=FFFFFF>Health: <color=00B0F0>230<br><color=FFFFFF>Attack: <color=00B0F0>16<br><color=FFFFFF>Defence: <color=00B0F0>30<br><color=FFFFFF>Initiative: <color=00B0F0>15<br><color=FFFFFF>Speed: <color=00B0F0>2<br><color=FFFFFF>Critical Chance: <color=00B0F0>10%<br><color=FFFFFF>Chance of Missing: <color=00B0F0>10%<br><color=FFFFFF>Physical Resistance: <color=E36C0A>45<br><color=FFFFFF>Alchemical Resistance: <color=00B050>5<br><color=FFFFFF>Magical Resistance: <color=7030A0>30
+army_unit_1837282987_name	Pentademon
+army_unit_1849932360_desc	Of all the Beasts of the ocean depths, the Sea Devils are the most deadly. Not only can they hunt in the water, but also on land - that's how they earned their blood-curdling name.
+army_unit_1849932360_name	Sea Devil
+army_unit_1852239437_desc	Special reinforced protection.<br><br>Artefact object (total protection from the effects of mind control and speed change spells and changes in battle parameters.)
+army_unit_1852239437_name	Red Defence Tower
+army_unit_1894667343_desc	These warriors were victorious in many competitions and wars. In battles they were used mostly as a disruptive force breaking through enemy defence lines – the hooves of their swift horses knocked down the enemies.
+army_unit_1894667343_name	Champion
+army_unit_1933734554_desc	[CreatureName]Archer
+army_unit_1933734554_name	Shadow Creature
+army_unit_1944276703_desc	[CreatureName]Imp<br>[CreatureBody]Living spawn from another world, turned into soldiers by the Guardians. Many of them fell during the War, but most survived and stayed in Reikai after it was over. Their infernal shields absorb damage, and their special abilities force enemies to attack only them.<br><font=tahoma_regular_8><align=left><color=FFFFFF><font=tahoma_bold_8>Class:<color=FF0000> Defender<br><color=FFFFFF>Type: <color=FF0000>Common<br><color=FFFFFF>Leadership: <color=00B0F0> 20<br><color=FFFFFF>Health: <color=00B0F0>115 <br><color=FFFFFF>Attack: <color=00B0F0>16<br><color=FFFFFF>Defence: <color=00B0F0>30<br><color=FFFFFF>Initiative: <color=00B0F0>10<br><color=FFFFFF>Speed: <color=00B0F0>2<br><color=FFFFFF>Critical Chance: <color=00B0F0>10%<br><color=FFFFFF>Chance of Missing: <color=00B0F0>10%<br><color=FFFFFF>Physical Resistance: <color=E36C0A>40<br><color=FFFFFF>Alchemical Resistance: <color=00B050>0<br><color=FFFFFF>Magical Resistance: <color=7030A0>25
+army_unit_1944276703_name	Imp
+army_unit_196990255_desc	[CreatureName]Archer
+army_unit_196990255_name	Master Ranger
+army_unit_1977309178_desc	[CreatureName]Archer
+army_unit_1977309178_name	Royal Unicorn
+army_unit_1996396671_desc	Giant Long-Tailed Serpents roamed the expanses of Reikai before the War with the Guardians. They were transformed by the Energy of the Cataclysm and became more swift, more poisonous, more dangerous, and more deadly. Their bite is not only damaging, but can poison the victim for a period of time.
+army_unit_1996396671_name	Swamp Serpent
+army_unit_2002386005_desc	[CreatureName]Archer
+army_unit_2002386005_name	Draconid
+army_unit_2005037213_desc	A Demonologist is one who has entered into an agreement with demons to be given extraordinary magical power. Mere appearance of this Mage on the battlefield can attack terror in the enemies’ hearts. After all, the Demonologist’s book of magical contains a multitude of spells that can change the flow of battle at any moment.
+army_unit_2005037213_name	Speaker
+army_unit_2009759654_desc	[CreatureName]Archer
+army_unit_2009759654_name	Northern Griffin
+army_unit_2020874101_desc	Dark crystal (OLD 2)
+army_unit_2020874101_name	Dark crystal (OLD 2)
+army_unit_2082553628_desc	Beautiful units which settled the Archipelago of Hope prior to the appearance of the new races. They were quickly tamed and were especially valued for their ability to give their master or his companions the strength of nature, which has since saved many lives on the battlefield. Of course, no one has ever been able to saddle a Unicorn.
+army_unit_2082553628_name	Unicorn
+army_unit_2088727985_desc	[CreatureName]Archer
+army_unit_2088727985_name	Hermit Draconid
+army_unit_2092037309_desc	[CreatureName]Long-Tailed Serpent<br>[CreatureBody]Giant Long-Tailed Serpents roamed the expanses of Reikai before the War with the Guardians. They were transformed by the Energy of the Cataclysm and became swifter, more poisonous, more dangerous, and more deadly. Their bite is not only damaging but can also poison the victim for a period of time.<br><font=tahoma_regular_8><align=left><color=FFFFFF><font=tahoma_bold_8>Class:<color=FF0000> Warrior<br><color=FFFFFF>Type: <color=FF0000>Common<br><color=FFFFFF>Leadership Cost: <color=00B0F0> 12<br><color=FFFFFF>Health: <color=00B0F0>60<br><color=FFFFFF>Attack: <color=00B0F0>26<br><color=FFFFFF>Defence: <color=00B0F0>24<br><color=FFFFFF>Initiative: <color=00B0F0>20<br><color=FFFFFF>Speed: <color=00B0F0>5<br><color=FFFFFF>Critical Chance: <color=00B0F0>10%<br><color=FFFFFF>Chance of Missing: <color=00B0F0>10%<br><color=FFFFFF>Physical Resistance: <color=E36C0A>25<br><color=FFFFFF>Alchemical Resistance: <color=00B050>5<br><color=FFFFFF>Magical Resistance: <color=7030A0>30
+army_unit_2092037309_name	Long-Tailed Serpent
+army_unit_2140383323_desc	[CreatureName]Demoness<br>[CreatureBody]Incarnations of ancient fire spirits from another world, from whence they were summoned by the Guardians. These creatures of fire and magic can ignite the battlefield and make all, even the strongest and most steadfast warriors, vulnerable.<br><font=tahoma_regular_8><align=left><color=FFFFFF><font=tahoma_bold_8>Class:<color=FF0000> Sorcerer<br><color=FFFFFF>Type: <color=FF0000>Legendary<br><color=FFFFFF>Leadership Cost: <color=00B0F0> 20<br><color=FFFFFF>Health: <color=00B0F0>71 <br><color=FFFFFF>Attack: <color=00B0F0>29<br><color=FFFFFF>Defence: <color=00B0F0>15<br><color=FFFFFF>Initiative: <color=00B0F0>40<br><color=FFFFFF>Speed: <color=00B0F0>2<br><color=FFFFFF>Chance of Critical Hit: <color=00B0F0>10%<br><color=FFFFFF>Chance of Missing: <color=00B0F0>10%<br><color=FFFFFF>Physical Resistance: <color=E36C0A>10<br><color=FFFFFF>Alchemical Resistance: <color=00B050>40<br><color=FFFFFF>Magical Resistance: <color=7030A0>25
+army_unit_2140383323_name	Demoness
+army_unit_222222_desc	A special protective structure which protects units.<br><br>Artifact Object (unaffected by mind control effects, speed modifiers, and combat parameter changes).
+army_unit_222222_name	Barrier
+army_unit_224597892_desc	Eyebeasts were formed in the dark caves of the Cultists. They can gather astral energy in a beam, which not only causes immense damage, but can also put the target to sleep.
+army_unit_224597892_name	Eyebeast
+army_unit_279374933_desc	A necromancer who started a campaign of sabotage on the island in his quest for unlimited power and the destruction of the Kingdom.<br><br>Great Necromancer - immune to mind control and speed modifiers.
+army_unit_279374933_name	Lazarus
+army_unit_30884490_desc	[CreatureName]Archer
+army_unit_30884490_name	Swamp Serpent
+army_unit_318826550_desc	[CreatureName]Archer
+army_unit_318826550_name	Land Brontaur
+army_unit_333333_desc	A huge nest filled with angry, buzzing wasps.<br><br>Artifact Object (unaffected by mind control effects, speed modifiers, and combat parameter changes).
+army_unit_333333_name	Wasp’s Nest
+army_unit_336241499_desc	He is a great night hunter. He draws strenth and agility in the Nature itself. Not so many creatures can resist his powerful jaws and claws.
+army_unit_336241499_name	Night Wolf
+army_unit_347648649_desc	A terrifying inhabitant of high mountains, capable of throwing huge stones.
+army_unit_347648649_name	Cyclops
+army_unit_353366533_desc	[CreatureName]Archer
+army_unit_353366533_name	Mad Ghost
+army_unit_364604221_desc	[CreatureName]Archer
+army_unit_364604221_name	Young Dragon
+army_unit_433487274_desc	Dark crystal (OLD)
+army_unit_433487274_name	Dark crystal (OLD)
+army_unit_440124720_desc	Forest Guardians have guarded the woodlands for many years. The forces of Earth have given them many magical abilities, making them dangerous opponents able to handle imposing packs of enemies as well as protect their allies.
+army_unit_440124720_name	Forest Guardian
+army_unit_501131414_desc	Paladins are, without a doubt, the elite warriors of the Royal Army. They wear enchanted armour. Using their spiritual strength, they energize their swords, which then can attack several enemies with one blast of astral energy.
+army_unit_501131414_name	Paladin
+army_unit_517724369_desc	Special reinforced protection.<br><br>Artefact object (total protection from the effects of mind control and speed change spells and changes in battle parameters.)
+army_unit_517724369_name	Green Defence Tower
+army_unit_608947275_desc	[CreatureName]Archer
+army_unit_608947275_name	Ghost of Judgment
+army_unit_614033656_desc	An ancient snake is not only able to inflict serious damage, but use mind control as well. Often, lost travelers become mindless zombies under her influence.
+army_unit_614033656_name	Ancient Serpent
+army_unit_679014690_desc	Ancient, wise and powerful creatures, able to bury adversaries in a tangle of their roots or to beat them mercilessly. Wild bees live in the Ents’ branches, and at the command of their host, they will fight any enemy.
+army_unit_679014690_name	Ancient Ent
+army_unit_680011335_desc	Special reinforced protection.<br><br>Artefact object (total protection from the effects of mind control and speed change spells and changes in battle parameters.)
+army_unit_680011335_name	Wall
+army_unit_711345374_desc	An ancient forest dragon with the ability to heal its allies.
+army_unit_711345374_name	Emerald Dragon
+army_unit_72516424_desc	The Cataclysm didn't completely kill everyone. Spirits chained to this world still roam the ruins of what were once cities. These ghosts don't just drink the life of their victims, they weaken their victims' strength as they do so.
+army_unit_72516424_name	Ghost
+army_unit_727437293_desc	[CreatureName]Creature<br>[CreatureBody]This is the Guardians’ War Golem. It feeds on energy from another world and on the strength of its Masters. They are a remnant of the war still lingering in the remote corners of Reikai. The Creatures poison and weaken the enemy, then wait as he slowly dies from their venom.<br><font=tahoma_regular_8><align=left><color=FFFFFF><font=tahoma_bold_8>Class:<color=FF0000> Archer<br><color=FFFFFF>Type: <color=FF0000>Common<br><color=FFFFFF>Leadership Cost: <color=00B0F0> 15<br><color=FFFFFF>Health: <color=00B0F0>49 <br><color=FFFFFF>Attack: <color=00B0F0>20<br><color=FFFFFF>Defence: <color=00B0F0>19<br><color=FFFFFF>Initiative: <color=00B0F0>40<br><color=FFFFFF>Speed: <color=00B0F0>6<br><color=FFFFFF>Critical Chance: <color=00B0F0>10%<br><color=FFFFFF>Chance of Missing: <color=00B0F0>10%<br><color=FFFFFF>Physical Resistance: <color=E36C0A>15<br><color=FFFFFF>Alchemical Resistance: <color=00B050>10<br><color=FFFFFF>Magical Resistance: <color=7030A0>5
+army_unit_727437293_name	Creature
+army_unit_730969985_desc	In harmony with nature, these wonderful and kind units have learned to use ancient forces against their enemies. Dryads can inspire allies and put enemies to sleep, easily striking enemies from a distance with magic dust.
+army_unit_730969985_name	Dryad
+army_unit_742852531_desc	Alchemists have made good progress in their attempts to combine magic and technology. They can deal damage using enchanted poison or destroy an enemy by tossing a grenade.
+army_unit_742852531_name	Alchemist
+army_unit_760351288_desc	[CreatureName]Archer
+army_unit_760351288_name	Ancient Bear
+army_unit_782676500_desc	A bear overtaken by dark magic. He is endowed with immense physical strength and endurance, which help him crush his enemies. His possession makes him stronger and faster, but the madness with which he charges into battle may play an evil trick on him.
+army_unit_782676500_name	Possessed Bear
+army_unit_807361275_desc	An experienced swordsman is able not only to protect his allies, but also to deal serious damage on the battlefield. His heavy armour protects him well from the attacks of his enemies.
+army_unit_807361275_name	Swordsman
+army_unit_810216637_desc	A statue of one of the highest goddesses, the patron of health and long life.<br><br>Artifact Object (unaffected by mind control effects, speed modifiers, and combat parameter changes).
+army_unit_810216637_name	Holy Statue
+army_unit_810301987_desc	A statue of the Holy Goddess Imiret which protects residents from various afflictions.
+army_unit_810301987_name	Statue of the Holy Goddess
+army_unit_814856525_desc	An inventor who has gained control of magical forces and uses them to drive machines. He knows how to remove harmful or helpful magical effects with the help of secret potion recipes learned from the books of ancient herbalists.
+army_unit_814856525_name	Inventor
+army_unit_845436252_desc	Archmages have reached the highest levels of success in mastering sorcery. Even experienced adversaries cannot withstand their magical attacks, and their manipulation of time itself allows their allies to perform unbelievable maneuvers on the battlefield.
+army_unit_845436252_name	Archmage
+army_unit_846998553_desc	After the Cataclysm, these carnivorous plants spread quickly through Reikai. The Thorn Hunters can shoot their seeds at the enemy, causing incredible pain and scarring.
+army_unit_846998553_name	Thorn Hunter
+army_unit_849617342_desc	[CreatureName]Archer
+army_unit_849617342_name	Plaguebringer
+army_unit_857948034_desc	Cave spiders are yet another product of the Cataclysm. These Beasts are very easy to train. With one spit, they can trap an opponent from head to toes in a sticky web, constricting his movement.
+army_unit_857948034_name	Cave Spider
+army_unit_870388235_desc	[CreatureName]Archer
+army_unit_870388235_name	Thorn Monster
+army_unit_874729719_desc	An inhabitant of the northern islands of the Archipelago, The Polar Bear possesses immense health and physical power. Danger evokes the Spirit of the North in the Polar Bear, which reduces the unit's mobility, but protects it from damage, while Ice Claws enable it to slow down enemies.
+army_unit_874729719_name	Polar Bear
+army_unit_887616041_desc	These creatures are not related to true dragons, though they had once served them. After the fall of the Abode of the Lords, the draconids settled on some of the islands of the Archipelago of Hope. They are hardly aggressive and easily tamed, but the enemy may find them to be formidable opponents.
+army_unit_887616041_name	Lake Draconid
+army_unit_889071578_desc	The Dwarvish guns and arbalests have passed into legend along with their creators, but the bow remains. The art of archery is not a simple one, but its ranged attacks are the most accurate. An experienced archer is a serious enemy, thanks to his powerful shots and poisoned arrows.
+army_unit_889071578_name	Archer
+army_unit_897452381_desc	A shaman apprentice of Saurian tribe who uses the secret magic to harm enemies from a distance. Their powers of natural magical are strong, but they lack the knowledge to use more complicated spells.
+army_unit_897452381_name	Gargoyle Trainee
+army_unit_907864820_desc	A Demonologist is one who has entered into an agreement with demons to be given extraordinary magical power. Mere appearance of this Mage on the battlefield can attack terror in the enemies’ hearts. After all, the Demonologist’s book of magical contains a multitude of spells that can change the flow of battle at any moment.
+army_unit_907864820_name	Demonologist
+army_unit_90917373_desc	A crystal set up by Morania to help your troops in battle with Lazarus. Cannot affect units of Chaos.<br><br>Artifact Object (unaffected by mind control effects, speed modifiers, and combat parameter changes).
+army_unit_90917373_name	Protective Crystal
+army_unit_933879072_desc	Skillful Archers who guard the forest boarders. Their bow skill is unrivaled. Their accurate shots cause deep, bleeding wounds and excruciating pain for a long time.
+army_unit_933879072_name	Ranger
+army_unit_951430670_desc	[CreatureName]Archer
+army_unit_951430670_name	Incinerator
+army_unit_995546218_desc	Black magic has disastrous effects on all living units. But unicorns, due to their natural vitality, are able to withstand the effects of dark curses and use them for extra strength. Now these unicorns are an excellent addition to any army.
+army_unit_995546218_name	Black Unicorn
+
+
+

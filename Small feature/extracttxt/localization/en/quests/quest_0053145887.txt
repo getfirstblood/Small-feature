@@ -1,0 +1,8 @@
+﻿quest_system_53145887_desc	I have arrived from the Mages' Academy on the Island of Ruttespiel on the orders of the Chair of Magical Studies at the University of Ruttespiel. I have been charged with tracking down and capturing several renegade mages. However, I am totally absorbed in studying books on magic at the royal library, so I am looking for someone to do that for me. You look like someone who's right for the job. But first, I need to test you, and your test will be a battle with extraordinary beasts. If you succeed, I will give you a generous reward.
+quest_system_53145887_done	You're pretty good, after all. I thought you wouldn't make it, seeing how several "graduates" like you had tried, only to walk away with a broken nose. I am happy I can finally entrust my mission to someone and go back to studying the ancient folios. By the way, did you know the polar bears you just fought are very intelligent and true creatures really, who were tamed by our mages on a journey to the north of the Archipelago? These bears are very strong, tough and good-natured.
+quest_system_53145887_name	Visitors from Ruttespiel
+quest_system_53145887_stage_0	Rout
+quest_system_53145887_task	Defeat {counter_limit_0} squads of Snow-white Visitors 
+
+
+

@@ -1,0 +1,29 @@
+﻿chat_system_1057017470_actor_description	Rob Torbin Director of the Order’s hunting expedition.
+chat_system_1057017470_snap_0_answer_0	Lone Hunter
+chat_system_1057017470_snap_0_answer_1	Lone Hunter
+chat_system_1057017470_snap_0_answer_2	Without Measure
+chat_system_1057017470_snap_0_answer_3	Without Measure
+chat_system_1057017470_snap_0_answer_4	Furry Apocalypse
+chat_system_1057017470_snap_0_answer_5	Furry Apocalypse
+chat_system_1057017470_snap_0_question	Now here one can really hunt! I've never seen that much wildlife!
+chat_system_1057017470_snap_1_answer_0	begin quest dialog
+chat_system_1057017470_snap_1_question	Hello man!
+chat_system_1057017470_snap_2_answer_0	(away)
+chat_system_1057017470_snap_2_question	Poachers destroy animals without remorse, so don't expect a warm welcome from them.
+chat_system_1057017470_snap_3_answer_0	end quest dialog
+chat_system_1057017470_snap_3_question	end quest text
+chat_system_1057017470_snap_4_answer_0	begin quest dialog
+chat_system_1057017470_snap_4_question	Hello man!
+chat_system_1057017470_snap_5_answer_0	(away)
+chat_system_1057017470_snap_5_question	We can't hunt with these feathery predators constantly interfering.
+chat_system_1057017470_snap_6_answer_0	end quest dialog
+chat_system_1057017470_snap_6_question	end quest text
+chat_system_1057017470_snap_7_answer_0	begin quest dialog
+chat_system_1057017470_snap_7_question	Hello man!
+chat_system_1057017470_snap_8_answer_0	(away)
+chat_system_1057017470_snap_8_question	Just make sure the skins are intact; don't damage them too much.
+chat_system_1057017470_snap_9_answer_0	end quest dialog
+chat_system_1057017470_snap_9_question	end quest text
+
+
+

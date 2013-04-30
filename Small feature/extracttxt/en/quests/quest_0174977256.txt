@@ -1,0 +1,8 @@
+﻿quest_system_174977256_desc	You may think that griffins are rather peaceful creatures. But the Red-Maned Pack recently made such a mess around here that we’re still trying to recover. Imagine a whole shebang of these creatures flying toward you. Our archers fended off the attack, but if they return at night, things may not go so well. We need somebody agile enough to seek them out and destroy them.
+quest_system_174977256_done	Blessed be the creators. Without you we wouldn’t have survived their next attack... and I could have kissed my career goodbye!
+quest_system_174977256_name	Brutal Pack
+quest_system_174977256_stage_0	Rout
+quest_system_174977256_task	Destroy {counter_limit_0} Red-Maned Pack.
+
+
+

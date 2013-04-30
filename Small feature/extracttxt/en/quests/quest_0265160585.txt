@@ -1,0 +1,8 @@
+﻿quest_system_265160585_desc	Hmm. It would seem that you are ready for a longer and more strenuous test. There are several legions with different levels of influence and fame. Knights that have just recently graduated from the Academy are generally assigned to the Copper Legion. In order to be transferred to a higher-ranking legion, you must prove yourself in a series of knight duels. The judges will then be able to assign you to a more elite group of warriors. Here is your assignment: you must win a series of battles to earn your way into a higher-ranking legion. Now be on your way.
+quest_system_265160585_done	Excellent! I knew you could do it! The teachers at the Academy have done a fine job training such a talented and wily novice.
+quest_system_265160585_name	Exalted Legionnaire
+quest_system_265160585_stage_0	Become famous through Duels
+quest_system_265160585_task	Win {counter_limit_0} Duels
+
+
+

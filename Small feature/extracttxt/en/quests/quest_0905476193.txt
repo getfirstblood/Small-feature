@@ -1,0 +1,8 @@
+﻿quest_system_905476193_desc	I see you are eager to show your best. That’s an admirable ambition. Just outside, there’s a horde of brigands waiting for you. They probably want to steal your money... and your officer’s papers. It’s time to teach them a lesson in manners, and show them what a soldier of the Knights’ Academy is worth! Go ahead. I’ll be watching.
+quest_system_905476193_done	How’d you make out? No injuries? Great. Looks like your training has paid off. You’ll do well in the king’s service.
+quest_system_905476193_name	A Warm Reception
+quest_system_905476193_stage_0	Rout
+quest_system_905476193_task	Deal with {counter_limit_0} Robber Crowds
+
+
+

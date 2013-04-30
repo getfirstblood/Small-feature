@@ -1,0 +1,8 @@
+﻿quest_system_375914050_desc	Dire news. According to the manifesto, the cultists hunt for all sorts of ancient relics and artifacts. Should a truly powerful artifact fall into their hands, I fear it might take an army to hold them back. Yet we can take some countermeasures. Go to Abbot Lawrence and ask him for the key to the magic gates of the order's sanctuary where the ancient relics are kept. We shall conceal the most valuable artifacts elsewhere and will then be able to apprehend the cultists, using the relics as bait. 
+quest_system_375914050_done	St. Rusith! We have guests. Come on in, make yourselves at home. 
+quest_system_375914050_name	Key to the Relics
+quest_system_375914050_stage_0	Lawrence
+quest_system_375914050_task	Get the Key from the abbot of Ruined Temple.
+
+
+

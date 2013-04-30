@@ -1,0 +1,8 @@
+﻿quest_system_463812254_desc	The Port of the Order is not a pleasant place. As long as I can remember, all sorts of scum used to hang out around there, but our little village managed to stay unaffected unaffected. Until the Exile Gang showed up in the neighborhood, that is. Looks like the local bandits didn’t give them the welcome they expected, so they took to robbing the likes of us. A few more raids, and we won’t have enough food for the winter. If only someone would protect us . . .
+quest_system_463812254_done	Thank you for your help. Who knows what these exiles may have done the next time. Our men can sway their pitchforks, but they are no match for seasoned murderers.
+quest_system_463812254_name	Exiles from a Far Country
+quest_system_463812254_stage_0	Rout
+quest_system_463812254_task	Destroy {counter_limit_0} Gangs of Exiles. 
+
+
+

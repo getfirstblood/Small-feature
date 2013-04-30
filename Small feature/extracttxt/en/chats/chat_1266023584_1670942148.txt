@@ -1,0 +1,37 @@
+﻿chat_system_1670942148_actor_description	Master Gram Experienced instructor of young officers
+chat_system_1670942148_snap_0_answer_0	A Battle of Knights
+chat_system_1670942148_snap_0_answer_1	A Battle of Knights
+chat_system_1670942148_snap_0_answer_2	Military Fame
+chat_system_1670942148_snap_0_answer_3	Military Fame
+chat_system_1670942148_snap_0_answer_4	Renowned Legionary
+chat_system_1670942148_snap_0_answer_5	Renowned Legionary
+chat_system_1670942148_snap_0_answer_6	Hazardous Ingredients
+chat_system_1670942148_snap_0_answer_7	Hazardous Ingredients
+chat_system_1670942148_snap_0_question	Who's there? Another one recruit of Academy of Knights? Well then. Come here and listen, what old Gram gonna tell you...
+chat_system_1670942148_snap_1_answer_0	begin quest dialog
+chat_system_1670942148_snap_1_question	Hello man!
+chat_system_1670942148_snap_10_answer_0	begin quest dialog
+chat_system_1670942148_snap_10_question	Hello man!
+chat_system_1670942148_snap_11_answer_0	(away)
+chat_system_1670942148_snap_11_question	Be careful with those thorns – they can shoot poisoned roots around them if they sense danger.
+chat_system_1670942148_snap_12_answer_0	end quest dialog
+chat_system_1670942148_snap_12_question	end quest text
+chat_system_1670942148_snap_2_answer_0	(away)
+chat_system_1670942148_snap_2_question	You can find rivals at the same place where you usually meet armies for battle. In the next tab, if you know what I mean.
+chat_system_1670942148_snap_3_answer_0	end quest dialog
+chat_system_1670942148_snap_3_question	end quest text
+chat_system_1670942148_snap_4_answer_0	begin quest dialog
+chat_system_1670942148_snap_4_question	Hello man!
+chat_system_1670942148_snap_5_answer_0	(away)
+chat_system_1670942148_snap_5_question	Well? Have you managed to earn the adoration of the crowd and the hearts of young ladies with your military exploits yet?
+chat_system_1670942148_snap_6_answer_0	end quest dialog
+chat_system_1670942148_snap_6_question	end quest text
+chat_system_1670942148_snap_7_answer_0	begin quest dialog
+chat_system_1670942148_snap_7_question	Hello man!
+chat_system_1670942148_snap_8_answer_0	(away)
+chat_system_1670942148_snap_8_question	Well, how did it go? I have high hopes for you. Make it worth my while.
+chat_system_1670942148_snap_9_answer_0	end quest dialog
+chat_system_1670942148_snap_9_question	end quest text
+
+
+

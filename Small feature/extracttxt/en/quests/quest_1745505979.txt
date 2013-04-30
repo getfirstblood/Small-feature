@@ -1,0 +1,8 @@
+﻿quest_system_1745505979_desc	So, you’re the guy who got me out? Thanks... you didn’t have to, though. In a couple of days they’d start missing me in Kronberg, and this old crook of a ranger would’ve been in trouble. So, the Commander sent you? Maybe it’s for the better, then. The situation? Same as usual. Who comes into this neck of the woods? Just beasts around here. It’s clear all the way to Bear Forest. Go there and find Tender, the forest ranger, at the crossroads. He knows all there is to know about that area.
+quest_system_1745505979_done	Giango sent you? I thought he got lost somewhere! Ah, so you found him, great... The situation? What situation? Even I sometimes spend hours getting to the camp through the thicket. But... Well, it seems we have a problem here.
+quest_system_1745505979_name	Bear Land
+quest_system_1745505979_stage_0	Speak
+quest_system_1745505979_task	Find Tender the Forest Ranger in Bear Forest and discuss the road situation.
+
+
+

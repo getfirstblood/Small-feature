@@ -1,0 +1,55 @@
+﻿chat_system_488722505_actor_description	Helvasink the Keeper. A stranger with a murky past.
+chat_system_488722505_snap_0_answer_0	Graveyard Visit
+chat_system_488722505_snap_0_answer_1	Through the Web
+chat_system_488722505_snap_0_answer_10	Refreshed and Ready for New Battles
+chat_system_488722505_snap_0_answer_11	At the Other End of the Spider Threads
+chat_system_488722505_snap_0_answer_12	At the Other End of the Spider Threads
+chat_system_488722505_snap_0_answer_13	The Commander’s Scouts
+chat_system_488722505_snap_0_answer_2	Through the Web
+chat_system_488722505_snap_0_answer_3	Spider Queen
+chat_system_488722505_snap_0_answer_4	Spider Queen
+chat_system_488722505_snap_0_answer_5	Further North
+chat_system_488722505_snap_0_answer_6	The Path across the Graveyard
+chat_system_488722505_snap_0_answer_7	There Is a Whole Swarm of Crossbellies
+chat_system_488722505_snap_0_answer_8	There Is a Whole Swarm of Crossbellies
+chat_system_488722505_snap_0_answer_9	Reinforcements
+chat_system_488722505_snap_0_question	There’s something strange about the behavior of the local forest spiders... Are they suffering from a pestilence of some kind?
+chat_system_488722505_snap_1_answer_0	end quest dialog
+chat_system_488722505_snap_1_question	Hello man!
+chat_system_488722505_snap_10_answer_0	begin quest dialog
+chat_system_488722505_snap_10_question	Hello man!
+chat_system_488722505_snap_11_answer_0	(away)
+chat_system_488722505_snap_11_question	There’s something strange about this spider invasion... As if someone is controlling them.
+chat_system_488722505_snap_12_answer_0	end quest dialog
+chat_system_488722505_snap_12_question	end quest text
+chat_system_488722505_snap_13_answer_0	begin quest dialog
+chat_system_488722505_snap_13_question	Hello man!
+chat_system_488722505_snap_14_answer_0	end quest dialog
+chat_system_488722505_snap_14_question	Hello man!
+chat_system_488722505_snap_15_answer_0	begin quest dialog
+chat_system_488722505_snap_15_question	Hello man!
+chat_system_488722505_snap_16_answer_0	(away)
+chat_system_488722505_snap_16_question	It’s a fact that the Furry Spider Queen brought all of the spiders here. The question is why. They would have much better results foraging in the forest.
+chat_system_488722505_snap_17_answer_0	end quest dialog
+chat_system_488722505_snap_17_question	end quest text
+chat_system_488722505_snap_18_answer_0	begin quest dialog
+chat_system_488722505_snap_18_question	Hello man!
+chat_system_488722505_snap_2_answer_0	begin quest dialog
+chat_system_488722505_snap_2_question	Hello man!
+chat_system_488722505_snap_3_answer_0	(away)
+chat_system_488722505_snap_3_question	There’s something strange about this spider invasion... As if someone is controlling them.
+chat_system_488722505_snap_4_answer_0	end quest dialog
+chat_system_488722505_snap_4_question	end quest text
+chat_system_488722505_snap_5_answer_0	begin quest dialog
+chat_system_488722505_snap_5_question	Hello man!
+chat_system_488722505_snap_6_answer_0	(away)
+chat_system_488722505_snap_6_question	It’s a fact that the Furry Spider Queen brought all of the spiders here. The question is why. They would have much better results foraging in the forest.
+chat_system_488722505_snap_7_answer_0	end quest dialog
+chat_system_488722505_snap_7_question	end quest text
+chat_system_488722505_snap_8_answer_0	begin quest dialog
+chat_system_488722505_snap_8_question	Hello man!
+chat_system_488722505_snap_9_answer_0	end quest dialog
+chat_system_488722505_snap_9_question	Hello man!
+
+
+

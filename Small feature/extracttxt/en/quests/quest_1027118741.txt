@@ -1,0 +1,8 @@
+﻿quest_system_1027118741_desc	Packs of Feral Beasts roam the adjacent swamps. I wouldn’t give a damn about them but for their way of bothering the gnat nests, and you can’t escape disturbed gnats. Why don’t you deal with the beasts? Maybe it will quiet the gnats down.
+quest_system_1027118741_done	So why did you kill all the beasts? At my request? To get rid of the gnats? That’s quite a story! On the other hand... maybe I did ask for it... I say, next time I’ll put less numb-weed in my tea, if that’s what it did to me... Well, since I promised it, here’s your prize.
+quest_system_1027118741_name	Gnats
+quest_system_1027118741_stage_0	Rout
+quest_system_1027118741_task	Destroy {counter_limit_0} packs of Feral Beasts. 
+
+
+

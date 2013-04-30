@@ -1,0 +1,8 @@
+﻿quest_system_768128394_desc	Here we used to have the Temple of the Light, but now, as you can see, we’re left with rubble. I plan to restore it with a small number of my brethren. But for a strong spell one needs a powerful source of energy. Human souls are the best of such sources. I’ll cast a spell over you, and every man you kill will be part of the new great Temple! You can start with the guardsmen that roam these lands. What? Do you consider this unworthy of the Followers of Light? Well... first, consider how much good we can do by restoring our temple. What are a dozen lives in comparison with prosperity for thousands? Secondly, the souls of these mercenaries are so deeply sunk in sin that you may see it as an act of mercy and purification. You’ll actually be helping them. So, do you agree?
+quest_system_768128394_done	Nicely done. I believe those unfortunate souls are much better off now, providing energy for our temple.
+quest_system_768128394_name	Purification of Souls
+quest_system_768128394_stage_0	Hunt
+quest_system_768128394_task	Destroy {counter_limit_0} Swordsmen. 
+
+
+

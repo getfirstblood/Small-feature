@@ -1,0 +1,20 @@
+﻿chat_tab_0	Chat
+chat_tab_1	Battle
+chat_tab_2	Guild
+chat_tab_3	Party
+chat_tab_4	Private
+chat_tab_5	Events
+chat_tab_6	All
+chat_tab_tool_tip0	Global Channel. Displays all chat messages from everyone in the game.
+chat_tab_tool_tip1	Battle Channel. Displays all unit actions from the battlefield.
+chat_tab_tool_tip2	Guild
+chat_tab_tool_tip3	Party
+chat_tab_tool_tip4	Private
+chat_tab_tool_tip5	Displays all events in the game.
+chat_tab_tool_tip6	All
+pchat_CantConnectToPlayer	The player is offline now.
+pchat_CantCreateRoom	Cannot create private chat room.
+pchat_InteranalError	Internal server error.
+pchat_SesionClosed	Session closed
+
+

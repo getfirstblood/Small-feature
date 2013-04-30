@@ -1,0 +1,8 @@
+﻿quest_system_505161695_desc	The spiders have been coming out of the forest for the second day in a row. Their lair is somewhere in there, but never before have they left it. At least not in such numbers. I have a hunch that something has incited them to flood in like this. When the troops come, they’ll have to fight their way through, and inevitably they’ll suffer some losses. I have some spider venom antidote, but not enough for such a large party. But for you and your warriors I’ll get a few flasks from my old supply. Destroy some Fiery Spiders and some Cave Spiders. It may scare the rest away.
+quest_system_505161695_done	Yes. Now there are less of them around. Don’t know for how long, though. We need to figure out why they are attacking.
+quest_system_505161695_name	There Is a Whole Swarm of Crossbellies
+quest_system_505161695_stage_0	Hunt
+quest_system_505161695_task	Destroy {counter_limit_0} Cave Spiders, and {counter_limit_1} Fiery Spiders<br>
+
+
+

@@ -1,0 +1,13 @@
+﻿chat_system_527064830_actor_description	Leader of the King’s Guard. The leader of the guard. He trusts the security of the city to no one else.
+chat_system_527064830_snap_0_answer_0	Patrol
+chat_system_527064830_snap_0_answer_1	Patrol
+chat_system_527064830_snap_0_question	Always be on the lookout - you never know what sorts of shadows will try to slip right under your nose and end up behind you!
+chat_system_527064830_snap_1_answer_0	begin quest dialog
+chat_system_527064830_snap_1_question	Hello man!
+chat_system_527064830_snap_2_answer_0	(away)
+chat_system_527064830_snap_2_question	As long as you’re around, the bandits are on alert! Head for the road immediately!
+chat_system_527064830_snap_3_answer_0	end quest dialog
+chat_system_527064830_snap_3_question	end quest text
+
+
+

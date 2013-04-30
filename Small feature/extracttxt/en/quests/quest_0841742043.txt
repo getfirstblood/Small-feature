@@ -1,0 +1,8 @@
+﻿quest_system_841742043_desc	I’ll be frank; this is no place for the army to walk around peacefully. There’s a bandit or a thug waiting around every corner. And now the Scarlet Sash Pirates from the North are adding to our misery. They used to come only at night, but now they invade in broad daylight. But their gangs are not very large, so you’ll manage. Otherwise the Commander will have both our heads for failing to assure safe passage for the guardsmen along this road.
+quest_system_841742043_done	What?! Just a few weaklings? Well, maybe there are just a few of them for the moment, but sometimes, when it gets dark, the entire neighbourhood is crawling with them. You did a great thing. Your actions helped the army and protected us from harm.<br>
+quest_system_841742043_name	Scarlet Sash Gang
+quest_system_841742043_stage_0	Hunt
+quest_system_841742043_task	Kill {counter_limit_0} Pirates
+
+
+

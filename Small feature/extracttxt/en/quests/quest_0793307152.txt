@@ -1,0 +1,8 @@
+﻿quest_system_793307152_desc	That’s strange... I expected scrolls, or at least a book. But this is some sort of stone tablet. I don’t recognize the inscriptions... And there isn’t much text, anyway. Can this really be the secret ritual needed to awaken the ancient powers? I’m afraid I’m not skilled enough to decipher these symbols. You’d better bring this to the Archmage.
+quest_system_793307152_done	There was an attack on the Tiltyard? Hmm... well, it seems that they were trying to obtain this tablet.
+quest_system_793307152_name	The Mystery Darkens
+quest_system_793307152_stage_0	Speak
+quest_system_793307152_task	Bring the stone tablet to Survus the Archmage in Kronberg
+
+
+

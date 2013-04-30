@@ -1,0 +1,17 @@
+﻿chat_system_1259728078_actor_description	Academy Secretary The registrar for all those entering the King's service
+chat_system_1259728078_snap_0_answer_0	Record of Arrival
+chat_system_1259728078_snap_0_answer_1	Assignment
+chat_system_1259728078_snap_0_answer_2	To the Garrison of the Order
+chat_system_1259728078_snap_0_answer_3	New Appointment
+chat_system_1259728078_snap_0_question	Office hours on Mondays, Wednesdays, and Fridays. Available by appointment only on Saturday, from morning till noon. If you would like to schedule a visit, please fill out the form. Do you know how to write?
+chat_system_1259728078_snap_1_answer_0	end quest dialog
+chat_system_1259728078_snap_1_question	Hello man!
+chat_system_1259728078_snap_2_answer_0	begin quest dialog
+chat_system_1259728078_snap_2_question	Hello man!
+chat_system_1259728078_snap_3_answer_0	end quest dialog
+chat_system_1259728078_snap_3_question	Hello man!
+chat_system_1259728078_snap_4_answer_0	begin quest dialog
+chat_system_1259728078_snap_4_question	Hello man!
+
+
+

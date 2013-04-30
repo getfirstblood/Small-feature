@@ -1,0 +1,11 @@
+﻿SRW_Caption	[FormTitleText][FormTitleColor][SRW_CaptionText]
+SRW_CaptionText	Reward for subscription
+SRW_GiftTextTemplate	<align=center><valign=top><color=491B0B><font=tahoma_bold_8>
+SRW_Message	<font=tahoma_bold_8><color=491B0B>[SRW_MessageText]
+SRW_MessageText	You have brought glory to the Knight Legions. For this, the King rewards you generously with 
+SRW_MsgExp	[SRW_GiftTextTemplate][?] experience points
+SRW_MsgGold	[SRW_GiftTextTemplate][?] Gold Coins
+SRW_MsgItem	[SRW_GiftTextTemplate][$]
+
+
+

@@ -1,0 +1,21 @@
+﻿chat_system_89632167_actor_description	Phil Dougherty. A perfect representative of the people's militia.
+chat_system_89632167_snap_0_answer_0	Royal Decree
+chat_system_89632167_snap_0_answer_1	Royal Decree
+chat_system_89632167_snap_0_answer_2	The Witch’s Gift
+chat_system_89632167_snap_0_answer_3	The Witch’s Gift
+chat_system_89632167_snap_0_question	This place is rotten. You have to keep your guard up all the time. You don’t want to let the zombies get too close.
+chat_system_89632167_snap_1_answer_0	begin quest dialog
+chat_system_89632167_snap_1_question	Hello man!
+chat_system_89632167_snap_2_answer_0	(away)
+chat_system_89632167_snap_2_question	Hmm. If his majesty the King decides that common folks have to grow wings, what shall we do?
+chat_system_89632167_snap_3_answer_0	end quest dialog
+chat_system_89632167_snap_3_question	end quest text
+chat_system_89632167_snap_4_answer_0	begin quest dialog
+chat_system_89632167_snap_4_question	Hello man!
+chat_system_89632167_snap_5_answer_0	(away)
+chat_system_89632167_snap_5_question	Dead travelers... Why couldn’t they just stay home?
+chat_system_89632167_snap_6_answer_0	end quest dialog
+chat_system_89632167_snap_6_question	end quest text
+
+
+

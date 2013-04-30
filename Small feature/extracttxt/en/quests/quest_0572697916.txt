@@ -1,0 +1,8 @@
+﻿quest_system_572697916_desc	Spider queens devour their mates after laying their eggs. The other day, I tracked down one of them not far from here... a huge, Furry Spider Queen. It looks like she was the one that brought the pack here, and gathered spiders from all across the forest. But why? That, I don't know. Either way, we don't have time to figure that out right now. We need to act immediately.
+quest_system_572697916_done	I knew it! Don't you see? That eye-catching trinket around the Spider Queen's neck. Trappers of the northern islands use those to control Krogh packs when they go hunting. Somebody brave hung it on the Spider Queen's neck and directed her here. Probably to block the road.
+quest_system_572697916_name	At the Other End of the Spider Threads
+quest_system_572697916_stage_0	Spider Queen
+quest_system_572697916_task	Smash the Furry Spider Queen and her brood
+
+
+

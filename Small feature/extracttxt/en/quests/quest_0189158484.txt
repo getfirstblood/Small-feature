@@ -1,0 +1,8 @@
+﻿quest_system_189158484_desc	You are doing great! Your promotion order has already been signed. But you will have to prove to me that you are worthy of it. I need a trustworthy and qualified troubleshooter. Just like you. Head immediately to Karakol Port, find the Quartermaster, and find out what's delaying the reinforcements that were supposed to be here two days ago. I can even give you some leeway in . . . Well, actually, that can wait. Here's my dispatch to the Quartermaster. Off you go!
+quest_system_189158484_done	Ah, the Commander has sent you? Please forgive me. I haven’t slept for two nights. Somebody cast a spell over the shoreline, and it seems I’m unable to break it. I can’t even imagine how long it will take.
+quest_system_189158484_name	Delayed Reinforcements
+quest_system_189158484_stage_0	Speak
+quest_system_189158484_task	Investigate the delay in reinforcement arrival in Karakol Port
+
+
+

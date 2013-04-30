@@ -1,0 +1,27 @@
+﻿chat_system_922651174_actor_description	Baron Hussaro. A baron with an idiosyncratic sense of humor and a passion for duels.
+chat_system_922651174_snap_0_answer_0	The Commander’s Scouts
+chat_system_922651174_snap_0_answer_1	Ruined Plans
+chat_system_922651174_snap_0_answer_2	Ruined Plans
+chat_system_922651174_snap_0_answer_3	Satisfaction
+chat_system_922651174_snap_0_answer_4	Satisfaction
+chat_system_922651174_snap_0_answer_5	Free at Last
+chat_system_922651174_snap_0_question	Amazing things have been happening lately: first a novice at the Academy of Knights, and now the Commander's confidant. What was your service, may I ask?
+chat_system_922651174_snap_1_answer_0	begin quest dialog
+chat_system_922651174_snap_1_question	Hello man!
+chat_system_922651174_snap_2_answer_0	begin quest dialog
+chat_system_922651174_snap_2_question	Hello man!
+chat_system_922651174_snap_3_answer_0	(away)
+chat_system_922651174_snap_3_question	For some reason, I can’t see any furs or hides in my warehouses. Looks like the scouts will have to spend the next two years in prison. Unless you hurry up, of course.
+chat_system_922651174_snap_4_answer_0	end quest dialog
+chat_system_922651174_snap_4_question	end quest text
+chat_system_922651174_snap_5_answer_0	begin quest dialog
+chat_system_922651174_snap_5_question	Hello man!
+chat_system_922651174_snap_6_answer_0	(away)
+chat_system_922651174_snap_6_question	Nothing like a good old duel to make you see what you are really worth. Do you get it?
+chat_system_922651174_snap_7_answer_0	end quest dialog
+chat_system_922651174_snap_7_question	end quest text
+chat_system_922651174_snap_8_answer_0	end quest dialog
+chat_system_922651174_snap_8_question	Hello man!
+
+
+

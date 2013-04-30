@@ -1,0 +1,8 @@
+﻿quest_system_1167925959_desc	Hey you, over there! If you want to earn a few coins, you might want to work for me! I have beehives all over this forest. It’s a profitable business. The only problem is the bears; they just ruined a good half of my beehives. Could you deal with the bears promptly?
+quest_system_1167925959_done	Here you go! Well, you took your sweet time with this business; I’ve seen better warriors. But you earned your money. Here; I don’t care for anything but my bees!
+quest_system_1167925959_name	Anything but the Bees
+quest_system_1167925959_stage_0	Hunt
+quest_system_1167925959_task	Destroy {counter_limit_0} Possessed Bears. 
+
+
+

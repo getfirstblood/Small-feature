@@ -1,0 +1,20 @@
+﻿MGCT_Center	<align=center><valign=center>
+MGCT_ContentQuestionFree	[MGCT_T2][MGCT_Center] This Game Center account does not have any progress yet.<br>Do you want to transfer your progress from the guest account to Game Center?
+MGCT_ContentQuestionSelect	[MGCT_T2][MGCT_Center] This Game Center account already has some progress in the game. <br>Please choose which account do you want to use in the game:
+MGCT_ContentWarningFree	[MGCT_T2][MGCT_Center] Warning: after you move to Game Center, guest account data will be deleted.
+MGCT_ContentWarningSelect	[MGCT_T2][MGCT_Center] Warning: after you move to Game Center, local account data will be deleted.
+MGCT_LeftButtonFree	[MGCT_T3][MGCT_Center] Yes, transfer my progress to Game Center
+MGCT_LeftButtonSelect	[MGCT_T3][MGCT_Center] [?] <br>level: [?]
+MGCT_LeftButtonTitle	[MGCT_T3][MGCT_Center] Game Center account
+MGCT_RightButtonFree	[MGCT_T3][MGCT_Center] No, I want to restart the game 
+MGCT_RightButtonSelect	[MGCT_T3][MGCT_Center] Player [?] <br>level: [?]
+MGCT_RightButtonTitle	[MGCT_T3][MGCT_Center] Local account
+MGCT_T0	<font=tahoma_bold_12><color=FFFFFF>
+MGCT_T1	<font=tahoma_bold_11_border_smooth><color=FEE789>
+MGCT_T2	<font=tahoma_bold_11_border_smooth><color=FFFFFF>
+MGCT_T3	<font=tahoma_bold_10_border_smooth><color=FEE789>
+MGCT_T4	<font=tahoma_bold_10_border_smooth><color=FFFFFF>
+MGCT_Title	[MGCT_T0][MGCT_Center] You have logged in as [?]
+
+
+

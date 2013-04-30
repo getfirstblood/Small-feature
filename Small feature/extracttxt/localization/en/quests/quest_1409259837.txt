@@ -1,0 +1,8 @@
+﻿quest_system_1409259837_desc	I have been hearing reports from my men that there has been a suspiciously large number of people hiding their faces beneath hoods in town lately. It's around the taverns that you come across them most often. One of the locals said he saw them pick up a drunken sailor and carry him off somewhere, and no one's seen the sailor since. Recently a few fine soldiers went missing from my barracks as well - they've certainly never turned down a drink. My subordinates are all good lads, but if I put them on the case, they'll only make a load of noise. So I ask you, Knight of the Academy, to help me, in whatever way you can, to resolve this situation.
+quest_system_1409259837_done	Excellent. I see you have carried out the task before you most honorably. In the meantime, the guards have found one of the kidnapped sailors on the outskirts of town. He kept raving about a dark cult and a blood oath. It seems those hooded folks are recruiting the locals in an attempt to form a fighting force. And they weren't doing badly, until you tripped them up. Thank you.
+quest_system_1409259837_name	The Hooded Conspirators
+quest_system_1409259837_stage_0	Rout
+quest_system_1409259837_task	Defeat {counter_limit_0} Black Hood armies 
+
+
+

@@ -1,0 +1,8 @@
+﻿chat_system_1269304159_actor_description	Scout Giango Experienced Ranger
+chat_system_1269304159_snap_0_answer_0	Bear Land
+chat_system_1269304159_snap_0_question	Hello man!
+chat_system_1269304159_snap_1_answer_0	begin quest dialog
+chat_system_1269304159_snap_1_question	Hello man!
+
+
+

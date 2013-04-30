@@ -1,0 +1,8 @@
+﻿quest_system_816428362_desc	As I’ve said before, by putting their powers together, the Transformed Ones can cast incredibly strong spells. This is one of them. I’m not strong enough to defeat it. Go to Kronberg. Yes, to Kronberg, straight to the Archmage! Don’t waste time with Master Talon. He’s already ruined everything he could. Only the Archmage can break this shield. If he’s busy, at least tell his secretary, Pills.
+quest_system_816428362_done	The Archmage is away. Don’t start. I know who you are, and how important your business is. But he’s not here. The Archmage headed off this morning to an unknown destination, which has left us all wondering. Perhaps I can be of assistance? Yes, I’m a secretary. But I have a master’s degree in Astral Magic! So, how about it?
+quest_system_816428362_name	Protective Dome
+quest_system_816428362_stage_0	Speak with Pills
+quest_system_816428362_task	Tell Survus the Archmage about the protective dome over the Ancient Temple and ask for his help. If the Archmage is out, you can talk with Pills the Secretary.
+
+
+

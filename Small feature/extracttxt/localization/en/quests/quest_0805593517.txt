@@ -1,0 +1,8 @@
+﻿quest_system_805593517_desc	From the moment you made your presence known in the area, there haven’t been many pirates around here. I’ve sent out a few village boys to run around and check things out. Everything seems to be nice and quiet. You can carry on pushing north. There’s an abandoned village and a graveyard there. I’m pretty sure something is going on there. It's been two days now since we last saw carts coming from that direction. And those who have tried heading that way return with terrifying stories of huge spiders. No one knows if they’re true or not. Head there and find Helvasink, the graveyard keeper. He should know more.
+quest_system_805593517_done	Yes, Helvasink is my name. Ah, so you people finally remembered me. What took you so long?
+quest_system_805593517_name	The Path across the Graveyard
+quest_system_805593517_stage_0	Helvasink
+quest_system_805593517_task	Find and speak with the keeper of the Forsaken Village
+
+
+

@@ -1,0 +1,28 @@
+﻿chat_system_1582970850_actor_description	Engineer Meshmer Give him a screw and he’ll transform it into a nail, making a profit for himself!
+chat_system_1582970850_snap_0_answer_0	Ancient Poisoned Seal
+chat_system_1582970850_snap_0_answer_1	When Science Fails
+chat_system_1582970850_snap_0_answer_2	The Rebirth of Science
+chat_system_1582970850_snap_0_answer_3	The Ghosts of the Dark Manuscripts
+chat_system_1582970850_snap_0_answer_4	The Ghosts of the Dark Manuscripts
+chat_system_1582970850_snap_0_answer_5	All Seals are Removed
+chat_system_1582970850_snap_0_answer_6	Fresh Clues
+chat_system_1582970850_snap_0_question	Yes, it's open! Please come in and be seated. Would you like anything? Shall I show some prototypes, or have you settled on anything in particular?
+chat_system_1582970850_snap_1_answer_0	end quest dialog
+chat_system_1582970850_snap_1_question	Hello man!
+chat_system_1582970850_snap_2_answer_0	begin quest dialog
+chat_system_1582970850_snap_2_question	Hello man!
+chat_system_1582970850_snap_3_answer_0	end quest dialog
+chat_system_1582970850_snap_3_question	Hello man!
+chat_system_1582970850_snap_4_answer_0	begin quest dialog
+chat_system_1582970850_snap_4_question	Hello man!
+chat_system_1582970850_snap_5_answer_0	(away)
+chat_system_1582970850_snap_5_question	I swear in the name of thermodynamics!
+chat_system_1582970850_snap_6_answer_0	end quest dialog
+chat_system_1582970850_snap_6_question	end quest text
+chat_system_1582970850_snap_7_answer_0	begin quest dialog
+chat_system_1582970850_snap_7_question	Hello man!
+chat_system_1582970850_snap_8_answer_0	begin quest dialog
+chat_system_1582970850_snap_8_question	Hello man!
+
+
+

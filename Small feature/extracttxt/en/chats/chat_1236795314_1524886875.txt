@@ -1,0 +1,45 @@
+﻿chat_system_1524886875_actor_description	Lok Toyl Retired Superintendent of the Academy Tiltyard
+chat_system_1524886875_snap_0_answer_0	Magnet Stone
+chat_system_1524886875_snap_0_answer_1	Keys to the Archive
+chat_system_1524886875_snap_0_answer_10	Deadly Plants
+chat_system_1524886875_snap_0_answer_11	The Rebirth of Science
+chat_system_1524886875_snap_0_answer_2	Black Horn
+chat_system_1524886875_snap_0_answer_3	Black Horn
+chat_system_1524886875_snap_0_answer_4	The Second Part of the Key
+chat_system_1524886875_snap_0_answer_5	Hermit’s Amulet
+chat_system_1524886875_snap_0_answer_6	The Third Part of the Key
+chat_system_1524886875_snap_0_answer_7	To the Secrets of the Tiltyard
+chat_system_1524886875_snap_0_answer_8	When Science Fails
+chat_system_1524886875_snap_0_answer_9	Deadly Plants
+chat_system_1524886875_snap_0_question	Business... Always business. Always business...
+chat_system_1524886875_snap_1_answer_0	end quest dialog
+chat_system_1524886875_snap_1_question	Hello man!
+chat_system_1524886875_snap_10_answer_0	end quest dialog
+chat_system_1524886875_snap_10_question	Hello man!
+chat_system_1524886875_snap_11_answer_0	begin quest dialog
+chat_system_1524886875_snap_11_question	Hello man!
+chat_system_1524886875_snap_12_answer_0	(away)
+chat_system_1524886875_snap_12_question	What are you waiting for? What are you waiting for? Collect that pollen and let's get this over with!
+chat_system_1524886875_snap_13_answer_0	end quest dialog
+chat_system_1524886875_snap_13_question	end quest text
+chat_system_1524886875_snap_14_answer_0	begin quest dialog
+chat_system_1524886875_snap_14_question	Hello man!
+chat_system_1524886875_snap_2_answer_0	begin quest dialog
+chat_system_1524886875_snap_2_question	Hello man!
+chat_system_1524886875_snap_3_answer_0	(away)
+chat_system_1524886875_snap_3_question	The Black Horn is just the first part of the key. I’ll tell you later about the other two.
+chat_system_1524886875_snap_4_answer_0	end quest dialog
+chat_system_1524886875_snap_4_question	end quest text
+chat_system_1524886875_snap_5_answer_0	begin quest dialog
+chat_system_1524886875_snap_5_question	Hello man!
+chat_system_1524886875_snap_6_answer_0	end quest dialog
+chat_system_1524886875_snap_6_question	Hello man!
+chat_system_1524886875_snap_7_answer_0	begin quest dialog
+chat_system_1524886875_snap_7_question	Hello man!
+chat_system_1524886875_snap_8_answer_0	end quest dialog
+chat_system_1524886875_snap_8_question	Hello man!
+chat_system_1524886875_snap_9_answer_0	begin quest dialog
+chat_system_1524886875_snap_9_question	Hello man!
+
+
+

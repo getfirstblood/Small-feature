@@ -1,0 +1,8 @@
+﻿BoosterForm_ButtonText	<align=center><valign=center><font=tahoma_bold_11>[FormButtonColor]Summon
+BoosterForm_Caption	[FormTitleText][FormTitleColor][$]
+BoosterForm_CreatureName	<align=center><valign=center><font=tahoma_bold_10><color=753801>[$]
+BoosterForm_CreaturesCount	<align=center><valign=center><font=tahoma_bold_10_border_smooth_numbers_only>[FormButtonColor][?]
+BoosterForm_Text	<align=center><valign=center><font=tahoma_regular_8><color=4D7E9F>You can summon new units on this screen.
+
+
+

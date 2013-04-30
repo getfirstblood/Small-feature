@@ -1,0 +1,35 @@
+﻿LF_BtnHelpTextColor	<color=000000>
+LF_BtnTextColor	<color=FBFFC5>
+LF_Button_ActivateSN	<align=center><valign=center><font=tahoma_bold_10><color=000000>Link with FB
+LF_Button_EulaShow	<align=center><valign=center><font=tahoma_bold_10><color=000000>Agreement
+LF_Button_FacebookLoginCancel	Cancel
+LF_Button_LoginFB	<font=tahoma_regular_10>[LF_BtnTextColor]Authorize with <br><font=tahoma_bold_10><color=FFFFFF>Facebook
+LF_Button_LoginFB_JM	<font=tahoma_regular_10>[LF_BtnTextColor]Authorize with <font=tahoma_bold_10><color=FFFFFF>Facebook<br><font=tahoma_regular_10>[LF_BtnTextColor] and link accounts
+LF_Button_LogoutFB	<font=tahoma_bold_10><color=FF4040>Log out of <br><color=FFFFFF>Facebook
+LF_Button_LogoutFB_JM	<font=tahoma_bold_10>[LF_BtnTextColor]Unlink<br>account
+LF_Button_LogoutGuest	<font=tahoma_bold_10><color=FF4040>Log out off <br><color=FFFFFF>Guest Account
+LF_Button_StartGame	<font=tahoma_bold_12_border_smooth>[LF_BtnTextColor] Play
+LF_Button_StartGameFB	<image=textures/interface/common/icons/facebook>[LF_Button_StartGame]
+LF_Label_Copyright	<align=center><valign=center><font=tahoma_regular_10>King's Bounty: Legions (c) 2011-2013 Nival, Inc.<br>King's Bounty: Legions is a trademark of the LLC "1C".<br>All rights reserved.
+LF_Message_ErrorCheckSNID	<align=center><valign=center><font=tahoma_bold_10>[LF_BtnHelpTextColor]There was an error linking your accounts:<br><color=FF4040>[?]<br>[LF_BtnHelpTextColor]Please try again.
+LF_Message_FBWait	<align=center><valign=center><font=tahoma_bold_12>[LF_BtnTextColor]Please wait...
+LF_Message_Help_LoginFB	<align=center><valign=center><font=tahoma_bold_10>[LF_BtnHelpTextColor]Log in to the game through Facebook.<br>Then, you can play with your friends <br>by helping each other and exchanging gifts.
+LF_Message_Help_LoginFB_JM	<align=center><valign=center><font=tahoma_bold_10>[LF_BtnHelpTextColor]Log in with Facebook and link it to the current account.
+LF_Message_Help_LogoutFB	<align=center><valign=center><font=tahoma_bold_10>[LF_BtnHelpTextColor]Log out of Facebook.
+LF_Message_Help_LogoutFB_JM	<align=center><valign=center><font=tahoma_bold_10>[LF_BtnHelpTextColor]Cancel linking accounts and return to the log in screen.
+LF_Message_Help_PlayFB	<align=center><valign=center><font=tahoma_bold_10>[LF_BtnHelpTextColor]Continue in order to play with friends.
+LF_Message_Help_PlayGuest	<align=center><valign=center><font=tahoma_bold_10>[LF_BtnHelpTextColor]Play without social features. <br>Friends and sending and receiving gifts <br>will be unavailable.
+LF_Message_JointSuccess	<align=center><valign=center><font=tahoma_bold_10>[LF_BtnHelpTextColor]You have successfully switched to your Facebook account!<br>Now you need to log in with Facebook.<br>All of your data has been transferred there.
+LF_Message_NeedConnect	<align=center><valign=center><font=tahoma_bold_10>[LF_BtnTextColor]To start the game, you need to authorize with Facebook or use a guest account 
+LF_Message_NeedConnect_JM	<align=center><valign=center><font=tahoma_bold_10>[LF_BtnTextColor]To connect your account, you need to authorize
+LF_Message_UserInfo	<align=center><valign=center><font=tahoma_bold_10>[LF_BtnTextColor]Successfully connected as:<br><color=FFFFFF>[?]
+LF_Message_UserInfoSA	[LF_Message_UserInfo]<br=5><color=4669B4>using iOS account
+LF_Message_WaitCheckSNID	<align=center><valign=center><font=tahoma_bold_10>[LF_BtnHelpTextColor]Please wait.<br>The data is being checked.
+LF_Title_ErrorCheckSNID	<align=center><valign=center><font=tahoma_bold_12>[LF_BtnTextColor]Error
+LF_Title_FacebookLogin	Login to Facebook
+LF_Title_Help_	<align=center><valign=center><font=tahoma_bold_12>[LF_BtnTextColor]Button Action
+LF_Title_Joint	<align=center><valign=center><font=tahoma_bold_12>[LF_BtnTextColor]Congratulations
+LF_Title_WaitCheckSNID	<align=center><valign=center><font=tahoma_bold_12>[LF_BtnTextColor]Completing operation
+
+
+

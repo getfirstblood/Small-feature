@@ -1,0 +1,13 @@
+﻿chat_system_1135849042_actor_description	Colonel Bogard. The commander of the Eastern Fort. A very busy and serious fellow.
+chat_system_1135849042_snap_0_question	What’s with the appearance? Why aren’t you in uniform? Where are your insignia and badges?
+chat_system_1135849042_snap_0_answer_0	Divine Judgment
+chat_system_1135849042_snap_1_question	Hello man!
+chat_system_1135849042_snap_1_answer_0	begin quest dialog
+chat_system_1135849042_snap_0_answer_1	Divine Judgment
+chat_system_1135849042_snap_3_question	end quest text
+chat_system_1135849042_snap_3_answer_0	end quest dialog
+chat_system_1135849042_snap_2_question	So, did you find those cultists? They’re probably hiding, mumbling their chants in some ruins somewhere.
+chat_system_1135849042_snap_2_answer_0	(away)
+
+
+

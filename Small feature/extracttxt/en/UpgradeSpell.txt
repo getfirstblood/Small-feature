@@ -1,0 +1,58 @@
+﻿UPS_Dot_DmgAdd	damage per turn
+UPS_Dot_DmgMax	maximum basic damage
+UPS_Dot_DmgMin	minimum basic damage
+UPS_InfoDmgDotUpgr	[US_SpellColor_Gray]([?])</color>
+US_Header	[FormTitleText][FormTitleColor]Skill Upgrade
+US_LearnBtn	[FormButtonText_9]Upgrade
+US_SpellAccessLevel	(upgrade available starting at level [?])
+US_SpellColor_Gray	<color=808080>
+US_SpellColor_Green	<color=00FF00>
+US_SpellColor_Spec	<color=E7C570>
+US_SpellColor_White	<color=FFFFFF>
+US_SpellUpgradeCost	Price: <image=[$]><indent=2>[US_SpellColor_White][?]
+US_SpellUpgradeDescr	[US_SpellColor_White][?][US_SpellColor_Green][?] [US_SpellColor_Spec][?]
+US_SpellUpgradeLevel	Upgrade [?]
+US_Tooltip_Exit	Exit
+US_Tooltip_Learn	Allows you to upgrade your ability to use a Scroll (if you have enough money, and a high enough level).
+USDS_Tool_AlreadyComplete	[USDS_Tool_Font]Upgrade is completed.<br>[USDS_Tool_Separator_img]<br>{upgrspell_description}
+USDS_Tool_Curr_Available	[USDS_Tool_Font]Upgrade for {upgrspell_cost} [USDS_Tool_Money_img]<br>[USDS_Tool_Separator_img]<br>{upgrspell_description}
+USDS_Tool_Curr_NotAvailable	[USDS_Tool_Font]Required player level - <color=FF0000>{upgrspell_min_player_level}</color><br>Upgrade cost - {upgrspell_cost} [USDS_Tool_Money_img]<br>[USDS_Tool_Separator_img]<br>{upgrspell_description}
+USDS_Tool_Font	<font=tahoma_regular_10>
+USDS_Tool_Money_img	<image=textures/interface/common/icons/money_22x16>
+USDS_Tool_NotComplete	[USDS_Tool_Font]Complete the previous upgrade.<br>Upgrade cost - {upgrspell_cost} [USDS_Tool_Money_img]<br>[USDS_Tool_Separator_img]<br>{upgrspell_description}
+USDS_Tool_Separator_img	<image=textures/interface/upgradespell/separator_4x4 width=200 height=4>
+USP_Buf_Attack	attacks
+USP_Buf_Crit	chance of critical hit
+USP_Buf_Defence	defence
+USP_Buf_Duration	duration
+USP_Buf_ResistAlchemic	% to alchemical defence
+USP_Buf_ResistMagic	% to magical defence
+USP_Buf_ResistPhysic	% to physical defence
+USP_Chanse	rate of success
+USP_Control_DistanceMove	travel distance
+USP_Control_Duration	turn(s)
+USP_Cooldown	cooldown
+USP_Debuf_Attack	attacks
+USP_Debuf_Crit	chance of critical hit
+USP_Debuf_Defence	defence
+USP_Debuf_Duration	duration
+USP_Debuf_ResistAlchemic	alchemical defence
+USP_Debuf_ResistMagic	magical defence
+USP_Debuf_ResistPhysic	physical defence
+USP_Dmg	Damage
+USP_Dmg_DamageMax	maximum damage
+USP_Dmg_DamageMin	minimum damage
+USP_Dmg_MaxWithoutPenalty	range (without penalty)
+USP_Dot_DmgAdd	damage per turn
+USP_Dot_DmgMax	maximum damage
+USP_Dot_DmgMin	minimum damage
+USP_HateMod	hate modifier
+USP_Heal_Heal	health points
+USP_Hot_Heal	basic healing
+USP_Hot_HealAdd	healing per turn
+USP_MaxRange	maximum range
+USP_MinRange	minimum range
+USP_RadiusArea	radius
+
+
+

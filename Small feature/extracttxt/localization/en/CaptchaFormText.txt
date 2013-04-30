@@ -1,0 +1,5 @@
+﻿CaptchaFormBtnOk	<align=center><valign=center><font=tahoma_bold_12_border_smooth><color=FCE689>OK
+CaptchaFormTitle	<align=center><valign=center><font=tahoma_bold_12_border_smooth><color=FCE689>Please enter the captcha code<br>pictured here:
+
+
+

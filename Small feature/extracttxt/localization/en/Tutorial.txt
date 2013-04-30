@@ -1,0 +1,64 @@
+﻿TUT_Army_Close	Close the Army Management screen and prepare to receive your first quest!
+TUT_Army_Info	View the<br>enemy’s army
+TUT_Army_Rober	These are the Vagabonds who have joined your army. You can find them in your reserve. Select them. On the right, you’ll see detailed information about this unit’s combat characteristics.<br>Add Vagabonds to your squad. To do this, drag their portrait into an available cell.
+TUT_Army_Rober_Slot	Add Vagabonds to your squad. To do this, drag their portrait into an available cell.
+TUT_Army_Scout	This screen lets you see all of the necessary details: army status, number of opponents, and potential trophies. But the scouts have not returned. This time, we are attacking blindly.
+TUT_Batle_Attack	First, you must kill the most powerful enemy. Then, deal with his allies.
+TUT_Batle_Enemy	Strong Enemy
+TUT_Batle_Full	I will boost your strength: here are Legendary units, Archmages, from my personal reserves. They will fight on your side in this battle.
+TUT_Batle_Start	Wow! It turns out these guys are well prepared: they have a Legendary Paladin in their army.
+TUT_Broken_Arrow	If you see a broken arrow, this means that that target is too far away and the shot will not do as much damage. Move closer to get within aiming range.
+TUT_Done	In Progress
+TUT_End_Text	Reward for completing the tutorial
+TUT_End_Title	Tutorial is completed!
+TUT_Equip	Select an item and equip it by dragging the item's icon into the correct slot.
+TUT_Inventory	Open the Hero window to equip items
+TUT_InventoryTitle	Hero Window
+TUT_Map_Move	Click on the barracks building to travel to the Garrison of the Order.
+TUT_Map_Title	Traveling
+TUT_Quest_Army	Army Management
+TUT_Quest_Army_Start	Congratulations on your first win and first completed quest! The Vagabonds have come to join you. Add them to your squad.
+TUT_Quest_Complete	Click this button to take a quest.
+TUT_Quest_Pass	The sign next to the quest-giver's portrait has changed, which means the quest has been completed. Click on the picture to collect your reward!
+TUT_Quest_Pass_Title	Submitting quests
+TUT_Quest_Recieve	Click the button to accept your new quest. 
+TUT_Quest_Talk	Excellent! The enemy squad was defeated. You have defeated the enemy party, but let's see what Instructor Paincraft thinks of your progress. Click on his portrait.
+TUT_Quest_Title	Receiving a quest
+TUT_Quests	Keep accepting and completing characters’ quests to visit new settlements and recruit new troops into your army.
+TUT_Res	Resource Collection
+TUT_Res_Text	Excellent! You happened to find a valuable resource: a trophy. The most amazing things can be created using these trophies!
+TUT_Reserv	Unexpected Reinforcements
+TUT_Select_Army	Select Opponent
+TUT_skipTutorial	The tutorial was interrupted.<br>Would you like to continue?
+TUT_Spell	Combat Magic
+TUT_Spell_Apply	Click on the enemy unit to cast the spell.
+TUT_Spell_Info	The enemy continues to advance. Time to cast a battle spell. Click on the Spell Book button to open the side panel.
+TUT_Spell_Select	Select a battle spell Scroll by clicking on its icon.
+TUT_Start_Ability_Info	Most soldiers have special attacks. Go see what your Sea Wolves can do!
+TUT_Start_Atack_Ability	Choose Sea Wolves’ Feint ability.
+TUT_Start_Battle	The outcome is in your hands. Continue attacking and defeat the enemy army. I believe in you!
+TUT_Start_First	Greetings, young cadet!<br>You are right in time,<br>as a great battle is about to break out.<br>Can you see the enemy<br>soldiers on the right?<br>I am afraid I will not be able<br>to overpower them if they reach me.
+TUT_Start_First_Move	You have several units under your control, each with several squads. Click on a cell to move the highlighted unit.
+TUT_Start_Full_Screen	Switch to fullscreen mode to have a better view of the battlefield.
+TUT_Start_Heal	Click on soldiers to have the Pilgrims heal them.
+TUT_Start_Heal_Ability	Choose the Pilgrims’ Healing ability.
+TUT_Start_Heal_Info	Looks like the enemy has inflicted damage on your unit. But there are Pilgrims in your ranks who have the ability to heal the wounded!
+TUT_Start_Princes	On the left, you see your valiant warriors, and on the right, the enemies of the Kingdom. Put your battle experience to use and take the victory!
+TUT_Start_Ranged	Archers, Mages, and many Healers can attack enemies at a distance. Choose a target and shoot it!
+TUT_Start_Seting	Open the Settings menu.
+TUT_Start_Title	Training Session
+TUT_Start_Triple_Atack	Excellent! Now try to attack several enemies at once!
+TUT_Tablets_Press	Click this button to perform the selected action.
+TUT_Tour_End	Now I must leave, but one day we will meet again, and you will tell me of your adventures!
+TUT_Training	Training
+TUT_Understand	Understood
+TUT_War_Open	Aha! Your first serious opponent. Don't just stand there; attack him!
+TUT_War_Start	Click to start the battle.
+TUT_Win	First Victory
+TUT_Win_Text	Congratulations on winning your first bout! Now, I’ll be taking the Legendary units you were loaned. Later, you will command warriors like this, and even greater warriors, too.
+TUT_Workshop	Visit the Workshop to create an item
+TUT_WorkshopTitle	Workshop
+TUT_Yep	Exactly
+
+
+

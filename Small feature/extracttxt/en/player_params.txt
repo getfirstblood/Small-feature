@@ -1,0 +1,45 @@
+﻿player_param_0	Money
+player_param_1	Experience
+player_param_10	Charisma
+player_param_11	Gems
+player_param_12	Social Network
+player_param_12_0	Invite Friends
+player_param_13	Events
+player_param_13_0	Tutorial
+player_param_13_0_0	Creation: Traveller's Boots
+player_param_13_0_1	Equipping: Traveller's Boots
+player_param_13_0_2	Purchasing 1 Archer
+player_param_13_0_3	Healing in the Infirmary
+player_param_13_0_4	Purchasing 1 Scroll of Healing in this node's store
+player_param_13_0_5	Upgrading Peasants
+player_param_13_0_6	Upgrading Healing
+player_param_13_0_7	Sending a Gift
+player_param_13_0_8	Completing a patrol in the town.
+player_param_14	BattlePoints
+player_param_2	Level
+player_param_3	Reputation
+player_param_3_0	Order
+player_param_3_1	Three Islands Kingdom
+player_param_3_2	Free Jarls
+player_param_3_3	Surf Serpents
+player_param_3_4	Church of Phoenix
+player_param_3_5	Winged Talons Brotherhood
+player_param_4	Gold
+player_param_5	Stamina
+player_param_6	Leadership
+player_param_7	Currency
+player_param_7_0	Guilders of Order
+player_param_7_1	Currency of the Three Islands Kingdom
+player_param_7_2	Currency of the Free Jarls
+player_param_7_3	Currency of the Surf Serpents
+player_param_7_4	Currency of the Church of Phoenix
+player_param_7_5	Currency of the Winged Talons Brotherhood
+player_param_8	Friends
+player_param_9	PvP
+player_param_9_0	Wins
+player_param_9_1	Defeat
+player_param_9_2	Total battles
+player_param_9_3	Title
+
+
+

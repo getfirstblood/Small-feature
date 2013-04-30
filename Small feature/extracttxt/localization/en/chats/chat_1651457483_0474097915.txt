@@ -1,0 +1,21 @@
+﻿chat_system_474097915_actor_description	Old Witch An old, half-blind witch
+chat_system_474097915_snap_0_answer_0	Arachnomask
+chat_system_474097915_snap_0_answer_1	Arachnomask
+chat_system_474097915_snap_0_answer_2	Human Woes
+chat_system_474097915_snap_0_answer_3	Human Woes
+chat_system_474097915_snap_0_question	Who’s there?
+chat_system_474097915_snap_1_answer_0	begin quest dialog
+chat_system_474097915_snap_1_question	Hello man!
+chat_system_474097915_snap_2_answer_0	(away)
+chat_system_474097915_snap_2_question	So how are our fiery spiders doing? You really managed to find them?
+chat_system_474097915_snap_3_answer_0	end quest dialog
+chat_system_474097915_snap_3_question	end quest text
+chat_system_474097915_snap_4_answer_0	begin quest dialog
+chat_system_474097915_snap_4_question	Hello man!
+chat_system_474097915_snap_5_answer_0	(away)
+chat_system_474097915_snap_5_question	Don't keep me waiting. My nightmares are making me suffer so much...
+chat_system_474097915_snap_6_answer_0	end quest dialog
+chat_system_474097915_snap_6_question	end quest text
+
+
+

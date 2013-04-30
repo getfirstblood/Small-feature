@@ -1,0 +1,8 @@
+﻿quest_system_1771982701_desc	It looks like Locrim missed his practical alchemy lectures. Oh well, what can you do with these youngsters..? The spell can be broken either with other spells or with alchemical compounds. Pure magic is of little use in this case. Medar, in the Garrison, can prepare a universal magic elixir for your, an elixir which can disperse such spells.
+quest_system_1771982701_done	Ah, you’ve come to work for me again! No? That’s too bad... What’s that, a dispersal elixir? That’s how it is, whenever they need something, they come to Medar. “Hey, Medar, make us this arcanum, or that antidote, or this love potion...” As if Medar were made of rubber. But Medar can’t be everywhere at once!
+quest_system_1771982701_name	Universal Magic Remover
+quest_system_1771982701_stage_0	Speak
+quest_system_1771982701_task	Get some magical dispersal elixir from Medar the Alchemist.
+
+
+

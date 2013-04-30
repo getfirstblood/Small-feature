@@ -1,0 +1,8 @@
+﻿quest_system_150462002_desc	Our garrison is located at the cross-roads, and, as you can see, this creates an awful lot of problems. You may have heard that a gang of vagabonds recently plundered some wagon trains from the Knights’ Academy. They say some important manuscripts were involved, or something like that... Well anyway, the “upper crust” is seriously concerned with this problem and has even set a bounty on each vagabond from the gangs roaming our lands. I think this may interest you.
+quest_system_150462002_done	That’s all; the work is done. I bet these bandits won’t have the guts to attack our wagon trains any more.
+quest_system_150462002_name	Roadside Bandits
+quest_system_150462002_stage_0	Hunt
+quest_system_150462002_task	Destroy {counter_limit_0} Vagabonds at the Garrison of the Order. 
+
+
+

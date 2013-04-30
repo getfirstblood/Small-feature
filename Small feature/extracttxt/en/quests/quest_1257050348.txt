@@ -1,0 +1,8 @@
+﻿quest_system_1257050348_desc	We have already sent out the carts with ingredients. By the time you get to the Engineers' Reservation, all of the required materials will be already there.
+quest_system_1257050348_done	Thank you. I've been able to get my experiments going again. The lab is almost as busy as it was before. I have even concocted a few experimental potions. Would you like to try one?<br>
+quest_system_1257050348_name	The Rebirth of Science
+quest_system_1257050348_stage_0	Meshmer
+quest_system_1257050348_task	Go to Meshmer
+
+
+

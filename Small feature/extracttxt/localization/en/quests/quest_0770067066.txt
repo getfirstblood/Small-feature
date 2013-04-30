@@ -1,0 +1,8 @@
+﻿quest_system_770067066_desc	What kind of people are these? No trace of conscience! I rent this forest from the Order for some serious money, and that’s no joke. It’s all mine, everything around here, all mine! I keep telling the Herbalists this, but no, they still come here, dig out my roots, steal my herbs. Thieves! Who cares that they’ve been here since time unknown. I have to pay the Order! If not for their griffins . . . Hey, you look like a strong guy. Why don’t you explain to them who’s boss around here. I’ll pay you for it. What do you say?
+quest_system_770067066_done	Here is your reward. You all are going to ruin me. Be it you, or herbalists, or the Hor . . . Well, I have to pay taxes, too, you know . . .
+quest_system_770067066_name	Mine, all mine!
+quest_system_770067066_stage_0	Rout
+quest_system_770067066_task	Destroy {counter_limit_0} squads of Herbalists. 
+
+
+

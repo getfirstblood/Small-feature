@@ -1,0 +1,16 @@
+﻿chat_system_1862782826_actor_description	Chief Ranger The person in charge of the Order’s hunting expedition.
+chat_system_1862782826_snap_0_answer_0	So where is our friend Giango?
+chat_system_1862782826_snap_0_answer_1	Deal Under Duress
+chat_system_1862782826_snap_0_answer_2	Deal Under Duress
+chat_system_1862782826_snap_0_question	If you are not a hunter and have no trophies to sell, don’t waste my time!
+chat_system_1862782826_snap_1_answer_0	end quest dialog
+chat_system_1862782826_snap_1_question	Hello man!
+chat_system_1862782826_snap_2_answer_0	begin quest dialog
+chat_system_1862782826_snap_2_question	Hello man!
+chat_system_1862782826_snap_3_answer_0	(away)
+chat_system_1862782826_snap_3_question	This Giango seems like a decent guy. But you have to understand my position. I need to hold my end of the deal. Either I send them animal skins, or I have to send them a poacher.
+chat_system_1862782826_snap_4_answer_0	end quest dialog
+chat_system_1862782826_snap_4_question	end quest text
+
+
+

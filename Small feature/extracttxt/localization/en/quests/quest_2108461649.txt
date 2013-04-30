@@ -1,0 +1,8 @@
+﻿quest_system_2108461649_desc	Oh yes. You were saying that you needed some kind of help. Let's see . . . ah, so these manuscripts have a very basic alchemic seal upon them. I can remove it using an alkaline mithril solution mixed with poisonous thorn-juice. Give me your manuscripts. I see. What? These ghosts came right out of the manuscripts. No, that can’t be. A double seal! By removing one, we release the guardian ghosts from the other one. I beg of you. Do something! I won’t survive having my laboratory trashed again!<br>
+quest_system_2108461649_done	That’s it? I was sure that the ghosts would finish your troops off and then move on to me. But I can see that you aren’t so easily scared. You know that ghosts are extremely attracted to life-giving potions. They are convinced that those potions can help them to be reborn. A very naive point of view if you ask me.<br>
+quest_system_2108461649_name	The Ghosts of the Dark Manuscripts
+quest_system_2108461649_stage_0	Guardian Ghosts
+quest_system_2108461649_task	Fight off {counter_limit_0} Groups of Defencive Ghosts 
+
+
+

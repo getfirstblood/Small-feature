@@ -1,0 +1,8 @@
+﻿quest_system_1586935370_desc	Fierce battles were fought here in the olden days. Sorcerers and warriors fought the spawn of the underworld, protecting our lands from their attacks. Many of them are buried in this land, but someone has chosen to meddle with them, even after death. These heinous Flesh Conjurors are always coming here to revive the long-dead warriors. Such a disgrace of history is unacceptable and should be terminated immediately.
+quest_system_1586935370_done	The fallen mages will never again disturb the souls of the deceased. Their souls are separated from their bodies and shall roam until they vanish into nothingness.
+quest_system_1586935370_name	Puppeteers
+quest_system_1586935370_stage_0	Rout
+quest_system_1586935370_task	Destroy {counter_limit_0} squads of Flesh Conjurors. 
+
+
+

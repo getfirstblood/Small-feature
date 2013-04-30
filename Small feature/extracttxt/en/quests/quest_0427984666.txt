@@ -1,0 +1,9 @@
+﻿quest_system_427984666_cntdesc_0	Resurrect the dead units in the Infirmary
+quest_system_427984666_desc	Looks like your army suffered a loss in its last battle! Don’t worry about the lives of your warriors. Soldiers who fall in battle do not die; they are taken to the Infirmary and wait for you to restore them to life. To resurrect the fallen, you need to spend a part of your stamina and some gold. The Infirmary is in the Army Management window.
+quest_system_427984666_done	As you can see, it's not that hard. It took quite a bit of stamina and gold, but now your soldiers have regained their strength and are ready to fight once more.
+quest_system_427984666_name	Weakened Army
+quest_system_427984666_stage_0	resurrection
+quest_system_427984666_task	Resurrect the squad of dead units in the Infirmary
+
+
+

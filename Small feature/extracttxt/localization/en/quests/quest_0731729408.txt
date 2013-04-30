@@ -1,0 +1,8 @@
+﻿quest_system_731729408_desc	Please have a look... This is technically a Royal Hunting Lodge, but it looks like a mess. A whole gang of Greens came out of nowhere. They brought Longicorns with them, hanging rags with writings all over the place. Looks like old Elvish writing. They were bawling some gibberish. Nobody knows what they want. Their boss, what’s his name..? Grundel, I believe... there he is, sitting in the yard like some burdock plant. He refuses to talk to me, insists on speaking with my superiors. Could you please talk to him? Maybe he’ll open up to you?
+quest_system_731729408_done	Am I to understand that you are that person who shall humbly listen to our demands? Then let us proceed...
+quest_system_731729408_name	Green Ultimatum
+quest_system_731729408_stage_0	Speak
+quest_system_731729408_task	Persuade the Druid to return to the forest.
+
+
+

@@ -1,0 +1,6 @@
+﻿chat_system_850295209_actor_description	Eric Hammerhorn A melancholy youth who has fallen victim to the magical sword, forged by his own father.
+chat_system_850295209_snap_0_answer_0	(away)
+chat_system_850295209_snap_0_question	I was dreaming all this time. The sword had completely consumed my consciousness. It was controlling my thoughts and deeds. Obsession and terror were all I felt. I don't even know how long till I forget this nightmare.
+
+
+

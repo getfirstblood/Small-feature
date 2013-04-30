@@ -1,0 +1,8 @@
+﻿quest_system_494849792_desc	Just yesterday, an attempt was made on Archmage Albus's life. Thanks Rusith, our Archmage is not of faint heart, and he managed to hold his own, knocking out and capturing one of his attackers along the way. After interrogating the prisoner, we were able to pick up the criminals' trail, but it is beyond our power to stop them. This gang contains the most terrible cut-throats – masters with the knife and the axe, every last one of them. But I'll never believe that they decided to attack the Archmage of their own accord. We sent off a group to arrest them at the tavern where they usually hang around, but the soldiers have yet to return. We could really use your help here.
+quest_system_494849792_done	I see you managed to take care of the gang, but their ringleader got away. Don't you worry, though; my people were waiting for him, and they brought him in kicking and screaming. After interrogation, he confessed to everything, and told us that the main purpose of the attack was to steal the ancient book of magic that Albus kept. Albus got in their way, and so it ended up looking like an assassination attempt. But I just can't get my head around it, what do the bandits want the manuscripts for? The gang-leader won't tell us, but that doesn't matter. Anyway, I'm sure you don't want to listen to me ramble on about my business. I thank you for your service.
+quest_system_494849792_name	An Attempt on the Archmage's Life
+quest_system_494849792_stage_0	Rout
+quest_system_494849792_task	Find and destroy {counter_limit_0} parties of Hardened Bandits 
+
+
+

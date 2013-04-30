@@ -1,0 +1,15 @@
+﻿abilityDesc_4	As long as resistance is on, the unit's movement range cannot be changed.
+abilityDesc_5	As long as resistance is on, the unit cannot be immobilized.
+abilityDesc_6	As long as resistance is on, the unit cannot be shocked.
+abilityDesc_7	As long as mind resistance is on, the unit cannot be controlled by the enemy to attack your allies.
+abilityDesc_8	As long as resistance is on, the unit cannot be stunned or put to sleep.
+abilityDesc_9	As long as resistance is on, the unit’s special attacks cannot be blocked.
+abilityName_4	Resistance to Movement Range Change
+abilityName_5	Resistance to Immobility
+abilityName_6	Shock Resistance
+abilityName_7	Mind Resistance
+abilityName_8	Stun and Sleep Resistance
+abilityName_9	Resistance to Disarmament
+
+
+

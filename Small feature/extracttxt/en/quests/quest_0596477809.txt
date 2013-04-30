@@ -1,0 +1,8 @@
+﻿quest_system_596477809_desc	As you may recall, I don’t have any helpers, nor do I have any ingredients, of course. So any help is welcome. I need griffin blood. But the blood has to be fresh and still warm... No, no, you don’t have to bring them here for slaughter. I don’t want to get this place all dirty... I’ll collect the blood somehow. Are you ready?
+quest_system_596477809_done	Just look at you! Those griffins worked you over quite well. And I was wondering why the wenches in the pub were all scared... Perhaps they got a look at you? Heehee, all right. Thank you for your help.
+quest_system_596477809_name	Dark Blood
+quest_system_596477809_stage_0	Hunt
+quest_system_596477809_task	Destroy {counter_limit_0} Griffins for the Alchemist’s Elixir.
+
+
+

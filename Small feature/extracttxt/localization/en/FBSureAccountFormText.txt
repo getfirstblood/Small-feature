@@ -1,0 +1,10 @@
+﻿FBSureAccountFormBtnCancel	[FBSelectAccountFormT1][FBSelectAccountFormCenter] Cancel
+FBSureAccountFormBtnOk	[FBSelectAccountFormT1][FBSelectAccountFormCenter] ОК
+FBSureAccountFormCenter	<align=center><valign=center>
+FBSureAccountFormContent	[FBSelectAccountFormCenter][FBSelectAccountFormT1] [?] <br>[FBSelectAccountFormT0]Level: [?]
+FBSureAccountFormT0	<font=tahoma_bold_12><color=FFFFFF>
+FBSureAccountFormT1	<font=tahoma_bold_11_border_smooth><color=FEE789>
+FBSureAccountFormTitle	[FBSelectAccountFormT0][FBSelectAccountFormCenter]Are you sure you want to continue playing with this <br>user profile?
+
+
+

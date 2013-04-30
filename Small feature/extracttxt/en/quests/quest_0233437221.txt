@@ -1,0 +1,8 @@
+﻿quest_system_233437221_desc	We have seen Crossbellies out here before, but they have never been this aggressive. I reckon this is only the beginning! I will try to figure out what is going on. Meanwhile, I would recommend that you go to the Karakol Port, and ask the Gray Wardens for help. We will need some skilled warriors to get rid of these bugs.
+quest_system_233437221_done	Commandant Barns has already given me the gist of what's going on. Alright then. Let’s think about what can be done about it.<br>
+quest_system_233437221_name	Reinforcements
+quest_system_233437221_stage_0	Captain Alistair
+quest_system_233437221_task	Go to Captain Alistair for Further Instructions<br>
+
+
+

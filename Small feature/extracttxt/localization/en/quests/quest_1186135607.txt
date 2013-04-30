@@ -1,0 +1,8 @@
+﻿quest_system_1186135607_desc	Do not be alarmed. Everything is fine. I have already come to my senses. You are interested to know whether it is safe here? Well other than a few necromancers and Possessed Bears, I’d say it’s a very nice place. Assuming, of course, that you stay away from the Dryads. People say that a long time ago, a young paladin turned down their high priestess. Ever since then, knights and guards have been disappearing in our region. I’d also be willing to bet my life that none of them have ever returned alive. If you want an army of Gray Wardens to be able to march through here, you will need to deal with these inhabitants of the forest.
+quest_system_1186135607_done	Hold on a second! Be quiet. I can’t hear those cursed dryads' song anymore. No, that can’t be. Did you really manage to chase them all away? I’ll be damned!
+quest_system_1186135607_name	The Sleepy Knight
+quest_system_1186135607_stage_0	Ladies of the Forest
+quest_system_1186135607_task	Chase {counter_limit_0} squads of the Forest Ladies 
+
+
+

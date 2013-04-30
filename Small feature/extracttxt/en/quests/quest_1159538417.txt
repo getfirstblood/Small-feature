@@ -1,0 +1,8 @@
+﻿quest_system_1159538417_desc	Ok, where do I start..? We were just conducting a small experiment, but something went haywire! Well, that is, most experiments don’t go as planned, but this one was much worse than usual. An alchemical reaction became much too violent and we emptied the whole vat into the lake. Since then, terrible creatures have kept coming out of the water. Because of the fumes they give off, we call them Alchemical Monsters. I think these creatures are really dangerous. There’s been too many of them lately and, if you ask me, they have to be disposed of as soon as possible.
+quest_system_1159538417_done	Are they finished? Really? I’m so very glad to hear it. The thing is, I’m in the middle of developing a new compound... Oh, please don’t think it is something dangerous! We are not going to repeat our past mistakes.
+quest_system_1159538417_name	Failed Experiment
+quest_system_1159538417_stage_0	The Rout
+quest_system_1159538417_task	Destroy {counter_limit_0} squads of Alchemical Monsters. 
+
+
+

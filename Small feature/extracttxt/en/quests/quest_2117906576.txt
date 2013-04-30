@@ -1,0 +1,8 @@
+﻿quest_system_2117906576_desc	The last piece is the Prayer Amulet. Though made of simple reeds, it possesses extraordinary power. The humble prayers of generations of hermit priests have given the artifact its special power. Because of this, it was the final item used to seal the gates of the Tiltyard archives. They then entrusted the amulet to the Hermit of Shady Grove for safekeeping. Get the amulet from him. Now, the hermit is kinda weird, but I hope you'll be able to talk some sense into him.
+quest_system_2117906576_done	The amulet? What amulet? Ah! Didn’t the Archmage give it to me for kindling? No? Hmm... well, I used it for kindling, anyway. It’s cold here, after all. Quite cold. Especially in winter.
+quest_system_2117906576_name	Hermit’s Amulet
+quest_system_2117906576_stage_0	Speak
+quest_system_2117906576_task	Get the Prayer Amulet from the Hermit
+
+
+

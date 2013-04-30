@@ -1,0 +1,8 @@
+﻿quest_system_314595043_desc	Let me quickly outline the situation here. Most of the fighting is up North, next to the Eastern Fort and on Signal Island. Troops are badly needed there. But it wouldn’t do to send you there alone. Lots of unrest around these lands. We’ll have to wait for the reinforcements that should soon arrive at Karakol Port. So for the time being, you’ll be working under Medar. Our alchemist always needs help, and this will give you an opportunity to prove your worth. 
+quest_system_314595043_done	 Bah! I asked for an assistant, an as-sis-tant! I mean if not an alchemist, at least someone who would understand something about herbs! And who do I get? Another youngin. One of these days I’ll get back at that quartermaster. Mark my word.
+quest_system_314595043_name	Waiting for the Big Event
+quest_system_314595043_stage_0	Speak
+quest_system_314595043_task	Talk to Medar the Alchemist
+
+
+

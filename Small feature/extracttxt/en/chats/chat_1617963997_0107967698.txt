@@ -1,0 +1,61 @@
+﻿chat_system_107967698_actor_description	Medar the Alchemist A grumpy military Alchemist.
+chat_system_107967698_snap_0_answer_0	Waiting for the Big Event
+chat_system_107967698_snap_0_answer_1	Healing Feathers
+chat_system_107967698_snap_0_answer_10	Healing Poison
+chat_system_107967698_snap_0_answer_11	Scientific Consultation
+chat_system_107967698_snap_0_answer_12	Scientific Consultation
+chat_system_107967698_snap_0_answer_13	Griffin Feathers
+chat_system_107967698_snap_0_answer_14	Griffin Feathers
+chat_system_107967698_snap_0_answer_15	Talking Elixir
+chat_system_107967698_snap_0_answer_2	Healing Feathers
+chat_system_107967698_snap_0_answer_3	And it started so well...
+chat_system_107967698_snap_0_answer_4	Universal Magic Remover
+chat_system_107967698_snap_0_answer_5	Dark Blood
+chat_system_107967698_snap_0_answer_6	Dark Blood
+chat_system_107967698_snap_0_answer_7	Talkative Jar
+chat_system_107967698_snap_0_answer_8	Healing Poison
+chat_system_107967698_snap_0_answer_9	Healing Poison
+chat_system_107967698_snap_0_question	First the quartermaster should provide me with some assistants. Only then can he expect medications.
+chat_system_107967698_snap_1_answer_0	end quest dialog
+chat_system_107967698_snap_1_question	Hello man!
+chat_system_107967698_snap_10_answer_0	begin quest dialog
+chat_system_107967698_snap_10_question	Hello man!
+chat_system_107967698_snap_11_answer_0	end quest dialog
+chat_system_107967698_snap_11_question	Hello man!
+chat_system_107967698_snap_12_answer_0	begin quest dialog
+chat_system_107967698_snap_12_question	Hello man!
+chat_system_107967698_snap_13_answer_0	(away)
+chat_system_107967698_snap_13_question	Snakes can easily poison your warriors. Be careful when fighting them!
+chat_system_107967698_snap_14_answer_0	end quest dialog
+chat_system_107967698_snap_14_question	end quest text
+chat_system_107967698_snap_15_answer_0	begin quest dialog
+chat_system_107967698_snap_15_question	Hello man!
+chat_system_107967698_snap_16_answer_0	end quest dialog
+chat_system_107967698_snap_16_question	Hello man!
+chat_system_107967698_snap_17_answer_0	begin quest dialog
+chat_system_107967698_snap_17_question	Hello man!
+chat_system_107967698_snap_18_answer_0	(away)
+chat_system_107967698_snap_18_question	Fighting Griffins is not the same as chasing away a few bandits. I hope that you will have the strength and endurance to deal with it.
+chat_system_107967698_snap_19_answer_0	end quest dialog
+chat_system_107967698_snap_19_question	end quest text
+chat_system_107967698_snap_2_answer_0	begin quest dialog
+chat_system_107967698_snap_2_question	Hello man!
+chat_system_107967698_snap_20_answer_0	begin quest dialog
+chat_system_107967698_snap_20_question	Hello man!
+chat_system_107967698_snap_3_answer_0	(away)
+chat_system_107967698_snap_3_question	Well? Have you slaughtered the Griffins?
+chat_system_107967698_snap_4_answer_0	end quest dialog
+chat_system_107967698_snap_4_question	end quest text
+chat_system_107967698_snap_5_answer_0	begin quest dialog
+chat_system_107967698_snap_5_question	Hello man!
+chat_system_107967698_snap_6_answer_0	end quest dialog
+chat_system_107967698_snap_6_question	Hello man!
+chat_system_107967698_snap_7_answer_0	begin quest dialog
+chat_system_107967698_snap_7_question	Hello man!
+chat_system_107967698_snap_8_answer_0	(away)
+chat_system_107967698_snap_8_question	Griffins are those large winged units. With beaks and wings. Please, no mix-ups!
+chat_system_107967698_snap_9_answer_0	end quest dialog
+chat_system_107967698_snap_9_question	end quest text
+
+
+

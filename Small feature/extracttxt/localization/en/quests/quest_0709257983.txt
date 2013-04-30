@@ -1,0 +1,8 @@
+﻿quest_system_709257983_desc	The location of the sanctuary is highly classified information. We keep the most dangerous artifacts here, at the Academy Tiltyard. Deadly magic guards every approach, and the gate can be opened only by a special key. However, the greatest danger is the denizens of that place. Even the bravest of warriors try to give them a wide berth. You shall have to defeat them in order to access the door to the vault. We can engage some of the smaller packs, but you shall have to deal with the Evil Eye Horde on your own. 
+quest_system_709257983_done	It was a good fight. I hope we haven't angered the locals unduly.<br>
+quest_system_709257983_name	Guardians of the Chambers
+quest_system_709257983_stage_0	Rout
+quest_system_709257983_task	Defeat {counter_limit_0} Evil Eye Hordes 
+
+
+

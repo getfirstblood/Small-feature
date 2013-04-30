@@ -1,0 +1,8 @@
+﻿quest_system_1069773269_desc	That's it. I'm sure that the captain of the Eastern Fort will be glad to hear that all the obstacles have been eliminated, and that the Gray Wardens will be able to pass safely. Go to Captain Crunch as quickly as possible.
+quest_system_1069773269_done	What? A young officer from the Commander? My boys already told me that you managed to clear the path for the Gray Wardens. Excellent work! I would even go as far as saying that not many of my officers would have been able to pull off something like that. Especially considering how recently you joined the army. You might want to consider joining my army instead. Ha-ha! Just kidding! You have plenty of important things to do, as it is. By the way, I could really use your help with something very important.
+quest_system_1069773269_name	Report for the Fort Commander
+quest_system_1069773269_stage_0	Crunch
+quest_system_1069773269_task	Report to Captain Crunch
+
+
+

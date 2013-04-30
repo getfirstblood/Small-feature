@@ -1,0 +1,8 @@
+﻿quest_system_1405046493_desc	There is absolutely no doubt. The artifacts were stolen from Ruins of the Library by a sect of dark mages. Our scouts have had them under surveillance for several months now, trying to figure out what their motives are. Each time though, they manage to escape. This time, we have managed to locate one in the town's cemetery. He was in the process of reviving the dead to assemble a party of Zombies. We cannot arrest him while he is being protected by such a large horde of Zombies. You have experience fighting these mages and I am sure will be able to strike down the army of the Walking Dead before it becomes too large. 
+quest_system_1405046493_done	Had this mage managed to raise more Zombies, Kronberg might have turned into a true battlefield. Thank you for your help.
+quest_system_1405046493_name	Living Dead
+quest_system_1405046493_stage_0	Rout
+quest_system_1405046493_task	Repel an attack of the undead by destroying Walking Dead
+
+
+

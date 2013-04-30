@@ -1,0 +1,45 @@
+﻿chat_system_1582229427_actor_description	Lady Beatrice. An experienced mentor, retinue of the royal family, and the personal bodyguard of the Princess.
+chat_system_1582229427_snap_0_answer_0	First Completion
+chat_system_1582229427_snap_0_answer_1	First Completion
+chat_system_1582229427_snap_0_answer_2	Weakened Army
+chat_system_1582229427_snap_0_answer_3	Weakened Army
+chat_system_1582229427_snap_0_answer_4	New Magic
+chat_system_1582229427_snap_0_answer_5	New Magic
+chat_system_1582229427_snap_0_answer_6	Combat Effectiveness
+chat_system_1582229427_snap_0_answer_7	Combat Effectiveness
+chat_system_1582229427_snap_0_answer_8	A Royal Gift
+chat_system_1582229427_snap_0_answer_9	A Royal Gift
+chat_system_1582229427_snap_0_question	Do not criticize my skills and craftsmanship in my presence. Many have so erred...and paid dearly.
+chat_system_1582229427_snap_1_answer_0	begin quest dialog
+chat_system_1582229427_snap_1_question	Hello man!
+chat_system_1582229427_snap_10_answer_0	begin quest dialog
+chat_system_1582229427_snap_10_question	Hello man!
+chat_system_1582229427_snap_11_answer_0	(away)
+chat_system_1582229427_snap_11_question	Well, where are the trained soldiers and improved scrolls?
+chat_system_1582229427_snap_12_answer_0	end quest dialog
+chat_system_1582229427_snap_12_question	end quest text
+chat_system_1582229427_snap_13_answer_0	begin quest dialog
+chat_system_1582229427_snap_13_question	Hello man!
+chat_system_1582229427_snap_14_answer_0	(away)
+chat_system_1582229427_snap_14_question	Well, where are the delivery reports? No, this is not how it's done.
+chat_system_1582229427_snap_15_answer_0	end quest dialog
+chat_system_1582229427_snap_15_question	end quest text
+chat_system_1582229427_snap_2_answer_0	(away)
+chat_system_1582229427_snap_2_question	You should never bring an understaffed army into battle. And yours is in pitiful shape right now!
+chat_system_1582229427_snap_3_answer_0	end quest dialog
+chat_system_1582229427_snap_3_question	end quest text
+chat_system_1582229427_snap_4_answer_0	begin quest dialog
+chat_system_1582229427_snap_4_question	Hello man!
+chat_system_1582229427_snap_5_answer_0	(away)
+chat_system_1582229427_snap_5_question	Do you really lack the strength to resurrect your comrades who have fallen in battle?
+chat_system_1582229427_snap_6_answer_0	end quest dialog
+chat_system_1582229427_snap_6_question	end quest text
+chat_system_1582229427_snap_7_answer_0	begin quest dialog
+chat_system_1582229427_snap_7_question	Hello man!
+chat_system_1582229427_snap_8_answer_0	(away)
+chat_system_1582229427_snap_8_question	Time to fill up your Spell Book with new scrolls?
+chat_system_1582229427_snap_9_answer_0	end quest dialog
+chat_system_1582229427_snap_9_question	end quest text
+
+
+

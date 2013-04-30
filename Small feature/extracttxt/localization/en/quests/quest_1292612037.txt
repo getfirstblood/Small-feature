@@ -1,0 +1,8 @@
+﻿quest_system_1292612037_desc	We have just received an urgent letter from Kronberg. The Commander is requesting that we send him all available leaders. That’s right. Even recent graduates. I don’t know what assignment he has for you, but you’d better hurry up. The city of Kronberg lies to the North of here. You should go there right away! And keep it quiet along the way! Lots of suspicious types roam around here.
+quest_system_1292612037_done	A recent graduate? Excellent. Now more than ever we are in need of young, aspiring officers.
+quest_system_1292612037_name	Special Assignment
+quest_system_1292612037_stage_0	Tarcus
+quest_system_1292612037_task	Have an audience with Commander Tarсus
+
+
+

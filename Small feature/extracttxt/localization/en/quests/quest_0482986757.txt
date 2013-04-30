@@ -1,0 +1,8 @@
+﻿quest_system_482986757_desc	I’m not greedy for money, but if I lend it to somebody I hope to get back what’s justly mine. But it looks like these Fast Knives gang types don’t share my principles. How about teaching them a little lesson? You shouldn’t borrow if you don’t plan to pay it back somehow. In this case, I prefer that they pay the debt with their miserable lives. Of course you’ll get a worthy reward. With these things I’m right on the money.
+quest_system_482986757_done	So, our issue is settled. It’s nice to do business with a man of his word. Looks like this will be a lesson for both of us. 
+quest_system_482986757_name	Old Debts
+quest_system_482986757_stage_0	Rout
+quest_system_482986757_task	Destroy {counter_limit_0} squads of Fast Knives. 
+
+
+

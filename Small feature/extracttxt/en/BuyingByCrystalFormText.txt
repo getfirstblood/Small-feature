@@ -1,0 +1,20 @@
+﻿BBCF_BuyBtnLeft	[BBCF_C][BBCF_FB1]Buy
+BBCF_BuyBtnRight	[BBCF_C][BBCF_FB1][?]
+BBCF_BuyingCount	[BBCF_C][BBCF_FC2][?]
+BBCF_C	<align=center><valign=center>
+BBCF_Content	[BBCF_C][BBCF_FC1][$]
+BBCF_ContentMoneyC	[BBCF_C][BBCF_FC1][?] and Gems
+BBCF_ContentMoneyL	[BBCF_C][BBCF_FC1]You have Gold
+BBCF_ContentMoneyR	[BBCF_C][BBCF_FC1][?]
+BBCF_DrumInfo	[BBCF_C][BBCF_FC1]Select the number of items
+BBCF_FB1	<font=tahoma_bold_10><color=FFF6B6>
+BBCF_FC1	<font=tahoma_bold_10><color=B8DAFF>
+BBCF_FC2	<font=tahoma_bold_12_numbers_only><color=FFF6B6>
+BBCF_FT1	<font=tahoma_bold_12><color=4F3301>
+BBCF_FT2	<font=tahoma_bold_12><color=FFF6B6>
+BBCF_Title	[BBCF_C][BBCF_FT1][$]
+BBCF_TitlePrice	[BBCF_C][BBCF_FC2][?]
+BBCF_TitlePriceText	[BBCF_C][BBCF_FT2]Price: 
+
+
+

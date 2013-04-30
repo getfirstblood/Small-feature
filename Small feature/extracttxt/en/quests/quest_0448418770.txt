@@ -1,0 +1,8 @@
+﻿quest_system_448418770_desc	We have long pursued Vorden Hatkh the necromancer, but he always seems to get away from us. We’ll most likely never catch him, since he hides in the Witch’s Swamp area, where his power is especially strong, and the trembling bogs help him escape our pursuit... Catching him by surprise is our only chance. I’d like to propose that you go into the very heart of the swamp and destroy this necromancer. Of course our Order of Gray Wardens will properly compensate you for your help.
+quest_system_448418770_done	So you were able to destroy the necromancer... This is truly joyful news. But a dark wizard can never be fully killed. There is always a chance he will reincarnate in one of his creations. Let’s hope that won’t happen.
+quest_system_448418770_name	Hunting for Vorden
+quest_system_448418770_stage_0	Rout
+quest_system_448418770_task	Destroy {counter_limit_0} Vorden Hatkh's gangs 
+
+
+

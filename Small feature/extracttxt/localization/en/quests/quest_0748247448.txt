@@ -1,0 +1,8 @@
+﻿quest_system_748247448_desc	Please understand. I am a disciplined man and value my life greatly. These are, however, some insurmountable circumstances. The ships with reinforcements arrived from the Karakol Bay almost three days ago. But they can’t dock at the pier. We’ve tried everything, but it’s all in vain. The fishermen went to sea, and upon returning, they can’t dock either. The guards are wearing themselves out trying to figure out what is going on, to no avail so far. Meanwhile, the bandits and pirates are using the fact that the guards are occupied. They have stolen all of our food. We need to get at least something back from them. Otherwise, we will simply not make it to the next produce delivery.
+quest_system_748247448_done	What a relief! Now I don’t have to worry about food anymore! By the way, while you were gone, we were able to make a little bit of headway with the ships.
+quest_system_748247448_name	A Theft in Broad Daylight
+quest_system_748247448_stage_0	Rout
+quest_system_748247448_task	Retake supplies from the Band of Pirates
+
+
+

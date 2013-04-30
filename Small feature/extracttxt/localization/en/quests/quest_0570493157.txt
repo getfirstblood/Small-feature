@@ -1,0 +1,8 @@
+﻿quest_system_570493157_desc	Please don’t get me wrong! I am a disciplined man and I value my life, but... These are some insurmountable circumstances. The ships with reinforcements arrived from the Karakol Bay almost three days ago. But they can’t dock at the pier. We’ve tried everything, but it’s all in vain. The fishermen went to sea and, upon returning, they can’t dock, either. I wanted to ask Kronberg to send someone to help us, but our mage Locrim dug his heels in, and won’t budge. He said, “I’ll take care of it myself, and if you try to interfere I’ll turn you into a toad!” Kinda scary. Maybe you can talk some sense into him?
+quest_system_570493157_done	Who’s there? Didn’t I say that it would be done? Ah, the Commander sent you? Please forgive me. I haven’t slept for two nights. Somebody cast a spell over the shoreline and it seems I’m unable to break it. I can’t imagine how long it might take.
+quest_system_570493157_name	Enchanted Pier
+quest_system_570493157_stage_0	Speak
+quest_system_570493157_task	Find out from Locrim the port Mage what happened to the pier.
+
+
+

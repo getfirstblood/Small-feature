@@ -1,0 +1,8 @@
+﻿quest_system_978394404_desc	What? You’re still here? I seem to have once again gotten lost in my magical formulas. The elixir did a wonderful job of removing the protective barrier from the pier. Please inform Intendant Torbins about it. I bet he is already waiting for you. Hurry up to tell him the good news.
+quest_system_978394404_done	Is it done?! Blessed be Rusith! I thought that would be the end of me! And that my kids would be orphaned! I’ll go give the order for the ships to dock.
+quest_system_978394404_name	To the Pier!
+quest_system_978394404_stage_0	Quartermaster
+quest_system_978394404_task	Report to the Quartermaster about removing the barrier
+
+
+

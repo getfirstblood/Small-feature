@@ -1,0 +1,21 @@
+﻿chat_system_2091979411_actor_description	Martha Corvin Owner of the farm in Turtle Hills.
+chat_system_2091979411_snap_0_answer_0	Exiles from a Far Country
+chat_system_2091979411_snap_0_answer_1	Exiles from a Far Country
+chat_system_2091979411_snap_0_answer_2	Nature's Magic
+chat_system_2091979411_snap_0_answer_3	Nature's Magic
+chat_system_2091979411_snap_0_question	The arrival of the Order did make it more orderly here, with evil creatures and wild Beasts mostly eliminated. But somehow a great number of pirates and various other bandits took their place.
+chat_system_2091979411_snap_1_answer_0	begin quest dialog
+chat_system_2091979411_snap_1_question	Hello man!
+chat_system_2091979411_snap_2_answer_0	(away)
+chat_system_2091979411_snap_2_question	I’m worried that these exiles may be somewhere nearby.
+chat_system_2091979411_snap_3_answer_0	end quest dialog
+chat_system_2091979411_snap_3_question	end quest text
+chat_system_2091979411_snap_4_answer_0	begin quest dialog
+chat_system_2091979411_snap_4_question	Hello man!
+chat_system_2091979411_snap_5_answer_0	(away)
+chat_system_2091979411_snap_5_question	Done gathering? No? What a pity!.. I will be waiting for you to get back with good news.
+chat_system_2091979411_snap_6_answer_0	end quest dialog
+chat_system_2091979411_snap_6_question	end quest text
+
+
+

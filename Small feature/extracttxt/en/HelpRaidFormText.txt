@@ -1,0 +1,9 @@
+﻿HRFT_Font	<align=left><valign=center><font=tahoma_regular_10><color=F5CB05>
+HRFT_spawn_1	[HRFT_Font]Attack the suggested opponent or choose another one using the "Change opponent" button. Just remember - the stronger your opponent, the richer your reward!
+HRFT_spawn_2	[HRFT_Font]Successful attacks will give you Spheres of Elements, which can be used at the Workshop for making various Runes.
+HRFT_spawn_3	[HRFT_Font]Active Runes can be set in the appropriate tab of your Spell Book. They significantly improve your army and your Garrison.
+HRFT_spawn_4	[HRFT_Font]You may be attacked while you are away from the game. Set up your Garrison on the Army management menu to defend yourself. Don’t forget to improve it with Runes.
+HRFT_Title	[FormTitleText][FormTitleColor]Raids
+
+
+

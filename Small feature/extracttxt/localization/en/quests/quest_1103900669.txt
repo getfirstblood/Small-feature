@@ -1,0 +1,8 @@
+﻿quest_system_1103900669_desc	This ancient tablet contains writing in one of the Guardians’ dialects. The language is ancient, forgotten, unused since before the appearance of men in the world. I fear that even I lack the knowledge needed to understand what is written. One thing is clear – this is a warning. But of what does it warn? There used to be a certain linguist in the Order... Nowadays he has devoted his life to the service of the gods. He’s an Abbot now, working in the Destroyed Temple in the north of the island. You must go and see him. I’m sure he won’t refuse my bidding.
+quest_system_1103900669_done	A request from the Archmage? Ha, but I no longer serve the Order; I serve the Light! However, let me see that tablet... Interesting. You know, if I wasn’t just interested on a purely scientific level, I’d probably refuse. It doesn’t befit a servant of the Light to be an errand boy... not even for the Archmage. But this is a quite interesting challenge.
+quest_system_1103900669_name	Deciphering Required
+quest_system_1103900669_stage_0	Speak
+quest_system_1103900669_task	Ask the Abbot of the Ruined Temple to help decipher the tablet.
+
+
+

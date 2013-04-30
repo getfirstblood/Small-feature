@@ -1,0 +1,29 @@
+﻿chat_system_780654895_actor_description	Tong the Conceited A merchant and landlord who has seen better days..
+chat_system_780654895_snap_0_answer_0	Anything but the Bees
+chat_system_780654895_snap_0_answer_1	Anything but the Bees
+chat_system_780654895_snap_0_answer_2	Nocturnal Stampede
+chat_system_780654895_snap_0_answer_3	Nocturnal Stampede
+chat_system_780654895_snap_0_answer_4	Mine, all mine!
+chat_system_780654895_snap_0_answer_5	Mine, all mine!
+chat_system_780654895_snap_0_question	This is private property. So be careful.
+chat_system_780654895_snap_1_answer_0	begin quest dialog
+chat_system_780654895_snap_1_question	Hello man!
+chat_system_780654895_snap_2_answer_0	(away)
+chat_system_780654895_snap_2_question	It looks like you’re not in a big hurry to get a job. But you’re looking like a pro anyway...
+chat_system_780654895_snap_3_answer_0	end quest dialog
+chat_system_780654895_snap_3_question	end quest text
+chat_system_780654895_snap_4_answer_0	begin quest dialog
+chat_system_780654895_snap_4_question	Hello man!
+chat_system_780654895_snap_5_answer_0	(away)
+chat_system_780654895_snap_5_question	Eh? What? May the Gargoyles take you, don’t you see I’m asleep? I got all messy today, and I need to cleanse myself.
+chat_system_780654895_snap_6_answer_0	end quest dialog
+chat_system_780654895_snap_6_question	end quest text
+chat_system_780654895_snap_7_answer_0	begin quest dialog
+chat_system_780654895_snap_7_question	Hello man!
+chat_system_780654895_snap_8_answer_0	(away)
+chat_system_780654895_snap_8_question	The cost of each bush collected by the herbalists will be deducted from your prize money. So you’d better hurry up.
+chat_system_780654895_snap_9_answer_0	end quest dialog
+chat_system_780654895_snap_9_question	end quest text
+
+
+

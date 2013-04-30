@@ -1,0 +1,8 @@
+﻿quest_system_496270005_desc	We almost have all of the ingredients assembled. The only thing we’re missing is the Thorn Pollen. They are the most dangerous plants on the island. A Ternicus Vulgaris almost bit my arm off once when I tried to approach it. And we need the Ternicus Roialis, no less – the Royal Thorn. It's the only one from which you can extract the pollen we need. I beg you, wipe out a few colonies of these carnivorous plants so that we could finish gathering the reagents that Meshmer needs. 
+quest_system_496270005_done	This much pollen will last us at least two years. Thank you! Your have made an invaluable contribution to science. And don't worry about the thorn colonies. They reproduce faster than you can say "alchemy."
+quest_system_496270005_name	Deadly Plants
+quest_system_496270005_stage_0	Collecting Thorn Pollen
+quest_system_496270005_task	Gather pollen from {counter_limit_0} Thorn Hunters 
+
+
+

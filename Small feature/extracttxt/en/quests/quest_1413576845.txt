@@ -1,0 +1,8 @@
+﻿quest_system_1413576845_desc	While you were chasing after that gang, another one visited our camp. And they knew what they were looking for! We had to hide while they pillaged the place. But I saw what exactly they took. It was a case from History Hall on the lower level. That is priceless, incredibly dangerous stuff! Those texts are at least from the Exodus era, and they describe some ancient rituals. Yes, yes, I know. They should have been sent to Kronberg right away... But I wanted to decipher them, read them, learn at least some of them... You have to report this to Survus the Archmage as soon as possible. The theft of these manuscripts may place us in grave danger.
+quest_system_1413576845_done	Haron, Haron... I understand his search for knowledge, but how can one be so irresponsible? Not only did he neglect the prohibition and enter History Hall, but he managed to undo its protective charms in the process. 
+quest_system_1413576845_name	Disturbing News
+quest_system_1413576845_stage_0	Speak
+quest_system_1413576845_task	Tell Survus the Archmage what happened in the Library Ruins.
+
+
+

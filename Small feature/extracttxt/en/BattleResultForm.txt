@@ -1,0 +1,85 @@
+﻿BR_ArmyName	Your losses
+BR_ArmyWeight	Army weight: [?]
+BR_Close	Close
+BR_Creature	<image=textures/interface/common/icons/unit_32x32>[?] <color=FFFFFF>([?])
+BR_CreatureName	Joined
+BR_DoubledBattles	<align=center><valign=top><font=tahoma_bold_10>[?]
+BR_DoubleExpTip	Friends Gold: <color=008102>+[?]<color=FFFFFF>
+BR_DoubleExpZeroTip	Friends Gold: <color=00FF00>+0<color=FFFFFF>.<br>[DR_DoubledBattlesDisTooltip]<br>
+BR_DuelFooter	You lose no units in a battle with a friend
+BR_DuelTitle	Battle with your friend
+BR_EnemyName	Your opponent’s losses
+BR_ExpAdd	<image=textures/interface/common/icons/experience_32x32> <font=tahoma_bold_12_border_smooth_numbers_only><color=FFFFFF>+[?]</font>
+BR_ExpBonus	<font=tahoma_bold_12_border_smooth_numbers_only><color=008102>+[?]</font>
+BR_ExpBonusTip	Bonus: <color=008102>+[?]<color=FFFFFF><br>
+BR_ExpNullBonusTip	The Legionary receives no experience while the Time Aura is active.
+BR_ExpTip	<color=FFFFFF>Experience: +[?].<br>
+BR_ExpZeroBonusTip	Bonus: <color=008102>+0<color=FFFFFF>.<br>Get a license to increase the experience you gain.<br>
+BR_HeroDeadToolTip	The Graveyard holds Common units that fell in battle.
+BR_Hint01	You have suffered a crushing defeat. You enemy received the reward.
+BR_HuntingFail	You didn't succeed in kidnapping the unit
+BR_HuntingLoose	Win battles to kidnap units
+BR_HuntingWin	Kidnapping an enemy unit
+BR_HuntingWinToolTip	Each PvP winner has a chance of receiving a unit from the Royal Barracks similar to one of the opponent's units.
+BR_InTreatmentToolTip	Fallen units go to the Infirmary. From there, you can buy them back.
+BR_Leadership	Leadership: [?]
+BR_Level	Level [?]
+BR_Money	<image=textures/interface/common/icons/money_32x32> <font=tahoma_bold_12_border_smooth_numbers_only><color=FFFFFF>+[?]</font>
+BR_MoneyBonus	<font=tahoma_bold_12_border_smooth_numbers_only><color=008102>+[?]</font>
+BR_MoneyBonusTip	Bonus: <color=008102>+[?]<color=FFFFFF> <br>Bonus gold is gained for using Licenses and Auras or equipment.<br>
+BR_MoneyNoOneRaceBonusTip	Bonus for playing with one race: <color=008102>+0<color=FFFFFF><br>[BR_MoneyOneRaceBonus]<br>
+BR_MoneyOneRaceBonus	If you play with creatures from only one faction you gain 5% more gold and experience for battles.
+BR_MoneyOneRaceBonusTip	Bonus for playing with one race: <color=008102>+[?]<color=FFFFFF><br>[BR_MoneyOneRaceBonus]<br>
+BR_MoneyStolen	<font=tahoma_bold_12_border_smooth_numbers_only><color=D4B126>+[?]</font>
+BR_MoneyLost	<font=tahoma_bold_12_border_smooth_numbers_only><color=D4B126>-[?]</font>
+BR_MoneyTip	<color=FFFFFF>Gold: [?].<br>
+BR_MoneyZeroBonusTip	Bonus: <color=008102>+0<color=FFFFFF>.<br>Obtain a license to increase the gold you receive.<br>
+BR_NoReward	No
+BR_PVP_WallPost_description	Take this Gold. You are sure to need it if you have what it takes to challenge me to a fight...
+BR_PVP_WallPost_text	King's Bounty: Legions - a 3D turn-based game on Facebook
+BR_PVP_WallPost_title	I have defeated [?].
+BR_RaidLoseMoneyTip	Raid: <color=008102>+[?]<color=FFFFFF><br>If your raid is unsuccessful you lose some gold to the defending player.
+BR_RaidWinMoneyTip	Raid: <color=008102>+[?]<color=FFFFFF><br>If your raid is successful you take some gold from the defeated player.
+BR_RatingDec	<image=legion_inline frame=[?]> <font=tahoma_bold_12_border_smooth_numbers_only><color=ffffff> [?] [$] (-[?])
+BR_RatingInc	<image=legion_inline frame=[?]> <font=tahoma_bold_12_border_smooth_numbers_only><color=ffffff> [?] [$] (+[?])
+BR_RatingLooseToolTip	You lose [?] for your defeat.
+BR_RatingNegtiveDeltaColor	<color=810002>
+BR_RatingPositiveDeltaColor	<color=008102>
+BR_RatingWinToolTip	You get [?] for your victory.
+BR_RatingZeroDeltaColor	<color=ffffff>
+BR_Reward	<image=textures/interface/common/icons/[?] >[?]
+BR_RewardName	Trophies
+BR_Round	Rounds: <color=FFFFFF>[?]
+BR_StaminaHintLooseAvr	You have lost, but it was a nice try: <color=FFFFFF>+[?] Stamina
+BR_StaminaHintLooseBad	Continue duelling<br>to win more rewards!
+BR_StaminaHintLooseGood	You have lost, but inflicted heavy losses to the enemy: <color=FFFFFF>+[?] Stamina
+BR_StaminaHintLoseVsFriend	After a fierce fight <br>you get:<br>[?] <image=textures/interface/common/icons/money_22x22>
+BR_StaminaHintNotRated	Fight rating battles to win a reward!
+BR_StaminaHintTomorrow	A new award will be available<br>tomorrow!
+BR_StaminaHintVsFriendCooldown	<font=tahoma_bold_10><color=652300>You will be able to receive a reward for fighting this friend only in: [?]:[?]:[?]</color></font>
+BR_StaminaHintWin	For success in battle,<br>you receive an award of <color=FFFFFF>+[?] Stamina
+BR_StaminaHintWinVsFriend	You won <br>and get a reward:<br>[?] <image=textures/interface/common/icons/money_22x22>
+BR_Tooltip_BuyExpLicense	Buy a Warrior's Aura
+BR_Tooltip_BuyExpLicense_Disabled	Buy a Warrior's Aura.<br>Not available during tutorial battle.
+BR_Tooltip_BuyMoneyLicense	Buy a Mercenary's Aura
+BR_Tooltip_BuyMoneyLicense_Disabled	Buy a Mercenary's Aura.<br>Not available during tutorial battle.
+BR_TreatmentTooltip	Wounded and enraged, the unit leaves your army. Buy it out for <font=tahoma_bold_8><color=d7b137>[?]</font><color=FFFFFF> <image=textures/interface/common/icons/money_22x22> each, if you wish to keep it.<br><br>Your Gold reserve: <font=tahoma_bold_8><color=d7b137>[?]
+BR_WallPost_ConfirmShowWallPost	You have fought valiantly in the Knight Battle with [?]! Share your deeds with the world!
+BR_WallPost_ConfirmShowWallPostTitle	The duel is over!
+BR_WallPost_description	I have just beaten [?] in a graduation test at the Knight Academy!
+BR_WallPost_text	King's Bounty: Legions - a 3D turn-based game on Facebook
+BR_WallPost_title	I have just battled a friend in a Knight Battle!
+BR_Warpoints	<font=tahoma_bold_12_border_smooth_numbers_only><color=FFFFFF>+[?]</font>
+BR_WarpointsTip	<color=FFFFFF>Battle Points: [?].
+DR_DoubledBattlesDisTooltip	Invite friends to get double gold in a battle!
+DR_DoubledBattlesEnTooltip	Congratulations! For inviting a friend, you have received double gold in battle.
+DR_DoubledBattlesNullTooltip	Time Aura suppresses the Warrior's Aura and cancels the experience bonus received for invited friends.
+Error	Unknown error
+EscapeEnemy	VICTORY
+EscapeHero	Defeat
+LooseHero	Defeat
+NotActiveEnemy	VICTORY
+NotActiveHero	Defeat
+WinHero	VICTORY
+
+

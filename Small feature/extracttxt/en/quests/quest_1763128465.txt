@@ -1,0 +1,8 @@
+﻿quest_system_1763128465_desc	I’ve long told Master Taron that the attack on the Garrison and the Fort wasn’t carried out by some rabble but by a well-organized military force. Believe me, I know the difference between an ex-soldier and a petty bandit. But he refuses to listen to me. He says I’m mistaken, and the real threat to the Fort is from the sea. Please, talk some sense into him. And just so your claims aren’t unfounded, try to fight some of these guys yourself. These are some weird bandits... Ready to risk it?
+quest_system_1763128465_done	Now you’ve seen for yourself that these are no bandits. Only a professional army could fight like that! Or very experienced mercenaries. So it seems to me that this is all some sort of decoy maneuver.
+quest_system_1763128465_name	Wolves in Sheep’s Clothing
+quest_system_1763128465_stage_0	Rout
+quest_system_1763128465_task	Destroy {counter_limit_0} parties of Weird Bandits. 
+
+
+

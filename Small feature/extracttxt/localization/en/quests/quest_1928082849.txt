@@ -1,0 +1,8 @@
+﻿quest_system_1928082849_desc	All right, let's find this Lazarus for you. I'm not too fond of overweening trespassers here in this swamp, I keep track of everyone. Yet I can't seem to find this runaway mage of yours. I need to prepare a special salve for concentration. I could use some help with the ingredients, though. 
+quest_system_1928082849_done	Eye of toad, flaming turtle-shell, a few Thorn petals. I'm sure I forgot something . . . Ah, of course: a claw of the Giant Crow.
+quest_system_1928082849_name	Secret Ingredients
+quest_system_1928082849_stage_0	Hunt
+quest_system_1928082849_task	Destroy {counter_limit_0} Ancient Serpents, {counter_limit_1} Royal Thorns and {counter_limit_2} Sea Devils
+
+
+

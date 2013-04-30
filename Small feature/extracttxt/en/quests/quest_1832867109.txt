@@ -1,0 +1,8 @@
+﻿quest_system_1832867109_desc	Spider queens devour their mates after laying their eggs. I saw one of them recently, a whopping hairy spider mama. Maybe she brought the whole of her brood, gathering some of the neighboring spiders, too. But why? Well, this is not a good time for guessing. Let’s first solve the problem at hand.
+quest_system_1832867109_done	I knew it! Don't you see? That eye-catching trinket around the Spider Queen's neck. Trappers of the northern islands use those to control Krogh packs when they go hunting. Somebody brave hung it on the Spider Queen's neck and directed her here. Probably to block the road.
+quest_system_1832867109_name	Spider Queen
+quest_system_1832867109_stage_0	Rout
+quest_system_1832867109_task	Destroy the Furry Spider Queen and her brood.
+
+
+

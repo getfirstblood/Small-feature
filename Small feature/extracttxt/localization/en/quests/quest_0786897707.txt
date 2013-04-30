@@ -1,0 +1,8 @@
+﻿quest_system_786897707_desc	I have just received news of what our mages were able to find out. The necromancers' manuscripts have been enchanted with a special alchemical seal. One of its components is the poison of a thousand year old spider, among other strange things. To be honest, I'm not very good at alchemy, but I think that the inhabitants of the Engineers' Reservation will be able to help. Go to Meshmer the Engineer. He's just the man we need.
+quest_system_786897707_done	What? Don’t distract me with your nonsense. Can’t you see? We are swamped.
+quest_system_786897707_name	Ancient Poisoned Seal
+quest_system_786897707_stage_0	Meshmer
+quest_system_786897707_task	Get Meshmer’s Help<br>
+
+
+

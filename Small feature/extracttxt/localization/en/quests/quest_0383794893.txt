@@ -1,0 +1,8 @@
+﻿quest_system_383794893_desc	My boys have seen you in action and are convinced that they are serving under a great commander. Good luck to you in battle! I hope to see you in Eastern Fort once we get there.
+quest_system_383794893_done	Well? Did you manage to get some help? It would come in very handy right about now. It seems that we’re in quite a mess.
+quest_system_383794893_name	Refreshed and Ready for New Battles
+quest_system_383794893_stage_0	Helvasink
+quest_system_383794893_task	Go to Helvasink in the Forsaken Village
+
+
+

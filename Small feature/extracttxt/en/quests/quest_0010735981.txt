@@ -1,0 +1,9 @@
+﻿quest_system_10735981_cntdesc_0	Conduct Patrol
+quest_system_10735981_desc	Recently we’ve seen an increase in criminal activity. I need you to patrol this area a bit. If you come across a robber, then use your judgement. Give them what’s coming. When you’re gone, come bill me and I’ll reward you for your service.
+quest_system_10735981_done	Well, how did it go? I see you managed to catch a couple of the local bandits. Well, at least things will be a little calmer for a while.
+quest_system_10735981_name	Patrol
+quest_system_10735981_stage_0	Patrol
+quest_system_10735981_task	Patrol one of the settlements
+
+
+

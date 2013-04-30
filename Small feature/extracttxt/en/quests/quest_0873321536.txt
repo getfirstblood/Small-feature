@@ -1,0 +1,8 @@
+﻿quest_system_873321536_desc	I haven’t seen Giango since his guys picked up the Chief Ranger in the forest. Don’t know exactly what happened there. He wouldn’t divulge the secret. So, it’s up to you to extract the truth from the Ranger. Maybe you’ll help free Giango.
+quest_system_873321536_done	Giango? Yes. We picked up that crook. He seems to be that very same poacher who evaded us for over three months. We caught him right next to the poacher’s traps.
+quest_system_873321536_name	So where is our friend Giango?
+quest_system_873321536_stage_0	Speak
+quest_system_873321536_task	Find out from the Chief Ranger what happened to Giango.
+
+
+

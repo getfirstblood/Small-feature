@@ -1,0 +1,8 @@
+﻿quest_system_23347666_desc	It’s clear that you don’t know medicine, but hopefully you’re good with a sword. There are many Dark Griffins around here. A strong potion against magical wounds and poisons can be made with their feathers. A good half of our patients in the ward have burns or have been poisoned. This is war, after all. But I don’t have the time to run around catching griffins. They are dangerous creatures. But they won’t scare you. Right?
+quest_system_23347666_done	Well, what do you know? It looks like you did well with the griffins. You’ll do fine for this job!
+quest_system_23347666_name	Healing Feathers
+quest_system_23347666_stage_0	Hunt
+quest_system_23347666_task	Destroy {counter_limit_0} Dark Griffin.
+
+
+

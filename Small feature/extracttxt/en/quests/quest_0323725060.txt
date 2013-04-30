@@ -1,0 +1,8 @@
+﻿quest_system_323725060_desc	So you need the magical Hammer of Sangrith? Out of the question! This holy old artifact is the only thing that protects our village. We are of the opinion that the zombies dwelling in nearby swamps fear its magic power and thus refrain from attacking our very houses. In case of trouble, we gather in the tower and pray to the celestial powers so that the hammer might protect us from harm. Yet the numbers of the living dead keep waxing, and the power of the hammer appears to be dwindling. I'm afraid our village will soon be known as the Dead Men's Village and not the Free Village. Our only hope is for some miracle to destroy the hordes of zombies. 
+quest_system_323725060_done	I am flabbergasted! You have destroyed those zombies! It will take a while for more of their ilk to reach us. What our village needs is a well-armed militia. 
+quest_system_323725060_name	The Hardships of Living Free
+quest_system_323725060_stage_0	Hunt
+quest_system_323725060_task	Destroy {counter_limit_0} Zombies.
+
+
+

@@ -1,0 +1,8 @@
+﻿quest_system_83260012_desc	So, how about it? Our exorcists have noticed a Party of Condemned hiding on the outskirts of town. They were the ones preventing our ships from docking. It will take the Gray Wardens some time to set up. So we are counting on you for this one. You need to act immediately. Destroy them as quickly as possible. Otherwise, they might be able to cast another curse on the town.
+quest_system_83260012_done	It looks like victory did not come easy. Right? Get used to it. Things will only get worse from here. We have reason to believe that a strong clan of disciples of dark magic has settled in the area. We are hoping that we will be able to take care of them before they have time to do something horrible.
+quest_system_83260012_name	Cursed Warriors
+quest_system_83260012_stage_0	Rout
+quest_system_83260012_task	Find and destroy the Party of Condemned 
+
+
+
